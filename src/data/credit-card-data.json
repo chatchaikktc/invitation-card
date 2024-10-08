@@ -1,0 +1,114 @@
+[
+    {
+        "CardName": "KTC DIGITAL PLATINUM VISA",
+        "CardBrand": "VISA",
+        "isHighTier": false,
+        "CardLink": "ktc-digital-platinum-visa",
+        "PrivilegeName": [
+            "VisaBanner"
+        ],
+        "BenefitName": [ 
+            "AnnualFee","KTCPERSONALASSISTANT","EasyInstallments","AccidentalInsurance","TravelInsurance","CashWithdrawal","RewardsPoints","DevicePay","VisaContactless"
+        ],
+        "ApplyFormLink" : {
+            "th" : "https://www.ktc.co.th/apply/credit-card-dc0?lang=th&iframe=1&callback=https://www.ktc.co.th/credit-card-dc0/thank-you",
+            "en" : "https://www.ktc.co.th/apply/credit-card-dc0?lang=en&iframe=1&callback=https://www.ktc.co.th/en/credit-card-dc0/thank-you"
+        },
+        "HeroBannerSection": {
+            "Title" :{
+                "th" : "บัตรเครดิต <br/>KTC DIGITAL PLATINUM VISA",
+                "en" : "KTC DIGITAL PLATINUM VISA"
+            },
+            "SubTitle" :{
+                "th" : "ให้คุณได้มากกว่าที่เห็น",
+                "en" : "Experience more than you see"
+            },
+            "VideoPath" : "https://www.ktc.co.th/pub/media/sites/ktc-digitalcard/react/vdo/Video-Hero-KTC-DIGITAL-PLATINUM-VISA.mp4",
+            "MobileImagePath" : "https://www.ktc.co.th/pub/media/sites/ktc-digitalcard/react/img/banners/hero-banner-jan24-m.jpg"
+        }
+    },
+    {
+        "CardName": "KTC DIGITAL PLATINUM MASTERCARD",
+        "CardBrand": "MASTERCARD",
+        "isHighTier": false,
+        "CardLink": "ktc-digital-platinum-mastercard",
+        "PrivilegeName": [
+            "MastercardBannerShopping","MastercardBanner"
+        ],
+        "BenefitName": [ 
+            "AnnualFee","MastercardShopOnline","eCommerceProtection","KTCPERSONALASSISTANT","EasyInstallmentsMastercard","AccidentalInsurance","TravelInsurance","CashWithdrawal","RewardsPoints","DevicePay","MastercardContactless"
+        ],
+        "ApplyFormLink" : {
+            "th" : "https://www.ktc.co.th/apply/credit-card-dc0?lang=th&iframe=1&callback=https://www.ktc.co.th/credit-card-dc0/thank-you",
+            "en" : "https://www.ktc.co.th/apply/credit-card-dc0?lang=en&iframe=1&callback=https://www.ktc.co.th/en/credit-card-dc0/thank-you"
+        },
+        "HeroBannerSection": {
+            "Title" :{
+                "th" : "บัตรเครดิต <br/>KTC DIGITAL PLATINUM MASTERCARD",
+                "en" : "KTC DIGITAL PLATINUM MASTERCARD"
+            },
+            "SubTitle" :{
+                "th" : "ให้คุณได้มากกว่าที่เห็น",
+                "en" : "Experience more than you see"
+            },
+            "VideoPath" : "https://www.ktc.co.th/pub/media/sites/ktc-digitalcard/react/vdo/Video-Hero-KTC-DIGITAL-PLATINUM-MASTERCARD.mp4",
+            "MobileImagePath" : "https://www.ktc.co.th/pub/media/sites/ktc-digitalcard/react/img/banners/hero-banner-jan24-m.jpg"
+        }
+    },
+    {
+        "CardName": "KTC DIGITAL VISA SIGNATURE",
+        "CardBrand": "VISA",
+        "isHighTier": true,
+        "CardLink": "ktc-digital-visa-signature",
+        "PrivilegeName": [
+            "KTCFOREVERX2VISA","MIRACLELOUNGEVISA","AfternoonTea","GolfClub","Entertainment","VisaBanner"
+        ],
+        "BenefitName": [ 
+            ""
+        ],
+        "ApplyFormLink" : {
+            "th" : "https://www.ktc.co.th/apply/credit-card-dc0?lang=th&iframe=1&callback=https://www.ktc.co.th/credit-card-dc0/thank-you",
+            "en" : "https://www.ktc.co.th/apply/credit-card-dc0?lang=en&iframe=1&callback=https://www.ktc.co.th/en/credit-card-dc0/thank-you"
+        },
+        "HeroBannerSection": {
+            "Title" :{
+                "th" : "บัตรเครดิต <br/>KTC DIGITAL VISA SIGNATURE",
+                "en" : "KTC DIGITAL VISA SIGNATURE"
+            },
+            "SubTitle" :{
+                "th" : "ขั้นกว่าของสิทธิประโยชน์และความปลอดภัย",
+                "en" : "Beyond benefits and security"
+            },
+            "VideoPath" : "https://www.ktc.co.th/pub/media/sites/ktc-digitalcard/react/vdo/Video-Hero-KTC-DIGITAL-PLATINUM-VISA.mp4",
+            "MobileImagePath" : "https://www.ktc.co.th/pub/media/sites/ktc-digitalcard/react/img/banners/hero-banner-jan24-m.jpg"
+        }
+    },
+    {
+        "CardName": "KTC DIGITAL WORLD REWARDS MASTERCARD",
+        "CardBrand": "MASTERCARD",
+        "isHighTier": true,
+        "CardLink": "ktc-digital-world-rewards-mastercard",
+        "PrivilegeName": [
+            "KTCFOREVERX2MASTERCARD","MIRACLELOUNGEMASTERCARD","OneDinesFree","OneNightFree","MastercardPricelessSpecials","MastercardBannerShopping","MastercardBanner"
+        ],
+        "BenefitName": [ 
+            "AnnualFee","eCommerceProtection","KTCPERSONALASSISTANT5444","EasyInstallmentsMastercard","AccidentalInsurance","TravelInsurance","KTCWorldTravelService","CashWithdrawal","RewardsPoints","DevicePay","MastercardContactless"
+        ],
+        "ApplyFormLink" : {
+            "th" : "https://www.ktc.co.th/apply/credit-card-dc0?lang=th&iframe=1&callback=https://www.ktc.co.th/credit-card-dc0/thank-you",
+            "en" : "https://www.ktc.co.th/apply/credit-card-dc0?lang=en&iframe=1&callback=https://www.ktc.co.th/en/credit-card-dc0/thank-you"
+        },
+        "HeroBannerSection": {
+            "Title" :{
+                "th" : "บัตรเครดิต <br/>KTC DIGITAL <br>WORLD REWARDS MASTERCARD",
+                "en" : "KTC DIGITAL WORLD REWARDS MASTERCARD"
+            },
+            "SubTitle" :{
+                "th" : "ขั้นกว่าของสิทธิประโยชน์และความปลอดภัย",
+                "en" : "Beyond benefits and security"
+            },
+            "VideoPath" : "https://www.ktc.co.th/pub/media/sites/ktc-digitalcard/react/vdo/Video-Hero-KTC-DIGITAL-PLATINUM-MASTERCARD.mp4",
+            "MobileImagePath" : "https://www.ktc.co.th/pub/media/sites/ktc-digitalcard/react/img/banners/hero-banner-jan24-m.jpg"
+        }
+    }
+]

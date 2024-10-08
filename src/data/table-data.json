@@ -1,0 +1,383 @@
+[
+  {
+    "tableID": 1,
+    "tableName": "AfternoonTea",
+    "tableTitle": {
+      "th": "",
+      "en": ""
+    },
+    "tableWith-md": "100%",
+    "tableWith-sm": "600px",
+    "tableColumnSize": [
+      33.33,
+      33.33,
+      33.33
+    ],
+    "tableHeader": {
+      "th": [
+        "โรงแรม/ร้านค้า",
+        "ห้อง/สาขา",
+        "วัน/เวลา"
+      ],
+      "en": [
+        "Header1",
+        "Header2",
+        "Header3"
+      ]
+    },
+    "tableRow": [
+      {
+        "column": {
+          "th": [
+            "So Bangkok",
+            "ChocoLab",
+            "ชุด Afternoon Tea ระหว่างเวลา 13.00-16.00 น."
+          ],
+          "en": [
+            "Text 1",
+            "Text 2",
+            "Text 3"
+          ]
+        }
+      },
+      {
+        "column": {
+          "th": [
+            "Sheraton Royal Orchid",
+            "Lobby Lounge",
+            "วันจันทร์ – วันอาทิตย์ เวลา 14.00-17.00 น."
+          ],
+          "en": [
+            "Text 1",
+            "Text 2",
+            "Text 3"
+          ]
+        }
+      },
+      {
+        "column": {
+          "th": [
+            "TWG Tea Salon & Boutique",
+            "- Siam Paragon<br>- Emporium<br>- Icon Siam",
+            "วันจันทร์ – วันอาทิตย์ เวลา 12.00-18.00 น."
+          ],
+          "en": [
+            "Text 1",
+            "Text 2",
+            "Text 3"
+          ]
+        }
+      },
+      {
+        "column": {
+          "th": [
+            "Coffee Academic",
+            "- Gaysorn Village<br>- Velaa Sindhorn<br>- Mega Bangna",
+            "วันจันทร์ – วันอาทิตย์ เวลา 10.00-17.00 น."
+          ],
+          "en": [
+            "Text 1",
+            "Text 2",
+            "Text 3"
+          ]
+        }
+      },
+      {
+        "column": {
+          "th": [
+            "Dean & Deluca",
+            "- EmQuartier<br>- Central Embassy<br>- Sarasin<br>- The Crystal Park",
+            "วันจันทร์ - วันอาทิตย์ เวลา 10.00-20.00 น."
+          ],
+          "en": [
+            "Text 1",
+            "Text 2",
+            "Text 3"
+          ]
+        }
+      },
+      {
+        "column": {
+          "th": [
+            "Divana Signature Cafe",
+            "CentralWorld",
+            "วันจันทร์ – วันอาทิตย์ เวลา 12.00-19.00 น."
+          ],
+          "en": [
+            "Text 1",
+            "Text 2",
+            "Text 3"
+          ]
+        }
+      },
+      {
+        "column": {
+          "th": [
+            "Hei Yin",
+            "Gaysorn Centre",
+            "วันจันทร์ – วันอาทิตย์ เวลา 14.00-17.00 น."
+          ],
+          "en": [
+            "Text 1",
+            "Text 2",
+            "Text 3"
+          ]
+        }
+      },
+      {
+        "column": {
+          "th": [
+            "Café Claire",
+            "Oriental Residence",
+            "วันจันทร์ – วันอาทิตย์ เวลา 14.30-17.30 น."
+          ],
+          "en": [
+            "Text 1",
+            "Text 2",
+            "Text 3"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "tableID": 2,
+    "tableName": "GolfClub",
+    "tableTitle": {
+      "th": "สนามกอล์ฟที่ร่วมรายการ",
+      "en": "Golf Club"
+    },
+    "tableWith-md": "100%",
+    "tableWith-sm": "700px",
+    "tableColumnSize": [
+      33.33,
+      33.33,
+      33.33
+    ],
+    "tableHeader": {
+      "th": [
+        "สนามกอล์ฟ",
+        "ที่อยู่",
+        "หมายเหตุ"
+      ],
+      "en": [
+        "Header1",
+        "Header2",
+        "Header3"
+      ]
+    },
+    "tableRow": [
+      {
+        "column": {
+          "th": [
+            "ซัมมิท วินด์มิลล์ กอล์ฟ คลับ",
+            "ถนนบางนา – ตราด กม. 10.5 บางพลี สมุทรปราการ",
+            "วันธรรมดา 06.00-14.00 น.<br>วันเสาร์-อาทิตย์ 12.00-13.00 น."
+          ],
+          "en": [
+            "Text 1",
+            "Text 2",
+            "Text 3"
+          ]
+        }
+      },
+      {
+        "column": {
+          "th": [
+            "ปัญญา อินทรา กอล์ฟ คลับ",
+            "ถนนปัญญารามอินทรา กม. 9 คันนายาว กรุงเทพฯ",
+            "เฉพาะวันอังคาร-วันศุกร์ 06.00-13.12 น.<br>วันเสาร์-อาทิตย์ 12.00-13.12 น."
+          ],
+          "en": [
+            "Text 1",
+            "Text 2",
+            "Text 3"
+          ]
+        }
+      },
+      {
+        "column": {
+          "th": [
+            "สยาม คันทรี่ คลับ พัทยา",
+            "ถนนพรประภา ตำบลโป่ง บางละมุง ชลบุรี",
+            "วันธรรมดา 07.00-13.32 น.<br>วันเสาร์-อาทิตย์ 12.00-13.32 น."
+          ],
+          "en": [
+            "Text 1",
+            "Text 2",
+            "Text 3"
+          ]
+        }
+      },
+      {
+        "column": {
+          "th": [
+            "บันยัน กอล์ฟ คลับ หัวหิน",
+            "หัวหิน ประจวบคีรีขันธ์",
+            "วันธรรมดา 06.00-14.30 น.<br>วันเสาร์-อาทิตย์ 12.00-14.30 น."
+          ],
+          "en": [
+            "Text 1",
+            "Text 2",
+            "Text 3"
+          ]
+        }
+      },
+      {
+        "column": {
+          "th": [
+            "แบล็คเมาเทน หัวหิน",
+            "หัวหิน ประจวบคีรีขันธ์",
+            "วันธรรมดา 06.24-14.00 น.<br>วันเสาร์-อาทิตย์ 12.00-14.00 น."
+          ],
+          "en": [
+            "Text 1",
+            "Text 2",
+            "Text 3"
+          ]
+        }
+      },
+      {
+        "column": {
+          "th": [
+            "บลูแคนยอน คันทรี คลับ",
+            "ถนนเทพกระษัตรี ภูเก็ต",
+            "วันธรรมดา 06.20-14.30 น.<br>วันเสาร์-อาทิตย์ 12.00-14.30 น."
+          ],
+          "en": [
+            "Text 1",
+            "Text 2",
+            "Text 3"
+          ]
+        }
+      },
+      {
+        "column": {
+          "th": [
+            "สันติบุรี สมุย คันทรี คลับ",
+            "บ้านดอนทราย สมุย",
+            "วันธรรมดา 06.00-14.30 น.<br>วันเสาร์-อาทิตย์ 12.00-14.30 น."
+          ],
+          "en": [
+            "Text 1",
+            "Text 2",
+            "Text 3"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "tableID": 3,
+    "tableName": "Enterainment",
+    "tableTitle": {
+      "th": "โรงภาพยนตร์ที่ร่วมรายการ",
+      "en": "Participating merchants"
+    },
+    "tableWith-md": "100%",
+    "tableWith-sm": "400px",
+    "tableColumnSize": [
+      50,
+      50
+    ],
+    "tableHeader": {
+      "th": [
+        "Major Cineplex",
+        "SF Cinema"
+      ],
+      "en": [
+        "Header1",
+        "Header2",
+        "Header3"
+      ]
+    },
+    "tableRow": [
+      {
+        "column": {
+          "th": [
+            "<strong>VIP Seat</strong><br>&bull; Paragon Blue Ribbon<br>&bull; Quartier Cineart<br>&bull; Icon Cineconic<br>&bull; Mega Bangna Cineplex<br>&bull; Bangna Cineplex<br>&bull; Promenade Cineplex<br>&bull; Esplanade Cineplex Ratchadav<br>&bull; Esplanade Cineplex Ngamwongwan-Khaerai<br>&bull; Westgate Cineplex<br>&bull; Paradise Cineplex<br>&bull; Major Cineplex Rangsit<br>&bull; Major Cineplex Future Rangsit<br>&bull; Central Rama 3<br>&bull; Central Pinklao<br>&bull; Blue port Cineplex<br>&bull; Major Cineplex Central Festival Chiangmai<br>&bull; Major Cineplex Korat<br>&bull; Major Cineplex Hatyai<br>&bull; Major Cineplex Phangnga<br>&bull; Central Festival Ubon<br>",
+            "<strong>The Bed</strong><br>&bull; SF World Cinema, CentralWorld<br>&bull; SFX Cinema, Central Ladprao First Class<br>&bull; Emprive Cine Club, Emporium<br>&bull; SFW world cinema, CentralWorld<br>&bull; SFX Central Plaza Rama 9<br>&bull; SFX Central Plaza Ladpao<br>&bull; SFX The Crystal Ekamai-Ramintra<br>&bull; SFX Central Festival Phuket<br>&bull; SFX Central Festival Pattaya<br>&bull; SFX Terminal 21 Pattaya<br>&bull; SFX Maya Chiangmai<br>"
+          ],
+          "en": [
+            "Text 1",
+            "Text 2",
+            "Text 3"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "tableID": 3,
+    "tableName": "EnterainmentMassage",
+    "tableTitle": {
+      "th": "ร้านค้าที่ร่วมรายการ",
+      "en": "Participating merchants"
+    },
+    "tableWith-md": "100%",
+    "tableWith-sm": "800px",
+    "tableColumnSize": [
+     25,25,25,25
+    ],
+    "tableHeader": {
+      "th": [
+        "ร้านค้าที่ร่วมรายการ",
+        "สาขา",
+        "รายละเอียด",
+        "ราคา/ท่าน"
+      ],
+      "en": [
+        "Header1",
+        "Header2",
+        "Header3"
+      ]
+    },
+    "tableRow": [
+      {
+        "column": {
+          "th": [
+            "Oasis Spa",
+            "• สุขุมวิท ซอย 31<br>• ทองหล่อ ซอย 20<br>• พัทยา – 1 สาขา<br>• เชียงใหม่ – 2 สาขา<br>• ภูเก็ต – 3 สาขา",
+            "นวดไทย หรือนวดน้ำมัน 60 นาที",
+            "ราคาเต็ม 1,590 บาท/ท่าน"
+          ],
+          "en": [
+            "Text 1",
+            "Text 2",
+            "Text 3"
+          ]
+        }
+      },
+      {
+        "column": {
+          "th": [
+            "Let’s Relax",
+            "• กรุงเทพ - 11 สาขา<br>• เชียงใหม่ - 3 สาขา<br>• หัวหิน - 3 สาขา<br>• กระบี่ - 2 สาขา<br>• พัทยา - 4 สาขา<br>• ภูเก็ต - 8 สาขา<br>• ตรัง - 1 สาขา",
+            "นวดไทย 90 นาที",
+            "ราคาเต็ม 1,000 บาท/ท่าน"
+          ],
+          "en": [
+            "Text 1",
+            "Text 2",
+            "Text 3"
+          ]
+        }
+      },
+      {
+        "column": {
+          "th": [
+            "Health Land",
+            "• กรุงเทพ - 8 สาขา<br>• เชียงใหม่ - 1 สาขา<br>• พัทยา - 2 สาขา",
+            "นวดไทย 120 นาที",
+            "ราคาเต็ม 650 บาท/ท่าน"
+          ],
+          "en": [
+            "Text 1",
+            "Text 2",
+            "Text 3"
+          ]
+        }
+      }
+    ]
+  }
+]

@@ -1,0 +1,119 @@
+{
+    
+    "th": [
+        {
+            "hm_id": 1,
+            "title": "เปิดใช้งานบัตร Digital",
+            "link": "activate-digital-card",
+            "active": "active",
+            "has video": true,
+            "video_link": "https://www.youtube.com/embed/9QY5X0ZQ4qo"
+        },
+        {
+            "hm_id": 2,
+            "title": "ดูข้อมูลบัตร",
+            "link": "view-card-info",
+            "active": "inactive",
+            "has video": true,
+            "video_link": "https://www.youtube.com/embed/9QY5X0ZQ4qo"
+        },
+        {
+            "hm_id": 6,
+            "title": "ขอออกบัตรไร้หมายเลข",
+            "link": "Request-Numberless-Card",
+            "active": "inactive",
+            "has video": true,
+            "video_link": "https://www.youtube.com/embed/9QY5X0ZQ4qo"
+        },
+        {
+            "hm_id": 7,
+            "title": "เปิดใช้งานบัตรไร้หมายเลข",
+            "link": "Activate-Numberless-Card",
+            "active": "inactive",
+            "has video": true,
+            "video_link": "https://www.youtube.com/embed/9QY5X0ZQ4qo"
+        },
+        {
+            "hm_id": 3,
+            "title": "ควบคุมวงเงิน",
+            "link": "spending-control",
+            "active": "inactive",
+            "has video": true,
+            "video_link": "https://www.youtube.com/embed/9QY5X0ZQ4qo"
+        },
+        {
+            "hm_id": 4,
+            "title": "สแกนจ่ายด้วย QR",
+            "link": "qr-pay",
+            "active": "inactive",
+            "has video": true,
+            "video_link": "https://www.youtube.com/embed/9QY5X0ZQ4qo"
+        },
+        {
+            "hm_id": 5,
+            "title": "บริการผูกบัตร",
+            "link": "link-card",
+            "active": "inactive",
+            "has video": true,
+            "video_link": "https://www.youtube.com/embed/9QY5X0ZQ4qo"
+        }
+    ],
+    "en": [
+        {
+            "hm_id": 1,
+            "title": "Activate Digital Card",
+            "link": "activate-digital-card",
+            "active": "active",
+            "has video": true,
+            "video_link": "https://www.youtube.com/embed/9QY5X0ZQ4qo"
+        },
+        {
+            "hm_id": 2,
+            "title": "View Card Info",
+            "link": "view-card-info",
+            "active": "inactive",
+            "has video": true,
+            "video_link": "https://www.youtube.com/embed/9QY5X0ZQ4qo"
+        },
+        {
+            "hm_id": 6,
+            "title": "Request Numberless Card",
+            "link": "Request-Numberless-Card",
+            "active": "inactive",
+            "has video": true,
+            "video_link": "https://www.youtube.com/embed/9QY5X0ZQ4qo"
+        },
+        {
+            "hm_id": 7,
+            "title": "Activate Numberless Card",
+            "link": "Activate-Numberless-Card",
+            "active": "inactive",
+            "has video": true,
+            "video_link": "https://www.youtube.com/embed/9QY5X0ZQ4qo"
+        },
+        {
+            "hm_id": 3,
+            "title": "Spending Control",
+            "link": "spending-control",
+            "active": "inactive",
+            "has video": true,
+            "video_link": "https://www.youtube.com/embed/9QY5X0ZQ4qo"
+        },
+        {
+            "hm_id": 4,
+            "title": "QR Pay",
+            "link": "qr-pay",
+            "active": "inactive",
+            "has video": true,
+            "video_link": "https://www.youtube.com/embed/9QY5X0ZQ4qo"
+        },
+        {
+            "hm_id": 5,
+            "title": "Link Card",
+            "link": "link-card",
+            "active": "inactive",
+            "has video": true,
+            "video_link": "https://www.youtube.com/embed/9QY5X0ZQ4qo"
+        }
+    ]
+}

@@ -1,0 +1,101 @@
+[
+    {
+        "sid" : 1,
+        "hm_id": 1,
+        "title": {
+            "th": "เปิดใช้งานบัตร Digital",
+            "en": "Activate Digital Card"
+        },
+        "link": "register",
+        "default": true,
+        "active": true,
+        "has_video": false,
+        "youtube_id": "",
+        "visable": false
+    },
+    {
+        "sid" : 2,
+        "hm_id": 2,
+        "title": {
+            "th": "ดูข้อมูลบัตร",
+            "en": "View Card Info"
+        },
+        "link": "view-card-info",
+        "default": true,
+        "active": true,
+        "has_video": false,
+        "youtube_id": "",
+        "visable": false
+    },
+    {
+        "sid" : 3,
+        "hm_id": 3,
+        "title": {
+            "th": "ขอออกบัตรไร้หมายเลข",
+            "en": "Request Numberless Card"
+        },
+        "link": "Request-Numberless-Card",
+        "default": true,
+        "active": true,
+        "has_video": false,
+        "youtube_id": "",
+        "visable": true
+    },
+    {
+        "sid" : 4,
+        "hm_id": 3,
+        "title": {
+            "th": "เปิดใช้งานบัตรไร้หมายเลข",
+            "en": "Activate Numberless Card"
+        },
+        "link": "Activate-Numberless-Card",
+        "default": true,
+        "active": true,
+        "has_video": false,
+        "youtube_id": "",
+        "visable": true
+    },
+    {
+        "sid" : 5,
+        "hm_id": 4,
+        "title": {
+            "th": "ควบคุมวงเงิน",
+            "en": "Spending Control"
+        },
+        "link": "spending-control",
+        "default": true,
+        "active": true,
+        "has_video": false,
+        "youtube_id": "",
+        "visable": false
+    },
+    {
+        "sid" : 6,
+        "hm_id": 5,
+        "title": {
+            "th": "สแกนจ่ายด้วย QR",
+            "en": "QR Pay"
+        },
+        "link": "qr-pay",
+        "default": true,
+        "active": true,
+        "has_video": false,
+        "youtube_id": "",
+        "visable": false
+    },
+    {
+        "sid" : 7,
+        "hm_id": 6,
+        "title": {
+            "th": "บริการผูกบัตร",
+            "en": "Link Card"
+        },
+        "link": "Link-Card",
+        "default": true,
+        "active": true,
+        "has_video": false,
+        "youtube_id": "",
+        "visable": false
+    }
+
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "videoID": 1,
+        "videoTitle": {
+            "th": "เปิดใช้งานบัตร Digital",
+            "en": "Activate Digital Card"
+        },
+        "videoLink": "ActivateDigitalCard",
+        "suggest": true,
+        "youtube_id": "lnO-F7TzD-0",
+        "thumbnail":{
+            "th": "https://www.ktc.co.th/pub/media/sites/ktc-digitalcard/react/img/Youtube-Cover-Activate-KTC-DIGITAL-Credit-Card.webp",
+            "en": "https://www.ktc.co.th/pub/media/sites/ktc-digitalcard/react/img/Youtube-Cover-Activate-KTC-DIGITAL-Credit-Card.webp"
+        },
+        "active": true
+    },
+    {
+        "videoID": 2,
+        "videoTitle": {
+            "th": "ดูข้อมูลบัตร",
+            "en": "View Card Info"
+        },
+        "videoLink": "ViewCardInfo",
+        "suggest": true,
+        "youtube_id": "lwjpC9qajuc",
+        "thumbnail":{
+            "th": "https://www.ktc.co.th/pub/media/sites/ktc-digitalcard/react/img/Youtube-Cover-View-Card-Info.webp",
+            "en": "https://www.ktc.co.th/pub/media/sites/ktc-digitalcard/react/img/Youtube-Cover-View-Card-Info.webp"
+        },
+        "active": true
+    },
+    {
+        "videoID": 3,
+        "videoTitle": {
+            "th": "ขอออกบัตรไร้หมายเลข",
+            "en": "Request Numberless Card"
+        },
+        "videoLink": "RequestNumberlessCard",
+        "suggest": true,
+        "youtube_id": "7kBQmix5Eas",
+        "thumbnail":{
+            "th": "https://www.ktc.co.th/pub/media/sites/ktc-digitalcard/react/img/Youtube-Cover-Request-Physical-Card.webp",
+            "en": "https://www.ktc.co.th/pub/media/sites/ktc-digitalcard/react/img/Youtube-Cover-Request-Physical-Card.webp"
+        },
+        "active": true
+    },
+    {
+        "videoID": 4,
+        "videoTitle": {
+            "th": "เปิดใช้งานบัตรไร้หมายเลข",
+            "en": "Activate Numberless Card"
+        },
+        "videoLink": "ActivateNumberlessCard",
+        "suggest": true,
+        "youtube_id": "02SbboZvcQQ",
+        "thumbnail":{
+            "th": "https://www.ktc.co.th/pub/media/sites/ktc-digitalcard/react/img/Youtube-Cover-Activate-Physical-Card-MC.webp",
+            "en": "https://www.ktc.co.th/pub/media/sites/ktc-digitalcard/react/img/Youtube-Cover-Activate-Physical-Card-MC.webp"
+        },
+        "active": true
+    }
+]

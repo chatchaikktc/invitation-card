@@ -1,0 +1,490 @@
+{
+  "en": [
+    {
+      "title": "Regular Income Earner",
+      "link": "Regular-Income-Earner",
+      "primaryCard": {
+        "qualifications": [
+          "Age : 20 years or older",
+          "Minimum total income : 15,000 Baht/month",
+          "Minimum total income (Foreigners) : 50,000 Baht/month",
+          "Employed in the current job for at least 4 months",
+          "Working in Thailand for at least 2 years (Foreigners)"
+        ],
+        "documents": [
+          "Copy of National ID card",
+          "Proof of income (one of the following) : Salary certificate, or latest salary slip (original), or withholding tax certificate (Form Bis. 50)",
+          "Copy of bank statements for the past 6 months and the first page of passbook, stating account holder’s name and account number."
+        ],
+        "foreignerDocuments": [
+          "Valid non-Thai government-issued ID document (e.g., Passport, CI, T.D., or Temporary Passport).",
+          "Personal bank account statement for the past 6 months, with name and account number.",
+          "Business registration certificate (if applicable).",
+          "Shareholder list (if applicable).",
+          "Any of the following Thai government-issued documents:",
+          [
+            "Non-Immigrant Visa or Residence Certificate (T.M.14) or Driver's License.",
+            "Yellow House Registration Book (T.M.13) with the 13-digit ID number.",
+            "Thai government-issued Work Permit for at least 2 years, or",
+            "Non-Immigrant Visa Entry Stamp or Smart Visa."
+          ]
+        ]
+      },
+      "supplementaryCard": {
+        "qualifications": [
+          "Age : 15 - 80 years",
+          "For foreign primary cardholders: the supplementary card application is limited to family members only : spouse, child and parents"
+        ],
+        "documents": [
+          "Copy of National ID card of both primary and supplementary cardholders",
+          "If you are under 20 years old, the following additional documents are required:",
+          [
+            "Parent/guardian consent letter (unless you are the primary cardholder’s child)",
+            "Copy of house registration of the supplementary cardholder"
+          ]
+        ],
+        "foreignerDocuments": [
+          "Copy of national ID documents for both primary and supplementary cardholders, such as a Passport, CI, T.D., or Temporary Passport.",
+          "In the case of individuals under the age of 20, additional documents must be attached as follows: a consent letter from a parent/legal guardian (unless the cardholder's own child) and one of the Thai government-issued documents for the supplementary card."
+        ]
+      }
+    },
+    {
+      "title": "Business Owner",
+      "link": "Business-Owner",
+      "primaryCard": {
+        "qualifications": [
+          "Age : 20 years or older",
+          "Minimum total income : 20,000 Baht/month",
+          "Minimum total income (Foreigners) : 50,000 Baht/month",
+          "Owned and operated a business established and registered in Thailand for at least 2 years"
+        ],
+        "documents": [
+          "Copy of National ID card",
+          "Copy of personal bank statements for the past 6 months and the first page of passbook, stating account holder’s name and account number or",
+          "Copy of company bank statements for the past 6 months and the first page of passbook, stating company’s name and account number, copy of company registration or commercial registration certificate and copy of shareholder list (the applicant must hold at least 50% of the business’s shares)"
+        ],
+        "foreignerDocuments": [
+          "Valid non-Thai government-issued ID document (e.g., Passport, CI, T.D., or Temporary Passport).",
+          "Personal bank account statement for the past 6 months, with name and account number.",
+          "Business registration certificate (if applicable).",
+          "Shareholder list (if applicable).",
+          "Any of the following Thai government-issued documents:",
+          [
+            "Non-Immigrant Visa or Residence Certificate (T.M.14) or Driver's License.",
+            "Yellow House Registration Book (T.M.13) with the 13-digit ID number.",
+            "Thai government-issued Work Permit for at least 2 years, or",
+            "Non-Immigrant Visa Entry Stamp or Smart Visa."
+          ]
+        ]
+      },
+      "supplementaryCard": {
+        "qualifications": [
+          "Age : 15 - 80 years",
+          "For foreign primary cardholders: the supplementary card application is limited to family members only : spouse, child and parents"
+        ],
+        "documents": [
+          "Copy of National ID card of both primary and supplementary cardholders",
+          "If you are under 20 years old, the following additional documents are required:",
+          [
+            "Parent/guardian consent letter (unless you are the primary cardholder’s child)",
+            "Copy of house registration of the supplementary cardholder"
+          ]
+        ],
+        "foreignerDocuments": [
+          "Copy of national ID documents for both primary and supplementary cardholders, such as a Passport, CI, T.D., or Temporary Passport.",
+          "In the case of individuals under the age of 20, additional documents must be attached as follows: a consent letter from a parent/legal guardian (unless the cardholder's own child) and one of the Thai government-issued documents for the supplementary card."
+        ]
+      }
+    },
+    {
+      "title": "Self-Employed Professional",
+      "link": "Self-Employed-Professional",
+      "primaryCard": {
+        "qualifications": [
+          "Thai Nationals only",
+          "Age : 20 years or older",
+          "Minimum total income : 20,000 Bah/month"
+        ],
+        "documents": [
+          "Copy of National ID card",
+          "Copy of personal bank statements for the past 6 months and the first page of passbook, stating account holder’s name and account number",
+          "Withholding tax certificate (Form Bis.50)"
+        ],
+        "foreignerDocuments": [
+          "Valid non-Thai government-issued ID document (e.g., Passport, CI, T.D., or Temporary Passport).",
+          "Personal bank account statement for the past 6 months, with name and account number.",
+          "Business registration certificate (if applicable).",
+          "Shareholder list (if applicable).",
+          "Any of the following Thai government-issued documents:",
+          [
+            "Non-Immigrant Visa or Residence Certificate (T.M.14) or Driver's License.",
+            "Yellow House Registration Book (T.M.13) with the 13-digit ID number.",
+            "Thai government-issued Work Permit for at least 2 years, or",
+            "Non-Immigrant Visa Entry Stamp or Smart Visa."
+          ]
+        ]
+      },
+      "supplementaryCard": {
+        "qualifications": [
+          "Age : 15 - 80 years"
+        ],
+        "documents": [
+          "Copy of National ID card of both primary and supplementary cardholders",
+          "If you are under 20 years old, the following additional documents are required:",
+          [
+            "Parent/guardian consent letter (unless you are the primary cardholder’s child)",
+            "Copy of house registration of the supplementary cardholder"
+          ]
+        ],
+        "foreignerDocuments": [
+          "Copy of national ID documents for both primary and supplementary cardholders, such as a Passport, CI, T.D., or Temporary Passport.",
+          "In the case of individuals under the age of 20, additional documents must be attached as follows: a consent letter from a parent/legal guardian (unless the cardholder's own child) and one of the Thai government-issued documents for the supplementary card."
+        ]
+      }
+    },
+    {
+      "title": "Savings Holder",
+      "link": "Savings-Holder",
+      "primaryCard": {
+        "qualifications": [
+          "Age : 20 years or older",
+          "Have deposits/investments for at least 6 months in one or a combination of the following;",
+          [
+            "Fixed bank deposit for a continuous period of 6 months with a minimum balance of 500,000 Baht, or",
+            "Fixed deposit in a savings cooperative for a continuous period of 6 months with a minimum balance of 1,000,000 Baht, or",
+            "Any of or a combination of savings deposits, fixed deposits, or investments in debt instruments, or mutual funds for a continuous period of 6 months with a total balance of at least 1,000,000 Baht, or",
+            "Investments in private funds with a minimum investment period of 6 months and a value of no less than 1,000,000, or",
+            "Investments in debt instruments with a minimum investment period of 6 months and a value of no less than 1,000,000 Baht"
+          ]
+        ],
+        "documents": [
+          "Copy of National ID card",
+          "Copy of bank deposit statement or investment statement for the past 6 months and the first page of passbook stating account holder’s name and account number, in one or a combination of the following;",
+          [
+            "Copy of fixed bank deposit statement for a continuous period of 6 months with a minimum balance of 500,000 Baht or",
+            "Copy of fixed savings cooperative deposit statement for a continuous period of 6 months with a minimum balance of 1,000,000 Baht, or",
+            "Copy of any of or a combination of savings deposits statement, fixed deposits statement, or account investing in debt instruments, or mutual funds, for a continuous period of 6 months with a total balance of at least 1,000,000 Baht, or",
+            "Copy of account investing in private funds for a continuous period of at least 6 months with a balance of at least 1,000,000 Baht, or",
+            "Copy of debt instrument, such as bonds or debentures (front and back) with a minimum investment period of 6 months and a value of no less than 1,000,000 Baht."
+          ]
+        ],
+        "foreignerDocuments": [
+          "Documents issued by the respective government, such as Passport or identity cards without Thai nationality, or personal certification documents (Certificate of Identity: CI), or Travel Document for Aliens (T.D.), or Temporary Passport.",
+          "One of the following Thai government-issued documents:",
+          [
+            "Non-Immigrant Visa or Residence Certificate (T.M.14) or Driver's License.",
+            "Yellow House Registration Book (T.M.13) with the 13-digit ID number.",
+            "Thai government-issued Work Permit, or",
+            "Non-Immigrant Visa Entry Stamp or Smart Visa."
+          ],
+          "Copy of bank deposit/investment account statement for the past 6 months, which can be any of the following:",
+          [
+            "Copy of regular bank deposit account statement with a balance of at least 500,000 Baht for 6 consecutive months, or",
+            "Copy of cooperative savings deposit account statement with a balance of at least 1,000,000 Baht for 6 consecutive months, or",
+            "Copy of savings deposit, regular deposit, or mutual fund investment account statement, individually or combined, with a balance of at least 1,000,000 Baht for 6 consecutive months, or",
+            "Copy of personal investment in a mutual fund for a duration of at least 6 months with a balance of at least 1,000,000 Baht, or",
+            "Copy of debt securities or bonds investment documents (front and back) with an investment period of at least 6 months and a value of not less than 1,000,000 Baht."
+          ]
+        ]
+      },
+      "supplementaryCard": {
+        "qualifications": [
+          "Age : 15 - 80 years",
+          "For foreign primary cardholders: the supplementary card application is limited to family members only : spouse, child and parents"
+        ],
+        "documents": [
+          "Copy of National ID card of both primary and supplementary cardholders",
+          "If you are under 20 years old, the following additional documents are required:",
+          [
+            "Parent/guardian consent letter (unless you are the primary cardholder’s child)",
+            "Copy of house registration of the supplementary cardholder"
+          ]
+        ],
+        "foreignerDocuments": [
+          "Copy of national ID documents for both primary and supplementary cardholders, such as a Passport, CI, T.D., or Temporary Passport.",
+          "In the case of individuals under the age of 20, additional documents must be attached as follows: a consent letter from a parent/legal guardian (unless the cardholder's own child) and one of the Thai government-issued documents for the supplementary card."
+        ]
+      }
+    },
+    {
+      "title": "Rights Transferor Holder",
+      "link": "Rights-Transferor-Holder",
+      "primaryCard": {
+        "qualifications": [
+          "Age : 20 years or older"
+        ],
+        "documents": [
+          "Copy of National ID card",
+          "Assignment of Deposit Account Rights Agreement for amounts ranging from 20,000 to 1,000,000 Baht (Conditions apply based on the type of credit card application, and the agreement must be made at Krungthai Bank only)"
+        ],
+        "foreignerDocuments": [
+          "Documents issued by the respective government, such as Passport or identity cards without Thai nationality, or personal certification documents (Certificate of Identity: CI), or Travel Document for Aliens (T.D.), or Temporary Passport.",
+          "Rights Transfer Agreement for deposits, ranging from 100,000 Baht to a maximum of 1,000,000 Baht (The agreement must be made only at Krung Thai Bank)."
+        ]
+      },
+      "supplementaryCard": {
+        "qualifications": [
+          "Age : 15 - 80 years",
+          "For foreign primary cardholders: the supplementary card application is limited to family members only : spouse, child and parents"
+        ],
+        "documents": [
+          "Copy of National ID card of both primary and supplementary cardholders",
+          "If you are under 20 years old, the following additional documents are required:",
+          [
+            "Parent/guardian consent letter (unless you are the primary cardholder’s child)",
+            "Copy of house registration of the supplementary cardholder"
+          ]
+        ],
+        "foreignerDocuments": [
+          "Copy of national ID documents for both primary and supplementary cardholders, such as a Passport, CI, T.D., or Temporary Passport.",
+          "In the case of individuals under the age of 20, additional documents must be attached as follows: a consent letter from a parent/legal guardian (unless the cardholder's own child) and one of the Thai government-issued documents for the supplementary card."
+        ]
+      }
+    }
+  ],
+  "th": [
+    {
+      "title": "ผู้มีรายได้ประจำ",
+      "link": "Regular-Income-Earner",
+      "primaryCard": {
+        "qualifications": [
+          "อายุ 20 ปี ขึ้นไป",
+          "รายได้รวมขั้นต่ำ 15,000 บาท/เดือน",
+          "รายได้รวมขั้นต่ำ 50,000 บาท/เดือน (สำหรับชาวต่างชาติ)",
+          "ทำงานในสถานที่ทำงานปัจจุบันไม่น้อยกว่า 4 เดือน",
+          "ทำงานในประเทศไทยไม่น้อยกว่า 2 ปี (สำหรับชาวต่างชาติ)"
+        ],
+        "documents": [
+          "สำเนาบัตรประจำตัวประชาชน",
+          "เอกสารแสดงรายได้ (อย่างใดอย่างหนึ่ง) : หนังสือรับรองเงินเดือน หรือสลิปเงินเดือนล่าสุด (ฉบับจริง) หรือหนังสือรับรองการหักภาษี ณ ที่จ่าย 50 ทวิ",
+          "สำเนาบัญชีธนาคารย้อนหลัง 6 เดือน พร้อมหน้าสมุดบัญชีที่ระบุชื่อ-นามสกุล และเลขที่บัญชี"
+        ],
+        "foreignerDocuments": [
+          "เอกสารที่รัฐเจ้าของสัญชาติออกให้ เช่น Passport หรือบัตรประจำตัวซึ่งไม่มีสัญชาติไทย หรือ เอกสารรับรองบุคคล (Certificate of Identity: CI) หรือ Travel Document for Aliens (T.D.) หรือ Temporary Passport",
+          "สำเนาบัญชีธนาคารในนามส่วนตัวผู้สมัครย้อนหลัง 6 เดือน พร้อมหน้าสมุดที่ระบุชื่อ เลขที่บัญชี",
+          "สำเนาหนังสือรับรองการจดทะเบียนหรือทะเบียนการค้า (ถ้ามี)",
+          "สำเนาบัญชีรายชื่อผู้ถือหุ้น (ถ้ามี)",
+          "เอกสารที่รัฐบาลไทยออกให้ อย่างใดอย่างหนึ่ง เช่น",
+          [
+            "VISA ประเภทคนอยู่ชั่วคราว (Non-Immigrant Visa)  หรือทะเบียนบ้าน (ทร.14) ใบอนุญาตขับขี่",
+            "ทะเบียนบ้านเล่มปกสีเหลือง (ทร.13) ที่ระบุเลขประจำตัวประชาชน 13 หลัก",
+            "ใบอนุญาตทำงานในประเทศ (Work Permit) ตั้งแต่ 2 ปีขึ้นไป ที่ส่วนราชการไทยออกให้ หรือ",
+            "ตราอนุญาตเข้าประเทศไทย ประเภทคนอยู่ชั่วคราว (Non-Immigrant Visa) หรือ Smart VISA"
+          ]
+        ]
+      },
+      "supplementaryCard": {
+        "qualifications": [
+          "อายุ 15 - 80 ปี",
+          "กรณีผู้ถือบัตรหลักเป็นชาวต่างชาติ : สงวนสิทธิ์การสมัครบัตรเสริมได้เฉพาะบุคคลในครอบครัว ได้แก่ สามี ภรรยา บุตร บิดา และมารดา เท่านั้น"
+        ],
+        "documents": [
+          "สำเนาบัตรประจำตัวประชาชนของบัตรหลักและบัตรเสริม",
+          "กรณีอายุต่ำกว่า 20 ปี ต้องแนบเอกสารเพิ่มเติมดังนี้ :",
+          [
+            "หนังสือยินยอมจากบิดา/มารดา/ผู้แทนโดยชอบธรรม เว้นแต่เป็นบุตรของผู้ถือบัตรหลัก",
+            "สำเนาทะเบียนบ้านของบัตรเสริม"
+          ]
+        ],
+        "foreignerDocuments": [
+          "เอกสารของบัตรหลักและบัตรเสริมที่รัฐเจ้าของสัญชาติออกให้ เช่น Passport หรือบัตรประจำตัวซึ่งไม่มีสัญชาติไทย หรือ เอกสารรับรองบุคคล (Certificate of Identity: CI) หรือ Travel Document for Aliens (T.D.) หรือ Temporary Passport",
+          "กรณีอายุต่ำกว่า 20 ปีบริบูรณ์ ต้องแนบเอกสารเพิ่มเติมดังนี้ หนังสือยินยอมจากบิดา/มารดา/ผู้แทนโดยชอบธรรม เว้นแต่เป็นบุตรของผู้ถือบัตรหลัก และสำเนาเอกสารที่รัฐบาลไทยออกให้ อย่างใดอย่างหนึ่งของบัตรเสริม"
+        ]
+      }
+    },
+    {
+      "title": "เจ้าของกิจการ",
+      "link": "Business-Owner",
+      "primaryCard": {
+        "qualifications": [
+          "อายุ 20 ปี ขึ้นไป",
+          "รายได้รวมขั้นต่ำ 20,000 บาท/เดือน",
+          "รายได้รวมขั้นต่ำ 50,000 บาท/เดือน (สำหรับชาวต่างชาติ)",
+          "ประกอบกิจการโดยจัดตั้งและจดทะเบียนในประเทศไทยไม่น้อยกว่า 2 ปี"
+        ],
+        "documents": [
+          "สำเนาบัตรประจำตัวประชาชน",
+          "สำเนาบัญชีธนาคารในนามส่วนตัวผู้สมัคร ย้อนหลัง 6 เดือน พร้อมหน้าสมุดบัญชีที่ระบุ ชื่อ-นามสกุล และเลขที่บัญชี หรือ",
+          "สำเนาบัญชีธนาคารในนามนิติบุคคล ย้อนหลัง 6 เดือน พร้อมหน้าสมุดบัญชีที่ระบุ ชื่อกิจการ และเลขที่บัญชี และสำเนาหนังสือรับรองการจดทะเบียนหรือทะเบียนการค้า และสำเนาบัญชีรายชื่อผู้ถือหุ้น (ผู้สมัครต้องถือหุ้นตั้งแต่ 50% ขึ้นไป)"
+        ],
+        "foreignerDocuments": [
+          "เอกสารที่รัฐเจ้าของสัญชาติออกให้ เช่น Passport หรือบัตรประจำตัวซึ่งไม่มีสัญชาติไทย หรือ เอกสารรับรองบุคคล (Certificate of Identity: CI) หรือ Travel Document for Aliens (T.D.) หรือ Temporary Passport",
+          "สำเนาบัญชีธนาคารในนามส่วนตัวผู้สมัครย้อนหลัง 6 เดือน พร้อมหน้าสมุดที่ระบุชื่อ เลขที่บัญชี",
+          "สำเนาหนังสือรับรองการจดทะเบียนหรือทะเบียนการค้า (ถ้ามี)",
+          "สำเนาบัญชีรายชื่อผู้ถือหุ้น (ถ้ามี)",
+          "เอกสารที่รัฐบาลไทยออกให้ อย่างใดอย่างหนึ่ง เช่น",
+          [
+            "VISA ประเภทคนอยู่ชั่วคราว (Non-Immigrant Visa)  หรือทะเบียนบ้าน (ทร.14) ใบอนุญาตขับขี่",
+            "ทะเบียนบ้านเล่มปกสีเหลือง (ทร.13) ที่ระบุเลขประจำตัวประชาชน 13 หลัก",
+            "ใบอนุญาตทำงานในประเทศ (Work Permit) ตั้งแต่ 2 ปีขึ้นไป ที่ส่วนราชการไทยออกให้ หรือ",
+            "ตราอนุญาตเข้าประเทศไทย ประเภทคนอยู่ชั่วคราว (Non-Immigrant Visa) หรือ Smart VISA"
+          ]
+        ]
+      },
+      "supplementaryCard": {
+        "qualifications": [
+          "อายุ 15 - 80 ปี",
+          "กรณีผู้ถือบัตรหลักเป็นชาวต่างชาติ : สงวนสิทธิ์การสมัครบัตรเสริมได้เฉพาะบุคคลในครอบครัว ได้แก่ สามี ภรรยา บุตร บิดา และมารดา เท่านั้น"
+        ],
+        "documents": [
+          "สำเนาบัตรประจำตัวประชาชนของบัตรหลักและบัตรเสริม",
+          "กรณีอายุต่ำกว่า 20 ปี ต้องแนบเอกสารเพิ่มเติมดังนี้ :",
+          [
+            "หนังสือยินยอมจากบิดา/มารดา/ผู้แทนโดยชอบธรรม เว้นแต่เป็นบุตรของผู้ถือบัตรหลัก",
+            "สำเนาทะเบียนบ้านของบัตรเสริม"
+          ]
+        ],
+        "foreignerDocuments": [
+          "เอกสารของบัตรหลักและบัตรเสริมที่รัฐเจ้าของสัญชาติออกให้ เช่น Passport หรือบัตรประจำตัวซึ่งไม่มีสัญชาติไทย หรือ เอกสารรับรองบุคคล (Certificate of Identity: CI) หรือ Travel Document for Aliens (T.D.) หรือ Temporary Passport",
+          "กรณีอายุต่ำกว่า 20 ปีบริบูรณ์ ต้องแนบเอกสารเพิ่มเติมดังนี้ หนังสือยินยอมจากบิดา/มารดา/ผู้แทนโดยชอบธรรม เว้นแต่เป็นบุตรของผู้ถือบัตรหลัก และสำเนาเอกสารที่รัฐบาลไทยออกให้ อย่างใดอย่างหนึ่งของบัตรเสริม"
+        ]
+      }
+    },
+    {
+      "title": "ผู้ประกอบอาชีพอิสระ",
+      "link": "Self-Employed",
+      "primaryCard": {
+        "qualifications": [
+          "บุคคลธรรมดาสัญชาติไทย เท่านั้น",
+          "อายุ 20 ปี ขึ้นไป",
+          "รายได้รวมขั้นต่ำ 20,000 บาท/เดือน"
+        ],
+        "documents": [
+          "สำเนาบัตรประจำตัวประชาชน",
+          "สำเนาบัญชีธนาคารในนามส่วนตัวผู้สมัคร ย้อนหลัง 6 เดือน พร้อมหน้าสมุดบัญชีที่ระบุ ชื่อ-นามสกุล และเลขที่บัญชี",
+          "หนังสือรับรองการหักภาษี ณ ที่จ่าย 50 ทวิ"
+        ],
+        "foreignerDocuments": [
+          "เอกสารที่รัฐเจ้าของสัญชาติออกให้ เช่น Passport หรือบัตรประจำตัวซึ่งไม่มีสัญชาติไทย หรือ เอกสารรับรองบุคคล (Certificate of Identity: CI) หรือ Travel Document for Aliens (T.D.) หรือ Temporary Passport",
+          "สำเนาบัญชีธนาคารในนามส่วนตัวผู้สมัครย้อนหลัง 6 เดือน พร้อมหน้าสมุดที่ระบุชื่อ เลขที่บัญชี",
+          "สำเนาหนังสือรับรองการจดทะเบียนหรือทะเบียนการค้า (ถ้ามี)",
+          "สำเนาบัญชีรายชื่อผู้ถือหุ้น (ถ้ามี)",
+          "เอกสารที่รัฐบาลไทยออกให้ อย่างใดอย่างหนึ่ง เช่น",
+          [
+            "VISA ประเภทคนอยู่ชั่วคราว (Non-Immigrant Visa)  หรือทะเบียนบ้าน (ทร.14) ใบอนุญาตขับขี่",
+            "ทะเบียนบ้านเล่มปกสีเหลือง (ทร.13) ที่ระบุเลขประจำตัวประชาชน 13 หลัก",
+            "ใบอนุญาตทำงานในประเทศ (Work Permit) ตั้งแต่ 2 ปีขึ้นไป ที่ส่วนราชการไทยออกให้ หรือ",
+            " ตราอนุญาตเข้าประเทศไทย ประเภทคนอยู่ชั่วคราว (Non-Immigrant Visa) หรือ Smart VISA"
+          ]
+        ]
+      },
+      "supplementaryCard": {
+        "qualifications": [
+          "อายุ 15 - 80 ปี"
+        ],
+        "documents": [
+          "สำเนาบัตรประจำตัวประชาชนของบัตรหลักและบัตรเสริม",
+          "กรณีอายุต่ำกว่า 20 ปี ต้องแนบเอกสารเพิ่มเติมดังนี้ :",
+          [
+            "หนังสือยินยอมจากบิดา/มารดา/ผู้แทนโดยชอบธรรม เว้นแต่เป็นบุตรของผู้ถือบัตรหลัก",
+            "สำเนาทะเบียนบ้านของบัตรเสริม"
+          ]
+        ],
+        "foreignerDocuments": [
+          "เอกสารของบัตรหลักและบัตรเสริมที่รัฐเจ้าของสัญชาติออกให้ เช่น Passport หรือบัตรประจำตัวซึ่งไม่มีสัญชาติไทย หรือ เอกสารรับรองบุคคล (Certificate of Identity: CI) หรือ Travel Document for Aliens (T.D.) หรือ Temporary Passport",
+          "กรณีอายุต่ำกว่า 20 ปีบริบูรณ์ ต้องแนบเอกสารเพิ่มเติมดังนี้ หนังสือยินยอมจากบิดา/มารดา/ผู้แทนโดยชอบธรรม เว้นแต่เป็นบุตรของผู้ถือบัตรหลัก และสำเนาเอกสารที่รัฐบาลไทยออกให้ อย่างใดอย่างหนึ่งของบัตรเสริม"
+        ]
+      }
+    },
+    {
+      "title": "ผู้มีเงินออม",
+      "link": "Savings-Holder",
+      "primaryCard": {
+        "qualifications": [
+          "อายุตั้งแต่ 20 ปี ขึ้นไป",
+          "มีเงินฝาก / เงินลงทุนย้อนหลัง 6 เดือน อย่างใดอย่างหนึ่ง หรือรวมกัน ได้แก่",
+          [
+            "มีเงินฝากประจําในธนาคาร ที่มียอดคงเหลือตลอดระยะเวลา 6 เดือน ไม่น้อยกว่า 500,000 บาท หรือ",
+            "มีเงินฝากประจําในสหกรณ์ออมทรัพย์ ที่มียอดคงเหลือตลอดระยะเวลา 6 เดือน ไม่น้อยกว่า 1,000,000 บาท หรือ",
+            "มีเงินฝากออมทรัพย์ เงินฝากประจํา หรือลงทุนในตราสารแสดงสิทธิในหนี้ หรือลงทุนในกองทุนรวม อย่างใดอย่างหนึ่ง หรือรวมกันแล้ว มียอดคงเหลือตลอดระยะเวลา 6 เดือน ไม่น้อยกว่า 1,000,000 บาท หรือ",
+            "มีเงินลงทุนในกองทุนส่วนบุคคล ย้อนหลังเป็นระยะเวลาไม่น้อยกว่า 6 เดือน ไม่น้อยกว่า 1,000,000 บาท หรือ",
+            "มีเอกสารตราสารแสดงสิทธิในหนี้ที่ลงทุนมาแล้วไม่น้อยกว่า 6 เดือน ไม่ต่ำกว่า 1,000,000 บาท"
+          ]
+        ],
+        "documents": [
+          "สำเนาบัตรประจำตัวประชาชน",
+          "สำเนาบัญชีที่มีเงินฝาก/เงินลงทุนย้อนหลัง 6 เดือน พร้อมหน้าสมุดบัญชีที่ระบุ ชื่อ-นามสกุล และเลขที่บัญชี อย่างใดอย่างหนึ่ง หรือรวมกัน ได้แก่",
+          [
+            "สำเนาบัญชีเงินฝากประจำในธนาคาร ที่มียอดคงเหลือตลอดระยะเวลา 6 เดือน ไม่น้อยกว่า 500,000 บาท หรือ",
+            "สำเนาบัญชีเงินฝากประจำในสหกรณ์ออมทรัพย์ ที่มียอดคงเหลือตลอดระยะเวลา 6 เดือน ไม่น้อยกว่า 1,000,000 บาท หรือ",
+            "สำเนาบัญชีเงินฝากออมทรัพย์ เงินฝากประจำ หรือลงทุนในตราสารแสดงสิทธิ์ในหนี้ หรือลงทุนในกองทุนรวม อย่างใดอย่างหนึ่ง หรือรวมกันแล้ว มียอดคงเหลือตลอดระยะเวลา 6 เดือน ไม่น้อยกว่า 1,000,000 บาท หรือ",
+            "สำเนาบัญชีเงินลงทุนในกองทุนส่วนบุคคลย้อนหลังไม่น้อยกว่า 6 เดือน ไม่น้อยกว่า 1,000,000 บาท หรือ",
+            "สำเนาเอกสารตราสารแสดงสิทธิ์ในหนี้ เช่น พันธบัตร, หุ้นกู้ (ด้านหน้า - ด้านหลัง) เป็นต้น ลงทุนมาแล้วไม่น้อยกว่า 6 เดือน ไม่น้อยกว่า 1,000,000 บาท"
+          ]
+        ],
+        "foreignerDocuments": [
+          "เอกสารที่รัฐเจ้าของสัญชาติออกให้ เช่น Passport หรือบัตรประจำตัวซึ่งไม่มีสัญชาติไทย หรือ เอกสารรับรองบุคคล (Certificate of Identity: CI) หรือ Travel Document for Aliens (T.D.) หรือ Temporary Passport และ",
+          "เอกสารที่รัฐบาลไทยออกให้ อย่างใดอย่างหนึ่ง เช่น",
+          [
+            "VISA ประเภทคนอยู่ชั่วคราว (Non-Immigrant Visa)  หรือทะเบียนบ้าน (ทร.14) ใบอนุญาตขับขี่",
+            "ทะเบียนบ้านเล่มปกสีเหลือง (ทร.13) ที่ระบุเลขประจำตัวประชาชน 13 หลัก",
+            "ใบอนุญาตทำงานในประเทศ (Work Permit) ที่ส่วนราชการไทยออกให้ หรือ",
+            "ตราอนุญาตเข้าประเทศไทย ประเภทคนอยู่ชั่วคราว (Non-Immigrant Visa) หรือ Smart VISA"
+          ],
+          "สำเนาบัญชีเงินฝาก / เงินลงทุนย้อนหลัง 6 เดือน อย่างใดอย่างหนึ่ง ได้แก่",
+          [
+            "สำเนาบัญชีเงินฝากประจําในธนาคาร ที่มียอดคงเหลือตลอดระยะเวลา 6 เดือน ไม่น้อยกว่า 500,000 บาท หรือ",
+            "สำเนาบัญชีเงินฝากประจําในสหกรณ์ออมทรัพย์ ที่มียอดคงเหลือตลอดระยะเวลา 6 เดือนไม่น้อยกว่า 1,000,000 บาท หรือ",
+            "สำเนาบัญชีเงินฝากออมทรัพย์ เงินฝากประจํา หรือลงทุนในกองทุนรวม อย่างใด อย่างหนึ่ง หรือรวมกันแล้ว มียอดคงเหลือตลอดระยะเวลา 6 เดือน ไม่น้อยกว่า 1,000,000 บาท หรือ",
+            "สำเนาบัญชีเงินลงทุนในกองทุนส่วนบุคคล เป็นระยะเวลาไม่น้อยกว่า  6 เดือน ไม่น้อยกว่า 1,000,000 บาท หรือ",
+            "สำเนาเอกสารตราสารแสดงสิทธิในหนี้ เช่น พันธบัตร หุ้นกู้ (ด้านหน้า ด้านหลัง) เป็นต้น ลงทุนมาแล้วไม่น้อยกว่า 6 เดือน ไม่ต่ำกว่า 1,000,000 บาท "
+          ]
+        ]
+      },
+      "supplementaryCard": {
+        "qualifications": [
+          "อายุ 15 - 80 ปี",
+          "กรณีผู้ถือบัตรหลักเป็นชาวต่างชาติ : สงวนสิทธิ์การสมัครบัตรเสริมได้เฉพาะบุคคลในครอบครัว ได้แก่ สามี ภรรยา บุตร บิดา และมารดา เท่านั้น"
+        ],
+        "documents": [
+          "สำเนาบัตรประจำตัวประชาชนของบัตรหลักและบัตรเสริม",
+          "กรณีอายุต่ำกว่า 20 ปี ต้องแนบเอกสารเพิ่มเติมดังนี้ :",
+          [
+            "หนังสือยินยอมจากบิดา/มารดา/ผู้แทนโดยชอบธรรม เว้นแต่เป็นบุตรของผู้ถือบัตรหลัก",
+            "สำเนาทะเบียนบ้านของบัตรเสริม"
+          ]
+        ],
+        "foreignerDocuments": [
+          "เอกสารของบัตรหลักและบัตรเสริมที่รัฐเจ้าของสัญชาติออกให้ เช่น Passport หรือบัตรประจำตัวซึ่งไม่มีสัญชาติไทย หรือ เอกสารรับรองบุคคล (Certificate of Identity: CI) หรือ Travel Document for Aliens (T.D.) หรือ Temporary Passport",
+          "กรณีอายุต่ำกว่า 20 ปีบริบูรณ์ ต้องแนบเอกสารเพิ่มเติมดังนี้ หนังสือยินยอมจากบิดา/มารดา/ผู้แทนโดยชอบธรรม เว้นแต่เป็นบุตรของผู้ถือบัตรหลัก และสำเนาเอกสารที่รัฐบาลไทยออกให้ อย่างใดอย่างหนึ่งของบัตรเสริม"
+        ]
+      }
+    },
+    {
+      "title": "ผู้มีสัญญาโอนสิทธิ",
+      "link": "Rights-Transferor-Holder",
+      "primaryCard": {
+        "qualifications": [
+          "อายุ 20 ปี ขึ้นไป"
+        ],
+        "documents": [
+          "สำเนาบัตรประจำตัวประชาชน",
+          "สัญญาโอนสิทธิเรียกร้องในบัญชีเงินฝากตั้งแต่ 20,000 บาท สูงสุด 1,000,000 บาท (เงื่อนไขเป็นไปตามที่กำหนด ขึ้นอยู่กับประเภทบัตรเครดิตที่สมัคร และต้องทำสัญญาที่ธนาคารกรุงไทยเท่านั้น)"
+        ],
+        "foreignerDocuments": [
+          "เอกสารที่รัฐเจ้าของสัญชาติออกให้ เช่น Passport หรือบัตรประจำตัวซึ่งไม่มีสัญชาติไทย หรือ เอกสารรับรองบุคคล (Certificate of Identity: CI) หรือ Travel Document for Aliens (T.D.) หรือ Temporary Passport",
+          "สัญญาโอนสิทธิเรียกร้องในบัญชีเงินฝาก ตั้งแต่ 100,000 บาท สูงสุด 1,000,000 บาท (ต้องทำสัญญาที่ธนาคารกรุงไทยเท่านั้น)"
+        ]
+      },
+      "supplementaryCard": {
+        "qualifications": [
+          "อายุ 15 - 80 ปี",
+          "กรณีผู้ถือบัตรหลักเป็นชาวต่างชาติ : สงวนสิทธิ์การสมัครบัตรเสริมได้เฉพาะบุคคลในครอบครัว ได้แก่ สามี ภรรยา บุตร บิดา และมารดา เท่านั้น"
+        ],
+        "documents": [
+          "สำเนาบัตรประจำตัวประชาชนของบัตรหลักและบัตรเสริม",
+          "กรณีอายุต่ำกว่า 20 ปี ต้องแนบเอกสารเพิ่มเติมดังนี้ :",
+          [
+            "หนังสือยินยอมจากบิดา/มารดา/ผู้แทนโดยชอบธรรม เว้นแต่เป็นบุตรของผู้ถือบัตรหลัก",
+            "สำเนาทะเบียนบ้านของบัตรเสริม"
+          ]
+        ],
+        "foreignerDocuments": [
+          "เอกสารของบัตรหลักและบัตรเสริมที่รัฐเจ้าของสัญชาติออกให้ เช่น Passport หรือบัตรประจำตัวซึ่งไม่มีสัญชาติไทย หรือ เอกสารรับรองบุคคล (Certificate of Identity: CI) หรือ Travel Document for Aliens (T.D.) หรือ Temporary Passport",
+          "กรณีอายุต่ำกว่า 20 ปีบริบูรณ์ ต้องแนบเอกสารเพิ่มเติมดังนี้ หนังสือยินยอมจากบิดา/มารดา/ผู้แทนโดยชอบธรรม เว้นแต่เป็นบุตรของผู้ถือบัตรหลัก และเอกสารที่รัฐบาลไทยออกให้ อย่างใดอย่างหนึ่งของบัตรเสริม"
+        ]
+      }
+    }
+  ]
+}

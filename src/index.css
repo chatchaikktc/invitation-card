@@ -1,0 +1,236 @@
+@import "./assets/css/ktc.css";
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: "Sukhumvit Tadmai";
+  src: url("/fonts/SukhumvitTadmai_Thi.woff2") format("woff2");
+  font-weight: 300;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Sukhumvit Tadmai";
+  src: url("/fonts/SukhumvitTadmai_Tex.woff2") format("woff2");
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Sukhumvit Tadmai";
+  src: url("/fonts/SukhumvitTadmai_Bol.woff2") format("woff2");
+  font-weight: 700;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Sukhumvit Tadmai";
+  src: url("/fonts/SukhumvitTadmai_Hev.woff2") format("woff2");
+  font-weight: 800;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Gotham Rnd";
+  src: url("/fonts/GothamRnd-Light.woff2") format("woff2");
+  font-weight: 300;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Gotham Rnd";
+  src: url("/fonts/GothamRnd-Book.woff2") format("woff2");
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Gotham Rnd";
+  src: url("/fonts/GothamRnd-Medium.woff2") format("woff2");
+  font-weight: 700;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Gotham Rnd";
+  src: url("/fonts/GothamRnd-Bold.woff2") format("woff2");
+  font-weight: 800;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'TH Sarabun New';
+  src: url('/fonts/THSarabunNew-BoldItalic.woff2') format('woff2'),
+      url('/fonts/THSarabunNew-BoldItalic.woff') format('woff');
+  font-weight: bold;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'TH Sarabun New';
+  src: url('/fonts/THSarabunNew-Italic.woff2') format('woff2'),
+      url('/fonts/THSarabunNew-Italic.woff') format('woff');
+  font-weight: normal;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'TH Sarabun New';
+  src: url('/fonts/THSarabunNew-Bold.woff2') format('woff2'),
+      url('/fonts/THSarabunNew-Bold.woff') format('woff');
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'TH Sarabun New';
+  src: url('/fonts/THSarabunNew.woff2') format('woff2'),
+      url('/fonts/THSarabunNew.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'PSL TextNew Pro';
+  src: url('/fonts/PSLTextNewProBold.woff2') format('woff2'),
+      url('/fonts/PSLTextNewProBold.woff') format('woff');
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'PSL TextNew Pro';
+  src: url('/fonts/PSLTextNewPro.woff2') format('woff2'),
+      url('/fonts/PSLTextNewPro.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+.sarabun{
+  /* font-family: 'TH Sarabun New', sans-serif, Sukhumvit Tadmai, Gotham Rnd; */
+  font-family: 'PSL TextNew Pro', sans-serif, Sukhumvit Tadmai, Gotham Rnd;
+}
+.psl-font{
+  font-family: 'PSL TextNew Pro', sans-serif, Sukhumvit Tadmai, Gotham Rnd;
+}
+
+
+:lang(en) #root,
+:lang(en) [data-radix-popper-content-wrapper] {
+  font-family:
+    Gotham Rnd,
+    Sukhumvit Tadmai,
+    sans-serif;
+}
+
+:lang(th) #root,
+:lang(th) [data-radix-popper-content-wrapper] {
+  font-family:
+    Gotham Rnd,
+    Sukhumvit Tadmai,
+    sans-serif;
+}
+.hero-20{
+  font-size: 20px;
+}
+.hero-20 span{
+  font-size: 25px;
+}
+.hero-30{
+  font-size: 30px;
+  line-height: 1.4;
+}
+.hero-30 span{
+  font-size: 35px;
+}
+.hero-27{
+  font-size: 27px;
+  line-height: 1.4;
+}
+.hero-27 span{
+  font-size: 30px;
+}
+.hero-red{
+  color:#CF3339;
+}
+.hero-font-bold{
+  font-weight: 700;
+}
+.hero-font-book{
+  font-weight: 400;
+}
+.hero-font-thin{
+  font-weight: 300;
+}
+.hero-text{
+  font-size: 20px;
+  line-height: 1.4;
+}
+.hero-text span{
+  font-size: 25px;
+  font-weight: 700;
+}
+.model-list {
+  font-size: 20px;
+  font-family: 'PSL249pro';
+  line-height: 1.4;
+  color: #5B6670;
+}
+
+@layer utilities {
+  @media (max-width: 576px) {
+    .tw-h-header {
+      @apply tw-h-[45px];
+    }
+
+    .tw-secondary-sticky {
+      @apply tw-sticky tw-top-[45px];
+    }
+    
+  }
+
+  @media (min-width: 577px) {
+    .tw-h-header {
+      @apply tw-h-[66px];
+    }
+
+    .tw-secondary-sticky {
+      @apply tw-sticky tw-top-[66px];
+    }
+  }
+}
+@media (max-width: 576px) {
+  .hero-text{
+    font-size: 18px !important;
+  }
+  .hero-text span{
+    font-size: 22px !important;
+  }
+}
+@media (max-width: 414px) {
+  .hero-20{
+    font-size: 18px;
+  }
+  .hero-20 span{
+    font-size: 22px;
+  }
+  :lang(en) .hero-text{
+    font-size: 18px !important;
+  }
+  :lang(en) .hero-text span{
+    font-size: 20px !important;
+  }
+  :lang(th) .hero-text{
+    font-size: 20px !important;
+  }
+  :lang(th) .hero-text span{
+    font-size: 22px !important;
+  }
+}

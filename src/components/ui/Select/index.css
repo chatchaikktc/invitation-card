@@ -1,0 +1,12 @@
+.SelectTrigger[data-state="open"] .SelectIcon {
+  @apply tw-rotate-180;
+}
+
+.SelectTrigger[data-placeholder] {
+  @apply tw-opacity-60;
+}
+
+.SelectContent {
+  width: var(--radix-select-trigger-width);
+  max-height: var(--radix-select-content-available-height);
+}

@@ -1,0 +1,643 @@
+/* Overriding stlying from KTC template */
+html,
+body,
+div,
+span,
+applet,
+object,
+iframe,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+blockquote,
+pre,
+a,
+abbr,
+acronym,
+address,
+big,
+cite,
+code,
+del,
+dfn,
+em,
+img,
+ins,
+kbd,
+q,
+s,
+samp,
+small,
+strike,
+strong,
+sub,
+sup,
+tt,
+var,
+b,
+u,
+i,
+center,
+dl,
+dt,
+dd,
+ol,
+ul,
+li,
+fieldset,
+form,
+label,
+legend,
+table,
+caption,
+tbody,
+tfoot,
+thead,
+tr,
+th,
+td,
+article,
+aside,
+canvas,
+details,
+embed,
+figure,
+figcaption,
+footer,
+header,
+hgroup,
+menu,
+nav,
+output,
+ruby,
+section,
+summary,
+time,
+mark,
+audio,
+video {
+  border-style: solid;
+}
+
+.content-wrap {
+  line-height: 1.15;
+}
+
+.ghost-footer img {
+  display: inline;
+}
+
+.menu-responsive-dropdown img {
+  display: inline;
+  vertical-align: baseline;
+}
+
+[data-radix-popper-content-wrapper] {
+  transition-duration: 0s;
+}
+
+@media (max-width: 991px) {
+  #ktc-logo {
+    z-index: 11;
+  }
+}
+
+.content-wrap:has(.menu-responsive-dropdown.only-mobile.active) {
+  z-index: 10;
+}
+
+.button__c {
+  background: #dc3545 !important;
+}
+
+#root button:focus {
+  outline: 0 none transparent !important;
+}
+
+#HeroSection video {
+  width: 100%;
+  height: 878px !important;
+  object-fit: cover;
+  position: absolute;
+  z-index: -1;
+}
+
+#HeroSection .hero-content {
+  z-index: 1;
+  width: 100%;
+}
+
+#KeyVisual {
+  background: linear-gradient(275deg, #F0F0F0 0%, #FAFAFA 100%);
+}
+
+#KeyVisual .key-border {
+  border-radius: 28px;
+  background: rgba(255, 255, 255, 0.80);
+  box-shadow: 0px 12px 20px 0px rgba(0, 0, 0, 0.10);
+  border: 2px solid transparent;
+
+}
+
+#KeyVisual .key-border:hover {
+  border-radius: 28px;
+  background: rgba(255, 255, 255, 0.80);
+  border: 2px solid transparent;
+  background: linear-gradient(95deg, #CAFDBF, #FEB2BE) border-box;
+}
+
+#KeyVisual .key-border.upper:hover {
+  border-radius: 28px;
+  background: rgba(255, 255, 255, 0.80);
+  border: 2px solid transparent;
+  background: #B96842;
+}
+
+#KeyVisual .key-border .content img.icon {
+  width: auto;
+  height: 50px;
+  margin-bottom: 20px;
+}
+
+#KeyVisual p span {
+  font-size: 12px;
+}
+
+#video {
+  background: rgba(239, 241, 242, 0.60);
+
+  /* Effect/Surface Blur */
+  backdrop-filter: blur(30px);
+}
+
+
+#video iframe{
+  border-radius: 28px;
+  width: 100%;
+  height: 390px;
+}
+
+#video  #thumbnail-list .MuiSvgIcon-root {
+  opacity: 0;
+}
+#video #thumbnail-list .Mui-selected .MuiSvgIcon-root,  #video #thumbnail-list .MuiButtonBase-root:hover .MuiSvgIcon-root{
+  opacity: 1;
+}
+.swiper-wrapper{
+  font-family: 'Gotham Rnd','Sukhumvit Tadmai'
+}
+#StepHowto .swiper-button-prev:after{
+  content: "" !important;
+  background: url('/img/chevron.left.svg') no-repeat center center !important;
+  width: 11px;
+  height: 18px;
+  transform: rotate(180deg);
+} 
+#StepHowto .swiper-button-next:after {
+  content: "" !important;
+  background: url('/img/chevron.left.svg') no-repeat center center !important;
+  width: 11px;
+  height: 18px;
+}
+#StepHowto img.step-img{
+  width: 407px;
+  height: auto;
+  margin: 32px auto 0;
+}
+
+#StepHowto .faq-tab {
+  background: #ffffff;
+  backdrop-filter: blur(30px);
+  border-radius: 28px;
+  height: 517px;
+  padding: 28px;
+  box-shadow: 0px 12px 20px 0px rgba(0, 0, 0, 0.10);
+  font-family: 'Gotham Rnd','Sukhumvit Tadmai'
+}
+
+
+#StepHowto .faq-tab .faq-title {
+  display: flex;
+  align-items: center;
+  margin-bottom: 24px;
+}
+
+#StepHowto .faq-tab .faq-title img {
+  display: inline-block;
+  width: 24px;
+  height: 24px;
+  opacity: 0.2;
+  margin-right: 12px;
+}
+
+#StepHowto .faq-tab .faq-title h3 {
+  font-family: "Gotham Rnd", "Sukhumvit Tadmai";
+  font-weight: 700;
+  display: inline-block;
+  font-size: 22px;
+  color: #222222;
+}
+
+#StepHowto .faq-tab .faq-content {
+  overflow-x: hidden;
+  overflow-y: scroll;
+  height: 410px;
+  width: auto;
+  padding-bottom: 10px;
+}
+
+#StepHowto .faq-tab .faq-content::-webkit-scrollbar {
+  width: 6px;
+}
+
+#StepHowto .faq-tab .faq-content::-webkit-scrollbar-thumb {
+  background: rgba(18, 18, 18, 0.7);
+  border: 0.5px solid #505050;
+  border-radius: 10px;
+}
+
+#StepHowto .faq-tab .faq-content .faq-head>div.collapsed {
+  font-family: "Gotham Rnd", "Sukhumvit Tadmai";
+  font-weight: 400;
+  line-height: 1.4;
+  font-size: 20px;
+  color: #494949;
+  margin-bottom: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  cursor: pointer;
+  position: relative;
+}
+
+#StepHowto .faq-tab .faq-content .faq-head>div:not(.collapsed) {
+  font-family: "Gotham Rnd", "Sukhumvit Tadmai";
+  font-weight: 700;
+  line-height: 1.4;
+  color: #303030;
+  font-size: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  cursor: pointer;
+  position: relative;
+}
+
+#StepHowto .faq-tab .faq-content .faq-answer>div {
+  font-family: "Gotham Rnd", "Sukhumvit Tadmai";
+  font-weight: 400;
+  line-height: 1.4;
+  font-size: 16px;
+  color: #1a1a1a;
+  border-bottom: 0.5px solid #CDCDCD;
+  padding: 0 20px 30px 0;
+}
+
+#StepHowto .theFAQ {
+  border-bottom: 0.5px solid #CDCDCD;
+}
+
+#StepHowto .faq-head>div:after {
+  position: absolute;
+  top: 5px;
+  right: 0;
+  content: "";
+  background: url(/img/icon-faq-close.svg) no-repeat;
+  height: 24px;
+  width: 24px;
+  background-position: center;
+  background-size: 24px 24px;
+  transform: rotate(0deg)
+}
+
+#StepHowto .faq-head>.collapsed:after {
+  background: url(/img/icon-faq-open.svg) no-repeat;
+  height: 24px;
+  width: 24px;
+  background-position: center;
+  background-size: 24px 24px;
+  transform: rotate(0deg)
+}
+
+#StepHowto .faq-head>div:after {
+  margin-top: 0;
+}
+
+#StepHowto .faq-head>div {
+  padding-top: unset;
+  padding-right: 30px;
+}
+
+#StepHowto .faq-head {
+  padding: 24px 0 24px 0;
+}
+
+#StepHowto .faq-tab .faq-content .faq-head>div.collapsed {
+  margin-bottom: auto;
+}
+
+#StepHowto .theFAQ:last-child {
+  border-bottom: none
+}
+
+#StepHowto .faq-tab .faq-content .faq-answer>div:last-child {
+  border-bottom: none
+}
+
+#StepHowto .Mui-expanded {
+  margin: 0;
+}
+.MuiAccordionSummary-content{
+  margin-top: 0 !important;
+}
+#StepHowto .MuiTypography-root:not(.Mui-expanded) {
+  margin: 12px 0 0;
+}
+#StepHowto .MuiAccordion-root{
+  border-bottom: 0.25px  solid #CDCDCD;
+}
+#StepHowto .MuiPaper-root,#StepHowto .MuiButtonBase-root{
+  background: transparent;
+  box-shadow: none;
+  border-radius: 0;
+  padding: 0;
+  min-height: auto;
+  
+}
+
+#StepHowto .MuiAccordion-root:last-of-type {
+  border-bottom: 0.25px solid #CDCDCD;
+}
+#StepHowto .MuiAccordionDetails-root {
+  padding: 20px 0;
+  font-family: 'Gotham Rnd','Sukhumvit Tadmai' !important;
+  color: #1a1a1a !important;
+  font-size: 16px !important;
+  font-weight: 400 !important;
+  line-height: 1.4 !important;
+}
+#benefitSection .media {
+  position: relative;
+}
+#benefitSection .media:before {
+  content: "";
+  height: 1px;
+  position: absolute;
+  left: 25px;
+  right: 25px;
+  bottom: 0;
+  background: rgba(91, 102, 112, 0.15)
+}
+#benefitSection .media:last-child::before, #benefitSection .media:nth-last-child(2)::before {
+  display: none;
+}
+#benefitSection .media p {
+  font-size: 20px;
+  line-height: 1.0;
+  color: #5B6670;
+  font-family: "PSL TextNew Pro"
+}
+.MuiTabs-scroller{
+  overflow-x: auto !important;
+}
+#benefitSection .media strong {
+  font-size: 20px;
+  line-height: 1.0;
+  font-weight: 700;
+  color: #5B6670;
+  font-family: "PSL TextNew Pro"
+}
+#benefitSection .media a, #benefitSection .media button{
+  color: #5B6670;
+  text-decoration: underline;
+  font-family: "PSL TextNew Pro";
+  font-weight: 400;
+  font-size: 20px;
+}
+
+#benefitSection .media a:hover, #benefitSection .media button:hover{
+  color: #0076c0;
+  text-decoration: underline;
+  font-family: "PSL TextNew Pro";
+  font-weight: 400;
+  font-size: 20px;
+}
+
+body.modal-open {
+  padding: 0 !important
+}
+
+.modal.in {
+  opacity: 1
+}
+
+.modal-backdrop.in {
+  opacity: 0.65
+}
+
+.modal.in .modal-dialog {
+  -webkit-transform: translate(0, 0);
+  transform: translate(0, 0)
+}
+
+.full-modal .close {
+  top: 20px;
+  right: 20px;
+  position: absolute;
+  opacity: 1;
+  z-index: 6;
+  background-image: url('https://www.ktc.co.th/sites/cs/assets/ktc_css/img/ico-close.svg');
+  background-size: 16px;
+  background-repeat: no-repeat;
+  background-position: center center;
+  width: 40px;
+  height: 40px
+}
+
+.full-modal .modal-forever .close {
+  background-image: url('https://www.ktc.co.th/sites/cs/assets/ktc_css/img/ico-close.svg')
+}
+
+
+
+.full-modal .close span {
+  display: none
+}
+
+.full-modal .close:hover {
+  opacity: 0.5;
+  cursor: pointer
+}
+
+.full-modal .modal-dialog {
+  width: 90%;
+  max-width: 945px;
+  margin-left: auto;
+  margin-right: auto
+}
+
+.full-modal .modal-dialog.modal-sm {
+  max-width: 485px
+}
+
+#msg-alert.full-modal .modal-dialog.modal-sm {
+  max-width: 970px !important;
+}
+
+.full-modal .modal-dialog.modal-sm.ie {
+  max-width: 600px
+}
+
+.full-modal .modal-content {
+  border: none;
+  border-top: 4px solid #CF3339;
+  border-radius: 4px;
+  max-height: 90vh
+}
+
+.full-modal .modal-content.modal-forever {
+  border-color: #E0005A
+}
+
+.full-modal .modal-content.modal-merchant {
+  border-color: #0076C0
+}
+
+.full-modal .modal-header {
+  border: none;
+  font-size: 40px;
+  line-height: 38px;
+  padding: 40px 40px 20px;
+  display: block;
+  text-align: left
+}
+
+.full-modal .modal-body {
+  margin: 0 5px 5px;
+  padding: 0 40px;
+  overflow: auto;
+  overflow-x: hidden;
+  height: 80vh
+}
+
+.full-modal .modal-body:after {
+  display: block;
+  content: '';
+  width: 100%;
+  height: 40px;
+  position: relative
+}
+
+.full-modal .modal-sm .modal-body {
+  height: auto
+}
+
+.full-modal .modal-content:after {
+  display: block;
+  content: '';
+  width: calc(100% - 10px);
+  height: 40px;
+  background: linear-gradient(to bottom, rgba(255, 255, 255, 0) 0, rgba(255, 255, 255, 1) 60%);
+  position: absolute;
+  bottom: 0;
+  left: 5px
+}
+
+.full-modal .content-wrap {
+  padding: 0
+}
+
+.full-modal .modal-title {
+  text-align: center;
+  display: inline-block;
+  width: auto;
+  position: relative;
+  font-family: 'Conv_SukhumvitTadmai_Tex';
+  font-size: 28px
+}
+
+.full-modal .modal-title:after {
+  height: 4px;
+  width: 50%;
+  background: #CF3339;
+  margin-left: 25%;
+  content: "";
+  display: none
+}
+.more-modal .content li {
+  list-style-type: decimal !important;
+}
+#applicationDetailSection h2 {
+  text-align: center;
+  font-size: 30px;
+  line-height: 1.5;
+  padding-bottom: 5px;
+  margin-bottom: 40px;
+  display: inline-block;
+  position: relative;
+  left: 50%;
+  transform: translateX(-50%);
+}
+#applicationDetailSection h2:after{
+  height: 2px;
+  background: #CF3339;
+  position: absolute;
+  left: 25%;
+  right: 25%;
+  content: "";
+  top: 100%;
+  display: block;
+}
+#applicationDetailSection small{
+  font-size: 20px;
+  font-family: "PSL TextNew Pro";
+}
+#applicationDetailSection ul{
+  list-style-type: disc;
+  font-size: 20px;
+  font-family: "PSL TextNew Pro";
+  padding-left: 20px;
+
+}
+#applicationDetailSection ul{
+  line-height: 1;
+}
+#applySection{
+  background: linear-gradient(180deg, #0B2A53 38.54%, #030D18 56.77%, #020A13 100%);
+}
+.MuiBreadcrumbs-ol{
+  font-family: 'Gotham Rnd','Sukhumvit Tadmai' !important;
+  font-size: 13px;
+}
+.MuiLink-root{
+  font-weight: 700 !important;
+}
+.MuiBreadcrumbs-root {
+  padding-top: unset !important;
+}
+@media (max-width: 768px) {
+  #video iframe{
+    width: 100%;
+    height: 200px;
+  }
+  #StepHowto .faq-tab {
+    background: #ffffff;
+    -webkit-backdrop-filter: blur(30px);
+    backdrop-filter: blur(30px);
+    border-radius: 28px;
+    height: fit-content;
+    padding: unset;
+    box-shadow: unset;
+}
+#StepHowto .faq-tab .faq-content {
+  overflow-x: unset;
+  overflow-y: unset;
+  height: auto;
+  width: auto;
+  padding-bottom: 10px;
+}
+}

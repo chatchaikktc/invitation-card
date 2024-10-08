@@ -1,0 +1,462 @@
+[
+    {
+        "bid": 1,
+        "BenefitName": "AnnualFee",
+        "BenefitTitle": {
+            "th": "ค่าธรรมเนียมรายปี",
+            "en": "Annual Fee"
+        },
+        "BenefitDescriptions": {
+            "th": [
+                "ไม่มีค่าธรรมเนียมแรกเข้าและรายปีตลอดชีพ"
+            ],
+            "en": [
+                "No annual fee for life."
+            ]
+        },
+        "img": [
+            "https://www.ktc.co.th/sites/cs/assets/ktc_css/img/card-details/i-no-fee.svg"
+        ],
+        "linkType": "",
+        "DialogName": {
+            "th": "",
+            "en": ""
+        },
+        "LinkText": {
+            "th": "เงื่อนไขการแลกคะแนน",
+            "en": "More Details"
+        }
+    },
+    {
+        "bid": 2,
+        "BenefitName": "MastercardShopOnline",
+        "BenefitTitle": {
+            "th": "ช้อปออนไลน์ คุ้มสุด ตลอดปี กับ Mastercard®",
+            "en": "Enjoy year-round online shopping privileges offered by Mastercard®"
+        },
+        "BenefitDescriptions": {
+            "th": [
+                "รับส่วนลดตลอดปีเมื่อช้อปผ่านพันธมิตรออนไลน์ที่ร่วมรายการตามเงื่อนไขที่กำหนด"
+            ],
+            "en": [
+                "Get discounts all year round at participating online partners, where terms and conditions applied."
+            ]
+        },
+        "img": [
+            "https://www.ktc.co.th/sites/cs/assets/ktc_css/img/card-details/ShopOnline-MC.svg"
+        ],
+        "linkType": "link",
+        "DialogName": {
+            "th": "https://www.ktc.co.th/promotion/online/shopping/mastercard",
+            "en":
+                "https://www.ktc.co.th/en/promotion/online/shopping/mastercard"
+        },
+        "LinkText": {
+            "th": "รายละเอียดเพิ่มเติม",
+            "en": "More Details"
+        }
+    },
+    {
+        "bid": 3,
+        "BenefitName": "eCommerceProtection",
+        "BenefitTitle": {
+            "th": "มั่นใจทุกครั้งที่ช้อปออนไลน์",
+            "en": "E-Commerce Protection"
+        },
+        "BenefitDescriptions": {
+            "th": [
+                "ประกันภัยความคุ้มครองการซื้อสินค้าออนไลน์ผ่านบัตรเครดิต KTC MASTERCARD กรณีไม่จัดส่งสินค้า และ / หรือการจัดส่งสินค้าไม่ถูกต้องและไม่ครบถ้วน ด้วยวงเงินประกันสูงสุด 200 ดอลล่าร์สหรัฐ โดย Mastercard ตั้งแต่ 1 ม.ค. 67 - 31 ธ.ค. 68"
+            ],
+            "en": [
+                "Enjoy worldwide coverage of up to USD 200 for your online purchases through KTC MASTERCARD credit card when you experience non-delivery and/or incomplete delivery, 1 Jan 24 - 31 Dec 25."
+            ]
+        },
+        "img": [
+            "https://www.ktc.co.th/sites/cs/assets/ktc_css/img/card-details/i-e-commerce.svg"
+        ],
+        "linkType": "link",
+        "DialogName": {
+            "th": "https://www.ktc.co.th/MC-ecommerce",
+            "en": "https://www.ktc.co.th/MC-ecommerce"
+        },
+        "LinkText": {
+            "th": "รายละเอียดเพิ่มเติม",
+            "en": "More Details"
+        }
+    },
+    {
+        "bid": 4,
+        "BenefitName": "KTCPERSONALASSISTANT",
+        "BenefitTitle": {
+            "th": "บริการผู้ช่วยส่วนตัว (KTC PERSONAL ASSISTANT)",
+            "en": "KTC PERSONAL ASSISTANT"
+        },
+        "BenefitDescriptions": {
+            "th": [
+                "บริการให้ข้อมูลและคำแนะนำ",
+                "<span class=\"tw-text-left\">&bull; ในการจองตั๋วเครื่องบิน โต๊ะอาหาร บริการจัดส่งของขวัญ และดอกไม้</span>",
+                "<span class=\"tw-text-left\">&bull; ในการแจ้งเตือนล่วงหน้าในโอกาสพิเศษต่าง ๆ</span>",
+                "<span class=\"tw-text-left\">&bull; ในการบริการดูแลเรื่องบ้าน</span>",
+                "<span class=\"tw-text-left\">&bull; การช่วยเหลือฉุกเฉินทางการแพทย์</span>",
+                "บริการข้างต้นเป็นการให้ข้อมูล คำแนะนำ และประสานงานส่วนบุคคลเท่านั้น การบริการนี้ไม่รวมถึงการบริการเพื่อการพาณิชย์หรือสิ่งผิดกฎหมาย ค่าใช้จ่ายใดๆ ที่เกิดขึ้นสำหรับสินค้าหรือบริการดังกล่าว สมาชิกบัตรฯ ต้องเป็นผู้รับผิดชอบเอง",
+                "สมาชิกบัตรฯ สามารถติดต่อเจ้าหน้าที่ได้ทุกวัน ตลอด 24 ชั่วโมง ที่ KTC PERSONAL ASSISTANT 02 123 5000 กด 0",
+                "ดูรายละเอียดเพิ่มเติมอื่นๆ ที่ <a href=\"https://www.ktc.co.th/contact/personal-assistant?utm_source=Website&utm_medium=Creditcard&utm_campaign=Concierge-Service&utm_content=Textlink\" >www.ktc.co.th/personal-assistant</a>"
+            ],
+            "en": [
+                "Providing advice and information/assistance on",
+                "&bull; Air-ticket, restaurant reservations and gift & flower delivery.",
+                "&bull; Special event notification.",
+                "&bull; Home maintenance service.",
+                "&bull; Medical emergency service.",
+                "The above services are intended for providing information, recommendation and coordination for personal use only, and not intended for commercial or illegal purposes. The cardmember shall be held responsible for the expenses incurred from such services.",
+                "KTC PERSONAL ASSISTANT is available 24 hours every day at 02 123 5000 press 0.",
+                "For more information, please visit <a href=\"https://www.ktc.co.th/en/contact/personal-assistant?utm_source=Website&utm_medium=Creditcard&utm_campaign=Concierge-Service&utm_content=Textlink\" >www.ktc.co.th/contact/personal-assistant</a>"
+            ]
+        },
+        "img": [
+            "https://www.ktc.co.th/sites/cs/assets/ktc_css/img/card-details/i-personal-assistant.svg"
+        ],
+        "linkType": "",
+        "DialogName": {
+            "th": "",
+            "en": ""
+        },
+        "LinkText": {
+            "th": "",
+            "en": ""
+        }
+    },
+    {
+        "bid": 5,
+        "BenefitName": "EasyInstallmentsMastercard",
+        "BenefitTitle": {
+            "th": "ผ่อนชำระง่าย",
+            "en": "Easy Installments"
+        },
+        "BenefitDescriptions": {
+            "th": [
+                "ชำระสินค้า/บริการด้วยอัตราดอกเบี้ยพิเศษ 0% สูงสุด 10 เดือน ผ่านบริการ <a href=\"https://www.ktc.co.th/installment\" >ผ่อนชำระกับบัตรเครดิต KTC</a>",
+                "<strong>พิเศษ</strong> สำหรับบัตรเครดิต KTC DIGITAL PLATINUM MASTERCARD ผ่อนชำระด้วยอัตราดอกเบี้ยพิเศษ 0.69%<br>เมื่อทำรายการผ่าน KTC PHONE สำหรับรายการใช้จ่ายที่ฮ่องกง สิงคโปร์ มาเลเซีย และอินโดนีเซีย",
+                "<strong>เปลี่ยนยอดชำระเต็มเป็นผ่อนชำระได้</strong><br>เปลี่ยนยอดชำระรายการซื้อสินค้า/บริการของเดือนถัดไปเป็นยอดผ่อนชำระได้ ด้วยอัตราดอกเบี้ย 0.74% สูงสุด 10 เดือน ง่ายๆ ผ่านแอป KTC Mobile หรือโทร KTC PHONE 02 123 5000 กด 4"
+            ],
+            "en": [
+                "Pay products / services with a special interest rate of 0% up to 10 months through the   <a href=\"https://www.ktc.co.th/installment\" >installment payments with KTC credit card</a>",
+                "<strong>Special</strong> for KTC DIGITAL PLATINUM MASTERCARD credit card. Get special 0.69% interest rate for installment plan via KTC PHONE from any spending in Hong Kong, Singapore, Malaysia and Indonesia.",
+                "<strong>Full payment can be changed to installment payment</strong><br>Change your full payment amount for the purchase of products/services of the next billing cycle into the installment amount at 0.74% interest rate, up to 10 months, easily via the KTC Mobile app or by calling KTC PHONE 02 123 5000 press 4."
+            ]
+        },
+        "img": [
+            "https://www.ktc.co.th/sites/cs/assets/ktc_css/img/card-details/i-flexi.svg"
+        ],
+        "linkType": "modal",
+        "DialogName": {
+            "th": "myModalFlexi",
+            "en": "myModalFlexi"
+        },
+        "LinkText": {
+            "th": "ดูรายละเอียดเพิ่มเติม",
+            "en": "More Details"
+        }
+    },
+    {
+        "bid": 6,
+        "BenefitName": "EasyInstallments",
+        "BenefitTitle": {
+            "th": "ผ่อนชำระง่าย",
+            "en": "Easy Installments"
+        },
+        "BenefitDescriptions": {
+            "th": [
+                "ชำระสินค้า/บริการด้วยอัตราดอกเบี้ยพิเศษ 0% สูงสุด 10 เดือน ผ่านบริการ <a href=\"https://www.ktc.co.th/installment\" >ผ่อนชำระกับบัตรเครดิต KTC</a>",
+                "<strong>เปลี่ยนยอดชำระเต็มเป็นผ่อนชำระได้</strong><br>เปลี่ยนยอดชำระรายการซื้อสินค้า/บริการของเดือนถัดไปเป็นยอดผ่อนชำระได้ ด้วยอัตราดอกเบี้ย 0.74% สูงสุด 10 เดือน ง่ายๆ ผ่านแอป KTC Mobile หรือโทร KTC PHONE 02 123 5000 กด 4"
+            ],
+            "en": [
+                "Pay products / services with a special interest rate of 0% up to 10 months through the <a href=\"https://www.ktc.co.th/installment\" >installment payments with KTC credit card.</a>",
+                "<strong>Full payment can be changed to installment payment</strong><br>Change your full payment amount for the purchase of products/services of the next billing cycle into the installment amount at 0.74% interest rate, up to 10 months, easily via the KTC Mobile app or by calling KTC PHONE 02 123 5000; press 4."
+            ]
+        },
+        "img": [
+            "https://www.ktc.co.th/sites/cs/assets/ktc_css/img/card-details/i-flexi.svg"
+        ],
+        "linkType": "modal",
+        "DialogName": {
+            "th": "myModalFlexi",
+            "en": "myModalFlexi"
+        },
+        "LinkText": {
+            "th": "ดูรายละเอียดเพิ่มเติม",
+            "en": "More Details"
+        }
+    },
+    {
+        "bid": 7,
+        "BenefitName": "AccidentalInsurance",
+        "BenefitTitle": {
+            "th": "ประกันอุบัติเหตุ",
+            "en": "Accidental Insurance"
+        },
+        "BenefitDescriptions": {
+            "th": [
+                "สิทธิพิเศษสำหรับสมาชิกใหม่บัตรเครดิต KTC รับความคุ้มครองอุบัติเหตุวงเงิน สูงสุด 300,000 บาท นาน 90 วันนับจากวันที่เปิดใช้บริการบัตรฯ โดยไม่มีค่าใช้จ่ายใดๆ เมื่อสมัครบัตรเครดิต KTC ตั้งแต่วันที่ 1 มกราคม - 31 ธันวาคม 2567"
+            ],
+            "en": [
+                "Special privilege for new KTC credit card members: receive PA Insurance coverage up to 300,000 baht for 90 days from the card activation date."
+            ]
+        },
+        "img": [
+            "https://www.ktc.co.th/sites/cs/assets/ktc_css/img/card-details/i-accident-insurance.svg"
+        ],
+        "linkType": "modal",
+        "DialogName": {
+            "th": "myModalAcc",
+            "en": "myModalAcc"
+        },
+        "LinkText": {
+            "th": "ดูรายละเอียดเพิ่มเติม",
+            "en": "More Details"
+        }
+    },
+    {
+        "bid": 8,
+        "BenefitName": "CashWithdrawal",
+        "BenefitTitle": {
+            "th": "เบิกถอนเงินสดได้ 100%",
+            "en": "Cash Withdrawal"
+        },
+        "BenefitDescriptions": {
+            "th": [
+                "เบิกถอนเงินสดด้วยบัตรเครดิตได้เต็มวงเงินของยอดคงเหลือในขณะนั้น หรือสูงสุดไม่เกิน 200,000 บาท/วัน ผ่านเครื่อง ATM และสูงสุดไม่เกิน 500,000 บาท/วัน ผ่านแอป KTC Mobile<br>",
+                "หมายเหตุ จำนวนเงินที่เบิกถอนในแต่ละครั้งหรือต่อวันขึ้นอยู่กับเงื่อนไขและข้อจำกัดของเครื่อง ATM แต่ละธนาคาร"
+            ],
+            "en": [
+                "Cash withdrawal with the amount not exceeding the current outstanding balance or maximum of 200,000 THB/day via ATM and 500,000 THB/day via KTC Mobile app.<br>",
+                "Note: The amount of cash withdrawal per time or per day is subject to available credit limit conditions/limitations of each Bank’s ATM."
+            ]
+        },
+        "img": [
+            "https://www.ktc.co.th/sites/cs/assets/ktc_css/img/card-details/i-withdrawal.svg"
+        ],
+        "linkType": "",
+        "DialogName": {
+            "th": "",
+            "en": ""
+        },
+        "LinkText": {
+            "th": "",
+            "en": ""
+        }
+    },
+    {
+        "bid": 9,
+        "BenefitName": "RewardsPoints",
+        "BenefitTitle": {
+            "th": "รับคะแนนง่ายๆ",
+            "en": "Rewards Points"
+        },
+        "BenefitDescriptions": {
+            "th": [
+                "ทุก 25 บาท ที่ใช้จ่ายผ่านบัตรฯ รับ 1 คะแนน KTC FOREVER เพื่อแลกสินค้า / บริการ ณ ร้านค้าที่ร่วมรายการ และคะแนนไม่มีวันหมดอายุ"
+            ],
+            "en": [
+                "Every 25 THB spent with KTC credit card earn 1 KTC FOREVER point. Points can only be redeemed for products/services at participating stores nationwide. No expiration on KTC FOREVER points."
+            ]
+        },
+        "img": [
+            "https://www.ktc.co.th/sites/cs/assets/ktc_css/img/card-details/i-reward-point.svg"
+        ],
+        "linkType": "link",
+        "DialogName": {
+            "th": "https://www.ktc.co.th/rewards",
+            "en": "https://www.ktc.co.th/en/rewards"
+        },
+        "LinkText": {
+            "th": "รายละเอียดข้อกำหนดและเงื่อนไข",
+            "en": "More Details and Terms and Conditions"
+        }
+    },
+    {
+        "bid": 10,
+        "BenefitName": "DevicePay",
+        "BenefitTitle": {
+            "th": "สะดวก ปลอดภัย ใช้จ่ายไม่สะดุด",
+            "en": "Pay on-the-go easily anywhere"
+        },
+        "BenefitDescriptions": {
+            "th": [
+                "ไม่ว่าคุณจะซื้อน้ำหลังออกกำลังกาย หรือซื้อกาแฟระหว่างเดินทาง คุณสามารถใช้จ่ายได้ ไม่สะดุด กับบัตรเครดิต KTC ผ่าน  <a href=\"https://www.ktc.co.th/fitbitpay\" >Fitbit Pay</a> , <a href=\"https://www.ktc.co.th/garminpay\" >Garmin Pay</a> , <a href=\"https://www.ktc.co.th/google-pay\" >Google Pay</a> และ <a href=\"https://www.ktc.co.th/swatch-pay\" >SWATCHPAY!</a>"
+            ],
+            "en": [
+                "While you're out for a run, you can hop into a corner store to buy water, without needing your wallet or phone. <a href=\"https://www.ktc.co.th/fitbitpay\" >Fitbit Pay</a> , <a href=\"https://www.ktc.co.th/garminpay\" >Garmin Pay</a> , <a href=\"https://www.ktc.co.th/google-pay\" >Google Pay</a> and <a href=\"https://www.ktc.co.th/en/swatch-pay\" >SWATCHPAY!</a> bring payments to your wrist with  KTC credit cards."
+            ]
+        },
+        "img": [
+            "https://www.ktc.co.th/sites/cs/assets/ktc_css/img/card-details/i-fitbit-pay.svg",
+            "https://www.ktc.co.th/sites/cs/assets/ktc_css/img/card-details/i-garmin-pay.svg",
+            "https://www.ktc.co.th/sites/cs/assets/ktc_css/img/card-details/Logo-G-Pay.png",
+            "https://www.ktc.co.th/pub/media/sites/cs/assets/ktc_css/img/card-details/Logo-swatch-pay_1.png"
+    ],
+        "linkType": "link",
+        "DialogName": {
+            "th":"https://www.ktc.co.th/devicepay",
+            "en": "https://www.ktc.co.th/en/devicepay"
+        },
+        "LinkText": {
+            "th": "รายละเอียดข้อกำหนดและเงื่อนไข",
+            "en": "More Details and Terms and Conditions"
+        }
+    },
+    {
+        "bid": 11,
+        "BenefitName": "TravelInsurance",
+        "BenefitTitle": {
+            "th": "ประกันการเดินทาง",
+            "en": "Travel Insurance"
+        },
+        "BenefitDescriptions": {
+            "th": [
+                "ประกันอุบัติเหตุการเดินทางทั้งในและต่างประเทศ และประกันกระเป๋าเดินทางสูญเสีย หรือเสียหายจากการเดินทาง <a href=\"https://www.ktc.co.th/pub/media/creditcard/document/Creditcard-Travel-Insurance-20062023.pdf\">ดูรายละเอียด</a>"
+            ],
+            "en": [
+                "Insurance coverage for international & domestic flights and lost or damage baggage."
+            ]
+        },
+        "img": [
+            "https://www.ktc.co.th/sites/cs/assets/ktc_css/img/card-details/i-accident-insurance.svg"
+    ],
+        "linkType": "",
+        "DialogName": {
+            "th": "",
+            "en": ""
+        },
+        "LinkText": {
+            "th": "",
+            "en": ""
+        }
+    },
+    {
+        "bid": 12,
+        "BenefitName": "VisaContactless",
+        "BenefitTitle": {
+            "th": "แตะจ่ายง่าย ปลอดภัย รวดเร็ว ด้วย Visa Contactless",
+            "en": "Tap and go with Visa Contactless"
+        },
+        "BenefitDescriptions": {
+            "th": [
+                "เร็วกว่าและปลอดภัยด้วยการชำระเงินแบบไร้สัมผัสกับบัตรเครดิต KTC VISA ที่มีสัญลักษณ์&nbsp;<a href=\"https://www.ktc.co.th/credit-card/paywave\">Contactless</a>&nbsp;เพิ่มความคล่องตัวในการใช้จ่าย โดยไม่ต้องเสียบ / รูดบัตรที่เครื่องอ่านบัตร"
+            ],
+            "en": [
+                "With convenient, easy, and contactless payment without the need to swipe your KTC VISA credit card at the participating stores with the <a href=\"https://www.ktc.co.th/credit-card/paywave\">Contactless</a> sign."
+            ]
+        },
+        "img": [
+            "https://www.ktc.co.th/sites/cs/assets/ktc_css/img/card-details/i-Visa-Contactless.svg"
+    ],
+        "linkType": "",
+        "DialogName": {
+            "th": "",
+            "en": ""
+        },
+        "LinkText": {
+            "th": "",
+            "en": ""
+        }
+    },
+    {
+        "bid": 13,
+        "BenefitName": "MastercardContactless",
+        "BenefitTitle": {
+            "th": "แตะจ่ายง่าย ปลอดภัย รวดเร็ว ด้วย Mastercard Contactless",
+            "en": "Tap & go with Mastercard Contactless"
+        },
+        "BenefitDescriptions": {
+            "th": [
+                "เร็วกว่าและปลอดภัยด้วยการชำระเงินแบบไร้สัมผัสกับบัตรเครดิต KTC MASTERCARD ที่มีสัญลักษณ์ <a class=\"link-more\" href=\"/en/credit-card/contactless\" target=\"_blank\">Mastercard Contactless</a> เพิ่มความคล่องตัวในการใช้จ่ายโดยไม่ต้องเสียบ / รูดบัตรที่เครื่องอ่านบัตร"
+            ],
+            "en": [
+                "With convenient, easy, and contactless payment without the need to swipe your KTC MASTERCARD credit card at participating stores with the <a class=\"link-more\" href=\"/en/credit-card/contactless\" target=\"_blank\">Mastercard Contactless</a>signage."
+            ]
+        },
+        "img": [
+            "https://www.ktc.co.th/sites/cs/assets/ktc_css/img/card-details/i-contactless.svg"
+    ],
+        "linkType": "",
+        "DialogName": {
+            "th": "",
+            "en": ""
+        },
+        "LinkText": {
+            "th": "",
+            "en": ""
+        }
+    },
+    {
+        "bid": 14,
+        "BenefitName": "KTCPERSONALASSISTANT5444",
+        "BenefitTitle": {
+            "th": "บริการผู้ช่วยส่วนตัว (KTC PERSONAL ASSISTANT)",
+            "en": "KTC PERSONAL ASSISTANT"
+        },
+        "BenefitDescriptions": {
+            "th": [
+                "บริการให้ข้อมูลและคำแนะนำ",
+                "<span class=\"tw-text-left\">&bull; ในการจองตั๋วเครื่องบิน โต๊ะอาหาร บริการจัดส่งของขวัญ และดอกไม้</span>",
+                "<span class=\"tw-text-left\">&bull; ในการแจ้งเตือนล่วงหน้าในโอกาสพิเศษต่าง ๆ</span>",
+                "<span class=\"tw-text-left\">&bull; ในการบริการดูแลเรื่องบ้าน</span>",
+                "<span class=\"tw-text-left\">&bull; การช่วยเหลือฉุกเฉินทางการแพทย์</span>",
+                "บริการข้างต้นเป็นการให้ข้อมูล คำแนะนำ และประสานงานส่วนบุคคลเท่านั้น การบริการนี้ไม่รวมถึงการบริการเพื่อการพาณิชย์หรือสิ่งผิดกฎหมาย ค่าใช้จ่ายใดๆ ที่เกิดขึ้นสำหรับสินค้าหรือบริการดังกล่าว สมาชิกบัตรฯ ต้องเป็นผู้รับผิดชอบเอง",
+                "สมาชิกบัตรฯ สามารถติดต่อเจ้าหน้าที่ได้ทุกวัน ตลอด 24 ชั่วโมง ที่ KTC PERSONAL ASSISTANT 02 123 54444 กด 0",
+                "ดูรายละเอียดเพิ่มเติมอื่นๆ ที่ <a href=\"https://www.ktc.co.th/contact/personal-assistant?utm_source=Website&utm_medium=Creditcard&utm_campaign=Concierge-Service&utm_content=Textlink\" >www.ktc.co.th/personal-assistant</a>"
+            ],
+            "en": [
+                "Providing advice and information/assistance on",
+                "&bull; Air-ticket, restaurant reservations and gift & flower delivery.",
+                "&bull; Special event notification.",
+                "&bull; Home maintenance service.",
+                "&bull; Medical emergency service.",
+                "The above services are intended for providing information, recommendation and coordination for personal use only, and not intended for commercial or illegal purposes. The cardmember shall be held responsible for the expenses incurred from such services.",
+                "KTC PERSONAL ASSISTANT is available 24 hours every day at 02 123 54444 press 0.",
+                "For more information, please visit <a href=\"https://www.ktc.co.th/en/contact/personal-assistant?utm_source=Website&utm_medium=Creditcard&utm_campaign=Concierge-Service&utm_content=Textlink\" >www.ktc.co.th/contact/personal-assistant</a>"
+            ]
+        },
+        "img": [
+            "https://www.ktc.co.th/sites/cs/assets/ktc_css/img/card-details/i-personal-assistant.svg"
+        ],
+        "linkType": "",
+        "DialogName": {
+            "th": "",
+            "en": ""
+        },
+        "LinkText": {
+            "th": "",
+            "en": ""
+        }
+    },
+    {
+        "bid": 15,
+        "BenefitName": "KTCWorldTravelService",
+        "BenefitTitle": {
+            "th": "บริการผู้ช่วยส่วนตัว (KTC PERSONAL ASSISTANT)",
+            "en": "Travel with KTC World Travel Service"
+        },
+        "BenefitDescriptions": {
+            "th": [
+                "บริการข้อมูลเพื่อการเดินทางและท่องเที่ยว พร้อมรับส่วนลดประกันท่องเที่ยว 20% สอบถามรายละเอียดและเงื่อนไขเพิ่มเติม โทร. 02 123 5050"
+            ],
+            "en": [
+                "Offering tourism and travelling information services with a maximum of 20% discount on travel insurance. For more information, please call 02 123 5050 or visit <a href=\"https://www.ktcworld.co.t\">www.ktcworld.co.th</a>"
+            ]
+        },
+        "img": [
+            "https://www.ktc.co.th/sites/cs/assets/ktc_css/img/card-details/i-travel-service.svg"
+        ],
+        "linkType": "",
+        "DialogName": {
+            "th": "",
+            "en": ""
+        },
+        "LinkText": {
+            "th": "",
+            "en": ""
+        }
+    }
+]

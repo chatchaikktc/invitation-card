@@ -1,0 +1,10 @@
+.youtubeiframe iframe{
+    border-radius: 28px;
+}
+
+@media screen and (max-width: 768px) {
+    .youtubeiframe iframe{
+        height: 200px !important;
+    }
+    
+}
