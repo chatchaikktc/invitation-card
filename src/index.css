@@ -183,6 +183,10 @@
   line-height: 1.4;
   color: #5B6670;
 }
+body{
+  background: #000000;
+  color: #ffffff;
+}
 
 @layer utilities {
   @media (max-width: 576px) {

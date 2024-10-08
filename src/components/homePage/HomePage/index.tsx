@@ -6,6 +6,11 @@ import SecondaryMenuSection from "@/components/secondaryMenuSection/SecondaryMen
 import Header from "@/components/header/Header";
 import Footer from "@/components/footer/Footer";
 import CheckTotop from "@/components/ui/checkTotop/CheckTotop";
+import HeadSection from '@/components/headSection/HeadSection';
+import PrivillegeSection from '@/components/privilegeSection/PrivilegeSection';
+
+import '@/index.css'
+
 
 
 function HomePage() {
@@ -39,8 +44,8 @@ function HomePage() {
         <SectionProvider>
             {import.meta.env.MODE !== "production" && <Header />}
             <main className="tw-min-h-screen">
-                <SecondaryMenuSection />
-
+                <HeadSection selectedCard={selectedCard} />
+                <PrivillegeSection selectedCard={selectedCard} />
                 <CheckTotop />
             </main>
             {import.meta.env.MODE !== "production" && <Footer />}

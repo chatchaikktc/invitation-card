@@ -1,0 +1,31 @@
+[
+    {
+        "cardID": 1,
+        "cardName" : "KTC VISA INFINITE",
+        "cardBrand" : "VISA",
+        "isHighTier": true,
+        "cardLink": "ktc-visa-infinite",
+        "privilegeitems": [
+            "KTCFOREVERPOINT","PRIORITYPASS"
+        ],
+        "specialPrivilege":{
+            "title":{
+                "th": "สิทธิพิเศษ Visa Infinite",
+                "en": "Visa Infinite Privileges"
+            },
+            "subTitle":{
+                "th": "สิทธิพิเศษ Visa Infinite",
+                "en": "Visa Infinite Privileges"
+            },
+            "specialPrivilegeItems":[""]
+
+        },
+        "BenefitName": [ 
+            "AnnualFee","KTCPERSONALASSISTANT","EasyInstallments","AccidentalInsurance","TravelInsurance","CashWithdrawal","RewardsPoints","DevicePay","VisaContactless"
+        ],
+        "headSectionImage": "https://www.ktc.co.th/pub/media/creditcard/invitation/ktc-visa-infinite/img/bg-hero.png",
+        "footerSectionImage": "https://www.ktc.co.th/ktc/images/ktc-visa-infinite-hero-banner.jpg",
+        "cardImage": "https://www.ktc.co.th/pub/media/sites/creditcard/img/new-cards/KTC-VISA-INFINITE.webp",
+        "isActive": true
+    }
+]

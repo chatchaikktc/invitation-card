@@ -1,0 +1,60 @@
+[
+    {
+        "privilegeID": 1,
+        "privilegeName": "KTCFOREVERPOINT",
+        "isSpecial": false,
+        "positionImage": "left",
+        "title": {
+            "th": "KTC FOREVER Point",
+            "en": "KTC FOREVER Point"
+        },
+        "description": {
+            "th": [
+                "รับคะแนน KTC FOREVER x3 เมื่อใช้จ่ายผ่านบัตรฯ ครบทุก 600,000 บาทในหมวดร้านอาหาร ช้อปปิ้ง ท่องเที่ยว ในประเทศไทย และการใช้จ่ายเป็นสกุลเงินต่างประเทศ",
+                "(ยกเว้น 31 ประเทศในเขตเศรษฐกิจยุโรปและสาธารณรัฐประชาชนจีน)",
+                "ตั้งแต่วันที่ 1 ม.ค. 67 - 31 ธ.ค. 67"
+            ],
+            "en": [
+                "บริการห้องรับรอง Priority Pass ณ สนามบินทั่วโลกกว่า 1,000 แห่ง ให้ท่านพักผ่อนระหว่างรอเที่ยวบิน พร้อมด้วยอาหารว่าง เครื่องดื่มนานาชนิด และบริการสื่อสารต่างๆ"
+            ]
+        },
+        "imgaePath": "https://www.ktc.co.th/pub/media/creditcard/invitation/ktc-visa-infinite/img/x3.png",
+        "buttonType": "dialog",
+        "buttonLink": {
+            "th": "KTCFOREVERPOINT",
+            "en": "KTCFOREVERPOINT"
+        },
+        "buttonText": {
+            "th": "เงื่อนไขการรับคะแนน",
+            "en": "Details"
+        }
+    },
+    {
+        "privilegeID": 1,
+        "privilegeName": "PRIORITYPASS",
+        "isSpecial": false,
+        "positionImage": "left",
+        "title": {
+            "th": "Priority Pass",
+            "en": "Priority Pass"
+        },
+        "description": {
+            "th": [
+                "บริการห้องรับรอง Priority Pass ณ สนามบินทั่วโลกกว่า 1,000 แห่ง ให้ท่านพักผ่อนระหว่างรอเที่ยวบิน พร้อมด้วยอาหารว่าง เครื่องดื่มนานาชนิด และบริการสื่อสารต่างๆ"
+            ],
+            "en": [
+                "บริการห้องรับรอง Priority Pass ณ สนามบินทั่วโลกกว่า 1,000 แห่ง ให้ท่านพักผ่อนระหว่างรอเที่ยวบิน พร้อมด้วยอาหารว่าง เครื่องดื่มนานาชนิด และบริการสื่อสารต่างๆ"
+            ]
+        },
+        "imgaePath": "https://www.ktc.co.th/pub/media/creditcard/invitation/ktc-visa-infinite/img/Priority-Pass.png",
+        "buttonType": "dialog",
+        "buttonLink": {
+            "th": "KTCFOREVERPOINT",
+            "en": "KTCFOREVERPOINT"
+        },
+        "buttonText": {
+            "th": "รายละเอียดเพิ่มเติม",
+            "en": "Details"
+        }
+    }
+]
