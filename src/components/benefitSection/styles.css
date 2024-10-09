@@ -1,0 +1,8 @@
+#BenefitSection a{
+    color: #ffffff !important;
+    text-decoration: underline;
+}
+#BenefitSection a:hover{
+    color: #D0B185 !important;
+    text-decoration: none;
+}

@@ -1,0 +1,88 @@
+[
+    {
+        "qualificationsID": 1,
+        "qualificationName": "KRUNGTHAIICONIC",
+        "QualificationsTabs": [
+            {
+                "tabTitle": {
+                    "th": "สำหรับบัตรหลัก",
+                    "en": "Primary Card"
+                },
+                "tabContent": [
+                    {
+                        "title": {
+                            "th": "คุณสมบัติผู้สมัคร",
+                            "en": "Qualifications of Primary Card Applicants"
+                        },
+                        "content": {
+                            "th": [
+                                "อายุ 20 ปีบริบูรณ์ขึ้นไป",
+                                "มี<strong>ยอดรวมสินทรัพย์*</strong> ตั้งแต่ 2 ล้านบาท แต่ไม่ถึง 10 ล้านบาท"
+                            ],
+                            "en": [
+                                "Aged 20 years and above",
+                                "Have <strong>total assets*</strong> from 2 million baht but less than 10 million baht"
+                            ]
+                        }
+                    },
+                    {
+                        "title": {
+                            "th": "เอกสารประกอบการสมัคร",
+                            "en": "Supporting Documents"
+                        },
+                        "content": {
+                            "th": [
+                                "สำเนาบัตรประจำตัวประชาชน",
+                                "หนังสือรับรองการแจ้งยอดเงินฝาก/เงินลงทุนในตราสารหนี้/กองทุนรวม ซึ่งรับรองโดยผู้จัดการสาขาพร้อมประทับตราธนาคารกรุงไทย",
+                                "เอกสารแสดงรายได้ (อย่างใดอย่างหนึ่ง) เช่น สลิปเงินเดือน, หนังสือรับรองเงินเดือน, หนังสือรับรองการหักภาษี ณ ที่จ่าย (50 ทวิ), สำเนาบัญชีธนาคารในนามผู้สมัครย้อนหลัง 6 เดือน"
+                            ],
+                            "en": [
+                                "Copy of National ID card",
+                                "Certificate of deposit/investment in debt instruments/mutual funds, which is certified by the branch manager with Krungthai Bank seal",
+                                "Proof of income (Any one) e.g., salary certificate or recent salary slip, or tax deduction certificate Form P.N.D.50, copy of bank statements in the applicant's name for the past 6 months."
+                            ]
+                        }
+                    }
+                ]
+            },
+            {
+                "tabTitle": {
+                    "th": "สำหรับบัตรเสริม",
+                    "en": "Supplementary Card"
+                },
+                "tabContent": [
+                    {
+                        "title": {
+                            "th": "คุณสมบัติผู้สมัคร",
+                            "en": "Qualifications of Primary Card Applicants"
+                        },
+                        "content": {
+                            "th": [
+                                "บุคคลธรรมดาที่มีอายุตั้งแต่ 15 ปี บริบูรณ์ขึ้นไป สูงสุดไม่เกิน 80 ปี"
+                            ],
+                            "en": [
+                                "Age: 15 to 80 years"
+                            ]
+                        }
+                    },
+                    {
+                        "title": {
+                            "th": "เอกสารประกอบการสมัคร",
+                            "en": "Documents"
+                        },
+                        "content": {
+                            "th": [
+                                "แนบสำเนาบัตรประจำตัวประชาชนของบัตรหลักและบัตรเสริม",
+                                "กรณีอายุต่ำกว่า 20 ปี ต้องแนบเอกสารเพิ่มเติมดังนี้ หนังสือยินยอมจากบิดา/มารดา/ผู้แทนโดยชอบธรรม เว้นแต่เป็นบุตรของผู้ถือบัตรหลัก และสำเนาทะเบียนบ้านของบัตรเสริม"
+                            ],
+                            "en": [
+                                "Copy of both primary and supplementary ID cards.",
+                                "If you're under 20, include: Parent/guardian consent letter (unless you're the cardholder's child) and Copy of the supplementary cardholder's residence registration."
+                            ]
+                        }
+                    }
+                ]
+            }
+        ]
+    }
+]

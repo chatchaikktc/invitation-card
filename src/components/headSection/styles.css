@@ -1,6 +1,6 @@
 .hero-banner {
     background-repeat: no-repeat !important;
     background-size: cover !important;
-    -webkit-box-shadow: inset 0px -15px 25px #000 !important;
-    box-shadow: inset 0px -15px 25px #000;
+    -webkit-box-shadow: inset 0px -25px 25px #000 !important;
+    box-shadow: inset 0px -25px 25px #000;
 }

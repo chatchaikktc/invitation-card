@@ -21,7 +21,7 @@ function PrivillegeSection({selectedCard} : PrivillegeSectionProps) {
         return <div>Card not found</div>;
     }
   return (
-    <section id="PrivilegeSection" className="tw-mt-[60px] tw-py-[80px]">
+    <section id="PrivilegeSection" className="tw-mt-[60px] tw-py-[40px]">
         <Container>
         {findCard.map((card) => (
             <div className="lg:tw-px-20 tw-px-5">
