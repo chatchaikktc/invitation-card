@@ -118,6 +118,9 @@ export default {
         "Home": "หน้าหลัก",
         creditCard : "บัตรเครดิต",
       },
+      "Qualifications":{
+        "Qualifications and Supporting Documents for Credit Card Application Primary Card" : "คุณสมบัติ และเอกสารประกอบการสมัครบัตรเครดิต"
+      }
     }
   }
 }

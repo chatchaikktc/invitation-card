@@ -36,6 +36,7 @@
         "cardName" : "KTC - KTB <br>PRECIOUS PLUS <br>VISA INFINITE",
         "cardBrand" : "VISA",
         "cardType" : "CREDITCARD",
+        "cardQualifications" : "",
         "cardImage": "https://www.ktc.co.th/pub/media/sites/creditcard/img/new-cards/KTB-PRECIOUS-PLUS-VISA-INFINITE-01.webp",
         "isHighTier": true,
         "cardLink": "ktc-ktb-precious-plus-visa-infinite",

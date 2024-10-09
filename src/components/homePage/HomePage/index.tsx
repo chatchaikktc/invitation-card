@@ -7,9 +7,13 @@ import CheckTotop from "@/components/ui/checkTotop/CheckTotop";
 import HeadSection from '@/components/headSection/HeadSection';
 import PrivillegeSection from '@/components/privilegeSection/PrivilegeSection';
 import SpecialPrivillegeSection from '@/components/specialPrivilegeSection/SpecialPrivilegeSection';
+import BenefitSection from '@/components/benefitSection/BenefitSection';
 
 import '@/index.css'
-import BenefitSection from '@/components/benefitSection/BenefitSection';
+
+//load data
+import CardData from '@/data/CreditCardData.json';
+import QualificationsSection from '@/components/qualificationsSection/QualificationsSection';
 
 function HomePage() {
     const { cardname } = useParams();
@@ -26,6 +30,17 @@ function HomePage() {
         fetchData();
     }, [selectedCard]);
 
+    console.log(cardData);
+
+
+    const findCard = CardData.filter((card) => card.cardLink === selectedCard && card.isActive === true);
+
+    const card = findCard.length > 0 ? findCard[0] : null;
+
+    if (!card) {
+        return <div>Card not found</div>;
+    }
+
     return (
         <SectionProvider>
             {import.meta.env.MODE !== "production" && <Header />}
@@ -34,6 +49,9 @@ function HomePage() {
                 <PrivillegeSection selectedCard={selectedCard} />
                 <SpecialPrivillegeSection selectedCard={selectedCard} />
                 <BenefitSection selectedCard={selectedCard} />
+                {
+                    card.cardType === 'KTBWHEALTH' &&(<QualificationsSection selectedCard={selectedCard}/>)
+                }
                 <CheckTotop />
             </main>
             {import.meta.env.MODE !== "production" && <Footer />}
