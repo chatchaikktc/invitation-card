@@ -21,14 +21,14 @@ function BreadcrumbSection({ cardName, className}: BreadcrumbSectionProps) {
                 <nav className="flex" aria-label="Breadcrumb">
                     <ol className="tw-inline-flex tw-items-center tw-space-x-1 md:tw-space-x-2 rtl:tw-space-x-reverse tw-text-[12px] tw-mt-2">
                         <li className={twMerge("first:tw-hidden tw-text-[rgba(91,102,112,0.6)]")}>/</li>
-                        <li className={twMerge("last:tw-font-bold tw-inline-flex tw-items-center tw-text-[12px] tw-font-medium hover:tw-text-[#121212] last:tw-text-[#121212] tw-text-[#ffffff]")}>
-                            <a href={t('BreadcrumbSection.Home Link')} className="">{t('BreadcrumbSection.Home')}</a>
+                        <li className={twMerge("last:tw-font-bold tw-inline-flex tw-items-center tw-text-[12px] tw-font-medium  last:tw-text-[#121212] tw-text-[#ffffff]")}>
+                            <a href={t('BreadcrumbSection.Home Link')} className="hover:tw-text-[rgba(91,102,112,0.6)]">{t('BreadcrumbSection.Home')}</a>
                         </li>
                         <li className={twMerge(" first:tw-hidden tw-text-[rgba(91,102,112,0.6)]")}>/</li>
                         <li className={twMerge("last:tw-font-bold tw-inline-flex tw-items-center tw-text-[12px] tw-font-medium hover:tw-text-[#121212] last:tw-text-[#121212] tw-text-[rgba(#ffffff]")}>
                             
                                 {cardName ? (
-                                    <a href={`${BaseURL}`} className="">
+                                    <a href={`${BaseURL}`} className="hover:tw-text-[rgba(91,102,112,0.6)]">
                                         {t('BreadcrumbSection.creditCard')}
                                     </a>
                                 ) : (

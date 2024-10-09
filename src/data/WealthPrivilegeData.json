@@ -1,0 +1,24 @@
+[
+    {
+        "title" : {
+            "th" : "สิทธิพิเศษลูกค้า Krungthai Wealth ที่มียอดรวมสินทรัพย์* ตามเงื่อนไข",
+            "en" : "Special Privilege for Krungthai Wealth customers who meet the specified total asset* conditions"
+        },
+        "subTitle" :{
+            "th" : "สามารถสมัครบัตรด้วยตนเอง ได้ที่ ธนาคารกรุงไทยทุกสาขา",
+            "en" : "can apply for the card by yourself at any Krungthai Bank branches."
+        },
+        "note" : {
+            "th" : [
+                "*“ยอดรวมสินทรัพย์” หมายถึง ยอดรวมผลิตภัณฑ์เงินฝาก, หุ้นกู้ ที่ออกโดยธนาคาร และกองทุนรวมกับธนาคารคงเหลือ ณ ปัจจุบัน <br>(ยกเว้นบัญชีเงินฝากออมทรัพย์, บัญชีกระแสรายวันแบบไม่มีวงเงินเบิกเกินบัญชี, กองทุนรวมตลาดเงิน, กองทุนรวม KTPLUS และ KTSTPLUS-A ที่คำนวณจากค่าเฉลี่ยย้อนหลัง 180 วัน) บวกด้วยยอดรวมของผลิตภัณฑ์ประกันชีวิตที่ชำระในปีทั้งนี้ไม่รวมถึงกองทุนเปิดที่มีการซื้อขาย ในตลาดหลักทรัพย์แห่งประเทศไทย รายละเอียดและเงื่อนไขเป็นไปตามที่ธนาคารกำหนด",
+                "เคทีซีขอสงวนสิทธิ์ในการมอบบัตรเครดิต KTC - KRUNGTHAI ICONIC 1 ท่าน ต่อ 1 ใบ และมีผู้ถือบัตรเสริมได้สูงสุดไม่เกิน 2 ใบ เท่านั้น",
+                "สำหรับผู้สมัครใหม่ที่เคยเป็นสมาชิกบัตรเคทีซีขอสงวนสิทธิ์การพิจารณาอนุมัติบัตรในกรณีที่ยกเลิกบัตรมาแล้วไม่ต่ำกว่า 2 ปี (24 เดือน)"
+            ],
+            "en" : [
+                "*“Total assets” means the total of deposit products, debentures issued by the bank. and mutual funds with the bank currently outstanding (except savings accounts, current accounts without overdraft limits, money market funds, KTPLUS and KTSTPLUS-A mutual funds calculated from the historical average of 180 days) plus the total amount of Life insurance products that are paid in a year. This does not include open-end funds that are traded on the Stock Exchange of Thailand. Details and conditions are as specified by the bank.",
+                "KTC reserves the right to grant KTC - KRUNGTHAI ICONIC credit card 1 person per 1 card and a maximum of 2 supplementary card holders only.",
+                "For new applicants who were former card members, KTC reserves the right to consider card approval in cases where the card has been canceled for at least 2 years (24 months)."
+            ]
+        }
+    }
+]

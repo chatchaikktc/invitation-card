@@ -1,8 +1,8 @@
-#QualificationsSection {
+.QualificationsSection-bg {
     background: radial-gradient(circle at center -50%, rgba(0, 56, 194, 1) 0%, rgba(0, 0, 0, 1) 45%);
     background-size: 200% 100%;
     background-position: center top;
     position: relative;
-    width: 844px;
+
     margin: auto;
 }

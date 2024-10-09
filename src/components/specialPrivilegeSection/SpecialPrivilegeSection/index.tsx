@@ -83,7 +83,7 @@ function PrivilegeDetail({ id }: PrivilegeDetailProps) {
                 <div className={twMerge(privilege.positionImage == "left" ? "tw-order-2" : "tw-order-1","tw-px-10")}>
                     <h2 className="tw-text-[25px] tw-text-[#D0B185] tw-font-bold tw-mb-3">{parse(tc(privilege.title))}</h2>
                     <div className="tw-text-[18px]"><DetailsItems item={tc(privilege.description)} /></div>
-                    <button className="tw-mt-5 tw-py-[4px] tw-px-4 tw-border-[1px] tw-border-solid tw-border-white tw-text-white hover:tw-text-black hover:tw-bg-white tw-rounded-[100px]">{tc(privilege.buttonText)}</button>
+                    <button className="tw-mt-5 tw-py-[4px] tw-px-4 tw-border-[1px] tw-border-solid tw-border-white tw-text-white hover:tw-text-black hover:tw-bg-white tw-rounded-[100px] tw-transition tw-ease-in tw-delay-150 duration-150">{tc(privilege.buttonText)}</button>
                 </div>
             </div>
         </>

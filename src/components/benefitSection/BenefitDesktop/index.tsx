@@ -1,7 +1,7 @@
 //load component and module
 import parse from "html-react-parser";
 import { translateContent as tc } from "@/lib/i18n";
-import { twMerge } from "@/lib/twMerge";
+// import { twMerge } from "@/lib/twMerge";
 import {htmlStripper} from "@/components/ui/HtmlStripper";
 import Image from "@/components/ui/Image";
 
