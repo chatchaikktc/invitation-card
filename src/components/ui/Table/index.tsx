@@ -33,16 +33,16 @@ function Tables({ tableData, className}: TableProps) {
         title: tc(column.title),
         dataIndex: column.dataIndex,
         key: column.key,
-        render: (text: any) => (
-            <span className="tw-text-white tw-font-medium">
-                {typeof parser(tc(text)) === 'object' ? parser(tc(text)) : parser(tc(text))}
+        render: (text: { en: string; th: string } | string) => (
+            <span className="tw-text-white tw-font-[14px]">
+                {typeof text === 'object' ? parser(tc(text).toString()) : parser(text)}
             </span>
         )
     }));
 
     // สร้าง dataSource ให้มีการแยกประเภทข้อมูลอย่างชัดเจน
     const dataSource = tableData.dataSource.map(item => {
-        const newItem: Record<string, any> = { key: item.key };
+        const newItem: Record<string, string | { en: string; th: string }> = { key: item.key };
         tableData.columns.forEach(column => {
             newItem[column.dataIndex] = item[column.dataIndex];
         });

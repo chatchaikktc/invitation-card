@@ -111,7 +111,7 @@ export function DialogOverlay({ className, ...props }: BaseDialog.DialogOverlayP
     return (
         <BaseDialog.Overlay
             className={twMerge(
-                "tw-fixed tw-inset-0 tw-bg-black tw-bg-opacity-50 tw-z-[9999]",
+                "tw-fixed tw-inset-0 tw-bg-black tw-bg-opacity-80 tw-z-[9999]",
                 className
             )}
             {...props}

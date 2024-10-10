@@ -4,6 +4,7 @@ import { translateContent as tc } from "@/lib/i18n";
 // import { twMerge } from "@/lib/twMerge";
 import {htmlStripper} from "@/components/ui/HtmlStripper";
 import Image from "@/components/ui/Image";
+import ButtonDialog from "@/components/termsAndConditions/TermsAndConditions";
 
 //load data
 import BenefitData from '@/data/BenefitData.json';
@@ -59,7 +60,7 @@ function BenefitItem({ benefitName }: BenefitItemProps) {
                     <div className="tw-text-[16px] tw-text-white tw-min-h-[150px]">
                         <Description item={tc(benefit.description)} />
                     </div>
-                    {benefit.buttonType.length == 0 ? null : <button className="tw-mt-5 tw-py-[4px] tw-block tw-mx-auto tw-w-fit tw-px-4 tw-border-[1px] tw-border-solid tw-border-white tw-text-white hover:tw-text-black hover:tw-bg-white tw-rounded-[100px]">{parse(tc(benefit.buttonText))}</button>}
+                    {benefit.buttonType.length == 0 ? null : <ButtonDialog DialogID={tc(benefit.buttonLink)} className="tw-mt-5 tw-py-[4px] tw-px-4 tw-border-[1px] tw-border-solid tw-border-white tw-text-white hover:tw-text-black hover:tw-bg-white tw-rounded-[100px] tw-transition tw-ease-in tw-delay-150 duration-150 tw-block tw-w-fit tw-mx-auto">{tc(benefit.buttonText)}</ButtonDialog>}
                 </div>
             ))}
         </>

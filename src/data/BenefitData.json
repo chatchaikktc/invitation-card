@@ -36,7 +36,7 @@
         "description" : {
             "th": [
                 "บริการให้ข้อมูลและคำแนะนำ",
-                "<ul><li>ในการจองตั๋วเครื่องบิน โต๊ะอาหาร บริการจัดส่งของขวัญ และดอกไม้</li><li>ในการแจ้งเตือนล่วงหน้าในโอกาสพิเศษต่าง ๆ</li></ul>"
+                "<ul class=\"tw-list-disc tw-pl-5\"><li>ในการจองตั๋วเครื่องบิน โต๊ะอาหาร บริการจัดส่งของขวัญ และดอกไม้</li><li>ในการแจ้งเตือนล่วงหน้าในโอกาสพิเศษต่าง ๆ</li></ul>"
             ],
             "en": [
                 "Providing advice and information/assistance on",
@@ -45,8 +45,8 @@
         },
         "buttonType": "dialog",
         "buttonLink": {
-            "th": "",
-            "en": ""
+            "th": "KTCPERSONALASSISTANT",
+            "en": "KTCPERSONALASSISTANT"
         },
         "buttonText": {
             "th": "รายละเอียดเพิ่มเติม",
@@ -64,8 +64,7 @@
         },
         "description" : {
             "th": [
-                "บริการให้ข้อมูลและคำแนะนำ",
-                "<ul><li>ในการจองตั๋วเครื่องบิน โต๊ะอาหาร บริการจัดส่งของขวัญ และดอกไม้</li><li>ในการแจ้งเตือนล่วงหน้าในโอกาสพิเศษต่าง ๆ</li></ul>"
+                "ชำระสินค้า / บริการด้วยอัตราดอกเบี้ยพิเศษ 0% สูงสุด 10 เดือน ผ่านบริการ <a href=\"https://www.ktc.co.th/installment\">ผ่อนชำระกับ บัตรเครดิต KTC</a>"
             ],
             "en": [
                 "Pay for products/services at a special interest rate of 0% up to 10 months through <a href=\"https://www.ktc.co.th/en/installment\">the installment payments</a> with KTC credit card."
@@ -73,8 +72,8 @@
         },
         "buttonType": "dialog",
         "buttonLink": {
-            "th": "",
-            "en": ""
+            "th": "EXCLUSIVEINSTALLMENT",
+            "en": "EXCLUSIVEINSTALLMENT"
         },
         "buttonText": {
             "th": "รายละเอียดเพิ่มเติม",
@@ -100,8 +99,8 @@
         },
         "buttonType": "dialog",
         "buttonLink": {
-            "th": "",
-            "en": ""
+            "th": "ACCIDENTALINSURANCE",
+            "en": "ACCIDENTALINSURANCE"
         },
         "buttonText": {
             "th": "รายละเอียดเพิ่มเติม",
@@ -127,8 +126,8 @@
         },
         "buttonType": "dialog",
         "buttonLink": {
-            "th": "",
-            "en": ""
+            "th": "TRAVELINSURANCE",
+            "en": "TRAVELINSURANCE"
         },
         "buttonText": {
             "th": "รายละเอียดเพิ่มเติม",
@@ -181,8 +180,8 @@
         },
         "buttonType": "dialog",
         "buttonLink": {
-            "th": "",
-            "en": ""
+            "th": "CASHWITHDRAWAL",
+            "en": "CASHWITHDRAWAL"
         },
         "buttonText": {
             "th": "รายละเอียดเพิ่มเติม",
@@ -208,8 +207,8 @@
         },
         "buttonType": "dialog",
         "buttonLink": {
-            "th": "",
-            "en": ""
+            "th": "KTCFOREVERPOINT",
+            "en": "KTCFOREVERPOINT"
         },
         "buttonText": {
             "th": "รายละเอียดเพิ่มเติม",

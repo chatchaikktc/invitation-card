@@ -64,7 +64,7 @@ function QualificationsSection({ selectedCard }: QualificationsSectionProps) {
                                     key={index}
                                     value={tc(qualification.tabTitle)}
                                     onClick={() => setSelectedTab(index)} // เมื่อคลิกแท็บ ให้เปลี่ยน selectedTab
-                                    className="data-[state=active]:tw-bg-[#357cff] hover:tw-bg-[#357cff] tw-border-[1px] tw-border-solid data-[state=active]:tw-border-[#357cff] hover:tw-border-[#357cff] tw-border-white tw-font-bold tw-py-[.5rem] tw-rounded-[8px] tw-transition tw-ease-in-line tw-delay-150"
+                                    className="data-[state=active]:tw-bg-[#357cff] hover:tw-bg-[#357cff] tw-border-[1px] tw-border-solid data-[state=active]:tw-border-[#357cff] hover:tw-border-[#357cff] tw-border-white tw-font-bold tw-py-[.5rem] tw-rounded-[8px] tw-transition tw-ease-in-line tw-delay-150 tw-text-center"
                                 >
                                     {parse(tc(qualification.tabTitle))}
                                 </TabTrigger>

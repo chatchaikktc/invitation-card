@@ -254,10 +254,10 @@
         },
         "imgaePath": "https://www.ktc.co.th/pub/media/creditcard/invitation/img/visa-privillages-banner-1108x250px.jpg",
         "objectSize": "cover",
-        "buttonType": "DIALOG",
+        "buttonType": "LINK",
         "buttonLink": {
-            "th": "VISAPRIVILEGE",
-            "en": "VISAPRIVILEGE"
+            "th": "https://www.ktc.co.th/promotion/exclusive-card-brands/visa",
+            "en": "https://www.ktc.co.th/en/promotion/exclusive-card-brands/visa"
         },
         "buttonText": {
             "th": "รายละเอียดเพิ่มเติม",

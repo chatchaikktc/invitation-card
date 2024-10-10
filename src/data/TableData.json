@@ -154,5 +154,148 @@
                 }
             }
         ]
+    },
+    {
+        "tableID": 1,
+        "tableName": "50GREENFEE",
+        "tableTitle": {
+            "th": "สนามกอล์ฟที่ร่วมรายการ",
+            "en": "Participating Golf Course"
+        },  
+        "columns": [
+            {
+                "title": {
+                    "th": "สนามกอล์ฟ",
+                    "en": "Golf Course"
+                },
+                "dataIndex": "GolfCourse",
+                "key": "GolfCourse"
+            },
+            {
+                "title": {
+                    "th": "ที่อยู่",
+                    "en": "Location"
+                },
+                "dataIndex": "Location",
+                "key": "Location"
+            },
+            {
+                "title": {
+                    "th": "หมายเหตุ",
+                    "en": "Remark"
+                },
+                "dataIndex": "Remark",
+                "key": "Remark"
+            }
+            
+        ],
+        "dataSource":[
+            {
+                "key": "1",
+                "GolfCourse": {
+                    "th": "ซัมมิท วินด์มิลล์ กอล์ฟ คลับ",
+                    "en": "Summit Windmill"
+                },
+                "Location": {
+                    "th": "ถนนบางนา – ตราด กม. 10.5 บางพลี สมุทรปราการ",
+                    "en": "Bangna-Trad Rd., Km. 10.5, Bangplee, Samuthprakarn"
+                },
+                "Remark": {
+                    "th": "วันธรรมดา 06.00-14.00 น.<br>วันเสาร์-อาทิตย์ 12.00-13.00 น.",
+                    "en": "Weekdays 06.00 am. – 14.00 pm.<br>Saturday - Sunday 12.00 – 13.00 pm."
+                }
+            },
+            {
+                "key": "2",
+                "GolfCourse": {
+                    "th": "ปัญญา อินทรา กอล์ฟ คลับ",
+                    "en": "Panya Golf Club"
+                },
+                "Location": {
+                    "th": "ถนนปัญญารามอินทรา กม. 9 คันนายาว กรุงเทพฯ",
+                    "en": "Panyaramindra Rd., Km. 9, Khannayao, Bangkok"
+                },
+                "Remark": {
+                    "th": "เฉพาะวันอังคาร-วันศุกร์ 06.00-13.12 น.<br>วันเสาร์-อาทิตย์ 12.00-13.12 น",
+                    "en": "Only Tuesday – Friday 06.00 am. – 13.12 pm.<br>Saturday - Sunday 12.00 – 13.12 pm."
+                }
+            },
+            {
+                "key": "3",
+                "GolfCourse": {
+                    "th": "สยาม คันทรี่ คลับ พัทยา",
+                    "en": "Siam Country Club"
+                },
+                "Location": {
+                    "th": "ถนนพรประภา ตำบลโป่ง บางละมุง ชลบุรี",
+                    "en": "Phornprapha Rd., Banglamung, Chonburi"
+                },
+                "Remark": {
+                    "th": "วันธรรมดา 07.00-13.32 น.<br>วันเสาร์-อาทิตย์ 12.00-13.32 น.",
+                    "en": "Only Tuesday – Friday 06.00 am. – 13.12 pm.<br>Saturday - Sunday 12.00 – 13.12 pm."
+                }
+            },
+            {
+                "key": "4",
+                "GolfCourse": {
+                    "th": "บันยัน กอล์ฟ คลับ หัวหิน",
+                    "en": "Banyan Golf Club Hua Hin"
+                },
+                "Location": {
+                    "th": "หัวหิน ประจวบคีรีขันธ์",
+                    "en": "Hua Hin, Prachuapkirikhan"
+                },
+                "Remark": {
+                    "th": "วันธรรมดา 06.00-14.30 น.<br>วันเสาร์-อาทิตย์ 12.00-14.30 น.",
+                    "en": "Weekdays 06.00 am. – 14.30 pm.<br>Saturday - Sunday 12.00 – 14.30 pm."
+                }
+            },
+            {
+                "key": "5",
+                "GolfCourse": {
+                    "th": "แบล็คเมาเทน หัวหิน",
+                    "en": "Black Mountain Hua Hin"
+                },
+                "Location": {
+                    "th": "หัวหิน ประจวบคีรีขันธ์",
+                    "en": "Hua Hin, Prachuapkirikhan"
+                },
+                "Remark": {
+                    "th": "วันธรรมดา 06.24-14.00 น.<br>วันเสาร์-อาทิตย์ 12.00-14.00 น.",
+                    "en": "Weekdays 06.24 am. – 14.00 pm.<br>Saturday - Sunday 12.00 – 14.00 pm."
+                }
+            },
+            {
+                "key": "6",
+                "GolfCourse": {
+                    "th": "บลูแคนยอน คันทรี คลับ",
+                    "en": "Blue Canyon Phuket"
+                },
+                "Location": {
+                    "th": "ถนนเทพกระษัตรี ภูเก็ต",
+                    "en": "Thep Krasattri Rd., Phuket"
+                },
+                "Remark": {
+                    "th": "วันธรรมดา 06.20-14.30 น.<br>วันเสาร์-อาทิตย์ 12.00-14.30 น.",
+                    "en": "Weekdays 06.20 am. – 14.30 pm.<br>Saturday - Sunday 12.00 - 14.30 pm."
+                }
+            },
+            {
+                "key": "7",
+                "GolfCourse": {
+                    "th": "สันติบุรี สมุย คันทรี คลับ",
+                    "en": "Santiburi Samui"
+                },
+                "Location": {
+                    "th": "บ้านดอนทราย สมุย",
+                    "en": "Baan Donsai, Koh Samui"
+                },
+                "Remark": {
+                    "th": "วันธรรมดา 06.00-14.30 น.<br>วันเสาร์-อาทิตย์ 12.00-14.30 น.",
+                    "en": "Weekdays 06.00 am. – 14.30 pm.<br>Saturday - Sunday 12.00 – 14.30 pm."
+                }
+            }
+            
+        ]
     }
 ]
