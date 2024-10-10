@@ -1,24 +1,22 @@
-import parser from "html-react-parser";
+
 import { translateContent as tc } from "@/lib/i18n";
-import DialogOpen from "@/components/ui/Dialog/DialogOpen"
 import { twMerge } from "@/lib/twMerge";
+import parse from "html-react-parser";
+
+import Tab, { TabList, TabTrigger, TabContent } from "@/components/ui/Tab";
 import Tables from "@/components/ui/Table";
 import Scroll, { Viewport, Scrollbar, Corner, Thumb } from '@/components/ui/ScrollArea';
 
-import '../styles.css'
-
-//data
+// Load data
 import TCData from "@/data/TermsAndCondition.json";
 import TableData from "@/data/TableData.json";
-import TabsForTerms from "../TabsForTerms";
+import TabData from "@/data/TabsForTerms.json";
 
-interface ButtonDialogProps {
-    DialogID: string; // Now accepts an array of strings
-    children?: React.ReactNode;
-    className?: string;
+interface TabsForTermsProps {
+    DialogID: string;
 }
 
-function ButtonDialog({ DialogID, children, className }: ButtonDialogProps) {
+function TabsForTerms({ DialogID }: TabsForTermsProps) {
     const filteredDialog = TCData.filter(item => item.DialogID === DialogID);
     const Dialog = filteredDialog.length > 0 ? filteredDialog[0] : null;
 
@@ -26,27 +24,43 @@ function ButtonDialog({ DialogID, children, className }: ButtonDialogProps) {
         return null;
     }
 
+    // Helper function for rendering tab titles
+    const renderTabTitle = (tabName: string) => {
+        const tab = TabData.find(tabs => tabs.tabName === tabName);
+        return tab ? tc(tab.tabTitle) : null;
+    };
+
     return (
-        <DialogOpen
-            Title={tc(Dialog.DialogTitle)}
-            ClassName={`lg:tw-text-[16px] tw-text-[14px] tw-text-start ${className}`}
-        >
-            {children}
-            <div className="first:tw-max-full tw-shrink-0 xl:tw-pr-5 tw-pr-2 dialog-area">
-                <TermsAndConditions DialogID={DialogID} />
-            </div>
-        </DialogOpen>
+        <div>
+            <Tab defaultValue={Dialog.TermsTabs[0]}>
+                <TabList>
+                    {Dialog.TermsTabs.map((item, index) => (
+                        <TabTrigger key={index} value={item}>
+                            <div>
+                                {renderTabTitle(item)}
+                            </div>
+                        </TabTrigger>
+                    ))}
+                </TabList>
+                {Dialog.TermsTabs.map((item, index) => (
+                    <TabContent key={index} value={item}>
+                        <TermsAndConditions TermsTabs={item} />
+                    </TabContent>
+                ))}
+            </Tab>
+        </div>
     );
 }
 
-export default ButtonDialog;
+export default TabsForTerms;
+
 
 interface TermsAndConditionsOfPointItemsProps {
-    DialogID: string | undefined;
+    TermsTabs: string | undefined;
 }
 
-function TermsAndConditions({ DialogID }: TermsAndConditionsOfPointItemsProps) {
-    const filteredData = TCData.filter(item => item.DialogID === DialogID);
+function TermsAndConditions({ TermsTabs }: TermsAndConditionsOfPointItemsProps) {
+    const filteredData = TabData.filter(item => item.tabName === TermsTabs);
     const Dialog = filteredData.length > 0 ? filteredData[0] : null;
 
     if (!Dialog) {
@@ -61,10 +75,8 @@ function TermsAndConditions({ DialogID }: TermsAndConditionsOfPointItemsProps) {
                 <div className="last:tw-mb-0 tw-mb-[16px]" key={index}>
                     {tc(item.descriptionTitle).length > 1 ? <h2 className="tw-text-[16px] tw-font-bold tw-mb-5">{tc(item.descriptionTitle)}</h2> : null}
                     {tc(item.description)?.map((description, idx) => (
-                        <p key={idx} className="tw-mb-1 tw-text-[14px]">{parser(description)}</p>
+                        <p key={idx} className="tw-mb-1 tw-text-[14px]">{parse(description)}</p>
                     ))}
-
-                    {Dialog.TermsTabs.length == 0 ? null : (<TabsForTerms DialogID={Dialog.DialogID} />)}
 
                     {Dialog?.TableName && filteredTableData && (
                         <div className="tw-my-5">
@@ -90,7 +102,7 @@ function TermsAndConditions({ DialogID }: TermsAndConditionsOfPointItemsProps) {
                 </div>
             ))}
             {Dialog?.note && tc(Dialog.note).map((note, idx) => (
-                <p key={idx} className="tw-text-[14px] tw-mb-3 last:tw-mb-0">{parser(note)}</p>
+                <p key={idx} className="tw-text-[14px] tw-mb-3 last:tw-mb-0">{parse(note)}</p>
             ))}
         </>
     );
@@ -106,11 +118,9 @@ export function TermsItems({ item = [] }: TermsItemsProps) {
         <>
             {item.map((termItem, index) => (
                 <li className="tw-mb-1" key={index}>
-                    {parser(termItem)}
+                    {parse(termItem)}
                 </li>
             ))}
         </>
     );
 }
-
-

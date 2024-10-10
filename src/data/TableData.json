@@ -156,7 +156,7 @@
         ]
     },
     {
-        "tableID": 1,
+        "tableID": 2,
         "tableName": "50GREENFEE",
         "tableTitle": {
             "th": "สนามกอล์ฟที่ร่วมรายการ",
@@ -293,6 +293,47 @@
                 "Remark": {
                     "th": "วันธรรมดา 06.00-14.30 น.<br>วันเสาร์-อาทิตย์ 12.00-14.30 น.",
                     "en": "Weekdays 06.00 am. – 14.30 pm.<br>Saturday - Sunday 12.00 – 14.30 pm."
+                }
+            }
+            
+        ]
+    },
+    {
+        "tableID": 2,
+        "tableName": "MOVIETICKET",
+        "tableTitle": {
+            "th": "โรงภาพยนตร์ที่ร่วมรายการ",
+            "en": "Participating merchants"
+        },  
+        "columns": [
+            {
+                "title": {
+                    "th": "เมเจอร์ซีนีเพล็กซ์",
+                    "en": "Major Cineplex"
+                },
+                "dataIndex": "MajorCineplex",
+                "key": "MajorCineplex"
+            },
+            {
+                "title": {
+                    "th": "เอสเอฟ ซีนีม่า",
+                    "en": "SF Cinema"
+                },
+                "dataIndex": "SFCinema",
+                "key": "SFCinema"
+            }
+            
+        ],
+        "dataSource":[
+            {
+                "key": "1",
+                "MajorCineplex": {
+                    "th": "<strong>VIP Seat</strong><br><ul class=\"tw-list-disc tw-pl-5\"><li>พารากอน บลูริบบอน</li><li>ไอคอน ซีเนคอนิค</li><li>ควอเทียร์ ซีเนอาร์ต</li><li>อีสต์วิลล์ ซีนีเพล็กซ์</li><li>เมกา ซีนีเพล็กซ์</li><li>เวสต์เกตซีนีเพล็กซ์</li><li>รังสิต ซีนีเพล็กซ์</li><li>ฟิวเจอร์ รังสิต</li><li>เอสพลานาด รัชดาภิเษก</li><li>เอสพลานาด งามวงศ์วาน-แคราย</li><li>พาราไดซ์ ซีนีเพล็กซ์</li><li>บางนา ซีนีเพล็กซ์</li><li>เซ็นทรัล พระราม 3</li><li>เซ็นทรัล ปิ่นเกล้า</li><li>พรอมานาด ซีนีเพล็กซ์</li<li>เซ็นทรัล เฟสติวัล เชียงใหม่</li><li>โคราช ซีนีเพล็กซ์</li><li>บลูพอร์ต ซีนีเพล็กซ์</li><li>หาดใหญ่ ซีนีเพล็กซ์</li><li>พังงา ซีนีเพล็กซ์</li><li>เซ็นทรัล อุบลราชธานี</ul>",
+                    "en": "Major Cineplex"
+                },
+                "SFCinema": {
+                    "th": "<strong>The Bed</strong><br><ul class=\"tw-list-disc tw-pl-5\"><li>SF World Cinema เซ็นทรัลเวิล์ด</li><li>SFX Cinema เซ็นทรัลลาดพร้าว First Class</li><li>Emprive Cine Club เอ็มโพเรียม</li><li>SFW World Cinema เซ็นทรัลเวิล์ด</li><li>SFX เซ็นทรัลพระราม 9</li><li>SFX เซ็นทรัลลาดพร้าว</li><li>SFX เดอะคริสตัล เอกมัย-รามอินทรา</li><li>SFX เซ็นทรัลเฟสติวัล ภูเก็ต</li><li>SFXเซ็นทรัลเฟสติวัล พัทยา</li><li>SFX เทอมินอล 21 พัทยา</li><li>SFX เมยา เชียงใหม่</li></ul>",
+                    "en": "SF Cinema"
                 }
             }
             

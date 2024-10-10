@@ -660,7 +660,6 @@
                 "สมาชิกที่ยังคงสมาชิกภาพเป็นสมาชิกบัตรเครดิต KTC VISA/ MASTERCARD/ JCB/ UNIONPAY และไม่มีการผิดนัดชำระหนี้/ค่าใช้จ่ายอื่นใดในเวลาที่กำหนด หรือไม่ได้ผิดข้อตกลงกับเคทีซี หรือไม่ได้ถูกระงับการใช้บัตร ไม่ว่ากรณีใดๆ ณ วันที่ขอใช้สิทธิ์เท่านั้น จึงจะมีสิทธิ์นำคะแนนแลกซื้อหรือแลกชำระค่าสินค้า/บริการในรายการคะแนน KTC",
                 "สมาชิกสามารถโอนคะแนน KTC ระหว่างบัตรเครดิต KTC ของสมาชิกรายเดียวกัน หรือภายใต้นามสกุลเดียวกันได้ตามเงื่อนไขที่กำหนด",
                 "การจัดจำหน่าย/ให้บริการ การส่งมอบ การติดตั้ง การซ่อมแซมบำรุงรักษา การรับประกันคุณภาพ การบริการหลังการจำหน่าย รวมถึงความรับผิดในความเสียหาย ความชำรุดบกพร่องของสินค้า/บริการ ในรายการคะแนน KTC เป็นหน้าที่และความรับผิดชอบโดยตรงของผู้จำหน่ายสินค้า/ให้บริการแต่เพียงผู้เดียว ซึ่งสมาชิกสามารถติดต่อกับร้านค้าได้โดยตรง โดยเคทีซี ไม่มีส่วนเกี่ยวข้องกับการจัดจำหน่ายสินค้า/ให้บริการทั้งปวงของร้านค้าที่ร่วมรายการคะแนน KTC แต่อย่างใด"
-
             ],
             "en": [
                 "Spending with all types of KTC VISA/ MASTERCARD/ JCB/ UNIONPAY gets 1 point from every THB. 25. It excludes all spending mentioned in (2.) of which every 1,000 KTC FOREVER points is equal THB. 100 cash, unless otherwise stated in particular scheme or promotion or marketing, case by case.",
@@ -670,15 +669,50 @@
                 "Cardmembers with active membership of KTC VISA/ MASTERCARD/ JCB/ UNIONPAY and have no default on payment/expense during defined period, have not broken any agreement with KTC, or whose KTC CREDIT CARDS was terminated with any reason at all on the date they request for privilege, are eligible to redeem KTC FOREVER points for and/or to pay for products/services in the KTC points scheme and/or transfer the KTC points between KTC CREDIT CARDS of the same cardmembers or cardmembers with same surname.",
                 "Cardmembers can transfer the KTC points between KTC CREDIT CARDS of the same cardmembers or cardmembers with same surname according to conditions defined, but in the case of cardmembers wish to cancel any KTC CREDIT CARDS of themselves, they have to transfer the KTC points between KTC CREDIT CARDS of the same cardmembers or cardmembers with same surname prior to the cancellation, or else the KTC points in the mentioned credit card account will be automatically terminated once the credit card was cancelled.",
                 "Distribution, service, delivery, installation, maintenance, quality control and guarantee, after-sales service, including responsibility for damage or default of products/services in the KTC points scheme are all under responsibility of the distributors/service providers. Cardmembers can directly contact the shops/stores. KTC is not involved in all mentioned activities with the shops/stores participating the KTC points scheme at all."
-
             ]
         },
         "note": {
+            "th": [],
+            "en": []
+        }
+    },
+    {
+        "dID": 12,
+        "DialogID": "ENTERTAINMENTICONIC",
+        "DialogTitle": {
+            "th": "ข้อกำหนดและเงื่อนไขของคะแนน",
+            "en": "Privilege Terms & Conditions: Points"
+        },
+        "descriptionTitle": {
+            "th": "",
+            "en": ""
+        },
+        "description": {
             "th": [
+                ""
             ],
             "en": [
-                "Remark: the amount of cash for each withdrawal or day depends on the terms and conditions and limitations of the ATM machine at each bank and cash withdrawals via the KTC Mobile app or KTC Online (<a href=\"https://www.ktc.co.th/online\">www.ktc.co.th/online</a>) are as specified by the Company."
+                ""
             ]
+        },
+        "TableName": "",
+        "TermsTitle": {
+            "th": "",
+            "en": ""
+        },
+        "TermsTabs": [
+            "MOVIETICKET",
+            "SPA",
+            "STREANINGPLATFORM"
+        ],
+        "listType": "",
+        "TermsItems": {
+            "th": [],
+            "en": []
+        },
+        "note": {
+            "th": [],
+            "en": []
         }
     }
 ]
