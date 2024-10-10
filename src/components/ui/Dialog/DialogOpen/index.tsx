@@ -16,7 +16,7 @@ function DialogOpen({ Title, children, ClassName }: DialogOpenProps) {
             <DialogPortal>
                 <DialogOverlay />
                 <DialogContent>
-                    <DialogTitle className="tw-mt-5 tw-pb-5 tw-text-[#5B6670]">{Title}</DialogTitle>
+                    <DialogTitle className="tw-mt-5">{Title}</DialogTitle>
                     <DialogDescription>
                         {dialogContent}
                     </DialogDescription>

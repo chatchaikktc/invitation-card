@@ -53,7 +53,7 @@ function QualificationsSection({ selectedCard }: QualificationsSectionProps) {
     return (
         <>
             <section className="" id="QualificationsSection">
-                <div className='QualificationsSection-bg tw-w-[844px] lg:tw-px-0 tw-py-[40px]'>
+                <div className='QualificationsSection-bg tw-max-w-[844px] lg:tw-px-0 tw-py-[40px]'>
                     <h2 className="tw-text-[25px] tw-leading-[1.4] tw-text-center tw-font-bold">
                         {parse(t("Qualifications.Qualifications and Supporting Documents for Credit Card Application Primary Card"))}
                     </h2>

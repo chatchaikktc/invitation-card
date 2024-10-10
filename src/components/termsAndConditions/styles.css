@@ -1,0 +1,8 @@
+.dialog-area a{
+    color: #ffffff !important;
+    text-decoration: underline;
+}
+.dialog-area a:hover{
+    color: #D0B185 !important;
+    text-decoration: none;
+}

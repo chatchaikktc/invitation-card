@@ -3,6 +3,7 @@ import React from "react";
 import { useMatch, Routes, Route , useLocation} from "react-router-dom";
 import HomePage from "./components/homePage/HomePage";
 
+
 function AppContent() {
   const match = useMatch("/:lang/*");
   const [currentLanguage, setCurrentLanguage] = React.useState("th");

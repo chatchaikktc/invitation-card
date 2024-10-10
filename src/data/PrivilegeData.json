@@ -21,7 +21,8 @@
             ]
         },
         "imgaePath": "https://www.ktc.co.th/pub/media/creditcard/invitation/ktc-visa-infinite/img/x3.png",
-        "buttonType": "dialog",
+        "objectSize": "",
+        "buttonType": "DIALOG",
         "buttonLink": {
             "th": "KTCFOREVERPOINT",
             "en": "KTCFOREVERPOINT"
@@ -49,7 +50,8 @@
             ]
         },
         "imgaePath": "https://www.ktc.co.th/pub/media/creditcard/invitation/ktc-visa-infinite/img/Priority-Pass.png",
-        "buttonType": "dialog",
+        "objectSize": "cover",
+        "buttonType": "DIALOG",
         "buttonLink": {
             "th": "KTCFOREVERPOINT",
             "en": "KTCFOREVERPOINT"
@@ -77,7 +79,8 @@
             ]
         },
         "imgaePath": "https://www.ktc.co.th/pub/media/creditcard/invitation/img/piority-privillages-banner-1108x250px.jpg",
-        "buttonType": "dialog",
+        "objectSize": "cover",
+        "buttonType": "DIALOG",
         "buttonLink": {
             "th": "ASSETUNDERMANAGEMENT",
             "en": "ASSETUNDERMANAGEMENT"
@@ -105,7 +108,8 @@
             ]
         },
         "imgaePath": "https://www.ktc.co.th/pub/media/creditcard/invitation/img/buffet-dinning-privillages-banner-1108x250px.jpg",
-        "buttonType": "dialog",
+        "objectSize": "cover",
+        "buttonType": "DIALOG",
         "buttonLink": {
             "th": "BUFFETDINNING",
             "en": "BUFFETDINNING"
@@ -133,7 +137,8 @@
             ]
         },
         "imgaePath": "https://www.ktc.co.th/pub/media/creditcard/invitation/img/afternoontea-privillages-banner-1108x250px.jpg",
-        "buttonType": "dialog",
+        "objectSize": "cover",
+        "buttonType": "DIALOG",
         "buttonLink": {
             "th": "AFFTERNOONTEA",
             "en": "AFFTERNOONTEA"
@@ -161,7 +166,8 @@
             ]
         },
         "imgaePath": "https://www.ktc.co.th/pub/media/creditcard/invitation/img/greenfee-privillages-banner-1108x250px-right_1.jpg",
-        "buttonType": "dialog",
+        "objectSize": "cover",
+        "buttonType": "DIALOG",
         "buttonLink": {
             "th": "GREENFEE",
             "en": "GREENFEE"
@@ -189,7 +195,8 @@
             ]
         },
         "imgaePath": "https://www.ktc.co.th/pub/media/creditcard/2024/image/AW_DEC23-184_CARD_Privileges-Banner_Spa_Desktop_1108x250.webp",
-        "buttonType": "dialog",
+        "objectSize": "cover",
+        "buttonType": "DIALOG",
         "buttonLink": {
             "th": "ENTERTAINMENT",
             "en": "ENTERTAINMENT"
@@ -217,7 +224,8 @@
             ]
         },
         "imgaePath": "https://www.ktc.co.th/pub/media/creditcard/invitation/img/TC_FEB23-162_CARD-KTC_VISA_Infinite_Hotel_Web_Banner_nn1108x250.webp",
-        "buttonType": "dialog",
+        "objectSize": "cover",
+        "buttonType": "DIALOG",
         "buttonLink": {
             "th": "HOTELPRIVILEGE",
             "en": "HOTELPRIVILEGE"
@@ -245,7 +253,8 @@
             ]
         },
         "imgaePath": "https://www.ktc.co.th/pub/media/creditcard/invitation/img/visa-privillages-banner-1108x250px.jpg",
-        "buttonType": "dialog",
+        "objectSize": "cover",
+        "buttonType": "DIALOG",
         "buttonLink": {
             "th": "VISAPRIVILEGE",
             "en": "VISAPRIVILEGE"
@@ -275,7 +284,8 @@
             ]
         },
         "imgaePath": "https://www.ktc.co.th/pub/media/creditcard/invitation/img/x2-forever-point.webp",
-        "buttonType": "dialog",
+        "objectSize": "cover",
+        "buttonType": "DIALOG",
         "buttonLink": {
             "th": "KTCFOREVERPOINTX2",
             "en": "KTCFOREVERPOINTX2"
@@ -303,14 +313,106 @@
             ]
         },
         "imgaePath": "https://www.ktc.co.th/pub/media/creditcard/invitation/img/royal-silk.webp",
-        "buttonType": "dialog",
+        "objectSize": "cover",
+        "buttonType": "DIALOG",
         "buttonLink": {
-            "th": "KTCFOREVERPOINTX2",
-            "en": "KTCFOREVERPOINTX2"
+            "th": "MIRACLELOUNGEX2",
+            "en": "MIRACLELOUNGEX2"
         },
         "buttonText": {
             "th": "เงื่อนไขการรับคะแนน",
             "en": "Terms & Conditions"
+        }
+    },
+    {
+        "privilegeID": 5,
+        "privilegeName": "AFFTERNOONTEA500",
+        "isSpecial": true,
+        "positionImage": "right",
+        "title": {
+            "th": "รับสิทธิซื้อชุดน้ำชายามบ่าย สำหรับ 2 ท่าน",
+            "en": "Complimentary afternoon tea set for two"
+        },
+        "description": {
+            "th": [
+                "ในราคาพิเศษ 500 บาท (จำกัด 800 สิทธิ์ต่อเดือน) หรือ 800 บาท (ไม่จำกัดสิทธิ) ที่ร้านกำหนด เมื่อมียอดใช้จ่ายผ่านบัตรฯ รวม 50,000 บาทขึ้นไป"
+            ],
+            "en": [
+                "Privilege for the special price of THB 500 is limited to 800 persons per month, or THB 800 is unlimited at the participating shop when spend over 50,000 THB."
+            ]
+        },
+        "imgaePath": "https://www.ktc.co.th/pub/media/creditcard/invitation/img/afternoontea-privillages-banner-1108x250px-right.webp",
+        "objectSize": "cover",
+        "buttonType": "DIALOG",
+        "buttonLink": {
+            "th": "AFFTERNOONTEA500",
+            "en": "AFFTERNOONTEA500"
+        },
+        "buttonText": {
+            "th": "รายละเอียดเพิ่มเติม",
+            "en": "More Details"
+        }
+    },
+    {
+        "privilegeID": 6,
+        "privilegeName": "50GREENFEE",
+        "isSpecial": true,
+        "positionImage": "left",
+        "title": {
+            "th": "ส่วนลด 50% ค่ากรีนฟี",
+            "en": "50% discount on green fees"
+        },
+        "description": {
+            "th": [
+                "ที่สนามกอล์ฟที่กำหนด ไม่เกิน 2 ท่านต่อ 1 กลุ่ม"
+            ],
+            "en": [
+                "At specified golf courses and limited to a maximum of 2 persons per group."
+            ]
+        },
+        "imgaePath": "https://www.ktc.co.th/pub/media/creditcard/invitation/img/greenfee-privillages-banner-1108x250px-left.webp",
+        "objectSize": "cover",
+        "buttonType": "DIALOG",
+        "buttonLink": {
+            "th": "50GREENFEE",
+            "en": "50GREENFEE"
+        },
+        "buttonText": {
+            "th": "รายละเอียดเพิ่มเติม",
+            "en": "More Details"
+        }
+    },
+    {
+        "privilegeID": 7,
+        "privilegeName": "ENTERTAINMENTICONIC",
+        "isSpecial": true,
+        "positionImage": "right",
+        "title": {
+            "th": "สิทธิพิเศษที่โรงภาพยนตร์ สปา หรือ Streaming platform",
+            "en": "Privileges at cinemas, spa or on streaming platforms"
+        },
+        "description": {
+            "th": [
+                " • รับส่วนลด 50% สำหรับการซื้อบัตรชมภาพยนตร์ Premium Seat 1 คู่ (2 ท่าน) ที่โรงภาพยนตร์ Major Cineplex / SF Cinema หรือ",
+                "• รับส่วนลด 50% สำหรับสปานวด หรือ",
+                "• รับชม Viu premium package ราย 6 เดือน หรือ Netflix gift card มูลค่า 500 บาท"
+            ],
+            "en": [
+                "• 50% off for Premium seat ticket for a couple (2 person) at Major Cineplex / SF Cinema or",
+                "• 50% off Thai massage at participating spas or",
+                "• Get Viu premium package term 6 months or a Netflix gift card value 500 baht."
+            ]
+        },
+        "imgaePath": "https://www.ktc.co.th/pub/media/creditcard/2024/image/2024_Privileges-Banner_Spa_1108x280.webp",
+        "objectSize": "contain",
+        "buttonType": "DIALOG",
+        "buttonLink": {
+            "th": "MIRACLELOUNGEX2",
+            "en": "MIRACLELOUNGEX2"
+        },
+        "buttonText": {
+            "th": "รายละเอียดเพิ่มเติม",
+            "en": "More Details"
         }
     }
 ]

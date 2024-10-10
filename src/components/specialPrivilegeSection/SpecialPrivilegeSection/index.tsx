@@ -2,6 +2,8 @@
 import parse from "html-react-parser";
 import { translateContent as tc } from "@/lib/i18n";
 import { twMerge } from "@/lib/twMerge";
+import ButtonDialog from "@/components/termsAndConditions/TermsAndConditions";
+import Link from "@/components/ui/Link";
 
 //load data
 import CardData from '@/data/CreditCardData.json';
@@ -75,16 +77,23 @@ function PrivilegeDetail({ id }: PrivilegeDetailProps) {
 
     return (
         <>
-            <div className={twMerge()}>
-                <img src={privilege.imgaePath} alt={privilege.privilegeName} className="tw-w-full tw-rounded-[10px] " />
+            <div className="tw-absolute tw-top-0 tw-bottom-0 tw-z-[1] tw-right-0 tw-left-0">
+                <img src={privilege.imgaePath} alt={privilege.privilegeName} className={twMerge(privilege.positionImage == "left" ? "tw-object-left" : "tw-object-right" , privilege.objectSize == "contain" ? "tw-object-contain" : "tw-object-cover" ,"tw-w-full tw-rounded-[10px] tw-h-full ")} />
             </div>
-            <div className={twMerge("tw-absolute tw-top-0 tw-bottom-0 tw-grid tw-grid-cols-2 tw-gap-10 tw-items-center tw-left-0 tw-right-0")}>
+            <div className={twMerge("tw-relative tw-z-[3] tw-grid tw-grid-cols-2 tw-gap-10 tw-items-center tw-left-0 tw-right-0 tw-min-h-[250px]")}>
                 <div className={twMerge(privilege.positionImage == "left" ? "tw-order-1" : "tw-order-2")}></div>
-                <div className={twMerge(privilege.positionImage == "left" ? "tw-order-2" : "tw-order-1","tw-px-10")}>
+                <div className={twMerge(privilege.positionImage == "left" ? "tw-order-2" : "tw-order-1","tw-px-10 tw-py-10 ")}>
                     <h2 className="tw-text-[25px] tw-text-[#D0B185] tw-font-bold tw-mb-3">{parse(tc(privilege.title))}</h2>
                     <div className="tw-text-[18px]"><DetailsItems item={tc(privilege.description)} /></div>
-                    <button className="tw-mt-5 tw-py-[4px] tw-px-4 tw-border-[1px] tw-border-solid tw-border-white tw-text-white hover:tw-text-black hover:tw-bg-white tw-rounded-[100px] tw-transition tw-ease-in tw-delay-150 duration-150">{tc(privilege.buttonText)}</button>
-                </div>
+                    {
+                    privilege.buttonType === "" ? null :
+                        privilege.buttonType === "DIALOG" ?
+                            (<ButtonDialog DialogID={tc(privilege.buttonLink)} className="tw-mt-5 tw-py-[4px] tw-px-4 tw-border-[1px] tw-border-solid tw-border-white tw-text-white hover:tw-text-black hover:tw-bg-white tw-rounded-[100px] tw-transition tw-ease-in tw-delay-150 duration-150 tw-block tw-w-fit">{tc(privilege.buttonText)}</ButtonDialog>)
+                            :
+                            privilege.buttonType === "LINK" ?
+                                (<Link href={tc(privilege.buttonLink)} className="tw-mt-5 tw-py-[4px] tw-px-4 tw-border-[1px] tw-border-solid tw-border-white tw-text-white hover:tw-text-black hover:tw-bg-white tw-rounded-[100px] tw-transition tw-ease-in tw-delay-150 duration-150 tw-block tw-w-fit">asdf</Link>)
+                                : null
+                }                </div>
             </div>
         </>
     );

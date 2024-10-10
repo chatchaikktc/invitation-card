@@ -1,0 +1,158 @@
+[
+    {
+        "tableID": 1,
+        "tableName": "AFFTERNOONTEA",
+        "tableTitle": {
+            "th": "โรงแรม/ร้านค้าที่ร่วมรายการ",
+            "en": "Participating merchants"
+        },  
+        "columns": [
+            {
+                "title": {
+                    "th": "โรงแรม/ร้านค้า",
+                    "en": "Hotel/Shop"
+                },
+                "dataIndex": "hotel",
+                "key": "hotel"
+            },
+            {
+                "title": {
+                    "th": "ห้อง/สาขา",
+                    "en": "Outlet/Branch"
+                },
+                "dataIndex": "Branch",
+                "key": "Branch"
+            },
+            {
+                "title": {
+                    "th": "วัน/เวลา",
+                    "en": "Date/Time"
+                },
+                "dataIndex": "Date",
+                "key": "Date"
+            }
+        ],
+        "dataSource":[
+            {
+                "key": "1",
+                "hotel": {
+                    "th": "So Bangkok",
+                    "en": "So Bangkok"
+                },
+                "Branch": {
+                    "th": "ChocoLab",
+                    "en": "Lobby Lounge"
+                },
+                "Date": {
+                    "th": "วันจันทร์ – วันอาทิตย์ เวลา 13.00-17.00 น.",
+                    "en": "Monday-Sunday 13.00-17.00 pm."
+                }
+            },
+            {
+                "key": "2",
+                "hotel": {
+                    "th": "Sheraton Royal Orchid",
+                    "en": "Sheraton Royal Orchid"
+                },
+                "Branch": {
+                    "th": "Lobby Lounge",
+                    "en": "Lobby Lounge"
+                },
+                "Date": {
+                    "th": "วันจันทร์ – วันอาทิตย์ เวลา 14.00-17.00 น",
+                    "en": "Monday-Sunday 14.00-17.00 pm."
+                }
+            },
+            {
+                "key": "3",
+                "hotel": {
+                    "th": "TWG Tea Salon & Boutique",
+                    "en": "TWG Tea Salon & Boutique"
+                },
+                "Branch": {
+                    "th": "- Siam Paragon <br>- Emporium <br>- Icon Siam",
+                    "en": "- Siam Paragon <br>- Emporium <br>- Icon Siam"
+                },
+                "Date": {
+                    "th": "วันจันทร์ – วันอาทิตย์ เวลา 12.00-18.00 น.",
+                    "en": "Monday-Sunday 12.00-18.00 pm."
+                }
+            },
+            {
+                "key": "4",
+                "hotel": {
+                    "th": "Coffee Academic",
+                    "en": "Coffee Academic"
+                },
+                "Branch": {
+                    "th": "- Gaysorn Village <br>- Velaa Sindhorn<br> - Mega Bangna",                   
+                    "en":"- Gaysorn Village <br>- Velaa Sindhorn<br> - Mega Bangna"
+                },
+                "Date": {
+                    "th": "วันจันทร์ – วันอาทิตย์ เวลา 10.00-17.00 น.",
+                    "en": "Monday-Sunday 10.00-17.00 pm."
+                }
+            },
+            {
+                "key": "5",
+                "hotel": {
+                    "th": "Dean & Deluca",
+                    "en": "Dean & Deluca"
+                },
+                "Branch": {
+                    "th": "- EmQuartier<br>- Central Embassy Sarasin<br>- The Crystal Park",                   
+                    "en": "- EmQuartier<br>- Central Embassy Sarasin<br>- The Crystal Park" 
+                },
+                "Date": {
+                    "th": "วันจันทร์ - วันอาทิตย์ เวลา 10.00-20.00 น.",
+                    "en": "Monday-Sunday 10.00 am - 20.00 pm."
+                }
+            },
+            {
+                "key": "6",
+                "hotel": {
+                    "th": "Divana Signature Cafe",
+                    "en": "Divana Signature Cafe"
+                },
+                "Branch": {
+                    "th": "CentralWorld",                   
+                    "en": "CentralWorld"
+                },
+                "Date": {
+                    "th": "วันจันทร์ – วันอาทิตย์ เวลา 12.00-19.00 น.",
+                    "en": "Monday-Sunday 12.00-19.00 pm."
+                }
+            },
+            {
+                "key": "7",
+                "hotel": {
+                    "th": "Hei Yin",
+                    "en": "Hei Yin"
+                },
+                "Branch": {
+                    "th": "Gaysorn Centre",                   
+                    "en": "Gaysorn Centre"
+                },
+                "Date": {
+                    "th": "วันจันทร์ – วันอาทิตย์ เวลา 14.00-17.00 น.",
+                    "en": "Monday – Sunday 14.00 – 17.00 pm."
+                }
+            },
+            {
+                "key": "8",
+                "hotel": {
+                    "th": "Hei Yin",
+                    "en": "Hei Yin"
+                },
+                "Branch": {
+                    "th": "Oriental Residence",                   
+                    "en": "Oriental Residence"
+                },
+                "Date": {
+                    "th": "วันจันทร์ – วันอาทิตย์ เวลา 14.30-17.30 น.",
+                    "en": "Monday – Sunday 14.30 – 17.00 pm."
+                }
+            }
+        ]
+    }
+]

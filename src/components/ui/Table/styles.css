@@ -1,0 +1,60 @@
+/* styles.css */
+.invite-table .ant-table {
+    background-color: #000000 ; /* เปลี่ยนสีพื้นหลังของตาราง */
+    font-family:  Gotham Rnd, Sukhumvit Tadmai,sans-serif !important;
+  }
+  .invite-table .ant-table-thead > tr > th {
+    background-color: #212529 ; /* เปลี่ยนสีพื้นหลังของตาราง */
+    color: #ffffff;
+    text-align: center;
+  }
+  .invite-table .ant-table-thead > tr > th:first-child {
+    border-top-left-radius: 8px;
+    border-top:1px solid #ffffff;
+    border-left: 1px solid #ffffff;
+  }
+  .invite-table .ant-table-thead > tr > th {
+    border-top:1px solid #ffffff;
+    border-left: 1px solid #ffffff;
+    vertical-align: sub;
+  }
+  .invite-table .ant-table-thead > tr > th:last-child {
+    border-right: 1px solid #ffffff;
+    border-left: 1px solid #ffffff !important;
+  }
+
+  .invite-table .ant-table-thead > tr > th:last-child {
+
+    border-top-right-radius: 8px;
+    border-left: 0;
+  }
+  .invite-table .ant-table-thead .ant-table-cell::before {
+    content: unset;
+    opacity: 0;
+  }
+  .invite-table .ant-table .no-hover{
+    background-color: transparent; /* เปลี่ยนสีพื้นหลังของเซลล์ */
+  }
+  .invite-table .ant-table-cell-row-hover {
+    background-color: transparent !important; /* เปลี่ยนสีพื้นหลังของเซลล์เมื่อเมาส์ hover */
+  }
+  .invite-table .ant-table-row .ant-table-cell {
+    vertical-align: sub;
+    border-left: 1px solid #ffffff;
+  }
+  .invite-table .ant-table-row .ant-table-cell:last-child {
+    border-right: 1px solid #ffffff;
+  }
+
+  
+  
+  .invite-table .ant-table-row:last-child {
+    border-bottom-left-radius: 50px;
+    border-bottom-right-radius: 8px;
+  }
+  .invite-table .ant-table-row:last-child .ant-table-cell:first-child {
+    border-bottom-left-radius: 8px;
+  }
+  .invite-table .ant-table-row:last-child .ant-table-cell:last-child {
+    border-bottom-right-radius: 8px;
+  }

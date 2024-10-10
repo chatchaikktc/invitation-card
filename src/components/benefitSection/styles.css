@@ -1,8 +1,13 @@
-#BenefitSection a{
+#BenefitSection a, .dialog-area a{
     color: #ffffff !important;
     text-decoration: underline;
 }
-#BenefitSection a:hover{
+#BenefitSection a:hover, .dialog-area a:hover{
     color: #D0B185 !important;
     text-decoration: none;
+}
+
+@media screen and (max-width: 430px){
+   
+    
 }

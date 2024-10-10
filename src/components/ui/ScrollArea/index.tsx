@@ -23,7 +23,7 @@ export function Viewport({ className, ...props }: ScrollArea.ScrollAreaViewportP
 export function Scrollbar({ className, ...props }: ScrollArea.ScrollAreaScrollbarProps) {
   return (
     <ScrollArea.Scrollbar
-      className={twMerge("tw-bg-gray-300 tw-w-1 tw-rounded-full", className)} // ไม่ต้องการให้ scrollbar เลื่อนเอง
+      className={twMerge(" tw-w-1 tw-rounded-full", className)} // ไม่ต้องการให้ scrollbar เลื่อนเอง
       {...props}
     >
       {props.children}
@@ -34,7 +34,7 @@ export function Scrollbar({ className, ...props }: ScrollArea.ScrollAreaScrollba
 export function Thumb({ className, ...props }: ScrollArea.ScrollAreaThumbProps) {
   return (
     <ScrollArea.Thumb
-      className={twMerge("tw-bg-[#f4b1ae] tw-rounded-full tw-w-2", className)} // Thumb ต้องมีขนาดชัดเจน
+      className={twMerge("tw-bg-[#ffffff] tw-rounded-full tw-w-2", className)} // Thumb ต้องมีขนาดชัดเจน
       {...props}
     />
   );
