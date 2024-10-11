@@ -299,7 +299,7 @@
         "privilegeID": 8,
         "privilegeName": "MIRACLELOUNGEX2",
         "isSpecial": false,
-        "positionImage": "left",
+        "positionImage": "right",
         "title": {
             "th": "ห้องรับรองพิเศษ MIRACLE LOUNGE 2 ครั้ง/ปี",
             "en": "Complimentary Access to The MIRACLE LOUNGE twice a year"
@@ -395,7 +395,7 @@
             "th": [
                 " • รับส่วนลด 50% สำหรับการซื้อบัตรชมภาพยนตร์ Premium Seat 1 คู่ (2 ท่าน) ที่โรงภาพยนตร์ Major Cineplex / SF Cinema หรือ",
                 "• รับส่วนลด 50% สำหรับสปานวด หรือ",
-                "• รับชม Viu premium package ราย 6 เดือน หรือ Netflix gift card มูลค่า 500 บาท"
+                "• รับชม Viu premium package <br class=\"lg:tw-hidden tw-block\">ราย 6 เดือน หรือ Netflix gift card มูลค่า 500 บาท"
             ],
             "en": [
                 "• 50% off for Premium seat ticket for a couple (2 person) at Major Cineplex / SF Cinema or",

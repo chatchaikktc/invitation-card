@@ -29,7 +29,7 @@ function BenefitDesktop({ selectedCard }: PrivillegeSectionProps) {
 
     return (
         <>
-            <div className="tw-grid tw-grid-cols-3 tw-gap-3">
+            <div className="tw-grid lg:tw-grid-cols-3 tw-grid-cols-2 tw-gap-3">
                 {card.BenefitName.map((item) => (
                     <div className="tw-border-solid tw-border-[1px] tw-border-white tw-rounded-[10px] tw-bg-black tw-p-7">
                         <BenefitItem benefitName={item} />

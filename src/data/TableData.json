@@ -328,12 +328,115 @@
             {
                 "key": "1",
                 "MajorCineplex": {
-                    "th": "<strong>VIP Seat</strong><br><ul class=\"tw-list-disc tw-pl-5\"><li>พารากอน บลูริบบอน</li><li>ไอคอน ซีเนคอนิค</li><li>ควอเทียร์ ซีเนอาร์ต</li><li>อีสต์วิลล์ ซีนีเพล็กซ์</li><li>เมกา ซีนีเพล็กซ์</li><li>เวสต์เกตซีนีเพล็กซ์</li><li>รังสิต ซีนีเพล็กซ์</li><li>ฟิวเจอร์ รังสิต</li><li>เอสพลานาด รัชดาภิเษก</li><li>เอสพลานาด งามวงศ์วาน-แคราย</li><li>พาราไดซ์ ซีนีเพล็กซ์</li><li>บางนา ซีนีเพล็กซ์</li><li>เซ็นทรัล พระราม 3</li><li>เซ็นทรัล ปิ่นเกล้า</li><li>พรอมานาด ซีนีเพล็กซ์</li<li>เซ็นทรัล เฟสติวัล เชียงใหม่</li><li>โคราช ซีนีเพล็กซ์</li><li>บลูพอร์ต ซีนีเพล็กซ์</li><li>หาดใหญ่ ซีนีเพล็กซ์</li><li>พังงา ซีนีเพล็กซ์</li><li>เซ็นทรัล อุบลราชธานี</ul>",
-                    "en": "Major Cineplex"
+                    "th": "<strong>VIP Seat</strong><br><ul class=\"tw-list-disc tw-pl-5\"><li>พารากอน บลูริบบอน</li><li>ไอคอน ซีเนคอนิค</li><li>ควอเทียร์ ซีเนอาร์ต</li><li>อีสต์วิลล์ ซีนีเพล็กซ์</li><li>เมกา ซีนีเพล็กซ์</li><li>เวสต์เกตซีนีเพล็กซ์</li><li>รังสิต ซีนีเพล็กซ์</li><li>ฟิวเจอร์ รังสิต</li><li>เอสพลานาด รัชดาภิเษก</li><li>เอสพลานาด งามวงศ์วาน-แคราย</li><li>พาราไดซ์ ซีนีเพล็กซ์</li><li>บางนา ซีนีเพล็กซ์</li><li>เซ็นทรัล พระราม 3</li><li>เซ็นทรัล ปิ่นเกล้า</li><li>พรอมานาด ซีนีเพล็กซ์</li<li>เซ็นทรัล เฟสติวัล เชียงใหม่</li><li>โคราช ซีนีเพล็กซ์</li><li>บลูพอร์ต ซีนีเพล็กซ์</li><li>หาดใหญ่ ซีนีเพล็กซ์</li><li>พังงา ซีนีเพล็กซ์</li><li>เซ็นทรัล อุบลราชธานี</li></ul>",
+                    "en": "<strong>VIP Seat</strong><br><ul class=\"tw-list-disc tw-pl-5\"><li>Paragon Blue Ribbon</li><li>Quartier Cineart</li><li>Icon Cineconic</li><li>Mega Bangna Cineplex</li><li>Bangna Cineplex</li><li>Promenade Cineplex</li><li>Esplanade Cineplex Ratchadav</li><li>Esplanade Cineplex Ngamwongwan-Khaerai</li><li>Westgate Cineplex</li><li>Paradise Cineplex</li><li>Major Cineplex Rangsit</li><li>Major Cineplex Future Rangsit</li><li>Central Rama 3</li><li>Central Pinklao</li><li>Blue port Cineplex</li><li>Major Cineplex Central Festival Chiangmai</li><li>Major Cineplex Korat</li><li>Major Cineplex Hatyai</li><li>Major Cineplex Phangnga</li><li>Central Festival Ubon</li></ul>"
                 },
                 "SFCinema": {
                     "th": "<strong>The Bed</strong><br><ul class=\"tw-list-disc tw-pl-5\"><li>SF World Cinema เซ็นทรัลเวิล์ด</li><li>SFX Cinema เซ็นทรัลลาดพร้าว First Class</li><li>Emprive Cine Club เอ็มโพเรียม</li><li>SFW World Cinema เซ็นทรัลเวิล์ด</li><li>SFX เซ็นทรัลพระราม 9</li><li>SFX เซ็นทรัลลาดพร้าว</li><li>SFX เดอะคริสตัล เอกมัย-รามอินทรา</li><li>SFX เซ็นทรัลเฟสติวัล ภูเก็ต</li><li>SFXเซ็นทรัลเฟสติวัล พัทยา</li><li>SFX เทอมินอล 21 พัทยา</li><li>SFX เมยา เชียงใหม่</li></ul>",
-                    "en": "SF Cinema"
+                    "en": "<strong>The Bed</strong><br><ul class=\"tw-list-disc tw-pl-5\"><li>SF World Cinema, CentralWorld</li><li>SFX Cinema, Central Ladprao First Class</li><li>Emprive Cine Club, Emporium</li><li>SFW world cinema, CentralWorld</li><li>SFX Central Plaza Rama 9</li><li>SFX Central Plaza Ladpao</li><li>SFX The Crystal Ekamai-Ramintra</li><li>SFX Central Festival Phuket</li><li>SFX Central Festival Pattaya</li><li>SFX Terminal 21 Pattaya</li><li>SFX Maya Chiangmai</li></ul>"
+                }
+            }
+            
+        ]
+    },
+    {
+        "tableID": 2,
+        "tableName": "SPA",
+        "tableTitle": {
+            "th": "ร้านค้าที่ร่วมรายการ",
+            "en": "Participating merchants"
+        },  
+        "columns": [
+            {
+                "title": {
+                    "th": "ร้านสปา",
+                    "en": "Spa"
+                },
+                "dataIndex": "Spa",
+                "key": "Spa"
+            },
+            {
+                "title": {
+                    "th": "สาขา",
+                    "en": "Branch"
+                },
+                "dataIndex": "Branch",
+                "key": "Branch"
+            },
+            {
+                "title": {
+                    "th": "แพ็คเกจ",
+                    "en": "Package"
+                },
+                "dataIndex": "Package",
+                "key": "Package"
+            },
+            {
+                "title": {
+                    "th": "ราคา",
+                    "en": "Price"
+                },
+                "dataIndex": "Price",
+                "key": "Price"
+            }
+            
+        ],
+        "dataSource":[
+            {
+                "key": "1",
+                "Spa": {
+                    "th": "Oasis Spa",
+                    "en": "Oasis Spa"
+                },
+                "Branch": {
+                    "th": "<ul class=\"tw-list-disc tw-pl-5\"><li>สุขุมวิท ซอย 31</li><li>ทองหล่อ ซอย 20</li><li>พัทยา – 1 สาขา</li><li>เชียงใหม่ – 2 สาขา</li><li>ภูเก็ต – 3 สาขา</li></ul>",
+                    "en": "<ul class=\"tw-list-disc tw-pl-5\"><li>Sukhumvit soi 31</li><li>Thonglor soi 20 </li><li>Pattaya – 1 branch</li><li>Chiangmai – 2 branches</li><li>Phuket - 3 branches</li></ul>"
+                },
+                "Package": {
+                    "th": "นวดไทย หรือนวดน้ำมัน 60 นาที",
+                    "en": "Thai massage or Oil massage<br> 60 minutes"
+                },
+                "Price": {
+                    "th": "ราคาเต็ม 1,590 บาท/ท่าน",
+                    "en": "Full price, THB 1,590/person"
+                }
+            },
+            {
+                "key": "2",
+                "Spa": {
+                    "th": "Let’s Relax",
+                    "en": "Let’s Relax"
+                },
+                "Branch": {
+                    "th": "<ul class=\"tw-list-disc tw-pl-5\"><li>กรุงเทพ - 11 สาขา</li><li>เชียงใหม่ - 3 สาขา</li><li>หัวหิน - 3 สาขา</li><li>กระบี่ - 2 สาขา</li><li>พัทยา - 4 สาขา</li><li>ภูเก็ต - 8 สาขา</li><li>ตรัง - 1 สาขา</li></ul>",
+                    "en": "<ul class=\"tw-list-disc tw-pl-5\"><li>Bangkok - 11 branches</li><li>Chiangmai - 3 branches</li><li>Hua Hin - 3 branches</li><li>Krabi - 2 branches</li><li>Pattaya - 4 branches</li><li>Phuket - 8 branches</li><li>Trang - 1 branch</li></ul>"
+                },
+                "Package": {
+                    "th": "นวดไทย 90 นาที",
+                    "en": "Thai massage 90 minutes"
+                },
+                "Price": {
+                    "th": "ราคาเต็ม 1,590 บาท/ท่าน",
+                    "en": "Full price, THB 1,000/person"
+                }
+            },
+            {
+                "key": "3",
+                "Spa": {
+                    "th": "Health Land",
+                    "en": "Health Land"
+                },
+                "Branch": {
+                    "th": "<ul class=\"tw-list-disc tw-pl-5\"><li>กรุงเทพ - 8 สาขา</li><li>เชียงใหม่ - 1 สาขา</li><li>พัทยา - 2 สาขา</li></ul>",
+                    "en": "<ul class=\"tw-list-disc tw-pl-5\"><li>Bangkok - 8 branches</li><li>Chiangmai - 1 branch</li><li>Pattaya - 2 branches</li></ul>"
+                },
+                "Package": {
+                    "th": "นวดไทย 120 นาที",
+                    "en": "Thai Massage 120 minutes "
+                },
+                "Price": {
+                    "th": "ราคาเต็ม 650 บาท/ท่าน",
+                    "en": "Full price, THB 650/person"
                 }
             }
             

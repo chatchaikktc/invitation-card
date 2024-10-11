@@ -33,9 +33,9 @@ function TabsForTerms({ DialogID }: TabsForTermsProps) {
     return (
         <div>
             <Tab defaultValue={Dialog.TermsTabs[0]}>
-                <TabList>
+                <TabList className="tw-gap-x-1 tw-mb-0">
                     {Dialog.TermsTabs.map((item, index) => (
-                        <TabTrigger key={index} value={item}>
+                        <TabTrigger key={index} value={item} className="tw-border-[1px] tw-border-solid tw-border-b-0 tw-border-white tw-p-0 tw-m-0 tw-py-2 tw-px-10 tw-rounded-t-xl data-[state=active]:tw-bg-white data-[state=active]:tw-text-black hover:tw-bg-white hover:tw-text-black">
                             <div>
                                 {renderTabTitle(item)}
                             </div>
@@ -43,7 +43,7 @@ function TabsForTerms({ DialogID }: TabsForTermsProps) {
                     ))}
                 </TabList>
                 {Dialog.TermsTabs.map((item, index) => (
-                    <TabContent key={index} value={item}>
+                    <TabContent key={index} value={item} className="tw-border-[1px] tw-border-solid tw-border-white tw-p-10">
                         <TermsAndConditions TermsTabs={item} />
                     </TabContent>
                 ))}

@@ -65,7 +65,7 @@
     },
     {
         "cardID": 3,
-        "cardName" : "KTC - KRUNGTHAI <br>ICONIC",
+        "cardName" : "KTC - KRUNGTHAI <br class=\"lg:tw-block md:tw-hidden tw-block\">ICONIC",
         "cardBrand" : "VISA",
         "cardType" : "KTBWHEALTH",
         "cardQualifications" : "KRUNGTHAIICONIC",
@@ -81,7 +81,7 @@
                 "en": "Privileges for Special <br>Customers"
             },
             "subTitle":{
-                "th": "เอกสิทธิ์แห่งความสำเร็จ ไม่ได้จำกัดอยู่แค่จุดเริ่มต้น<br>หากแต่เกิดจากการไม่หยุดที่จะต่อยอดจากความสำเร็จ<br>จากก้าวแรก...ไปสู้ก้าวต่อๆไป",
+                "th": "เอกสิทธิ์แห่งความสำเร็จ ไม่ได้จำกัดอยู่แค่จุดเริ่มต้น<br>หากแต่เกิดจากการไม่หยุดที่จะต่อยอดจาก<br class=\"lg:tw-hidden tw-block\">ความสำเร็จ<br class=\"lg:tw-block tw-hidden\">จากก้าวแรก...ไปสู้ก้าวต่อๆไป",
                 "en": "Privilege of success is not limited to just the beginning.<br>But it comes from the non-stop attempt.<br>From the very first step...to many more"
             },
             "backgroundImage": "https://www.ktc.co.th/pub/media/creditcard/invitation/ktc-visa-infinite/img/banner-privilage.png",
