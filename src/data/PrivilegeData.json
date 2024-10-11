@@ -299,10 +299,10 @@
         "privilegeID": 8,
         "privilegeName": "MIRACLELOUNGEX2",
         "isSpecial": false,
-        "positionImage": "right",
+        "positionImage": "left",
         "title": {
             "th": "ห้องรับรองพิเศษ MIRACLE LOUNGE 2 ครั้ง/ปี",
-            "en": "Complimentary Access to The MIRACLE LOUNGE twice a year"
+            "en": "Complimentary Access to The MIRACLE LOUNGE twice a year "
         },
         "description": {
             "th": [

@@ -115,6 +115,7 @@ export default {
       },
       "BreadcrumbSection": {
         "Home Link": "https://www.ktc.co.th",
+        "creditCard link": "https://www.ktc.co.th/en/credit-card/",
         "Home": "หน้าหลัก",
         creditCard : "บัตรเครดิต",
       },

@@ -1,5 +1,5 @@
 import { useParams } from 'react-router-dom';
-import { useEffect, useState } from 'react';
+// import { useEffect, useState } from 'react';
 import { SectionProvider } from "@/context/SectionContext";
 import Header from "@/components/header/Header";
 import Footer from "@/components/footer/Footer";
@@ -17,26 +17,15 @@ import QualificationsSection from '@/components/qualificationsSection/Qualificat
 
 function HomePage() {
     const { cardname } = useParams();
-    const selectedCard = cardname || 'ktc-digital-platinum-mastercard';
-
-    const [cardData, setCardData] = useState(null);
-
-    useEffect(() => {
-        async function fetchData() {
-            const response = await fetch(`/api/cards/${selectedCard}`);
-            const data = await response.json();
-            setCardData(data);
-        }
-        fetchData();
-    }, [selectedCard]);
-
-    console.log(cardData);
-
+    console.log("cardData : "+cardname);
+    const selectedCard = location.pathname.split('/').pop() || '';
+    
 
     const findCard = CardData.filter((card) => card.cardLink === selectedCard && card.isActive === true);
 
     const card = findCard.length > 0 ? findCard[0] : null;
 
+    console.log("length : "+findCard.length);
     if (!card) {
         return <div>Card not found</div>;
     }
@@ -45,12 +34,12 @@ function HomePage() {
         <SectionProvider>
             {import.meta.env.MODE !== "production" && <Header />}
             <main className="tw-min-h-screen">
-                <HeadSection selectedCard={selectedCard} />
-                <PrivillegeSection selectedCard={selectedCard} />
-                <SpecialPrivillegeSection selectedCard={selectedCard} />
-                <BenefitSection selectedCard={selectedCard} />
+                <HeadSection selectedCard={selectedCard as string} />
+                <PrivillegeSection selectedCard={selectedCard as string} />
+                <SpecialPrivillegeSection selectedCard={selectedCard as string} />
+                <BenefitSection selectedCard={selectedCard as string} />
                 {
-                    card.cardType === 'KTBWHEALTH' &&(<QualificationsSection selectedCard={selectedCard}/>)
+                    card.cardType === 'KTBWHEALTH' &&(<QualificationsSection selectedCard={selectedCard as string}/>)
                 }
                 <CheckTotop />
             </main>

@@ -11,9 +11,7 @@ interface BreadcrumbSectionProps {
 
 function BreadcrumbSection({ cardName, className}: BreadcrumbSectionProps) {
 
-    const { t,i18n } = useTranslation();
-    const internalLink = `${import.meta.env.VITE_BASE_ROUTE}/`;
-    const BaseURL = i18n.language == 'en' ?  `/en${internalLink}` : internalLink;
+    const { t } = useTranslation();
 
     return (
         <>
@@ -28,7 +26,7 @@ function BreadcrumbSection({ cardName, className}: BreadcrumbSectionProps) {
                         <li className={twMerge("last:tw-font-bold tw-inline-flex tw-items-center tw-text-[12px] tw-font-medium hover:tw-text-[#121212] last:tw-text-[#121212] tw-text-[rgba(#ffffff]")}>
                             
                                 {cardName ? (
-                                    <a href={`${BaseURL}`} className="hover:tw-text-[rgba(91,102,112,0.6)]">
+                                    <a href={t('BreadcrumbSection.creditCard link')} className="hover:tw-text-[rgba(91,102,112,0.6)]">
                                         {t('BreadcrumbSection.creditCard')}
                                     </a>
                                 ) : (
