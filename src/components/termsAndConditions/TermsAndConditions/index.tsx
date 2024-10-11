@@ -59,7 +59,7 @@ function TermsAndConditions({ DialogID }: TermsAndConditionsOfPointItemsProps) {
         <>
             {filteredData.map((item, index) => (
                 <div className="last:tw-mb-0 tw-mb-[16px]" key={index}>
-                    {tc(item.descriptionTitle).length > 1 ? <h2 className="tw-text-[16px] tw-font-bold tw-mb-5">{tc(item.descriptionTitle)}</h2> : null}
+                    {tc(item.descriptionTitle).length > 1 ? <h2 className="tw-text-[16px] tw-font-bold tw-mb-5">{parser(tc(item.descriptionTitle))}</h2> : null}
                     {tc(item.description)?.map((description, idx) => (
                         <p key={idx} className="tw-mb-1 tw-text-[14px]">{parser(description)}</p>
                     ))}
@@ -68,7 +68,7 @@ function TermsAndConditions({ DialogID }: TermsAndConditionsOfPointItemsProps) {
 
                     {Dialog?.TableName && filteredTableData && (
                         <div className="tw-my-5">
-                            {tc(filteredTableData.tableTitle).length > 1 ? <h2 className="tw-text-[16px] tw-font-bold tw-mb-3">{tc(filteredTableData.tableTitle)}</h2> : null}
+                            {tc(filteredTableData.tableTitle).length > 1 ? <h2 className="tw-text-[16px] tw-font-bold tw-mb-3">{parser(tc(filteredTableData.tableTitle))}</h2> : null}
                                 <Scroll className='tw-max-w-full'>
                                     <Viewport className='tw-h-fit'>
                                         <div className="lg:tw-w-full tw-min-w-[500px] tw-max-w-[900px]"> {/* สร้างเนื้อหาที่ยาวพอที่จะเลื่อนได้ */}
@@ -83,7 +83,7 @@ function TermsAndConditions({ DialogID }: TermsAndConditionsOfPointItemsProps) {
                         </div>
                     )}
 
-                    {tc(item.TermsTitle) && <h2 className="tw-text-[16px] tw-font-bold tw-pt-5">{tc(item.TermsTitle)}</h2>}
+                    {tc(item.TermsTitle) && <h2 className="tw-text-[16px] tw-font-bold tw-pt-5">{parser(tc(item.TermsTitle))}</h2>}
                     <ul className={twMerge(item.listType === "NUMBER" ? "tw-list-decimal" : "tw-list-disc", "tw-ml-6 tw-my-2 tw-text-[14px]")}>
                         <TermsItems item={tc(item.TermsItems) || []} />
                     </ul>

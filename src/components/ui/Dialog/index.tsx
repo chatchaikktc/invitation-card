@@ -56,7 +56,7 @@ export function DialogContent({ className, ...props }: BaseDialog.DialogContentP
     return (
         <BaseDialog.Content
             className={twMerge(
-                " tw-will-change-transform tw-z-[99999999] DialogContent lg:tw-max-w-[945px] tw-max-w-[90%] lg:tw-w-[945px] tw-w-[90%] lg:tw-h-auto tw-max-h-[90vh] tw-h-[90vh] tw-bg-black xl:tw-p-[25px] tw-p-[16px] tw-border-2 tw-border-solid tw-border-white tw-text-white tw-rounded-2xl",
+                " tw-will-change-transform tw-z-[99999999] DialogContent lg:tw-max-w-[945px] tw-max-w-[90%] lg:tw-w-[945px] tw-w-[90%] lg:tw-h-auto  tw-bg-black xl:tw-p-[25px] lg:tw-p-[16px] tw-p-3 tw-border-2 tw-border-solid tw-border-white tw-text-white tw-rounded-2xl",
                 className
             )}
             {...props}
@@ -77,7 +77,7 @@ export function DialogDescription({ className, ...props }: BaseDialog.DialogDesc
             {...props}
         >
             <Scroll className='tw-w-full'>
-                <Viewport className='tw-max-h-[70vh] tw-overflow-x-hidden'>
+                <Viewport className='scroll-max tw-overflow-x-hidden'>
                     <div className="tw-h-full tw-p-4"> {/* สร้างเนื้อหาที่ยาวพอที่จะเลื่อนได้ */}
                         <div className=''>
                             <div className='xl:tw-pr-[16px] tw-pr-[0px]'>{props.children}</div>

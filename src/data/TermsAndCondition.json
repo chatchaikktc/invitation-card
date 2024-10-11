@@ -680,8 +680,8 @@
         "dID": 12,
         "DialogID": "ENTERTAINMENTICONIC",
         "DialogTitle": {
-            "th": "ข้อกำหนดและเงื่อนไขของคะแนน",
-            "en": "Privilege Terms & Conditions: Points"
+            "th": "เงื่อนไขการใช้สิทธิพิเศษสำหรับ<br>บัตรชมภาพยนตร์, บริการสปา และ Streaming Platform",
+            "en": "Privilege Terms & Conditions for Movie Tickets, Spa Treatment, and Streaming Platforms"
         },
         "descriptionTitle": {
             "th": "",

@@ -53,7 +53,7 @@ function QualificationsSection({ selectedCard }: QualificationsSectionProps) {
     return (
         <>
             <section className="" id="QualificationsSection">
-                <div className='QualificationsSection-bg tw-max-w-[844px] lg:tw-px-0 tw-py-[40px]'>
+                <div className='QualificationsSection-bg tw-max-w-[844px] lg:tw-px-0 tw-px-5 tw-py-[40px]'>
                     <h2 className="tw-text-[25px] tw-leading-[1.4] tw-text-center tw-font-bold">
                         {parse(t("Qualifications.Qualifications and Supporting Documents for Credit Card Application Primary Card"))}
                     </h2>
@@ -87,13 +87,13 @@ function QualificationsSection({ selectedCard }: QualificationsSectionProps) {
                 <Container className='QualificationsSection-bg  tw-py-[40px]'>
                     <div className='lg:tw-px-20 tw-px-5'>
                         <div className='tw-p-[28px] tw-border-white tw-border-[1px] tw-border-solid tw-rounded-[10px] tw-bg-cover tw-mb-10' style={{ backgroundImage: `url(https://www.ktc.co.th/pub/media/creditcard/invitation/img/Banner-Krungthai_Wealth_BG.webp)` }}>
-                            <h2 className={twMerge(isThai ? 'tw-text-[25px]' : 'tw-text-[21px]','tw-font-bold tw-text-center tw-leading-[1.4]')}>{tc(Wealth.title)}</h2>
-                            <p className={twMerge(isThai ? 'tw-text-[25px]' : 'tw-text-[21px]','tw-font-bold tw-text-center tw-leading-[1.4] tw-text-[#80B0EF]')}>{tc(Wealth.subTitle)}</p>
+                            <h2 className={twMerge(isThai ? 'md:tw-text-[25px] tw-text-[20px] ' : 'tw-text-[21px]','tw-font-bold tw-text-center tw-leading-[1.4]')}>{tc(Wealth.title)}</h2>
+                            <p className={twMerge(isThai ? 'md:tw-text-[25px] tw-text-[20px]' : 'tw-text-[21px]','tw-font-bold tw-text-center tw-leading-[1.4] tw-text-[#80B0EF]')}>{tc(Wealth.subTitle)}</p>
                         </div>
                         <h3 className='tw-text-[18px] tw-font-bold tw-mb-3'>{t('Qualifications.note')}</h3>
-                        <ul className='sarabun tw-text-[26px] tw-list-disc tw-leading-[1.4] tw-pl-[50px]'>
+                        <ul className='sarabun tw-text-[26px] tw-list-disc tw-leading-[1.4] lg:tw-pl-[50px] tw-pl-5'>
                                 {tc(Wealth.note).map((note, index) => (
-                                    <li key={index}>{note}</li>
+                                    <li key={index}>{parse(note)}</li>
                                 ))}
                         </ul>
                     </div>

@@ -84,7 +84,7 @@ function PrivilegeDetail({ id }: PrivilegeDetailProps) {
                 <div className={twMerge(privilege.positionImage == "left" ? "tw-order-1" : "tw-order-2")}></div>
                 <div className={twMerge(privilege.positionImage == "left" ? "tw-order-2" : "tw-order-1","xl:tw-p-10 md:tw-p-5 tw-p-5")}>
                     <h2 className="tw-text-[25px] tw-text-[#D0B185] tw-font-bold tw-mb-3 xl:tw-text-start tw-text-center">{parse(tc(privilege.title))}</h2>
-                    <div className="tw-text-[18px] xl:tw-text-start tw-text-center"><DetailsItems item={tc(privilege.description)} /></div>
+                    <div className="md:tw-text-[18px] tw-text-[16px] xl:tw-text-start tw-text-center"><DetailsItems item={tc(privilege.description)} /></div>
                     {
                     privilege.buttonType === "" ? null :
                         privilege.buttonType === "DIALOG" ?

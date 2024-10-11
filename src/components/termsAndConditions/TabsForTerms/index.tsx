@@ -33,9 +33,9 @@ function TabsForTerms({ DialogID }: TabsForTermsProps) {
     return (
         <div>
             <Tab defaultValue={Dialog.TermsTabs[0]}>
-                <TabList className="tw-gap-x-1 tw-mb-0">
+                <TabList className="lg:tw-gap-x-1 tw-gap-3 md:tw-mb-0 ">
                     {Dialog.TermsTabs.map((item, index) => (
-                        <TabTrigger key={index} value={item} className="tw-border-[1px] tw-border-solid tw-border-b-0 tw-border-white tw-p-0 tw-m-0 tw-py-2 tw-px-10 tw-rounded-t-xl data-[state=active]:tw-bg-white data-[state=active]:tw-text-black hover:tw-bg-white hover:tw-text-black">
+                        <TabTrigger key={index} value={item} className="tw-border-[1px] tw-border-solid mb:tw-border-b-0 tw-border-b-[1px] tw-border-white tw-p-0 tw-m-0 tw-py-2 md:tw-px-10 tw-px-5 lg:tw-rounded-t-xl tw-rounded-3xl data-[state=active]:tw-bg-white data-[state=active]:tw-text-black hover:tw-bg-white hover:tw-text-black">
                             <div>
                                 {renderTabTitle(item)}
                             </div>
@@ -43,7 +43,7 @@ function TabsForTerms({ DialogID }: TabsForTermsProps) {
                     ))}
                 </TabList>
                 {Dialog.TermsTabs.map((item, index) => (
-                    <TabContent key={index} value={item} className="tw-border-[1px] tw-border-solid tw-border-white tw-p-10">
+                    <TabContent key={index} value={item} className="tw-border-[1px] mg::tw-border-solid tw-border-none tw-border-white lg:tw-p-5 tw-px-0">
                         <TermsAndConditions TermsTabs={item} />
                     </TabContent>
                 ))}

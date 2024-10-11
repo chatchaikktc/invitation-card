@@ -6,3 +6,6 @@
     color: #D0B185 !important;
     text-decoration: none;
 }
+.scroll-max{
+    max-height: calc(100vh - 280px);
+}
