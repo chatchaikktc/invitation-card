@@ -19,7 +19,7 @@ import 'swiper/css/navigation';
 import 'swiper/css/pagination';
 
 // import required modules
-import { Mousewheel, Navigation,Pagination } from 'swiper/modules';
+import { Mousewheel, Navigation, Pagination } from 'swiper/modules';
 
 
 import '../styles.css'
@@ -54,7 +54,7 @@ function BenefitMobile({ selectedCard }: PrivillegeSectionProps) {
             >
                 {card.BenefitName.map((item, index) => (
                     <SwiperSlide key={index}>
-                        <div className="tw-border-solid tw-border-[1px] tw-border-white tw-rounded-[10px] tw-bg-black tw-p-7 tw-h-[300px] tw-w-full">
+                        <div className="tw-border-solid tw-border-[1px] tw-border-white tw-rounded-[10px] tw-bg-black tw-p-7 tw-h-[280px] tw-w-full">
                             <BenefitItem benefitName={item} />
                         </div>
                     </SwiperSlide>
@@ -79,13 +79,22 @@ function BenefitItem({ benefitName }: BenefitItemProps) {
             {findBenefit.map((benefit, index) => (
                 <div key={index} className="">
                     <div className="lg:tw-flex tw-block tw-justify-between tw-items-start">
-                        <h2 className="tw-uppercase tw-text-[16px] tw-font-bold tw-h-[55px] tw-leading-[1.4]">{parse(tc(benefit.title))}</h2>
+                        <h2 className="tw-uppercase tw-text-[16px] tw-font-bold tw-max-h-[55px] tw-h-auto tw-mb-3 tw-leading-[1.4]">{parse(tc(benefit.title))}</h2>
                         {benefit.icon.length == 0 ? null : <Image src={benefit.icon} className="tw-max-w-[150px] tw-h-auto tw-mx-auto tw-my-3" alt={htmlStripper(tc(benefit.title))} />}
                     </div>
-                    <div className="tw-text-[16px] tw-text-white tw-min-h-[150px]">
+                    <div className="tw-text-[14px] tw-text-white tw-min-h-[130px]">
                         <Description item={tc(benefit.description)} />
                     </div>
-                    {benefit.buttonType.length == 0 ? null : <ButtonDialog DialogID={tc(benefit.buttonLink)} className="tw-mt-5 tw-py-[4px] tw-px-4 tw-border-[1px] tw-border-solid tw-border-white tw-text-white hover:tw-text-black hover:tw-bg-white tw-rounded-[100px] tw-transition tw-ease-in tw-delay-150 duration-150 tw-block tw-w-fit tw-mx-auto">{tc(benefit.buttonText)}</ButtonDialog>}
+                    {
+                        benefit.buttonType == "DIALOG" ?
+                            (
+                                <ButtonDialog DialogID={tc(benefit.buttonLink)} className="tw-mt-5 tw-py-[4px] tw-px-4 tw-border-[1px] tw-border-solid tw-border-white tw-text-white hover:tw-text-black hover:tw-bg-white tw-rounded-[100px] tw-transition tw-ease-in tw-delay-150 duration-150 tw-block tw-w-fit tw-mx-auto">{tc(benefit.buttonText)}</ButtonDialog>
+                            ) :
+                            benefit.buttonType == "LINK" ?
+                                (
+                                    <a href={tc(benefit.buttonLink)} className="tw-mt-5 tw-text-[14px] tw-py-[4px] tw-px-4 tw-border-[1px] tw-border-solid tw-border-white tw-text-white hover:tw-text-black hover:tw-bg-white tw-rounded-[100px] tw-transition tw-ease-in tw-delay-150 duration-150 tw-block tw-w-fit tw-mx-auto hover:tw-no-underline tw-no-underline">{tc(benefit.buttonText)}</a>
+                                ) : null
+                    }
                 </div>
             ))}
         </>

@@ -128,7 +128,7 @@ function ContentItem({ item }: ContentItemProp) {
                     <h3 className='tw-text-[18px] tw-font-bold'>{parse(tc(contentItem.title))}</h3>
                     <ul className='tw-pt-2 tw-pl-10 tw-list-disc'>
                         {tc(contentItem.content).map((content, index) => (
-                            <li key={index} className='tw-pl-3'>{parse(content)}</li>
+                            <li key={index} className='tw-pl-3 tw-text-[18px]'>{parse(content)}</li>
                         ))}
                     </ul>
                 </div>

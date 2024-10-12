@@ -9,3 +9,10 @@
 .scroll-max{
     max-height: calc(100vh - 280px);
 }
+
+@media screen and (max-width: 468px){
+    .scroll-max{
+        max-height: calc(100vh - 250px);
+    }
+    
+}

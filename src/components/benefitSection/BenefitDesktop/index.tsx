@@ -29,9 +29,9 @@ function BenefitDesktop({ selectedCard }: PrivillegeSectionProps) {
 
     return (
         <>
-            <div className="tw-grid lg:tw-grid-cols-3 tw-grid-cols-2 tw-gap-3">
+            <div className="tw-grid lg:tw-grid-cols-3 tw-grid-cols-2 tw-gap-8">
                 {card.BenefitName.map((item) => (
-                    <div className="tw-border-solid tw-border-[1px] tw-border-white tw-rounded-[10px] tw-bg-black tw-p-7">
+                    <div className="tw-border-solid tw-border-[1px] tw-border-white tw-rounded-[10px] tw-bg-black tw-p-5">
                         <BenefitItem benefitName={item} />
                     </div>
                 ))}
@@ -60,7 +60,16 @@ function BenefitItem({ benefitName }: BenefitItemProps) {
                     <div className="tw-text-[16px] tw-text-white tw-min-h-[150px]">
                         <Description item={tc(benefit.description)} />
                     </div>
-                    {benefit.buttonType.length == 0 ? null : <ButtonDialog DialogID={tc(benefit.buttonLink)} className="tw-mt-5 tw-py-[4px] tw-px-4 tw-border-[1px] tw-border-solid tw-border-white tw-text-white hover:tw-text-black hover:tw-bg-white tw-rounded-[100px] tw-transition tw-ease-in tw-delay-150 duration-150 tw-block tw-w-fit tw-mx-auto">{tc(benefit.buttonText)}</ButtonDialog>}
+                    {
+                        benefit.buttonType == "DIALOG" ? 
+                        (
+                            <ButtonDialog DialogID={tc(benefit.buttonLink)} className="tw-mt-5 tw-py-[4px] tw-px-4 tw-border-[1px] tw-border-solid tw-border-white tw-text-white hover:tw-text-black hover:tw-bg-white tw-rounded-[100px] tw-transition tw-ease-in tw-delay-150 duration-150 tw-block tw-w-fit tw-mx-auto">{tc(benefit.buttonText)}</ButtonDialog>
+                        ) : 
+                        benefit.buttonType == "LINK" ? 
+                        (
+                            <a href={tc(benefit.buttonLink)} className="tw-mt-5 tw-py-[4px] tw-px-4 tw-border-[1px] tw-border-solid tw-border-white tw-text-white hover:tw-text-black hover:tw-bg-white tw-rounded-[100px] tw-transition tw-ease-in tw-delay-150 duration-150 tw-block tw-w-fit tw-mx-auto hover:tw-no-underline tw-no-underline">{tc(benefit.buttonText)}</a>
+                        ) : null
+                    }
                 </div>
             ))}
         </>
@@ -75,7 +84,7 @@ function Description({ item }: DescriptionProps) {
     return (
         <div>
             {item.map((item) => (
-                <p>{parse(item)}</p>
+                <p className="tw-leading-[1.5]">{parse(item)}</p>
             ))}
         </div>
     );

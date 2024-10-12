@@ -41,7 +41,7 @@ export function DialogTitle({ className, ...props }: BaseDialog.DialogTitleProps
     return (
         <BaseDialog.Title
             className={twMerge(
-                "DialogTitle tw-text-white lg:tw-text-[22px] tw-text-[18px] tw-font-bold tw-px-[25px]",
+                "DialogTitle tw-text-white lg:tw-text-[22px] tw-text-[18px] tw-font-bold tw-px-5",
                 className
             )}
             {...props}
@@ -78,7 +78,7 @@ export function DialogDescription({ className, ...props }: BaseDialog.DialogDesc
         >
             <Scroll className='tw-w-full'>
                 <Viewport className='scroll-max tw-overflow-x-hidden'>
-                    <div className="tw-h-full tw-p-4"> {/* สร้างเนื้อหาที่ยาวพอที่จะเลื่อนได้ */}
+                    <div className="tw-h-full md:tw-p-0 tw-p-5"> {/* สร้างเนื้อหาที่ยาวพอที่จะเลื่อนได้ */}
                         <div className=''>
                             <div className='xl:tw-pr-[16px] tw-pr-[0px]'>{props.children}</div>
                         </div>

@@ -1,7 +1,7 @@
 [
     {
         "privilegeID": 1,
-        "privilegeName": "KTCFOREVERPOINT",
+        "privilegeName": "KTCFOREVERPOINTX3INFINITE",
         "isSpecial": false,
         "positionImage": "left",
         "title": {
@@ -24,8 +24,8 @@
         "objectSize": "",
         "buttonType": "DIALOG",
         "buttonLink": {
-            "th": "KTCFOREVERPOINT",
-            "en": "KTCFOREVERPOINT"
+            "th": "KTCFOREVERPOINTX3INFINITE",
+            "en": "KTCFOREVERPOINTX3INFINITE"
         },
         "buttonText": {
             "th": "เงื่อนไขการรับคะแนน",
@@ -53,8 +53,8 @@
         "objectSize": "cover",
         "buttonType": "DIALOG",
         "buttonLink": {
-            "th": "KTCFOREVERPOINT",
-            "en": "KTCFOREVERPOINT"
+            "th": "PRIORITYPASS",
+            "en": "PRIORITYPASS"
         },
         "buttonText": {
             "th": "รายละเอียดเพิ่มเติม",
@@ -121,7 +121,7 @@
     },
     {
         "privilegeID": 5,
-        "privilegeName": "AFFTERNOONTEA",
+        "privilegeName": "AFFTERNOONTEAINFINITE",
         "isSpecial": true,
         "positionImage": "left",
         "title": {
@@ -140,8 +140,8 @@
         "objectSize": "cover",
         "buttonType": "DIALOG",
         "buttonLink": {
-            "th": "AFFTERNOONTEA",
-            "en": "AFFTERNOONTEA"
+            "th": "AFFTERNOONTEAINFINITE",
+            "en": "AFFTERNOONTEAINFINITE"
         },
         "buttonText": {
             "th": "รายละเอียดเพิ่มเติม",
@@ -225,10 +225,10 @@
         },
         "imgaePath": "https://www.ktc.co.th/pub/media/creditcard/invitation/img/TC_FEB23-162_CARD-KTC_VISA_Infinite_Hotel_Web_Banner_nn1108x250.webp",
         "objectSize": "cover",
-        "buttonType": "DIALOG",
+        "buttonType": "LINK",
         "buttonLink": {
-            "th": "HOTELPRIVILEGE",
-            "en": "HOTELPRIVILEGE"
+            "th": "https://www.visainfinitehotels.com/authenticate/card",
+            "en": "https://www.visainfinitehotels.com/authenticate/card"
         },
         "buttonText": {
             "th": "รายละเอียดเพิ่มเติม",
@@ -253,6 +253,35 @@
             ]
         },
         "imgaePath": "https://www.ktc.co.th/pub/media/creditcard/invitation/img/visa-privillages-banner-1108x250px.jpg",
+        "objectSize": "cover",
+        "buttonType": "LINK",
+        "buttonLink": {
+            "th": "https://www.ktc.co.th/promotion/exclusive-card-brands/visa",
+            "en": "https://www.ktc.co.th/en/promotion/exclusive-card-brands/visa"
+        },
+        "buttonText": {
+            "th": "รายละเอียดเพิ่มเติม",
+            "en": "More Details"
+        }
+    },
+    {
+        "privilegeID": 6,
+        "privilegeName": "VISAPRIVILEGELEFT",
+        "isSpecial": false,
+        "positionImage": "left",
+        "title": {
+            "th": "สิทธิพิเศษสำหรับ<br>บัตรเครดิต KTC VISA",
+            "en": "Special Privilege for<br>KTC VISA Credit Card"
+        },
+        "description": {
+            "th": [
+                ""
+            ],
+            "en": [
+                ""
+            ]
+        },
+        "imgaePath": "https://www.ktc.co.th/pub/media/creditcard/invitation/img/visa-privillages-banner-1108x250px-left.webp",
         "objectSize": "cover",
         "buttonType": "LINK",
         "buttonLink": {
@@ -325,7 +354,36 @@
         }
     },
     {
-        "privilegeID": 5,
+        "privilegeID": 8,
+        "privilegeName": "MIRACLELOUNGEX2KRUNGTHAIPRIVATE",
+        "isSpecial": false,
+        "positionImage": "left",
+        "title": {
+            "th": "ห้องรับรองพิเศษ MIRACLE LOUNGE 2 ครั้ง/ปี",
+            "en": "Complimentary Access to The MIRACLE LOUNGE twice a year "
+        },
+        "description": {
+            "th": [
+                "แสดงบัตรเครดิต KTC - KRUNGTHAI ICONIC พร้อมบัตรโดยสารระหว่างประเทศของสายการบินไทย ที่ ห้องรับรองพิเศษ MIRACLE LOUNGE ภายในสนามบินสุวรรณภูมิ บริเวณ Concourse A (Level 3), Concourse A1 (Level 3), Concourse C (Level 3), Concourse D (Level 3), Concourse F (Level 3), Concourse G (Level 3), Concourse G (Level 4) และ SAT-1 termina ตั้งแต่ 1 ม.ค. 67 – 31 ธ.ค. 67"
+            ],
+            "en": [
+                "By presenting your KTC – KRUNGTHAI ICONIC credit card along with Thai Airways boarding pass for international flight. The MIRACLE LOUNGE, located in Suvarnabhumi airport's Concourse A (Level 3), Concourse A1 (Level 3), Concourse C (Level 3), Concourse D (Level 3), Concourse F (Level 3), Concourse G (Level 3), Concourse G (Level 4) and SAT-1 terminal from 1 Jan 24 – 31 Dec 24."
+            ]
+        },
+        "imgaePath": "https://www.ktc.co.th/pub/media/creditcard/invitation/img/royal-silk.webp",
+        "objectSize": "cover",
+        "buttonType": "DIALOG",
+        "buttonLink": {
+            "th": "MIRACLELOUNGEX2KRUNGTHAIPRIVATE",
+            "en": "MIRACLELOUNGEX2KRUNGTHAIPRIVATE"
+        },
+        "buttonText": {
+            "th": "เงื่อนไขการรับคะแนน",
+            "en": "Terms & Conditions"
+        }
+    },
+    {
+        "privilegeID": 9,
         "privilegeName": "AFFTERNOONTEA500",
         "isSpecial": true,
         "positionImage": "right",
@@ -354,7 +412,7 @@
         }
     },
     {
-        "privilegeID": 6,
+        "privilegeID": 10,
         "privilegeName": "50GREENFEE",
         "isSpecial": true,
         "positionImage": "left",
@@ -383,7 +441,7 @@
         }
     },
     {
-        "privilegeID": 7,
+        "privilegeID": 11,
         "privilegeName": "ENTERTAINMENTICONIC",
         "isSpecial": true,
         "positionImage": "right",
@@ -409,6 +467,752 @@
         "buttonLink": {
             "th": "ENTERTAINMENTICONIC",
             "en": "ENTERTAINMENTICONIC"
+        },
+        "buttonText": {
+            "th": "รายละเอียดเพิ่มเติม",
+            "en": "More Details"
+        }
+    },
+    {
+        "privilegeID": 12,
+        "privilegeName": "MIRACLELOUNGEPRECIOUS",
+        "isSpecial": false,
+        "positionImage": "left",
+        "title": {
+            "th": "ห้องรับรองพิเศษ MIRACLE LOUNGE 2 ครั้ง/ปี",
+            "en": "Complimentary Access to <br>The MIRACLE LOUNGE <br>twice a year"
+        },
+        "description": {
+            "th": [
+                "แสดงบัตรเครดิต KTC - KRUNGTHAI PRECIOUS+ พร้อมบัตรโดยสารระหว่างประเทศของสายการบินไทย ที่ ห้องรับรองพิเศษ MIRACLE LOUNGE ภายในสนามบินสุวรรณภูมิ บริเวณ Concourse A (Level 3), Concourse A1 (Level 3), Concourse C (Level 3), Concourse D (Level 3), Concourse F (Level 3), Concourse G (Level 3), Concourse G (Level 4) และ SAT-1 termina",
+                "ตั้งแต่ 1 ม.ค. 67 – 31 ธ.ค. 67"
+            ],
+            "en": [
+                "By presenting your KTC – KRUNGTHAI ICONIC credit card along with Thai Airways boarding pass for international flight. The MIRACLE LOUNGE, located in Suvarnabhumi airport's Concourse A (Level 3), Concourse A1 (Level 3), Concourse C (Level 3), Concourse D (Level 3), Concourse F (Level 3), Concourse G (Level 3), Concourse G (Level 4) and SAT-1 terminal from 1 Jan 24 – 31 Dec 24."
+            ]
+        },
+        "imgaePath": "https://www.ktc.co.th/pub/media/creditcard/invitation/img/royal-silk.webp",
+        "objectSize": "cover",
+        "buttonType": "DIALOG",
+        "buttonLink": {
+            "th": "MIRACLELOUNGEPRECIOUS",
+            "en": "MIRACLELOUNGEPRECIOUS"
+        },
+        "buttonText": {
+            "th": "เงื่อนไขการรับคะแนน",
+            "en": "Terms & Conditions"
+        }
+    },
+    {
+        "privilegeID": 13,
+        "privilegeName": "ASSETUNDERMANAGEMENTPRECIOUS",
+        "isSpecial": true,
+        "positionImage": "right",
+        "title": {
+            "th": "สิทธิพิเศษตามเกณฑ์ยอดรวมสินทรัพย์<br>ที่ถือครองกับธนาคาร*",
+            "en": "Exclusive Privileges based on Asset <br>Under Management*"
+        },
+        "description": {
+            "th": [
+                "สิทธิประโยชน์ทางด้านการเงิน"
+            ],
+            "en": [
+                "Special financial privileges"
+            ]
+        },
+        "imgaePath": "https://www.ktc.co.th/pub/media/creditcard/invitation/img/piority-privillages-banner-1108x250px.jpg",
+        "objectSize": "cover",
+        "buttonType": "DIALOG",
+        "buttonLink": {
+            "th": "ASSETUNDERMANAGEMENTPRECIOUS",
+            "en": "ASSETUNDERMANAGEMENTPRECIOUS"
+        },
+        "buttonText": {
+            "th": "รายละเอียดเพิ่มเติม",
+            "en": "More Details"
+        }
+    },
+    {
+        "privilegeID": 13,
+        "privilegeName": "BUFFETFOR2",
+        "isSpecial": true,
+        "positionImage": "right",
+        "title": {
+            "th": "อภินันทนาการบุฟเฟต์ <br class=\"lg:tw-hidden tw-block\">สำหรับ 2 ท่าน",
+            "en": "Complimentary buffet or <br class=\"lg:tw-hidden tw-block\">set menu for 2 persons"
+        },
+        "description": {
+            "th": [
+                "หรือบุฟเฟต์ สำหรับ 2 ท่าน <br class=\"lg:tw-hidden tw-block\">ราคาพิเศษ 1,500 บาท เมื่อมียอดใช้จ่าย<br class=\"lg:tw-hidden tw-block\">ผ่านบัตรฯ รวม 300,000 บาทขึ้นไป"
+            ],
+            "en": [
+                "or buffet or set menu for 2 persons at a special price of 1,500 baht by accumulated spending of 300,000 baht."
+            ]
+        },
+        "imgaePath": "https://www.ktc.co.th/pub/media/creditcard/invitation/img/buffet-dinning-privillages-banner-1108x250px-right.webp",
+        "objectSize": "cover",
+        "buttonType": "DIALOG",
+        "buttonLink": {
+            "th": "BUFFETFOR2",
+            "en": "BUFFETFOR2"
+        },
+        "buttonText": {
+            "th": "รายละเอียดเพิ่มเติม",
+            "en": "More Details"
+        }
+    },
+    {
+        "privilegeID": 14,
+        "privilegeName": "GREENFEEINFINIT",
+        "isSpecial": true,
+        "positionImage": "right",
+        "title": {
+            "th": "อภินันทนาการค่ากรีนฟี",
+            "en": "Complimentary green fee"
+        },
+        "description": {
+            "th": [
+                "ที่สนามกอล์ฟที่กำหนด ไม่เกิน 2 ท่านต่อ 1 กลุ่ม"
+            ],
+            "en": [
+                "At specified golf courses and limited to a maximum of 2 persons per group."
+            ]
+        },
+        "imgaePath": "https://www.ktc.co.th/pub/media/creditcard/invitation/img/greenfee-privillages-banner-1108x250px-right_1.jpg",
+        "objectSize": "cover",
+        "buttonType": "DIALOG",
+        "buttonLink": {
+            "th": "GREENFEEINFINIT",
+            "en": "GREENFEEINFINIT"
+        },
+        "buttonText": {
+            "th": "รายละเอียดเพิ่มเติม",
+            "en": "More Details"
+        }
+    },
+    {
+        "privilegeID": 15,
+        "privilegeName": "ENTERTAINMENTINFINITE",
+        "isSpecial": true,
+        "positionImage": "left",
+        "title": {
+            "th": "สิทธิพิเศษที่โรงภาพยนตร์ สปา <br>หรือ Streaming platform",
+            "en": "Privileges at cinemas, spa <br>or on streaming platforms"
+        },
+        "description": {
+            "th": [
+                "ส่วนลด 50% สำหรับบัตรชมภาพยนตร์ หรือบริการสปา หรือสิทธิ์รับชม Viu premium package รายปี หรือ Netflix gift card มูลค่า 1,000 บาท เมื่อมียอดใช้จ่ายผ่านบัตรฯรวม 80,000 บาทขึ้นไป"
+            ],
+            "en": [
+                "Get a 50% discount on movie tickets or a spa service, an annual Viu premium streaming package or a Netflix gift card valued 1,000 baht by accumulated spending of 80,000 baht."
+            ]
+        },
+        "imgaePath": "https://www.ktc.co.th/pub/media/creditcard/2024/image/AW_DEC23-184_CARD_Privileges-Banner_Spa_Desktop_1108x250.webp",
+        "objectSize": "contain",
+        "buttonType": "DIALOG",
+        "buttonLink": {
+            "th": "ENTERTAINMENTINFINITE",
+            "en": "ENTERTAINMENTINFINITE"
+        },
+        "buttonText": {
+            "th": "รายละเอียดเพิ่มเติม",
+            "en": "More Details"
+        }
+    },
+    {
+        "privilegeID": 15,
+        "privilegeName": "FICODISCOUNT15",
+        "isSpecial": false,
+        "positionImage": "left",
+        "title": {
+            "th": "Special Discount<br>up to 15%",
+            "en": "Special Discount<br>up to 15%"
+        },
+        "description": {
+            "th": [
+                "รับส่วนลดสำหรับค่าห้องพัก ค่าอาหารและเครื่องดื่ม สปาทรีตเม้นต์ และค่าสมาชิกฟิตเนสรายปี ที่โรงแรมและร้านอาหารที่ร่วมรายการ"
+            ],
+            "en": [
+                "Get discounts on accommodations, food, beverages, spa treatments and annual fitness membership fees at participating hotels and restaurants."
+            ]
+        },
+        "imgaePath": "https://www.ktc.co.th/pub/media/creditcard/invitation/FICO-VISA-INFINITE/thm-fico-img-3.webp",
+        "objectSize": "",
+        "buttonType": "",
+        "buttonLink": {
+            "th": "",
+            "en": ""
+        },
+        "buttonText": {
+            "th": "รายละเอียดเพิ่มเติม",
+            "en": "More Details"
+        }
+    },
+    {
+        "privilegeID": 16,
+        "privilegeName": "FICOCORPORATION",
+        "isSpecial": false,
+        "positionImage": "left",
+        "title": {
+            "th": "ส่วนลดจากโรงแรมและร้านอาหาร<br>ในเครือ FICO Corporation",
+            "en": "Discounts from Hotels and Restaurants <br>at FICO Corporation"
+        },
+        "description": {
+            "th": [
+                "รับส่วนลดสูงสุด  15%  และสิทธิพิเศษอื่นๆ ที่โรงแรมและร้านอาหารที่ร่วมรายการ"
+            ],
+            "en": [
+                "Discounts from Hotels and Restaurants at FICO Corporation"
+            ]
+        },
+        "imgaePath": "https://www.ktc.co.th/pub/media/creditcard/invitation/img/fico-privillages-banner-1108x250px.jpg",
+        "objectSize": "left",
+        "buttonType": "DIALOG",
+        "buttonLink": {
+            "th": "FICOCORPORATION",
+            "en": "FICOCORPORATION"
+        },
+        "buttonText": {
+            "th": "รายละเอียดเพิ่มเติม",
+            "en": "More Details"
+        }
+    },
+    {
+        "privilegeID": 1,
+        "privilegeName": "KTCFOREVERPOINTX3INFINITEPRECIOUS",
+        "isSpecial": false,
+        "positionImage": "left",
+        "title": {
+            "th": "KTC FOREVER Point",
+            "en": "KTC FOREVER Point"
+        },
+        "description": {
+            "th": [
+                "รับคะแนน KTC FOREVER x3 เมื่อใช้จ่ายผ่านบัตรฯ ครบทุก 600,000 บาทในหมวดร้านอาหาร ช้อปปิ้ง ท่องเที่ยว ในประเทศไทย และการใช้จ่ายเป็นสกุลเงินต่างประเทศ",
+                "(ยกเว้น 31 ประเทศในเขตเศรษฐกิจยุโรปและสาธารณรัฐประชาชนจีน)",
+                "ตั้งแต่วันที่ 1 ม.ค. 67 - 31 ธ.ค. 67"
+            ],
+            "en": [
+                "Earn 3x KTC FOREVER points for every 600,000 baht when spending in dining, shopping, travel categories in Thailand and spending in foreign currency",
+                "(Exclude 31 countries in the European Economic Area and People's Republic of China)",
+                "from 1 Jan 24 – 31 Dec 24."
+            ]
+        },
+        "imgaePath": "https://www.ktc.co.th/pub/media/creditcard/invitation/ktc-visa-infinite/img/x3.png",
+        "objectSize": "",
+        "buttonType": "DIALOG",
+        "buttonLink": {
+            "th": "KTCFOREVERPOINTX3INFINITEPRECIOUS",
+            "en": "KTCFOREVERPOINTX3INFINITEPRECIOUS"
+        },
+        "buttonText": {
+            "th": "เงื่อนไขการรับคะแนน",
+            "en": "Terms & Conditions"
+        }
+    },
+    {
+        "privilegeID": 13,
+        "privilegeName": "ASSETUNDERMANAGEMENTPRECIOUSINFINITE",
+        "isSpecial": true,
+        "positionImage": "right",
+        "title": {
+            "th": "สิทธิพิเศษตามเกณฑ์ยอดรวมสินทรัพย์<br>ที่ถือครองกับธนาคาร*",
+            "en": "Exclusive Privileges based on Asset <br>Under Management*"
+        },
+        "description": {
+            "th": [
+                "สิทธิประโยชน์ทางด้านการเงิน"
+            ],
+            "en": [
+                "Special financial privileges"
+            ]
+        },
+        "imgaePath": "https://www.ktc.co.th/pub/media/creditcard/invitation/img/piority-privillages-banner-1108x250px.jpg",
+        "objectSize": "cover",
+        "buttonType": "DIALOG",
+        "buttonLink": {
+            "th": "ASSETUNDERMANAGEMENTPRECIOUSINFINITE",
+            "en": "ASSETUNDERMANAGEMENTPRECIOUSINFINITE"
+        },
+        "buttonText": {
+            "th": "รายละเอียดเพิ่มเติม",
+            "en": "More Details"
+        }
+    },
+    {
+        "privilegeID": 7,
+        "privilegeName": "KTCFOREVERPOINTX2KRUNGTHAIPRIVATE",
+        "isSpecial": false,
+        "positionImage": "left",
+        "title": {
+            "th": "KTC FOREVER Point",
+            "en": "KTC FOREVER Point"
+        },
+        "description": {
+            "th": [
+                "รับคะแนน KTC FOREVER x2 เมื่อใช้จ่ายเป็นสกุลเงินต่างประเทศ (ยกเว้น 31 ประเทศในเขตเศรษฐกิจยุโรป และสาธารณรัฐประชาชนจีน)",
+                "ตั้งแต่วันที่ 1 ม.ค. 67 – 31 ธ.ค. 67"
+            ],
+            "en": [
+                "Earn 2x KTC FOREVER points when spending in foreign currency (Exclude 31 countries in the European Economic Area and People's Republic of China)",
+                "from 1 Jan 24 - 31 Dec 24."
+            ]
+        },
+        "imgaePath": "https://www.ktc.co.th/pub/media/creditcard/invitation/img/x2-forever-point.webp",
+        "objectSize": "cover",
+        "buttonType": "DIALOG",
+        "buttonLink": {
+            "th": "KTCFOREVERPOINTX2KRUNGTHAIPRIVATE",
+            "en": "KTCFOREVERPOINTX2KRUNGTHAIPRIVATE"
+        },
+        "buttonText": {
+            "th": "เงื่อนไขการรับคะแนน",
+            "en": "Terms & Conditions"
+        }
+    },
+    {
+        "privilegeID": 7,
+        "privilegeName": "KTCFOREVERPOINTX2PRECIOUS",
+        "isSpecial": false,
+        "positionImage": "left",
+        "title": {
+            "th": "KTC FOREVER Point",
+            "en": "KTC FOREVER Point"
+        },
+        "description": {
+            "th": [
+                "รับคะแนน KTC FOREVER x2 เมื่อใช้จ่ายเป็นสกุลเงินต่างประเทศ (ยกเว้น 31 ประเทศในเขตเศรษฐกิจยุโรป และสาธารณรัฐประชาชนจีน)",
+                "ตั้งแต่วันที่ 1 ม.ค. 67 – 31 ธ.ค. 67"
+            ],
+            "en": [
+                "Earn 2x KTC FOREVER points when spending in foreign currency (Exclude 31 countries in the European Economic Area and People's Republic of China)",
+                "from 1 Jan 24 - 31 Dec 24."
+            ]
+        },
+        "imgaePath": "https://www.ktc.co.th/pub/media/creditcard/invitation/img/x2-forever-point.webp",
+        "objectSize": "cover",
+        "buttonType": "DIALOG",
+        "buttonLink": {
+            "th": "KTCFOREVERPOINTX2PRECIOUS",
+            "en": "KTCFOREVERPOINTX2PRECIOUS"
+        },
+        "buttonText": {
+            "th": "เงื่อนไขการรับคะแนน",
+            "en": "Terms & Conditions"
+        }
+    },
+    {
+        "privilegeID": 7,
+        "privilegeName": "KTCFOREVERPOINTX3ROYALORCHID",
+        "isSpecial": false,
+        "positionImage": "left",
+        "title": {
+            "th": "KTC FOREVER Point",
+            "en": "KTC FOREVER Point"
+        },
+        "description": {
+            "th": [
+                "รับคะแนน KTC ROP x3 เมื่อใช้จ่ายผ่านบัตรฯ ครบทุก 600,000 บาทในหมวดร้านอาหาร ช้อปปิ้ง ท่องเที่ยว ในประเทศไทย และการใช้จ่ายเป็นสกุลเงินต่างประเทศ  ตั้งแต่วันที่ 1 ม.ค. 67 - 31 ธ.ค. 67",
+                "(ยกเว้น 31 ประเทศในเขตเศรษฐกิจยุโรปและสาธารณรัฐประชาชนจีน)",
+                "ตั้งแต่วันที่ 1 ม.ค. 67 – 31 ธ.ค. 67"
+            ],
+            "en": [
+                "Earn 3x KTC ROP points for every 600,000 baht when spending in dining, shopping, travel categories in Thailand and spending in foreign currency",
+                "(Exclude 31 countries in the European Economic Area and People's Republic of China)",
+                "from 1 Jan 24 - 31 Dec 24."
+            ]
+        },
+        "imgaePath": "https://www.ktc.co.th/pub/media/creditcard/invitation/ktc-visa-infinite/img/x3.png",
+        "objectSize": "cover",
+        "buttonType": "DIALOG",
+        "buttonLink": {
+            "th": "KTCFOREVERPOINTX3ROYALORCHID",
+            "en": "KTCFOREVERPOINTX3ROYALORCHID"
+        },
+        "buttonText": {
+            "th": "เงื่อนไขการรับคะแนน",
+            "en": "Terms & Conditions"
+        }
+    },
+    {
+        "privilegeID": 7,
+        "privilegeName": "PRIORITYROP",
+        "isSpecial": false,
+        "positionImage": "left",
+        "title": {
+            "th": "ROP Mileage",
+            "en": "ROP Mileage"
+        },
+        "description": {
+            "th": [
+                "แลกบินเร็วเป็นไมล์สะสม รอยัล ออร์คิด พลัส   2 คะแนน  KTC ROP = 1  ไมล์สะสม รอยัล ออร์คิด พลัส"
+            ],
+            "en": [
+                "Redeem points into Royal Orchid Plus miles<br>2 KTC ROP points = 1 Royal Orchid Plus mile."
+            ]
+        },
+        "imgaePath": "https://www.ktc.co.th/pub/media/creditcard/invitation/ktc-royal-orchid-plus-visa-infinite/KTC_-_ROYAL_ORCHID_PLUS_VISA_INFINITE-thm-1.webp",
+        "objectSize": "cover",
+        "buttonType": "",
+        "buttonLink": {
+            "th": "",
+            "en": ""
+        },
+        "buttonText": {
+            "th": "เงื่อนไขการรับคะแนน",
+            "en": "Terms & Conditions"
+        }
+    },
+    {
+        "privilegeID": 7,
+        "privilegeName": "EARN500ROYALORCHID",
+        "isSpecial": false,
+        "positionImage": "right",
+        "title": {
+            "th": "รับ 500 รอยัล ออร์คิด พลัส ไมล์<br>พิเศษจากการบินไทย",
+            "en": "Earn 500 Royal Orchid Plus Miles<br>Special Privilege from Thai Airways."
+        },
+        "description": {
+            "th": [
+                "เมื่อท่านสมาชิกบัตรฯ สะสมไมล์เอกสิทธิ์ได้ 5,000 ไมล์ ซึ่งเป็นไมล์ที่ได้จากการบิน (Flown Miles) ตามเงื่อนไขที่กำหนด"
+            ],
+            "en": [
+                "When earning 5,000 privilege miles from Flown Miles according to specified conditions."
+            ]
+        },
+        "imgaePath": "https://www.ktc.co.th/pub/media/creditcard/invitation/ktc-royal-orchid-plus-visa-infinite/AD-Gineric-Landing.webp",
+        "objectSize": "cover",
+        "buttonType": "",
+        "buttonLink": {
+            "th": "",
+            "en": ""
+        },
+        "buttonText": {
+            "th": "เงื่อนไขการรับคะแนน",
+            "en": "Terms & Conditions"
+        }
+    },
+    {
+        "privilegeID": 7,
+        "privilegeName": "FREEMAINCOURSE",
+        "isSpecial": false,
+        "positionImage": "right",
+        "title": {
+            "th": "อภินันทนาการอาหารจานหลัก 1 จาน",
+            "en": "Complimentary Main Course"
+        },
+        "description": {
+            "th": [
+                "เมื่อสั่งอาหารจานหลักตั้งแต่ 2 จานขึ้นไปที่ร้านอาหารชั้นนำที่ร่วมรายการ"
+            ],
+            "en": [
+                "By ordering a minimum of 2 main courses at participating leading restaurants."
+            ]
+        },
+        "imgaePath": "https://www.ktc.co.th/pub/media/creditcard/2024/image/OneDineFree-2024-desktop-1920x540.webp",
+        "objectSize": "cover",
+        "buttonType": "LINK",
+        "buttonLink": {
+            "th": "https://specials.priceless.com/en-ap/offers/One_Dines_Free?Oid=202001310019&issuerId=&productId=",
+            "en": "https://specials.priceless.com/en-ap/offers/One_Dines_Free?Oid=202001310019&issuerId=&productId="
+        },
+        "buttonText": {
+            "th": "เงื่อนไขการรับคะแนน",
+            "en": "Terms & Conditions"
+        }
+    },
+    {
+        "privilegeID": 7,
+        "privilegeName": "ONENIGHTFREE",
+        "isSpecial": false,
+        "positionImage": "left",
+        "title": {
+            "th": "One Night Free with Mastercard®",
+            "en": "One Night Free with Mastercard®"
+        },
+        "description": {
+            "th": [
+                "รับสิทธิ์พักฟรี 1 คืน<br>ที่โรงแรมในเครือ Banyan Tree, Centara, Park Hyatt, Capella และอื่นๆ อีกมากมาย"
+            ],
+            "en": [
+                "Enjoy one night free<br>at a collection of participating luxurious hotels to handpicked resorts."
+            ]
+        },
+        "imgaePath": "https://www.ktc.co.th/pub/media/creditcard/invitation/ktc-royal-orchid-plus-world-mastercard/free-one-night.webp",
+        "objectSize": "cover",
+        "buttonType": "LINK",
+        "buttonLink": {
+            "th": "https://specials.priceless.com/en-ap/programs/One_Night_Free_with_Mastercard?id=201910110005&issuerId=201808088888&productId=201812140002",
+            "en": "https://specials.priceless.com/en-ap/programs/One_Night_Free_with_Mastercard?id=201910110005&issuerId=201808088888&productId=201812140002"
+        },
+        "buttonText": {
+            "th": "เงื่อนไขการรับคะแนน",
+            "en": "Terms & Conditions"
+        }
+    },
+    {
+        "privilegeID": 7,
+        "privilegeName": "PRICELESSSPECIAL",
+        "isSpecial": false,
+        "positionImage": "right",
+        "title": {
+            "th": "รับสิทธิพิเศษทั่วโลกกับ<br>Mastercard Priceless™ Specials",
+            "en": "Mastercard Priceless™ Specials"
+        },
+        "description": {
+            "th": [
+                "ครอบคลุมทั้งเรื่องท่องเที่ยว อาหาร ช้อปปิ้ง กีฬา บันเทิง และศิลปวัฒนธรรม"
+            ],
+            "en": [
+                "Including the best offers in travel, culinary, shopping, sports, entertainment, and art and culture."
+            ]
+        },
+        "imgaePath": "https://www.ktc.co.th/pub/media/sites/cs/assets/ktc_css/img/card-details/mastercard/Desktop-1920x540.jpg",
+        "objectSize": "cover",
+        "buttonType": "LINK",
+        "buttonLink": {
+            "th": "https://specials.priceless.com/en-ap/offers/One_Dines_Free?Oid=202001310019&issuerId=&productId=",
+            "en": "https://specials.priceless.com/en-ap/offers/One_Dines_Free?Oid=202001310019&issuerId=&productId="
+        },
+        "buttonText": {
+            "th": "เงื่อนไขการรับคะแนน",
+            "en": "Terms & Conditions"
+        }
+    },
+    {
+        "privilegeID": 7,
+        "privilegeName": "ONLINESHOPPING",
+        "isSpecial": false,
+        "positionImage": "left",
+        "title": {
+            "th": "ช้อปออนไลน์คุ้มสุด กับ Mastercard®",
+            "en": "Enjoy year-round online shopping privileges offered by Mastercard®"
+        },
+        "description": {
+            "th": [
+                "ช้อปผ่านพันธมิตรออนไลน์ที่ร่วมรายการ"
+            ],
+            "en": [
+                "at participation online partners."
+            ]
+        },
+        "imgaePath": "https://www.ktc.co.th/pub/media/creditcard/invitation/ktc-ktb-precious-visa-signature/mastercard-shoping-online.webp",
+        "objectSize": "cover",
+        "buttonType": "LINK",
+        "buttonLink": {
+            "th": "https://www.ktc.co.th/promotion/online/shopping/e-commerce#MASTERCARD",
+            "en": "https://www.ktc.co.th/en/promotion/online/shopping/e-commerce#MASTERCARD"
+        },
+        "buttonText": {
+            "th": "เงื่อนไขการรับคะแนน",
+            "en": "Terms & Conditions"
+        }
+    },
+    {
+        "privilegeID": 7,
+        "privilegeName": "EXCUSIVEPRIVILEGES",
+        "isSpecial": false,
+        "positionImage": "right",
+        "title": {
+            "th": "สิทธิพิเศษสำหรับ<br>บัตรเครดิต KTC MASTERCARD",
+            "en": "Exclusive Privilege for<br>KTC MASTERCARD cardmembers"
+        },
+        "description": {
+            "th": [],
+            "en": []
+        },
+        "imgaePath": "https://www.ktc.co.th/pub/media/creditcard/invitation/ktc-royal-orchid-plus-world-mastercard/Exclusive-Privilege.webp",
+        "objectSize": "cover",
+        "buttonType": "LINK",
+        "buttonLink": {
+            "th": "https://www.ktc.co.th/promotion/exclusive-card-brands/mastercard",
+            "en": "https://www.ktc.co.th/en/promotion/exclusive-card-brands/mastercard"
+        },
+        "buttonText": {
+            "th": "เงื่อนไขการรับคะแนน",
+            "en": "Terms & Conditions"
+        }
+    },
+    {
+        "privilegeID": 7,
+        "privilegeName": "KTCFOREVERPOINTX3ROYALORCHIDWORLD",
+        "isSpecial": false,
+        "positionImage": "left",
+        "title": {
+            "th": "KTC FOREVER Point",
+            "en": "KTC FOREVER Point"
+        },
+        "description": {
+            "th": [
+                "รับคะแนน KTC ROP x3 เมื่อใช้จ่ายผ่านบัตรฯ ครบทุก 600,000 บาทในหมวดร้านอาหาร ช้อปปิ้ง ท่องเที่ยว ในประเทศไทย และการใช้จ่ายเป็นสกุลเงินต่างประเทศ  ตั้งแต่วันที่ 1 ม.ค. 67 - 31 ธ.ค. 67",
+                "(ยกเว้น 31 ประเทศในเขตเศรษฐกิจยุโรปและสาธารณรัฐประชาชนจีน)",
+                "ตั้งแต่วันที่ 1 ม.ค. 67 – 31 ธ.ค. 67"
+            ],
+            "en": [
+                "Earn 3x KTC ROP points for every 600,000 baht when spending in dining, shopping, travel categories in Thailand and spending in foreign currency",
+                "(Exclude 31 countries in the European Economic Area and People's Republic of China)",
+                "from 1 Jan 24 - 31 Dec 24."
+            ]
+        },
+        "imgaePath": "https://www.ktc.co.th/pub/media/creditcard/invitation/ktc-visa-infinite/img/x3.png",
+        "objectSize": "cover",
+        "buttonType": "DIALOG",
+        "buttonLink": {
+            "th": "KTCFOREVERPOINTX3ROYALORCHIDWORLD",
+            "en": "KTCFOREVERPOINTX3ROYALORCHIDWORLD"
+        },
+        "buttonText": {
+            "th": "เงื่อนไขการรับคะแนน",
+            "en": "Terms & Conditions"
+        }
+    },
+    {
+        "privilegeID": 7,
+        "privilegeName": "KTCFOREVERPOINTX3WORLD",
+        "isSpecial": false,
+        "positionImage": "left",
+        "title": {
+            "th": "KTC FOREVER Point",
+            "en": "KTC FOREVER Point"
+        },
+        "description": {
+            "th": [
+                "รับคะแนน KTC ROP x3 เมื่อใช้จ่ายผ่านบัตรฯ ครบทุก 600,000 บาทในหมวดร้านอาหาร ช้อปปิ้ง ท่องเที่ยว ในประเทศไทย และการใช้จ่ายเป็นสกุลเงินต่างประเทศ  ตั้งแต่วันที่ 1 ม.ค. 67 - 31 ธ.ค. 67",
+                "(ยกเว้น 31 ประเทศในเขตเศรษฐกิจยุโรปและสาธารณรัฐประชาชนจีน)",
+                "ตั้งแต่วันที่ 1 ม.ค. 67 – 31 ธ.ค. 67"
+            ],
+            "en": [
+                "Earn 3x KTC ROP points for every 600,000 baht when spending in dining, shopping, travel categories in Thailand and spending in foreign currency",
+                "(Exclude 31 countries in the European Economic Area and People's Republic of China)",
+                "from 1 Jan 24 - 31 Dec 24."
+            ]
+        },
+        "imgaePath": "https://www.ktc.co.th/pub/media/creditcard/invitation/ktc-visa-infinite/img/x3.png",
+        "objectSize": "cover",
+        "buttonType": "DIALOG",
+        "buttonLink": {
+            "th": "KTCFOREVERPOINTX3WORLD",
+            "en": "KTCFOREVERPOINTX3WORLD"
+        },
+        "buttonText": {
+            "th": "เงื่อนไขการรับคะแนน",
+            "en": "Terms & Conditions"
+        }
+    },
+    {
+        "privilegeID": 7,
+        "privilegeName": "KTCFOREVERPOINTX3UNIONPAY",
+        "isSpecial": false,
+        "positionImage": "left",
+        "title": {
+            "th": "KTC FOREVER Point",
+            "en": "KTC FOREVER Point"
+        },
+        "description": {
+            "th": [
+                "รับคะแนน KTC ROP x3 เมื่อใช้จ่ายผ่านบัตรฯ ครบทุก 600,000 บาทในหมวดร้านอาหาร ช้อปปิ้ง ท่องเที่ยว ในประเทศไทย และการใช้จ่ายเป็นสกุลเงินต่างประเทศ  ตั้งแต่วันที่ 1 ม.ค. 67 - 31 ธ.ค. 67",
+                "(ยกเว้น 31 ประเทศในเขตเศรษฐกิจยุโรปและสาธารณรัฐประชาชนจีน)",
+                "ตั้งแต่วันที่ 1 ม.ค. 67 – 31 ธ.ค. 67"
+            ],
+            "en": [
+                "Earn 3x KTC ROP points for every 600,000 baht when spending in dining, shopping, travel categories in Thailand and spending in foreign currency",
+                "(Exclude 31 countries in the European Economic Area and People's Republic of China)",
+                "from 1 Jan 24 - 31 Dec 24."
+            ]
+        },
+        "imgaePath": "https://www.ktc.co.th/pub/media/creditcard/invitation/ktc-visa-infinite/img/x3.png",
+        "objectSize": "cover",
+        "buttonType": "DIALOG",
+        "buttonLink": {
+            "th": "KTCFOREVERPOINTX3UNIONPAY",
+            "en": "KTCFOREVERPOINTX3UNIONPAY"
+        },
+        "buttonText": {
+            "th": "เงื่อนไขการรับคะแนน",
+            "en": "Points Terms & Conditions"
+        }
+    },
+    {
+        "privilegeID": 7,
+        "privilegeName": "DRAGONPASS",
+        "isSpecial": false,
+        "positionImage": "left",
+        "title": {
+            "th": "DragonPass",
+            "en": "DragonPass"
+        },
+        "description": {
+            "th": [
+                "รับสิทธิ์เข้าใช้บริการห้องรับรองที่สนามบินกว่า 1,000 แห่งทั่วโลก แบบไม่จำกัดการเข้าใช้บริการ<br>พิเศษสำหรับผู้ติดตามเข้าใช้บริการได้ 6 ครั้งต่อปี"
+            ],
+            "en": [
+                "Free access to DragonPass lounge plus 6 complimentary access/year for your companion at more than 1,000 airports worldwide, with a pre-flight snacks, refreshments, and business facilities."
+            ]
+        },
+        "imgaePath": "https://www.ktc.co.th/pub/media/creditcard/invitation/KTC-UNIONPAY-ASIA-PRESTIGE-DIAMOND/DragonPass.webp",
+        "objectSize": "cover",
+        "buttonType": "DIALOG",
+        "buttonLink": {
+            "th": "DRAGONPASS",
+            "en": "DRAGONPASS"
+        },
+        "buttonText": {
+            "th": "เงื่อนไขการรับคะแนน",
+            "en": "More Details"
+        }
+    },
+    {
+        "privilegeID": 7,
+        "privilegeName": "UCOLLECTIONUPLAN",
+        "isSpecial": false,
+        "positionImage": "right",
+        "title": {
+            "th": "U Collection & U Plan",
+            "en": "U Collection & U Plan"
+        },
+        "description": {
+            "th": [
+                "รับส่วนลด e-Coupon และสิทธิพิเศษจากร้านค้า ร้านอาหาร โรงแรม ท่องเที่ยว ชั้นนำทั้งในและต่างประเทศ<br><br>",
+                "<a href=\"http://www.unionpayintl.com/dynamic/ucollection/en\">U Collection</a>",
+                "<a href=\"https://www.unionpayintl.com/u-plan/index?language=en\">U Plan</a>"
+            ],
+            "en": [
+                "Enjoy discount e-Coupons and special privileges from domestic and international shops, restaurants, hotels, and travel.<br><br>",
+                "<a href=\"http://www.unionpayintl.com/dynamic/ucollection/en\">U Collection</a>",
+                "<a href=\"https://www.unionpayintl.com/u-plan/index?language=en\">U Plan</a>"
+            ]
+        },
+        "imgaePath": "https://www.ktc.co.th/pub/media/creditcard/invitation/img/u-collection-privillages-banner-1108x250px-right.webp",
+        "objectSize": "cover",
+        "buttonType": "",
+        "buttonLink": {
+            "th": "",
+            "en": ""
+        },
+        "buttonText": {
+            "th": "",
+            "en": ""
+        }
+    },
+    {
+        "privilegeID": 7,
+        "privilegeName": "UNIONPAYPRIVILEGE",
+        "isSpecial": false,
+        "positionImage": "left",
+        "title": {
+            "th": "สิทธิพิเศษสำหรับ<br>บัตรเครดิต KTC UNIONPAY",
+            "en": "Special Privilege for<br>KTC UNIONPAY Credit Card"
+        },
+        "description": {
+            "th": [],
+            "en": []
+        },
+        "imgaePath": "https://www.ktc.co.th/pub/media/creditcard/invitation/img/visa-privillages-banner-1108x250px-left.webp",
+        "objectSize": "cover",
+        "buttonType": "LINK",
+        "buttonLink": {
+            "th": "https://www.ktc.co.th/promotion/exclusive-card-brands/unionpay",
+            "en": "https://www.ktc.co.th/en/promotion/exclusive-card-brands/unionpay"
         },
         "buttonText": {
             "th": "รายละเอียดเพิ่มเติม",

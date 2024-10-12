@@ -11,6 +11,8 @@ import PrivilegeData from '@/data/PrivilegeData.json';
 import Container from "@/components/ui/Container";
 import Image from "@/components/ui/Image";
 
+import '../styles.css'
+
 interface PrivillegeSectionProps {
     selectedCard: string;
 }
@@ -24,7 +26,7 @@ function SpecialPrivillegeSection({ selectedCard }: PrivillegeSectionProps) {
         return <div>Card not found</div>;
     }
     return (
-        <section id="PrivilegeSection" className="tw-py-[40px]">
+        <section id="SpecialPrivilegeSection" className="tw-py-[40px]">
             <Container className="lg:tw-px-20 tw-px-0">
                 <div className="lg:tw-mx-20 tw-mx-0 tw-relative">
                     <div className="lg:tw-absolute tw-relative tw-top-0 tw-bottom-[-20px] tw-right-0 tw-left-0 tw-flex tw-items-end tw-justify-center tw-z-[4] lg:tw-pt-0 tw-pt-20">
@@ -54,7 +56,7 @@ function PrivillegeItem({ items }: PrivillegeItemProps) {
     return (
         <div>
             {items.map((item) => (
-                <div className="tw-mt-3 tw-border-solid tw-border-[1px] tw-border-[#D0B185] tw-rounded-[10px] tw-relative">
+                <div className="tw-mt-3 tw-border-solid tw-border-[1px] tw-border-[#D0B185] tw-rounded-[10px] tw-relative privilege-item">
                     <PrivilegeDetail id={item} />
                 </div>
             ))}
@@ -83,7 +85,7 @@ function PrivilegeDetail({ id }: PrivilegeDetailProps) {
             <div className={twMerge("tw-relative tw-z-[3] tw-grid xl:tw-grid-cols-2 md:tw-grid-cols-1 tw-grid-cols-1 xl:tw-gap-10 tw-gap-0 tw-items-center tw-left-0 tw-right-0 lg:tw-min-h-[250px] tw-min-h-auto xl:tw-bg-transparent tw-bg-[#2c2c2c] tw-rounded-b-[10px]")}>
                 <div className={twMerge(privilege.positionImage == "left" ? "tw-order-1" : "tw-order-2")}></div>
                 <div className={twMerge(privilege.positionImage == "left" ? "tw-order-2" : "tw-order-1","xl:tw-p-10 md:tw-p-5 tw-p-5")}>
-                    <h2 className="tw-text-[25px] tw-text-[#D0B185] tw-font-bold tw-mb-3 xl:tw-text-start tw-text-center">{parse(tc(privilege.title))}</h2>
+                    <h2 className="md:tw-text-[25px] tw-text-[20px] tw-text-[#D0B185] tw-font-bold tw-mb-3 xl:tw-text-start tw-text-center">{parse(tc(privilege.title))}</h2>
                     <div className="md:tw-text-[18px] tw-text-[16px] xl:tw-text-start tw-text-center"><DetailsItems item={tc(privilege.description)} /></div>
                     {
                     privilege.buttonType === "" ? null :
@@ -91,7 +93,7 @@ function PrivilegeDetail({ id }: PrivilegeDetailProps) {
                             (<ButtonDialog DialogID={tc(privilege.buttonLink)} className="tw-mt-5 tw-py-[4px] tw-px-4 tw-border-[1px] tw-border-solid tw-border-white tw-text-white hover:tw-text-black hover:tw-bg-white tw-rounded-[100px] tw-transition tw-ease-in tw-delay-150 duration-150 tw-block tw-w-fit lg:tw-mx-0 tw-mx-auto">{tc(privilege.buttonText)}</ButtonDialog>)
                             :
                             privilege.buttonType === "LINK" ?
-                                (<Link href={tc(privilege.buttonLink)} className="tw-mt-5 tw-py-[4px] tw-px-4 tw-border-[1px] tw-border-solid tw-border-white tw-text-white hover:tw-text-black hover:tw-bg-white tw-rounded-[100px] tw-transition tw-ease-in tw-delay-150 duration-150 tw-block tw-w-fit hover:tw-no-underline lg:tw-mx-0 tw-mx-auto">{tc(privilege.buttonText)}</Link>)
+                                (<Link href={tc(privilege.buttonLink)} className="tw-mt-5 tw-py-[4px] tw-px-4 tw-border-[1px] tw-border-solid tw-border-white tw-text-white hover:tw-text-black hover:tw-bg-white tw-rounded-[100px] tw-transition tw-ease-in tw-delay-150 duration-150 tw-block tw-w-fit hover:tw-no-underline lg:tw-mx-0 tw-mx-auto btn-link">{tc(privilege.buttonText)}</Link>)
                                 : null
                 }                </div>
             </div>

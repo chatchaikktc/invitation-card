@@ -1,0 +1,17 @@
+#SpecialPrivilegeSection .privilege-item a{
+    color: #ffffff;
+    text-decoration: underline;
+}
+#SpecialPrivilegeSection .privilege-item a:hover{
+    color: #D0B185;
+    text-decoration: none;
+}
+
+#SpecialPrivilegeSection .privilege-item a.btn-link{
+    color: #ffffff !important;
+    text-decoration: none !important;
+}
+#SpecialPrivilegeSection .privilege-item a.btn-link:hover{
+    color: #000000 !important;
+    text-decoration: none !important;
+}

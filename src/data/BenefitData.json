@@ -40,10 +40,10 @@
             ],
             "en": [
                 "Providing advice and information/assistance on",
-                "<ul><li>Air-ticket, restaurant reservations and gift & flower delivery.</li><li>Special event notification.</li></ul>"
+                "<ul class=\"tw-list-disc tw-pl-5\"><li>Air-ticket, restaurant reservations and gift & flower delivery.</li><li>Special event notification.</li></ul>"
             ]
         },
-        "buttonType": "dialog",
+        "buttonType": "DIALOG",
         "buttonLink": {
             "th": "KTCPERSONALASSISTANT",
             "en": "KTCPERSONALASSISTANT"
@@ -70,7 +70,7 @@
                 "Pay for products/services at a special interest rate of 0% up to 10 months through <a href=\"https://www.ktc.co.th/en/installment\">the installment payments</a> with KTC credit card."
             ]
         },
-        "buttonType": "dialog",
+        "buttonType": "DIALOG",
         "buttonLink": {
             "th": "EXCLUSIVEINSTALLMENT",
             "en": "EXCLUSIVEINSTALLMENT"
@@ -97,7 +97,7 @@
                 "Special privilege for new KTC credit cardmembers to get a maximum accident insurance coverage limit of 300,000 THB for 90 days with no cost from the date of card activation."
             ]
         },
-        "buttonType": "dialog",
+        "buttonType": "DIALOG",
         "buttonLink": {
             "th": "ACCIDENTALINSURANCE",
             "en": "ACCIDENTALINSURANCE"
@@ -124,7 +124,7 @@
                 "Insurance coverage for international & domestic flights and lost or damage baggage."
             ]
         },
-        "buttonType": "dialog",
+        "buttonType": "DIALOG",
         "buttonLink": {
             "th": "TRAVELINSURANCE",
             "en": "TRAVELINSURANCE"
@@ -145,13 +145,15 @@
         },
         "description" : {
             "th": [
-                "บริการข้อมูลเพื่อการเดินทางและท่องเที่ยว พร้อมรับส่วนลดประกันท่องเที่ยว 20% สอบถามรายละเอียดและเงื่อนไขเพิ่มเติม โทร. 02 123 5050"
+                "บริการข้อมูลเพื่อการเดินทางและท่องเที่ยว พร้อมรับส่วนลดประกันท่องเที่ยว 20% ",
+                "สอบถามรายละเอียดและเงื่อนไขเพิ่มเติม <br>โทร. 02 123 5050"
             ],
             "en": [
-                "Offering tourism and travelling information services with a maximum of 20% discount on travel insurance. For more information, please call 02 123 5050."
+                "Offering tourism and travelling information services with a maximum of 20% discount on travel insurance. For more information, ",
+                "please call 02 123 5050."
             ]
         },
-        "buttonType": "dialog",
+        "buttonType": "DIALOG",
         "buttonLink": {
             "th": "",
             "en": ""
@@ -165,23 +167,23 @@
     },
     {
         "benefitID": 6,
-        "benefitName" : "CASHWITHDRAWAL",
+        "benefitName" : "CASHWITHDRAWAL200000",
         "title" : {
             "th": "100% Cash withdrawal",
             "en": "100% Cash withdrawal"
         },
         "description" : {
             "th": [
-                "เบิกถอนเงินสดด้วยบัตรเครดิตได้เต็มวงเงินของยอดคงเหลือในขณะนั้น หรือสูงสุดไม่เกิน 400,000 บาท / วัน"
+                "เบิกถอนเงินสดด้วยบัตรเครดิตได้เต็มวงเงินของยอดคงเหลือในขณะนั้น หรือสูงสุดไม่เกิน 200,000 บาท / วัน"
             ],
             "en": [
-                "Cash withdrawal with the amount not exceeding the current outstanding balance or maximum of 400,000 baht/day."
+                "Cash withdrawal with the amount not exceeding the current outstanding balance or maximum of 200,000 baht/day."
             ]
         },
-        "buttonType": "dialog",
+        "buttonType": "DIALOG",
         "buttonLink": {
-            "th": "CASHWITHDRAWAL",
-            "en": "CASHWITHDRAWAL"
+            "th": "CASHWITHDRAWAL200000",
+            "en": "CASHWITHDRAWAL200000"
         },
         "buttonText": {
             "th": "รายละเอียดเพิ่มเติม",
@@ -205,7 +207,7 @@
                 "Earn 1 KTC FOREVER point for every 25 baht spent with KTC credit card for redemption at participating stores. The points have no expiration date."
             ]
         },
-        "buttonType": "dialog",
+        "buttonType": "DIALOG",
         "buttonLink": {
             "th": "KTCFOREVERPOINT",
             "en": "KTCFOREVERPOINT"
@@ -232,7 +234,7 @@
                 "While you're out for a run, you can hop into a corner store to buy water, without needing your wallet or phone. <a href=\"https://www.ktc.co.th/google-pay#google-fitbit\">Google Fitbit</a>, <a href=\"https://www.ktc.co.th/garminpay\">Garmin Pay</a> and Google Pay bring payments to your wrist with KTC credit card."
             ]
         },
-        "buttonType": "dialog",
+        "buttonType": "DIALOG",
         "buttonLink": {
             "th": "",
             "en": ""
@@ -259,7 +261,7 @@
                 "With convenient, easy, and contactless payment without the need to swipe your KTC VISA credit card at participating stores with the <a href=\"https://www.ktc.co.th/en/credit-card/paywave\">Contactless</a> signage."
             ]
         },
-        "buttonType": "dialog",
+        "buttonType": "DIALOG",
         "buttonLink": {
             "th": "",
             "en": ""
@@ -296,6 +298,172 @@
             "en": ""
         },
         "icon": "",
+        "isActive": true
+    },
+    {
+        "benefitID": 8,
+        "benefitName" : "ANUALFEE5000",
+        "title" : {
+            "th": "Credit Card Annual Fee",
+            "en": "Credit Card Annual Fee"
+        },
+        "description" : {
+            "th": [
+                "ค่าธรรมเนียมรายปี 5,000 บาท (ไม่รวม VAT) ฟรีค่าธรรมเนียม เมื่อมียอดใช้จ่ายผ่านบัตรฯ 600,000 บาท / ปี"
+            ],
+            "en": [
+                "5,000 baht annual fee (excluding VAT) <br>Annual fee waived by accumulated spending of 600,000 baht/year with a KTC VISA INFINITE credit card."
+            ]
+        },
+        "buttonType": "",
+        "buttonLink": {
+            "th": "",
+            "en": ""
+        },
+        "buttonText": {
+            "th": "",
+            "en": ""
+        },
+        "icon": "",
+        "isActive": true
+    },
+    {
+        "benefitID": 2,
+        "benefitName" : "KTCPERSONALASSISTANT55555",
+        "title" : {
+            "th": "KTC Personal Assistant",
+            "en": "KTC Personal Assistant"
+        },
+        "description" : {
+            "th": [
+                "บริการให้ข้อมูลและคำแนะนำ",
+                "<ul class=\"tw-list-disc tw-pl-5\"><li>ในการจองตั๋วเครื่องบิน โต๊ะอาหาร บริการจัดส่งของขวัญ และดอกไม้</li><li>ในการแจ้งเตือนล่วงหน้าในโอกาสพิเศษต่าง ๆ</li></ul>"
+            ],
+            "en": [
+                "Providing advice and information/assistance on",
+                "<ul class=\"tw-list-disc tw-pl-5\"><li>Air-ticket, restaurant reservations and gift & flower delivery.</li><li>Special event notification.</li></ul>"
+            ]
+        },
+        "buttonType": "DIALOG",
+        "buttonLink": {
+            "th": "KTCPERSONALASSISTANT55555",
+            "en": "KTCPERSONALASSISTANT55555"
+        },
+        "buttonText": {
+            "th": "รายละเอียดเพิ่มเติม",
+            "en": "More Details"
+        },
+        "icon": "",
+        "isActive": true
+    },
+    {
+        "benefitID": 6,
+        "benefitName" : "CASHWITHDRAWAL400000",
+        "title" : {
+            "th": "100% Cash withdrawal",
+            "en": "100% Cash withdrawal"
+        },
+        "description" : {
+            "th": [
+                "เบิกถอนเงินสดด้วยบัตรเครดิตได้เต็มวงเงินของยอดคงเหลือในขณะนั้น หรือสูงสุดไม่เกิน 400,000 บาท / วัน"
+            ],
+            "en": [
+                "Cash withdrawal with the amount not exceeding the current outstanding balance or maximum of 400,000 baht/day"
+            ]
+        },
+        "buttonType": "DIALOG",
+        "buttonLink": {
+            "th": "CASHWITHDRAWAL400000",
+            "en": "CASHWITHDRAWAL400000"
+        },
+        "buttonText": {
+            "th": "รายละเอียดเพิ่มเติม",
+            "en": "More Details"
+        },
+        "icon": "",
+        "isActive": true
+    },
+    {
+        "benefitID": 6,
+        "benefitName" : "ECOMMERCEPROTECTION",
+        "title" : {
+            "th": "E-Commerce Protection",
+            "en": "E-Commerce Protection"
+        },
+        "description" : {
+            "th": [
+                "ประกันภัยความคุ้มครองการซื้อสินค้าออนไลน์<br>ผ่านบัตรเครดิต KTC MASTERCARD <br>กรณีไม่จัดส่งสินค้า และ / หรือการจัดส่งสินค้าไม่ถูกต้องและไม่ครบถ้วน ด้วยวงเงินประกันสูงสุด 200 ดอลล่าร์สหรัฐ โดย Mastercard <br>ตั้งแต่ 1 ม.ค. 67 – 31 ธ.ค. 68"
+            ],
+            "en": [
+                "Enjoy worldwide coverage of up to USD 200 for your online purchases through KTC MASTERCARD credit card when you experience non-delivery and/or incomplete delivery from 1 Jan 23 - 31 Dec 23."
+            ]
+        },
+        "buttonType": "LINK",
+        "buttonLink": {
+            "th": "https://specials.priceless.com/en-ap/benefitsDetail/E-Commerce_Protection?Oid=201901300010",
+            "en": "https://specials.priceless.com/en-ap/benefitsDetail/E-Commerce_Protection?Oid=201901300010"
+        },
+        "buttonText": {
+            "th": "รายละเอียดเพิ่มเติม",
+            "en": "More Details"
+        },
+        "icon": "",
+        "isActive": true
+    },
+    {
+        "benefitID": 6,
+        "benefitName" : "MASTERCONTACTLESS",
+
+        "title" : {
+            "th": "Mastercard <br>Contactless",
+            "en": "Mastercard <br>Contactless"
+        },
+        "description" : {
+            "th": [
+                "เร็วกว่าและปลอดภัยด้วยการชำระเงินแบบไร้สัมผัสกับบัตรเครดิต KTC MASTERCARD ที่มีสัญลักษณ์ <a href=\"https://www.ktc.co.th/credit-card/contactless\">Mastercard Contactless</a> เพิ่มความคล่องตัวในการใช้จ่ายโดยไม่ต้องเสียบ / รูดบัตรที่เครื่องอ่านบัตร"
+            ],
+            "en": [
+                "With convenient, easy, and contactless payment without the need to swipe your KTC MASTERCARD credit card at participating stores with the <a href=\"https://www.ktc.co.th/credit-card/contactless\">Mastercard Contactless</a> signage."
+            ]
+        },
+        "buttonType": "LINK",
+        "buttonLink": {
+            "th": "https://specials.priceless.com/en-ap/benefitsDetail/E-Commerce_Protection?Oid=201901300010",
+            "en": "https://specials.priceless.com/en-ap/benefitsDetail/E-Commerce_Protection?Oid=201901300010"
+        },
+        "buttonText": {
+            "th": "รายละเอียดเพิ่มเติม",
+            "en": "More Details"
+        },
+        "icon": "https://www.ktc.co.th/pub/media/creditcard/invitation/img/Mastercard-Contactless-logo.svg",
+        "isActive": true
+    },
+    {
+        "benefitID": 6,
+        "benefitName" : "UNIONPAYQUICKPASS",
+
+        "title" : {
+            "th": "UnionPay<br>QuickPass",
+            "en": "UnionPay<br>QuickPass"
+        },
+        "description" : {
+            "th": [
+                "เร็วกว่าและปลอดภัยด้วยการชำระเงินแบบไร้สัมผัสกับบัตรเครดิต KTC UNIONPAY ที่มีสัญลักษณ์ QuickPass เพิ่มความคล่องตัวในการใช้จ่าย โดยไม่ต้องเสียบ / รูดบัตรที่เครื่องอ่านบัตร"
+            ],
+            "en": [
+                "Make faster and safer contactless payments with a KTC UNIONPAY credit card with the QuickPass symbol. Enjoy payment flexibility without the need to insert/swipe your card with a card reader."
+            ]
+        },
+        "buttonType": "",
+        "buttonLink": {
+            "th": "",
+            "en": ""
+        },
+        "buttonText": {
+            "th": "",
+            "en": ""
+        },
+        "icon": "https://www.ktc.co.th/pub/media/creditcard/invitation/KTC-UNIONPAY-ASIA-PRESTIGE-DIAMOND/1024px-Quick_Pass_Logo.svg",
         "isActive": true
     }
 ]

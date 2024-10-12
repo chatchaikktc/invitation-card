@@ -9,58 +9,58 @@
         "isHighTier": true,
         "cardLink": "ktc-visa-infinite",
         "privilegeitems": [
-            "KTCFOREVERPOINT","PRIORITYPASS"
+            "KTCFOREVERPOINTX3INFINITE","PRIORITYPASS"
         ],
         "specialPrivilege":{
             "title":{
-                "th": "สิทธิพิเศษ Visa Infinite",
-                "en": "Visa Infinite Privileges"
+                "th": "เอกสิทธิ์พิเศษ",
+                "en": "Special Privileges"
             },
             "subTitle":{
-                "th": "สิทธิพิเศษ Visa Infinite",
-                "en": "Visa Infinite Privileges"
+                "th": "ดื่มด่ำกับประสบการณ์สุดเอ็กซ์คลูซีฟ ที่ครอบคลุมไลฟ์สไตล์ ช้อปปิ้ง ร้านอาหาร <br>กีฬา และความบันเทิง",
+                "en": "Immerse in the most exclusive experience covering lifestyle,<br> shopping, restaurants, sports and entertainment."
             },
             "backgroundImage": "https://www.ktc.co.th/pub/media/creditcard/invitation/ktc-visa-infinite/img/banner-privilage.png",
-            "specialPrivilegeItems":[""]
+            "specialPrivilegeItems":["BUFFETFOR2","AFFTERNOONTEAINFINITE","GREENFEEINFINIT","ENTERTAINMENTINFINITE","HOTELPRIVILEGE","VISAPRIVILEGE"]
 
         },
         "BenefitName": [ 
-            "AnnualFee","KTCPERSONALASSISTANT","EasyInstallments","AccidentalInsurance","TravelInsurance","CashWithdrawal","RewardsPoints","DevicePay","VisaContactless"
+            "ANUALFEE5000","KTCPERSONALASSISTANT55555","EXCLUSIVEINSTALLMENT","ACCIDENTALINSURANCE","TRAVELINSURANCE","KTCWORLDTRAVELSERVICE","CASHWITHDRAWAL400000","KTCFOREVERPOINT","DEVICEPAY","VISACONTACTLESS"
         ],
         "headSectionImage": "https://www.ktc.co.th/pub/media/creditcard/invitation/ktc-visa-infinite/img/bg-hero.png",
-        "footerSectionImage": "https://www.ktc.co.th/ktc/images/ktc-visa-infinite-hero-banner.jpg",
+        "footerSectionImage": "https://www.ktc.co.th/pub/media/creditcard/invitation/ktc-world-mastercard/mc-privilage-background-01.webp",
         "isActive": true
     },
     {
         "cardID": 2,
-        "cardName" : "KTC - KTB <br>PRECIOUS PLUS <br>VISA INFINITE",
+        "cardName" : "KTC – FICO <br class=\"lg:tw-block md:tw-hidden tw-block\">VISA INFINITE",
         "cardBrand" : "VISA",
         "cardType" : "CREDITCARD",
         "cardQualifications" : "",
-        "cardImage": "https://www.ktc.co.th/pub/media/sites/creditcard/img/new-cards/KTB-PRECIOUS-PLUS-VISA-INFINITE-01.webp",
+        "cardImage": "https://www.ktc.co.th/pub/media/sites/creditcard/img/new-cards/KTC-FICO-VISA_-NFINITE.webp",
         "isHighTier": true,
-        "cardLink": "ktc-ktb-precious-plus-visa-infinite",
+        "cardLink": "ktc-fico-visa-infinite",
         "privilegeitems": [
-            "KTCFOREVERPOINT","PRIORITYPASS"
+            "KTCFOREVERPOINTX3INFINITE","FICODISCOUNT15","PRIORITYPASS"
         ],
         "specialPrivilege":{
             "title":{
-                "th": "เอกสิทธิ์สำหรับลูกค้า <br>คนพิเศษ",
+                "th": "เอกสิทธิ์พิเศษ",
                 "en": "Privileges for Special <br>Customers"
             },
             "subTitle":{
-                "th": "เอกสิทธิ์แห่งความเป็นที่สุดของความสำเร็จและความภาคภูมิ <br>ที่จะนำพาท่านไปสู่อีกก้าวของทุกความเป็นไปได้ <br>ให้ท่านสำเร็จทุกจุดมุ่งหมายอย่างไม่มีที่สิ้นสุด",
+                "th": "ดื่มด่ำกับประสบการณ์สุดเอ็กซ์คลูซีฟ ที่ครอบคลุมไลฟ์สไตล์<br> ช้อปปิ้ง ร้านอาหาร กีฬา และความบันเทิง",
                 "en": "The privilege of the ultimate success and pride,<br>Which will bring you to the next level of possibility.<br>Let you achieve every goal infinitely."
             },
             "backgroundImage": "https://www.ktc.co.th/pub/media/creditcard/invitation/ktc-visa-infinite/img/banner-privilage.png",
-            "specialPrivilegeItems":["ASSETUNDERMANAGEMENT","BUFFETDINNING","AFFTERNOONTEA","GREENFEE","ENTERTAINMENT","HOTELPRIVILEGE","VISAPRIVILEGE"]
+            "specialPrivilegeItems":["FICOCORPORATION","BUFFETFOR2","AFFTERNOONTEAINFINITE","GREENFEEINFINIT","ENTERTAINMENTINFINITE","HOTELPRIVILEGE","VISAPRIVILEGE"]
 
         },
         "BenefitName": [ 
-            "ANNUALFEE","KTCPERSONALASSISTANT","EXCLUSIVEINSTALLMENT","ACCIDENTALINSURANCE","TRAVELINSURANCE","KTCWORLDTRAVELSERVICE","CASHWITHDRAWAL","KTCFOREVERPOINT","DEVICEPAY","VISACONTACTLESS"
+            "ANUALFEE5000","KTCPERSONALASSISTANT55555","EXCLUSIVEINSTALLMENT","ACCIDENTALINSURANCE","TRAVELINSURANCE","KTCWORLDTRAVELSERVICE","CASHWITHDRAWAL400000","KTCFOREVERPOINT","DEVICEPAY","VISACONTACTLESS"
         ],
-        "headSectionImage": "https://www.ktc.co.th/pub/media/creditcard/invitation/ktc-visa-infinite/img/bg-hero.png",
-        "footerSectionImage": "https://www.ktc.co.th/pub/media/creditcard/invitation/ktc-world-mastercard/mc-privilage-background-01.webp",
+        "headSectionImage": "https://www.ktc.co.th/pub/media/creditcard/invitation/FICO-VISA-INFINITE/fico-hero-banner.webp",
+        "footerSectionImage": "https://www.ktc.co.th/pub/media/creditcard/invitation/FICO-VISA-INFINITE/fico-privilages.webp",
         "isActive": true
     },
     {
@@ -89,10 +89,234 @@
 
         },
         "BenefitName": [ 
-            "FREEANUALFEE","KTCPERSONALASSISTANT","EXCLUSIVEINSTALLMENT","ACCIDENTALINSURANCE","TRAVELINSURANCE","KTCWORLDTRAVELSERVICE","CASHWITHDRAWAL","KTCFOREVERPOINT","DEVICEPAY","VISACONTACTLESS"
+            "FREEANUALFEE","KTCPERSONALASSISTANT","EXCLUSIVEINSTALLMENT","ACCIDENTALINSURANCE","TRAVELINSURANCE","KTCWORLDTRAVELSERVICE","CASHWITHDRAWAL200000","KTCFOREVERPOINT","DEVICEPAY","VISACONTACTLESS"
         ],
         "headSectionImage": "https://www.ktc.co.th/pub/media/creditcard/invitation/ktc-ktb-precious-visa-signature/ktc-ktb-precious-visa-signature-hero-banner.webp",
         "footerSectionImage": "https://www.ktc.co.th/pub/media/creditcard/invitation/ktc-ktb-precious-visa-signature/ktc-ktb-precious-visa-signature-hero-banner-privillage.webp",
+        "isActive": true
+    },
+    {
+        "cardID": 4,
+        "cardName" : "KTC - KRUNGTHAI <br class=\"lg:tw-block md:tw-hidden tw-block\">PRECIOUS<sup>+</sup>",
+        "cardBrand" : "VISA",
+        "cardType" : "KTBWHEALTH",
+        "cardQualifications" : "KRUNGTHAIPRECIOUS",
+        "cardImage": "https://www.ktc.co.th/pub/media/creditcard/invitation/02-Precious-plus-card.webp",
+        "isHighTier": true,
+        "cardLink": "ktc-krungthai-precious-plus",
+        "privilegeitems": [
+            "KTCFOREVERPOINTX2PRECIOUS","MIRACLELOUNGEPRECIOUS"
+        ],
+        "specialPrivilege":{
+            "title":{
+                "th": "เอกสิทธิ์สำหรับลูกค้า <br>คนพิเศษ",
+                "en": "Privileges for Special <br>Customers"
+            },
+            "subTitle":{
+                "th": "เอกสิทธิ์แห่งความมั่งคั่ง ที่สะท้อนความสำเร็จในแบบที่เป็นคุณ<br>เราพร้อมเคียงข้าง และสร้างทุกช่วงเวลาให้ทุกเรื่องการเงินการลงทุน<br>ของคุณสำเร็จตามความคาดหมาย<br>ให้คุณได้ใช้ทุกช่วงเวลาอันมีค่า กับสิ่งที่มีค่า",
+                "en": "The Privilege of Wealth, which reflects your success in your own way. <br>We are ready to be by your side and create every successful moment <br>for financial and investment services as expected. <br>Let you spend your quality time with precious things."
+            },
+            "backgroundImage": "https://www.ktc.co.th/pub/media/creditcard/invitation/ktc-visa-infinite/img/banner-privilage.png",
+            "specialPrivilegeItems":["ASSETUNDERMANAGEMENTPRECIOUS","AFFTERNOONTEA500","50GREENFEE","ENTERTAINMENTICONIC","VISAPRIVILEGE"]
+
+        },
+        "BenefitName": [ 
+            "FREEANUALFEE","KTCPERSONALASSISTANT","EXCLUSIVEINSTALLMENT","ACCIDENTALINSURANCE","TRAVELINSURANCE","KTCWORLDTRAVELSERVICE","CASHWITHDRAWAL200000","KTCFOREVERPOINT","DEVICEPAY","VISACONTACTLESS"
+        ],
+        "headSectionImage": "https://www.ktc.co.th/pub/media/creditcard/invitation/ktc-ktb-precious-plus-visa-signature/ktc-ktb-precious-plus-visa-signature-hero-banner.webp",
+        "footerSectionImage": "https://www.ktc.co.th/pub/media/creditcard/invitation/ktc-ktb-precious-plus-visa-signature/ktc-ktb-precious-plus-visa-signature-privillage-section.webp",
+        "isActive": true
+    },
+    {
+        "cardID": 5,
+        "cardName" : "KTC - KTB<br class=\"lg:tw-block md:tw-hidden tw-block\"> PRECIOUS PLUS<br class=\"lg:tw-block md:tw-hidden tw-block\"> VISA INFINITE",
+        "cardBrand" : "VISA",
+        "cardType" : "",
+        "cardQualifications" : "",
+        "cardImage": "https://www.ktc.co.th/pub/media/sites/creditcard/img/new-cards/KTB-PRECIOUS-PLUS-VISA-INFINITE-01.webp",
+        "isHighTier": true,
+        "cardLink": "ktc-ktb-precious-plus-visa-infinite",
+        "privilegeitems": [
+             "KTCFOREVERPOINTX3INFINITEPRECIOUS","PRIORITYPASS"
+        ],
+        "specialPrivilege":{
+            "title":{
+                "th": "เอกสิทธิ์สำหรับลูกค้า <br>คนพิเศษ",
+                "en": "Privileges for Special <br>Customers"
+            },
+            "subTitle":{
+                "th": "เอกสิทธิ์แห่งความเป็นที่สุดของความสำเร็จและความภาคภูมิ<br>ที่จะนำพาท่านไปสู่อีกก้าวของทุกความเป็นไปได้<br>ให้ท่านสำเร็จทุกจุดมุ่งหมายอย่างไม่มีที่สิ้นสุด",
+                "en": "The privilege of the ultimate success and pride,<br>Which will bring you to the next level of possibility.<br>Let you achieve every goal infinitely."
+            },
+            "backgroundImage": "https://www.ktc.co.th/pub/media/creditcard/invitation/ktc-visa-infinite/img/banner-privilage.png",
+            "specialPrivilegeItems":["ASSETUNDERMANAGEMENTPRECIOUSINFINITE","BUFFETFOR2","AFFTERNOONTEAINFINITE","GREENFEEINFINIT","ENTERTAINMENTINFINITE","HOTELPRIVILEGE","VISAPRIVILEGE"]
+
+        },
+        "BenefitName": [ 
+            "FREEANUALFEE","KTCPERSONALASSISTANT","EXCLUSIVEINSTALLMENT","ACCIDENTALINSURANCE","TRAVELINSURANCE","KTCWORLDTRAVELSERVICE","CASHWITHDRAWAL200000","KTCFOREVERPOINT","DEVICEPAY","VISACONTACTLESS"
+        ],
+        "headSectionImage": "https://www.ktc.co.th/pub/media/creditcard/invitation/ktc-visa-infinite/img/bg-hero.png",
+        "footerSectionImage": "https://www.ktc.co.th/pub/media/creditcard/invitation/ktc-world-mastercard/mc-privilage-background-01.webp",
+        "isActive": true
+    },
+    {
+        "cardID": 4,
+        "cardName" : "KTC - KRUNGTHAI<br class=\"lg:tw-block md:tw-hidden tw-block\"> PRIVATE BANKING",
+        "cardBrand" : "VISA",
+        "cardType" : "KTBWHEALTH",
+        "cardQualifications" : "KRUNGTHAIPRECIOUSKRUNGTHAIPRIVATE",
+        "cardImage": "https://www.ktc.co.th/pub/media/creditcard/invitation/01-Private-Banking-Front.webp",
+        "isHighTier": true,
+        "cardLink": "ktc-krungthai-private-banking",
+        "privilegeitems": [
+            "KTCFOREVERPOINTX2KRUNGTHAIPRIVATE","MIRACLELOUNGEX2KRUNGTHAIPRIVATE"
+        ],
+        "specialPrivilege":{
+            "title":{
+                "th": "เอกสิทธิ์สำหรับลูกค้า <br>คนพิเศษ",
+                "en": "Privileges for Special <br>Customers"
+            },
+            "subTitle":{
+                "th": "เอกสิทธิ์แห่งความมั่งคั่ง ที่สะท้อนความสำเร็จในแบบที่เป็นคุณ<br>เราพร้อมเคียงข้าง และสร้างทุกช่วงเวลาให้ทุกเรื่องการเงินการลงทุน<br>ของคุณสำเร็จตามความคาดหมาย<br>ให้คุณได้ใช้ทุกช่วงเวลาอันมีค่า กับสิ่งที่มีค่า",
+                "en": "The Privilege of Wealth, which reflects your success in your own way. <br>We are ready to be by your side and create every successful moment <br>for financial and investment services as expected. <br>Let you spend your quality time with precious things."
+            },
+            "backgroundImage": "https://www.ktc.co.th/pub/media/creditcard/invitation/ktc-visa-infinite/img/banner-privilage.png",
+            "specialPrivilegeItems":["ASSETUNDERMANAGEMENTPRECIOUSINFINITE","AFFTERNOONTEA500","50GREENFEE","ENTERTAINMENTICONIC","VISAPRIVILEGELEFT"]
+
+        },
+        "BenefitName": [ 
+            "FREEANUALFEE","KTCPERSONALASSISTANT","EXCLUSIVEINSTALLMENT","ACCIDENTALINSURANCE","TRAVELINSURANCE","KTCWORLDTRAVELSERVICE","CASHWITHDRAWAL200000","KTCFOREVERPOINT","DEVICEPAY","VISACONTACTLESS"
+        ],
+        "headSectionImage": "https://www.ktc.co.th/pub/media/creditcard/invitation/ktc-ktb-precious-plus-visa-signature/ktc-ktb-precious-plus-visa-signature-hero-banner.webp",
+        "footerSectionImage": "https://www.ktc.co.th/pub/media/creditcard/invitation/ktc-ktb-precious-plus-visa-signature/ktc-ktb-precious-plus-visa-signature-privillage-section.webp",
+        "isActive": true
+    },
+    {
+        "cardID": 5,
+        "cardName" : "KTC - <br class=\"lg:tw-block md:tw-hidden tw-block\">ROYAL ORCHID PLUS<br class=\"lg:tw-block md:tw-hidden tw-block\"> VISA INFINITE",
+        "cardBrand" : "VISA",
+        "cardType" : "",
+        "cardQualifications" : "",
+        "cardImage": "https://www.ktc.co.th/pub/media/sites/creditcard/img/new-cards/KTC-ROYAL-ORCHID-PLUS-VISA-INFINITE.webp",
+        "isHighTier": true,
+        "cardLink": "ktc-royal-orchid-plus-visa-infinite",
+        "privilegeitems": [
+             "KTCFOREVERPOINTX3ROYALORCHID","PRIORITYROP","PRIORITYPASS"
+        ],
+        "specialPrivilege":{
+            "title":{
+                "th": "เอกสิทธิ์พิเศษ",
+                "en": "Special Privileges"
+            },
+            "subTitle":{
+                "th": "ดื่มด่ำกับประสบการณ์สุดเอ็กซ์คลูซีฟ ที่ครอบคลุมไลฟ์สไตล์ <br>ช้อปปิ้ง ร้านอาหาร กีฬา และความบันเทิง",
+                "en": "Immerse in the most exclusive experience covering lifestyle, <br>shopping, restaurants, sports, and entertainment."
+            },
+            "backgroundImage": "https://www.ktc.co.th/pub/media/creditcard/invitation/ktc-visa-infinite/img/banner-privilage.png",
+            "specialPrivilegeItems":["EARN500ROYALORCHID","BUFFETFOR2","AFFTERNOONTEAINFINITE","GREENFEEINFINIT","ENTERTAINMENTINFINITE","HOTELPRIVILEGE","VISAPRIVILEGE"]
+
+        },
+        "BenefitName": [ 
+            "ANUALFEE5000","KTCPERSONALASSISTANT55555","EXCLUSIVEINSTALLMENT","ACCIDENTALINSURANCE","TRAVELINSURANCE","KTCWORLDTRAVELSERVICE","CASHWITHDRAWAL400000","KTCFOREVERPOINT","DEVICEPAY","VISACONTACTLESS"
+        ],
+        "headSectionImage": "https://www.ktc.co.th/pub/media/creditcard/invitation/ktc-royal-orchid-plus-visa-infinite/KTC_-_ROYAL_ORCHID_PLUS_VISA_INFINITE_-Hero_Banner.webp",
+        "footerSectionImage": "https://www.ktc.co.th/pub/media/creditcard/invitation/FICO-VISA-INFINITE/fico-privilages.webp",
+        "isActive": true
+    },
+    {
+        "cardID": 5,
+        "cardName" : "KTC - ROYAL ORCHID PLUS <br class=\"lg:tw-block md:tw-hidden tw-block\">WORLD MASTERCARD",
+        "cardBrand" : "MASTERCARD",
+        "cardType" : "",
+        "cardQualifications" : "",
+        "cardImage": "https://www.ktc.co.th/pub/media/creditcard/invitation/KTC_-_ROYAL_ORCHID_PLUS_WORLD_MASTERCARD.webp",
+        "isHighTier": true,
+        "cardLink": "ktc-royal-orchid-plus-world-mastercard",
+        "privilegeitems": [
+             "KTCFOREVERPOINTX3ROYALORCHIDWORLD","PRIORITYROP","PRIORITYPASS"
+        ],
+        "specialPrivilege":{
+            "title":{
+                "th": "เอกสิทธิ์พิเศษ",
+                "en": "Special Privileges"
+            },
+            "subTitle":{
+                "th": "อิสระทุกการใช้จ่าย เพลิดเพลินกับสิทธิประโยชน์มากมาย <br>ไม่ว่าจะช้อปปิ้งออนไลน์ ร้านอาหาร และการเดินทางท่องเที่ยว",
+                "en": "Make all payments freely. Enjoy many benefits <br>including online shopping, at restaurants and travel."
+            },
+            "backgroundImage": "https://www.ktc.co.th/pub/media/creditcard/invitation/ktc-world-mastercard/mc-banner-privilage.webp",
+            "specialPrivilegeItems":["EARN500ROYALORCHID","FREEMAINCOURSE","ONENIGHTFREE","PRICELESSSPECIAL","ONLINESHOPPING","EXCUSIVEPRIVILEGES"]
+
+        },
+        "BenefitName": [ 
+            "ANUALFEE5000","ECOMMERCEPROTECTION","KTCPERSONALASSISTANT55555","EXCLUSIVEINSTALLMENT","ACCIDENTALINSURANCE","TRAVELINSURANCE","KTCWORLDTRAVELSERVICE","CASHWITHDRAWAL400000","KTCFOREVERPOINT","DEVICEPAY","MASTERCONTACTLESS"
+        ],
+        "headSectionImage": "https://www.ktc.co.th/pub/media/creditcard/invitation/ktc-royal-orchid-plus-world-mastercard/rov-hero-background.webp",
+        "footerSectionImage": "https://www.ktc.co.th/pub/media/creditcard/invitation/FICO-VISA-INFINITE/fico-privilages.webp",
+        "isActive": true
+    },
+    {
+        "cardID": 5,
+        "cardName" : "KTC WORLD <br class=\"lg:tw-block md:tw-hidden tw-block\">MASTERCARD",
+        "cardBrand" : "MASTERCARD",
+        "cardType" : "",
+        "cardQualifications" : "",
+        "cardImage": "https://www.ktc.co.th/pub/media/sites/creditcard/img/cards/old/KTC-WORLD-MASTERCARD.webp",
+        "isHighTier": true,
+        "cardLink": "ktc-world-mastercard",
+        "privilegeitems": [
+             "KTCFOREVERPOINTX3WORLD","PRIORITYPASS"
+        ],
+        "specialPrivilege":{
+            "title":{
+                "th": "เอกสิทธิ์พิเศษ",
+                "en": "Special Privileges"
+            },
+            "subTitle":{
+                "th": "อิสระทุกการใช้จ่าย เพลิดเพลินกับสิทธิประโยชน์มากมาย <br>ไม่ว่าจะช้อปปิ้งออนไลน์ ร้านอาหาร และการเดินทางท่องเที่ยว",
+                "en": "Make all payments freely. Enjoy many benefits <br>including online shopping, at restaurants and travel."
+            },
+            "backgroundImage": "https://www.ktc.co.th/pub/media/creditcard/invitation/ktc-world-mastercard/mc-banner-privilage.webp",
+            "specialPrivilegeItems":["FREEMAINCOURSE","ONENIGHTFREE","PRICELESSSPECIAL","ONLINESHOPPING","EXCUSIVEPRIVILEGES"]
+
+        },
+        "BenefitName": [ 
+            "ANUALFEE5000","ECOMMERCEPROTECTION","KTCPERSONALASSISTANT55555","EXCLUSIVEINSTALLMENT","ACCIDENTALINSURANCE","TRAVELINSURANCE","KTCWORLDTRAVELSERVICE","CASHWITHDRAWAL400000","KTCFOREVERPOINT","DEVICEPAY","MASTERCONTACTLESS"
+        ],
+        "headSectionImage": "https://www.ktc.co.th/pub/media/creditcard/invitation/ktc-visa-infinite/img/bg-hero.png",
+        "footerSectionImage": "https://www.ktc.co.th/pub/media/creditcard/invitation/ktc-world-mastercard/mc-privilage-background-01.webp",
+        "isActive": true
+    },
+    {
+        "cardID": 5,
+        "cardName" : "KTC UNIONPAY ASIA<br class=\"lg:tw-block md:tw-hidden tw-block\">PRESTIGE DIAMOND",
+        "cardBrand" : "UNIONPAY",
+        "cardType" : "",
+        "cardQualifications" : "",
+        "cardImage": "https://www.ktc.co.th/pub/media/creditcard/invitation/KTC-UPI-AP-DIAMOND-SS-DETIAL.webp",
+        "isHighTier": true,
+        "cardLink": "ktc-unionpay-asia-prestige-diamond",
+        "privilegeitems": [
+             "KTCFOREVERPOINTX3UNIONPAY","DRAGONPASS"
+        ],
+        "specialPrivilege":{
+            "title":{
+                "th": "เอกสิทธิ์พิเศษ",
+                "en": "Special Privileges"
+            },
+            "subTitle":{
+                "th": "สะดวกสบายทุกการเดินทางทั่วโลก พร้อมรับประสบการณ์เหนือระดับจากร้านค้า <br>ร้านอาหาร และโรงแรมชั้นนำ",
+                "en": "Travel around the globe conveniently and open doors to <br>superior experiences from leading shops, restaurants, and hotels."
+            },
+            "backgroundImage": "https://www.ktc.co.th/pub/media/creditcard/invitation/KTC-UNIONPAY-ASIA-PRESTIGE-DIAMOND/upi-privilage.webp",
+            "specialPrivilegeItems":["UCOLLECTIONUPLAN","UNIONPAYPRIVILEGE"]
+
+        },
+        "BenefitName": [ 
+            "ANUALFEE5000","KTCPERSONALASSISTANT55555","EXCLUSIVEINSTALLMENT","ACCIDENTALINSURANCE","TRAVELINSURANCE","KTCWORLDTRAVELSERVICE","CASHWITHDRAWAL400000","KTCFOREVERPOINT","UNIONPAYQUICKPASS"
+        ],
+        "headSectionImage": "https://www.ktc.co.th/pub/media/creditcard/invitation/KTC-UNIONPAY-ASIA-PRESTIGE-DIAMOND/unionpay-hero-banner.webp",
+        "footerSectionImage": "https://www.ktc.co.th/pub/media/creditcard/invitation/KTC-UNIONPAY-ASIA-PRESTIGE-DIAMOND/upi-privilage-section.webp",
         "isActive": true
     }
 ]

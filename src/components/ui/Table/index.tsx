@@ -27,7 +27,7 @@ interface TableProps {
     className?: string;
 }
 
-function Tables({ tableData, className}: TableProps) {
+function Tables({ tableData, className }: TableProps) {
     // สร้าง columns โดยใช้การแปลภาษาใน title และ render function
     const columns = tableData.columns.map(column => ({
         title: tc(column.title),
@@ -50,13 +50,15 @@ function Tables({ tableData, className}: TableProps) {
     });
 
     return (
-        <Table
-            columns={columns}
-            dataSource={dataSource}
-            pagination={false}
-            className={twMerge(className,"invite-table no-hover")}
-            rowClassName={() => ""}
-        />
+        <>
+            <Table
+                columns={columns}
+                dataSource={dataSource}
+                pagination={false}
+                className={twMerge(className, "invite-table no-hover")}
+                rowClassName={() => ""}
+            />
+        </>
     );
 }
 

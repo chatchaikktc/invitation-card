@@ -4,6 +4,15 @@
     text-decoration: underline;
 }
 
+#BenefitSection a.tw-no-underline {
+    color: #ffffff !important;
+    text-decoration: none !important;
+}
+#BenefitSection a.tw-no-underline:hover {
+    color: #000000 !important;
+    text-decoration: none !important;
+}
+
 #BenefitSection a:hover,
 .dialog-area a:hover {
     color: #D0B185 !important;

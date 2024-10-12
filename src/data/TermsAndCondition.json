@@ -47,6 +47,100 @@
         }
     },
     {
+        "dID": 1,
+        "DialogID": "KTCFOREVERPOINTX2PRECIOUS",
+        "DialogTitle": {
+            "th": "เงื่อนไขการรับคะแนน KTC FOREVER สูงสุด x2",
+            "en": "Terms and conditions of up to 2x KTC FOREVER points"
+        },
+        "descriptionTitle": {
+            "th": "",
+            "en": ""
+        },
+        "description": {
+            "th": [],
+            "en": []
+        },
+        "TableName": "",
+        "TermsTitle": {
+            "th": "",
+            "en": ""
+        },
+        "TermsTabs": [],
+        "listType": "NUMBER",
+        "TermsItems": {
+            "th": [
+                "ทุก 25 บาทที่ใช้จ่ายผ่านบัตรเครดิต KTC - KRUNGTHAI PRECIOUS<sup>+</sup> รับ 1 คะแนน KTC FOREVER",
+                "คะแนน KTC FOREVER x2 = 1 คะแนนปกติ + 1 คะแนนพิเศษจากทุกการใช้จ่ายผ่านบัตรฯ เป็นสกุลเงินต่างประเทศ (ยกเว้น 31 ประเทศในเขตเศรษฐกิจยุโรป และสาธารณรัฐประชาชนจีน)",
+                "ยกเว้นการให้คะแนน KTC FOREVER สำหรับยอดใช้จ่ายผ่านบัตรฯ ที่ร้านค้าในเขตเศรษฐกิจยุโรป 31 ประเทศ สาธารณรัฐประชาชนจีน และหมวดอื่น ๆ ที่กำหนด ดูรายละเอียดเพิ่มเติมที่ <a href=\"https://www.ktc.co.th/rewards\">www.ktc.co.th/rewards</a>",
+                "เคทีซีขอสงวนสิทธิ์มอบคะแนน KTC FOREVER ตามรายการนี้ เฉพาะยอดใช้จ่ายที่ซื้อสินค้าเพื่อการบริโภคส่วนบุคคล ไม่รวมถึงรายการซื้อสินค้าเชิงพาณิชย์ เพื่อการค้า เก็งกำไร ทุจริต หรือฉ้อฉล โดยหากตรวจพบขอสงวนสิทธิ์ในการมอบ ยกเลิก เพิกถอน หรือเรียกคืนคะแนน KTC FOREVER ที่มอบให้ ไม่ว่าทั้งหมดหรือบางส่วน รวมทั้งเรียกให้ชดใช้ค่าเสียหายตามแต่ละกรณี",
+                "สิทธิประโยชน์ตามรายการนี้ ไม่สามารถแลกเปลี่ยน หรือทอนเป็นเงินสด หรือโอนสิทธิ์ให้แก่ผู้อื่นได้",
+                "สงวนสิทธิ์ไม่นำดอกเบี้ย ค่าธรรมเนียมการใช้วงเงิน ค่าปรับ ค่าธรรมเนียมต่างๆ และรายการที่ยกเลิกการซื้อสินค้า/บริการ หรือเงินคืนที่เกิดจากการ Refund ทุกประเภท มาคำนวณเพื่อมอบสิทธิประโยชน์ให้แก่สมาชิกตามรายการนี้",
+                "สิทธิประโยชน์ตั้งแต่วันที่ 1 ม.ค. 67 – 31 ธ.ค. 67"
+            ],
+            "en": [
+                "Earn 1 KTC FOREVER point for every 25 baht purchase with any KTC – KRUNGTHAI PRECIOUS<sup>+</sup> credit card.",
+                "Earn 2x KTC FOREVER points = 1 regular point + 1 special points on every spending in foreign currencies (exclude 31 countries in the European Economic Area and People’s Republic of China).",
+                "Exclude granting KTC FOREVER points for any spending from 31 countries in the European Economic Area and People’s Republic of China and other specified categories. For more details, please visit <a href=\"https://www.ktc.co.th/rewards\">www.ktc.co.th/rewards</a>",
+                "KTC reserves the right to grant KTC FOREVER points under this promotion for product purchase transactions made for personal consumption only. This does not include any commercial, speculate, dishonest or fraudulent purchases. If found, KTC reserves the right to grant, cancel, withdraw, or revoke the cash back given either in whole or in part and ask for compensation for damages on a case-by-case basis.",
+                "Privileges under this promotion cannot be exchanged, changed to cash, or transferred to any other party.",
+                "KTC reserves the right to exclude interest, credit line fee usage , fine, any other fees and charges, cancellation of goods/services purchased or any other refund, from the calculation of privileges offering to cardmembers under this promotion.",
+                "Offers are valid from 1 Jan 24 - 31 Dec 24."
+            ]
+        },
+        "note": {
+            "th": [],
+            "en": []
+        }
+    },
+    {
+        "dID": 1,
+        "DialogID": "KTCFOREVERPOINTX2KRUNGTHAIPRIVATE",
+        "DialogTitle": {
+            "th": "เงื่อนไขการรับคะแนน KTC FOREVER สูงสุด x2",
+            "en": "Terms and conditions of up to 2x KTC FOREVER points"
+        },
+        "descriptionTitle": {
+            "th": "",
+            "en": ""
+        },
+        "description": {
+            "th": [],
+            "en": []
+        },
+        "TableName": "",
+        "TermsTitle": {
+            "th": "",
+            "en": ""
+        },
+        "TermsTabs": [],
+        "listType": "NUMBER",
+        "TermsItems": {
+            "th": [
+                "ทุก 25 บาทที่ใช้จ่ายผ่านบัตรเครดิต KTC - KRUNGTHAI PRIVATE BANKING รับ 1 คะแนน KTC FOREVER",
+                "คะแนน KTC FOREVER x2 = 1 คะแนนปกติ + 1 คะแนนพิเศษจากทุกการใช้จ่ายผ่านบัตรฯ เป็นสกุลเงินต่างประเทศ (ยกเว้น 31 ประเทศในเขตเศรษฐกิจยุโรป และสาธารณรัฐประชาชนจีน)",
+                "ยกเว้นการให้คะแนน KTC FOREVER สำหรับยอดใช้จ่ายผ่านบัตรฯ ที่ร้านค้าในเขตเศรษฐกิจยุโรป 31 ประเทศ สาธารณรัฐประชาชนจีน และหมวดอื่น ๆ ที่กำหนด ดูรายละเอียดเพิ่มเติมที่ <a href=\"https://www.ktc.co.th/rewards\">www.ktc.co.th/rewards</a>",
+                "เคทีซีขอสงวนสิทธิ์มอบคะแนน KTC FOREVER ตามรายการนี้ เฉพาะยอดใช้จ่ายที่ซื้อสินค้าเพื่อการบริโภคส่วนบุคคล ไม่รวมถึงรายการซื้อสินค้าเชิงพาณิชย์ เพื่อการค้า เก็งกำไร ทุจริต หรือฉ้อฉล โดยหากตรวจพบขอสงวนสิทธิ์ในการมอบ ยกเลิก เพิกถอน หรือเรียกคืนคะแนน KTC FOREVER ที่มอบให้ ไม่ว่าทั้งหมดหรือบางส่วน รวมทั้งเรียกให้ชดใช้ค่าเสียหายตามแต่ละกรณี",
+                "สิทธิประโยชน์ตามรายการนี้ ไม่สามารถแลกเปลี่ยน หรือทอนเป็นเงินสด หรือโอนสิทธิ์ให้แก่ผู้อื่นได้",
+                "สงวนสิทธิ์ไม่นำดอกเบี้ย ค่าธรรมเนียมการใช้วงเงิน ค่าปรับ ค่าธรรมเนียมต่างๆ และรายการที่ยกเลิกการซื้อสินค้า/บริการ หรือเงินคืนที่เกิดจากการ Refund ทุกประเภท มาคำนวณเพื่อมอบสิทธิประโยชน์ให้แก่สมาชิกตามรายการนี้",
+                "สิทธิประโยชน์ตั้งแต่วันที่ 1 ม.ค. 67 – 31 ธ.ค. 67"
+            ],
+            "en": [
+                "Earn 1 KTC FOREVER point for every 25 baht purchase with any KTC - KRUNGTHAI PRIVATE BANKING credit card.",
+                "Earn 2x KTC FOREVER points = 1 regular point + 1 special points on every spending in foreign currencies (exclude 31 countries in the European Economic Area and People’s Republic of China).",
+                "Exclude granting KTC FOREVER points for any spending from 31 countries in the European Economic Area and People’s Republic of China and other specified categories. For more details, please visit <a href=\"https://www.ktc.co.th/rewards\">www.ktc.co.th/rewards</a>",
+                "KTC reserves the right to grant KTC FOREVER points under this promotion for product purchase transactions made for personal consumption only. This does not include any commercial, speculate, dishonest or fraudulent purchases. If found, KTC reserves the right to grant, cancel, withdraw, or revoke the cash back given either in whole or in part and ask for compensation for damages on a case-by-case basis.",
+                "Privileges under this promotion cannot be exchanged, changed to cash, or transferred to any other party.",
+                "KTC reserves the right to exclude interest, credit line fee usage , fine, any other fees and charges, cancellation of goods/services purchased or any other refund, from the calculation of privileges offering to cardmembers under this promotion.",
+                "Offers are valid from 1 Jan 24 - 31 Dec 24."
+            ]
+        },
+        "note": {
+            "th": [],
+            "en": []
+        }
+    },
+    {
         "dID": 2,
         "DialogID": "MIRACLELOUNGEX2",
         "DialogTitle": {
@@ -79,6 +173,51 @@
             ],
             "en": [
                 "Lounge access is reserved for KTC – KRUNGTHAI ICONIC credit cardholders (primary card only) with normal account status and who have made at least 1 transaction after card activation",
+                "Lounge access is reserved for primary KTC credit cardholders traveling abroad with Thai Airways only and limited to 2 accesses per card per year.",
+                "To enjoy the privilege, present your Thai Airways outbound flight boarding pass along with KTC – KRUNGTHAI ICONIC credit card to the staff in front of the MIRACLE LOUNGE before every access  (Limited to 1 card per 1 flight).",
+                "The MIRACLE LOUNGE reserves the right to provide the service for a maximum duration of 2 hours at a time. If this time limit is exceeded, additional service fees must be paid, as determined by the lounge.",
+                "KTC credit cardholders are entitled to use the service at the MIRACLE LOUNGE in the International Departures Building at Suvarnabhumi Airport subject to the conditions stipulated by the lounge. You can access services at all 8 points as follows:<ul class=\"tw-list-disc tw-pl-5\"><li>Concourse A, A1 Block 2, Level 3 First and Business Class Lounge (Shower room, Rest room are available)</li><li>Concourse C, Level 3, First and Business Class Lounge</li><li>Concourse D, Level 3 (Opposite Gate D5/D6) First and Business Class Lounge (Shower room, Rest room are available)</li><li>Concourse F, Level 3, Business Class Lounge</li><li>Concourse G, Level 3, First Class Lounge</li><li>Concourse G, Level 3 (Opposite Gate G2), Business Class Lounge (Shower room, Rest room are available)</li><li>Concourse G, Level 4, First Class Lounge (Shower room, Rest room are available)</li><li>SAT-1 Terminal, First and Business Class Lounge (Shower room, Rest room are available)</li></ul>",
+                "The MIRACLE LOUNGE access privilege can be used from January 1, 2024, to December 31, 2024."
+            ]
+        },
+        "note": {
+            "th": [],
+            "en": []
+        }
+    },
+    {
+        "dID": 2,
+        "DialogID": "MIRACLELOUNGEX2KRUNGTHAIPRIVATE",
+        "DialogTitle": {
+            "th": "ห้องรับรอง MIRACLE LOUNGE",
+            "en": "Terms and conditions for The MIRACLE LOUNGE access."
+        },
+        "descriptionTitle": {
+            "th": "",
+            "en": ""
+        },
+        "description": {
+            "th": [],
+            "en": []
+        },
+        "TableName": "",
+        "TermsTitle": {
+            "th": "",
+            "en": ""
+        },
+        "TermsTabs": [],
+        "listType": "NUMBER",
+        "TermsItems": {
+            "th": [
+                "สงวนสิทธิ์สำหรับสมาชิกบัตรเครดิต KTC - KRUNGTHAI PRIVATE BANKING (เฉพาะบัตรหลักเท่านั้น) ที่มีสถานะบัญชีปกติ และมีการใช้จ่ายอย่างน้อย 1 ครั้งหลังจากเปิดใช้งานบัตร",
+                "สำหรับสมาชิกบัตรฯ ที่เดินทางระหว่างประเทศโดยสายการบินไทยเท่านั้น โดยสามารถใช้สิทธิ์ได้ 2 ครั้งต่อบัตรต่อปี",
+                "แสดงบัตรที่นั่งเที่ยวบินขาออกของสายการบินไทย (Boarding Pass) พร้อมบัตรเครดิต KTC - KRUNGTHAI ICONIC ทุกครั้งที่เข้าใช้บริการ (1 บัตรต่อ 1 เที่ยวบินเท่านั้น) กับเจ้าหน้าที่หน้าห้องรับรอง MIRACLE LOUNGE ก่อนเข้าใช้บริการ",
+                "ห้องรับรองพิเศษ MIRACLE LOUNGE ขอสงวนสิทธิ์การใช้บริการไม่เกิน 2 ชั่วโมงต่อครั้ง หากเกินกว่านี้ ต้องเสียค่าใช้บริการเพิ่มเติมตามที่ห้องรับรองฯ กำหนด",
+                "ผู้ถือบัตรฯ สามารถเข้าใช้บริการที่ห้องรับรองพิเศษ MIRACLE LOUNGE อาคารผู้โดยสารขาออกระหว่างประเทศ สนามบินสุวรรณภูมิ ตามเงื่อนไขที่ห้องรับรองกำหนดเท่านั้น โดยสามารถเข้าใช้บริการได้ ดังนี้ <ul class=\"tw-list-disc tw-pl-5\"><li>Concourse A, A1 Block 2, Level 3 First and Business Class Lounge (Shower room, Rest room are available)</li><li>Concourse C, Level 3, First and Business Class Lounge</li><li>Concourse D, Level 3 (Opposite Gate D5/D6) First and Business Class Lounge (Shower room, Rest room are available)</li><li>Concourse F, Level 3, Business Class Lounge</li><li>Concourse G, Level 3, First Class Lounge</li><li>Concourse G, Level 3 (Opposite Gate G2), Business Class Lounge (Shower room, Rest room are available)</li><li>Concourse G, Level 4, First Class Lounge (Shower room, Rest room are available)</li><li>SAT-1 Terminal, First and Business Class Lounge (Shower room, Rest room are available)</li></ul>",
+                "สิทธิเข้าห้องรับรองพิเศษ MIRACLE LOUNGE สามารถใช้บริการได้ภายในระยะเวลา 1 มกราคม 2567 – 31 ธันวาคม 2567"
+            ],
+            "en": [
+                "Lounge access is reserved for KTC - KRUNGTHAI PRIVATE BANKING credit cardholders (primary card only) with normal account status and who have made at least 1 transaction after card activation",
                 "Lounge access is reserved for primary KTC credit cardholders traveling abroad with Thai Airways only and limited to 2 accesses per card per year.",
                 "To enjoy the privilege, present your Thai Airways outbound flight boarding pass along with KTC – KRUNGTHAI ICONIC credit card to the staff in front of the MIRACLE LOUNGE before every access  (Limited to 1 card per 1 flight).",
                 "The MIRACLE LOUNGE reserves the right to provide the service for a maximum duration of 2 hours at a time. If this time limit is exceeded, additional service fees must be paid, as determined by the lounge.",
@@ -150,7 +289,7 @@
     },
     {
         "dID": 4,
-        "DialogID": "AFFTERNOONTEA",
+        "DialogID": "AFFTERNOONTEAINFINITE",
         "DialogTitle": {
             "th": "เงื่อนไขการรับสิทธิพิเศษ",
             "en": "Terms & Conditions"
@@ -161,8 +300,8 @@
         },
         "description": {
             "th": [
-                "สิทธิพิเศษ 1. รับสิทธิซื้อชุดน้ำชายามบ่ายสำหรับ 2 ท่าน ในราคาพิเศษ 500 บาท",
-                "สิทธิพิเศษ 2. รับสิทธิซื้อชุดน้ำชายามบ่ายสำหรับ 2 ท่าน ในราคาพิเศษ 800 บาท<br><br>",
+                "สิทธิพิเศษ 1. อภินันทนาการชุดน้ำชายามบ่าย สำหรับ 2 ท่าน",
+                "สิทธิพิเศษ 2. ชุดน้ำชายามบ่าย ราคาพิเศษ 800 บาท สำหรับ 2 ท่าน<br><br>",
                 "ระยะเวลา",
                 "1 ม.ค. 67 – 31 ธ.ค. 67"
             ],
@@ -173,7 +312,7 @@
                 "1 Jan 24 – 31 Dec 24"
             ]
         },
-        "TableName": "AFFTERNOONTEA",
+        "TableName": "AFFTERNOONTEAINFINITE",
         "TermsTitle": {
             "th": "ข้อกำหนดและเงื่อนไขการรับสิทธิพิเศษ",
             "en": "Terms & Conditions"
@@ -186,7 +325,7 @@
                 "สิทธิพิเศษสำหรับผู้ถือบัตรวีซ่า ซิกเนเจอร์ ที่ออกโดยธนาคารในประเทศไทยเท่านั้น<br>(ยกเว้นบัตรเครดิตเพื่อธุรกิจ หรือบัตรเครดิตนิติบุคคลทุกประเภท)",
                 "สงวนสิทธิ์สำหรับผู้ถือบัตรวีซ่า ซิกเนเจอร์ ที่เป็นบัตรหลักเท่านั้น",
                 "ผู้ถือบัตรจะต้องมียอดใช้จ่ายผ่านบัตรวีซ่า ซิกเนเจอร์ รวม 50,000 บาทขึ้นไป (ภายใต้บัตรหมายเลขเดียวกัน)<br>ณ วันที่ทำรายการสำรองการใช้สิทธิ์ ยอดใช้จ่ายที่นำมาคำนวณย้อนหลังได้ไม่เกิน 60 วันจนถึงวันที่ทำรายการสำรองสิทธิ์",
-                "ผู้ถือบัตรจะต้องทำการสำรองการใช้สิทธิ์ผ่านทางเว็ปไซต์ www.vthgservice.com เท่านั้น",
+                "ผู้ถือบัตรจะต้องทำการสำรองการใช้สิทธิ์ผ่านทางเว็ปไซต์ <a href=\"https://www.vthgservice.com\">www.vthgservice.com</a> เท่านั้น",
                 "สำรองการใช้สิทธิ์ล่วงหน้าอย่างน้อย 7 วัน (ไม่รวมวันหยุดนักขัตฤกษ์)",
                 "ผู้ถือบัตรจะได้รับอีเมล์ยืนยันการรับสิทธิ์ และรายละเอียดการชำระเงินภายใน 3 วันทำการนับจากวันที่ทำรายการสำรองสิทธิ และผู้ถือบัตรจะต้องชำระค่าใช้จ่ายให้เสร็จสิ้น หลังจากนั้นจึงจะได้รับ “Booking Code” เพื่อนำไปแสดงต่อพนักงานร้านค้าในการเข้าใช้บริการ<br>** หากผู้ถือบัตรมิได้ชำระค่าใช้จ่ายให้เสร็จสิ้นตามที่กำหนด บริษัทฯ ขอสงวนสิทธิ์ในการยกเลิกการสำรอง <br>สิทธิ์ครั้งนั้น และผู้ถือบัตรจะต้องทำรายการสำรองสิทธิ์ใหม่ โดยนับตามลำดับก่อน/หลัง",
                 "การรับสิทธิ์ขึ้นอยู่กับการตรวจสอบสิทธิตามเงื่อนไขจากธนาคารผู้ออกบัตร และจำนวนที่ว่าง",
@@ -197,34 +336,40 @@
                 "กรุณาแจ้งชื่อ / Booking Code พร้อมแสดงบัตรวีซ่าซิกเนเจอร์ และบัตรประชาชน แก่พนักงานเพื่อรับสิทธิพิเศษตามที่ได้สำรองไว้",
                 "สิทธิพิเศษนี้ สงวนไว้สำหรับผู้ถือบัตรในการเข้ารับบริการด้วยตนเอง และให้บริการเฉพาะภายในสถานที่ที่กำหนดเท่านั้น",
                 "ผู้ถือบัตรสามารถพาแขกเข้าใช้บริการพร้อมผู้ถือบัตรได้ โดยถือบัตรหรือแขกของผู้ถือบัตรจะต้องชำระค่าบริการตามราคาปกติของร้านค้าที่ร่วมรายการ รวมถึงค่าใช้จ่ายเพิ่มเติมที่นอกเหนือจากที่ระบุไว้",
-                "สอบถามข้อมูลเพิ่มเติม หรือติดตามการสำรองสิทธิ์ (ในกรณีที่ไม่ได้รับอีเมล์ตอบกลับ) ที่โทร 02 906 3026 วันจันทร์-ศุกร์ เวลา 9.00 – 17.00 น. หรือ อีเมล์ vthgservices@vathanagul.com",
+                "สอบถามข้อมูลเพิ่มเติม หรือติดตามการสำรองสิทธิ์ (ในกรณีที่ไม่ได้รับอีเมล์ตอบกลับ) ที่โทร 02 906 3026 วันจันทร์-ศุกร์ เวลา 9.00 – 17.00 น. หรือ อีเมล์ <a href=\"mailto:vthgservices@vathanagul.com\">vthgservices@vathanagul.com</a>",
                 "รายละเอียดที่ระบุไว้ในสื่อประชาสัมพันธ์อาจมีการเปลี่ยนแปลง กรุณาตรวจสอบรายละเอียดเงื่อนไขก่อนการสำรองสิทธิ์ หรือการใช้สิทธิ์ทุกครั้ง",
                 "วีซ่า อินเตอร์เนชั่นแนล (ประเทศไทย) ขอสงวนสิทธิ์ในการยกเลิก เปลี่ยนแปลง หรือเพิ่มเติมรายละเอียดเงื่อนไขโดยมิต้องแจ้งให้ทราบล่วงหน้า",
                 "วีซ่า อินเตอร์เนชั่นแนล (ประเทศไทย) ไม่มีส่วนเกี่ยวข้องหรือรับผิดชอบใด ๆ กับบริการของร้านค้าที่ร่วมรายการกรณีที่มีข้อสงสัยหรือข้อร้องเรียนเกี่ยวกับบริการของร้านค้า ผู้ถือบัตรจะต้องดำเนินการโดยตรงกับร้านค้า",
                 "เมื่อผู้ถือบัตรทำการสำรองสิทธิ์ และใช้สิทธิ์ในรายการแล้ว ถือว่าผู้ถือบัตรได้อ่าน ทำความเข้าใจ และยอมรับรายละเอียดเงื่อนไขตามที่กำหนด วีซ่าฯ จะไม่รับการร้องเรียนใดๆ ที่เกิดขึ้นในภายหลัง"
             ],
             "en": [
-                "<strong>WEALTH MANAGEMENT</strong> Personal investment advisory service.",
-                "<strong>PRIORITY SERVICE</strong> An express special service for financial transactions.",
-                "<strong>BANKING PRIVILEGES FINANCIA</strong>L BENEFITS: Receive exemptions or discounts on financial transaction fees and service charges.",
-                "<strong>THE CORAL EXECUTIVE LOUNGE</strong>  Service for special lounges in major provinces across the country that supports all domestic and international travel with snacks and beverages for you to enjoy before departure.",
-                "<strong>KRUNGTHAI WEALTH LOUNGE</strong> The service of a superior lounge with facilities as well as a private reception area to relax with complimentary snacks and beverages.",
-                "<strong>KRUNGTHAI BRANCH RESERVED PARKING</strong> Parking space reservation service at Krungthai Bank’s branches.",
-                "<strong>KRUNGTHAI WEALTH RESERVED PARKING</strong> Parking space reservation service at ICONSIAM shopping center, and 14 Central Plaza shopping centers across the country.",
-                "<strong>MONTHLY PRIVILEGES<s/trong> Monthly special privileges that meet every lifestyle.",
-                "<strong>SPA SERVICE</strong> Professional services of SPA for health and wellbeing.",
-                "<strong>MONTHLY PRIVILEGES</strong> Monthly special privileges that meet every lifestyle."
+                "Privilege is valid from 1 January to 31 December 2024.",
+                "Privileges are applicable to Visa Infinite Cards issued in Thailand only. (except Corporate, Commercial and SME Business card)",
+                "Privileges are valid for the main cardholder only.",
+                "A minimum of THB 80,000 accumulated spending by Visa Infinite card is required (payment on the same card number) at the date of privilege booking. The eligible spending transactions can be combined 60 days prior to the date of booking.",
+                "Privileges can be utilized only once a year per card number, either “Complimentary” or “Special Price” privilege from all participating merchants in the Afternoon Tea Privilege category",
+                "Privilege booking is applicable via <a href=\"https://www.vthgservice.com\">www.vthgservice.com</a>",
+                "Reservations are required at least 7 days in advance (except on Public Holidays).",
+                "In case of any supporting documents are requested from cardholder for the verification, the cardholder has to submit those documents within 3 days, otherwise Visa reserves the right to cancel the booking and cardholder will have to make a new booking on a first come first served basis.",
+                "Cardholder will get an email confirmation for privilege booking within 3 working days after booking is made and subject to verification and available seating.",
+                "For “Special Price” privilege, cardholder will get an email confirmation for the privilege booking and details for payment within 3 working days after the booking is made. Cardholder must make a payment within 3 days, otherwise Visa reserves the right to cancel the booking and cardholder will have to make a new booking on a first come first served basis.",
+                "Complimentary Privilege is limited to the first 200 persons per month, on a first come first served basis.",
+                "Special Price Privilege is no limit.",
+                "The cancellation or booking changes must be done at least 1 day before the intended day at Tel 02 906 3026. In case of no show, one-time redemption is applied.",
+                "Please present your Visa Infinite card and ID card on arrival to get the privileges at the merchant outlet.",
+                "The privileges will be available for the cardholder at the designated location only",
+                "Cardholder may bring along their guests for each visit. Any consumption of food or beverages beyond the complimentary set as well as the use of facilities and services are chargeable at published rates.",
+                "A smart casual dress code is required. No singlet, shorts, fitness attire, room slippers, sandals or flip-flops",
+                "For more information, please contact to Tel. 02 906 3026 on Monday – Friday from 9.00 a.m. to 17.00 p.m. or Email to <a href=\"mailto:vthgservices@vathanagul.com\">vthgservices@vathanagul.com</a>",
+                "Information contained in this guide is subject to changes, please carefully check before use.",
+                "Visa reserves the right to amend, delete or add to any terms and conditions, and/or to cancel, terminate the privileges without prior notice.",
+                "Visa shall not be responsible or liable in any manner whatsoever for any deficiency or inadequacy of services under the Visa Premium Card Privileges Program, and eligible cardholders shall look solely to the relevant participating merchants in the case of any queries or complaints for any services. No representation or warranty of any nature is made by Visa as to the quality of any services provided by any merchant",
+                "By utilizing or attempting to utilize the Visa Premium Card Privileges Program, all eligible cardholders are deemed to have read, understood and irrevocably accepted and agreed to the terms and conditions set out herein."
             ]
         },
         "note": {
-            "th": [
-                "*หลักเกณฑ์การเป็นสมาชิก Krungthai Iconic คือ คงยอดรวมสินทรัพย์ของผลิตภัณฑ์เงินฝาก, หุ้นกู้ ที่ออกโดยธนาคารกรุงไทย จำกัด (มหาชน) และกองทุนรวมกับธนาคารคงเหลือ ณ ปัจจุบัน (ยกเว้นบัญชีเงินฝากออมทรัพย์, บัญชีกระแสรายวันแบบไม่มีวงเงินเบิกเกินบัญชี, กองทุนรวมตลาดเงิน, กองทุนรวม KTPLUS และ KTSTPLUS-A ที่่คำนวณจากค่าเฉลี่ยย้อนหลัง 180 วัน) บวกด้วยยอดรวมของผลิตภัณฑ์ประกันชีวิตที่ชำระในปี ตั้งแต่ 2 ล้านบาท แต่ไม่ถึง 10 ล้านบาท",
-                "<a href=\"https://wealth.krungthai.com/\">ศึกษารายละเอียดเพิ่มเติม คลิก</a>"
-            ],
-            "en": [
-                "*Criteria for membership of Krungthai Precious+ is to maintain the current balance of deposits, debentures issued by Krungthai Bank Public Company Limited and mutual funds with the bank (except for savings accounts, current accounts without an overdraft, money market mutual fund, KTPLUS mutual fund and KTSTPLUS-A calculated from the average in past 180 days) plus the total amount of life insurance products paid within the year at 10 million baht but less than 50 million baht.",
-                "<a href=\"https://wealth.krungthai.com/\">For more information Click here.</a>"
-            ]
+            "th": [],
+            "en": []
         }
     },
     {
@@ -252,7 +397,7 @@
                 "1 Jan 24 – 31 Dec 24"
             ]
         },
-        "TableName": "AFFTERNOONTEA",
+        "TableName": "AFFTERNOONTEA500",
         "TermsTitle": {
             "th": "ข้อกำหนดและเงื่อนไขการรับสิทธิพิเศษ",
             "en": "Terms & Conditions"
@@ -442,7 +587,7 @@
         },
         "note": {
             "th": [
-                "บริการข้างต้นเป็นการให้ข้อมูล คำแนะนำ และประสานงานส่วนบุคคลเท่านั้น การบริการนี้ไม่รวมถึงการบริการเพื่อการพาณิชย์หรือ<br>สิ่งผิดกฎหมาย ค่าใช้จ่ายใดๆ ที่เกิดขึ้นสำหรับสินค้าหรือบริการดังกล่าว สมาชิกบัตรฯ ต้องเป็นผู้รับผิดชอบเอง<br>สมาชิกบัตรฯ สามารถติดต่อเจ้าหน้าที่ได้ทุกวัน ตลอด 24 ชั่วโมง ที่ KTC PERSONAL ASSISTANT 02 123 5333 กด 3 และกด 0<br>",
+                "บริการข้างต้นเป็นการให้ข้อมูล คำแนะนำ และประสานงานส่วนบุคคลเท่านั้น การบริการนี้ไม่รวมถึงการบริการเพื่อการพาณิชย์หรือ<br>สิ่งผิดกฎหมาย ค่าใช้จ่ายใดๆ ที่เกิดขึ้นสำหรับสินค้าหรือบริการดังกล่าว สมาชิกบัตรฯ ต้องเป็นผู้รับผิดชอบเอง<br>สมาชิกบัตรฯ สามารถติดต่อเจ้าหน้าที่ได้ทุกวัน ตลอด 24 ชั่วโมง <br>ที่ KTC PERSONAL ASSISTANT 02 123 5333 กด 3 และกด 0<br>",
                 "ดูรายละเอียดเพิ่มเติมอื่นๆ ที่ <a href=\"https://www.ktc.co.th/personal-assistant\">www.ktc.co.th/personal-assistant</a>"
             ],
             "en": [
@@ -452,7 +597,7 @@
         }
     },
     {
-        "dID": 7,
+        "dID": 8,
         "DialogID": "EXCLUSIVEINSTALLMENT",
         "DialogTitle": {
             "th": "ผ่อนชำระง่าย",
@@ -501,7 +646,7 @@
         }
     },
     {
-        "dID": 8,
+        "dID": 9,
         "DialogID": "ACCIDENTALINSURANCE",
         "DialogTitle": {
             "th": "ข้อกำหนดและเงื่อนไขการรับสิทธิ์ประกันอุบัติเหตุ",
@@ -552,7 +697,7 @@
         }
     },
     {
-        "dID": 9,
+        "dID": 10,
         "DialogID": "TRAVELINSURANCE",
         "DialogTitle": {
             "th": "ประกันการเดินทาง",
@@ -588,7 +733,7 @@
     },
     {
         "dID": 10,
-        "DialogID": "CASHWITHDRAWAL",
+        "DialogID": "CASHWITHDRAWAL200000",
         "DialogTitle": {
             "th": "เบิกถอนเงินสดได้ 100%",
             "en": "100% CASH WITHDRAWAL"
@@ -653,22 +798,12 @@
         "listType": "NUMBER",
         "TermsItems": {
             "th": [
-                "ยอดใช้จ่ายผ่านบัตรเครดิต KTC VISA/ MASTERCARD/ JCB/ UNIONPAY ทุกประเภท ทุก 25 บาท รับคะแนน 1 คะแนน ยกเว้นยอดใช้จ่ายในรายการตามที่กำหนดไว้ในข้อ 2 โดยทุก 1,000 คะแนน KTC FOREVER แทนมูลค่าเงินสด 100 บาท ทั้งนี้ เว้นแต่จะระบุเป็นอย่างอื่นโดยชัดเจนตามแต่ละโครงการ โปรโมชั่นหรือรายการส่งเสริมการขาย/การตลาดแล้วแต่กรณี",
-                "ยอดใช้จ่ายผ่านบัตรเครดิต KTC ที่ไม่ได้รับคะแนน มีดังนี้<ol><li>(1) ยอดใช้จ่ายผ่านบัตรเครดิต KTC CASH BACK, KTC - ศูนย์บริการโลหิตแห่งชาติ สภากาชาติไทย, KTC VISA CORPORATE, บัตร KTC เพื่อหน่วยงานรัฐ รวมทั้งบัตรประเภทอื่นใดที่ได้กำหนดยกเว้นโดยชัดแจ้ง</li><li>(2) ยอดใช้จ่ายผ่านบัตรเครดิต KTC MASTERCARD ในหมวดหน่วยงานราชการทุกรายการ ดังนี้ <ul><li>MCC 9211 Court Costs & Alimony & Child Support (หมวดค่าใช้จ่ายในศาล)</li><li>MCC 9222 Fines (หมวดค่าปรับ)</li><li>MCC 9311 Tax Payments (หมวดค่าภาษี)</li><li>MCC 9399 Government Services -not elsewhere classified (หมวดค่าบริการของราชการ)</li><li>MCC 9402 Postal Services - Government Only (หมวดค่าบริการไปรษณีย์ของราชการ)</li><li>MCC 9405 Intra-Government Purchases -Government Only (หมวดค่าจัดซื้อภายในราชการ)</li></ul> รวมถึงยอดใช้จ่ายในหมวด MCC ดังนี้ <ul><li>MCC 4816 Computer Network/Information Services (หมวดเครือข่ายคอมพิวเตอร์/บริการข้อมูล)</li><li>MCC 4899 Cable, Satellite, and Other Pay Television and Radio Services (หมวดเคเบิ้ลดาวเทียม/ค่าบริการรับชมรายการโทรทัศน์และวิทยุ)</li><li>MCC 5199 Nondurable goods - not elsewhere classified</li><li>MCC 6540 POI Funding Transactions (Excluding MasterCard® MoneySend™)</li><li>MCC 9223 Bail and Bond Payments (หมวดการชำระเงินประกันตัว/กองทุน, พันธบัตร)</li></ul></li><li>(3) ยอดใช้จ่ายบัตรเครดิต KTC VISA/MASTERCARD สำหรับชำระค่าสินค้า/บริการทุกรายการที่ตัวแทนรับชำระทุกช่องทาง เช่น ชำระค่าสมาชิกฟิตเนสผ่านเคาน์เตอร์เซอร์วิส หรือชำระค่าเบี้ยประกันผ่านตัวแทนรับชำระออนไลน์ เป็นต้น</li><li>(4) ยอดใช้จ่ายบัตรเครดิต KTC SENIOR VISA/MASTERCARD สำหรับยอดใช้จ่ายทุกวันพุธที่ได้รับเครดิตเงินคืนจะไม่ได้รับคะแนน</li><li>(5) ยอดใช้จ่ายในรายการเบิกถอนเงินสด ค่าธรรมเนียม รายการชำระค่าสาธารณูปโภค (MCC 4900) ดอกเบี้ย การชำระค่าหน่วยลงทุน และผลิตภัณฑ์ประกันชีวิตควบการลงทุน (UNIT LINK) ทุกประเภท (MCC 6211) รายการเงินคืนที่เกิดจากการ Refund ทุกประเภท รวมทั้ง Tax Refund</li><li>(6) ยอดใช้จ่ายผ่านบัตรเครดิต KTC ทุกประเภท ที่ 7-11 ทุกช่องทางการจำหน่ายในประเทศไทย ซึ่งรวมถึงการชำระค่าสินค้า/บริการด้วยบัตรเครดิต KTC ผ่านแอปพลิเคชันทรูมันนี่ วอลเล็ท</li><li>(7) ยอดใช้จ่ายผ่านบัตรเครดิต KTC VISA/ MASTERCARD/ JCB/ UNIONPAY ทุกประเภท เป็นสกุลเงินไทย ที่ร้านค้าในต่างประเทศหรือร้านค้าที่จดทะเบียนในต่างประเทศ</li><li>(8) ยอดใช้จ่ายผ่านบัตรเครดิต KTC VISA / MASTERCARD/UNIONPAY ที่ร้านค้าในทวีปยุโรป (เขตเศรษฐกิจยุโรป EEA) รวม 31 ประเทศ ได้แก่ 1) Austria, 2) Belgium, 3) Bulgaria, 4) Croatia, 5) Czech Republic, 6) Cyprus, 7) Denmark, 8) Estonia, 9) Finland (including Aland Islands), 10) France (including French Guiana, Guadeloupe, Martinique, Reunion, Saint Martin (French Part), and Mayotte), 11) Germany, 12) Greece, 13) Hungary, 14) Ireland, 15) Italy, 16) Latvia, 17) Lithuania, 18) Luxembourg, 19) Malta, 20) Netherlands, 21) Poland, 22) Portugal (including Azores and Madeira), 23) Romania, 24) Slovakia, 25) Slovenia, 26) Spain (including Canary Islands, Ceuta, Melilla), 27) Sweden, 28) United Kingdom (including Gibraltar), 29) Iceland, 30) Liechtenstein, 31) Norway (including Svalbard and Jan Mayen) <br>หมายเหตุ : บัตรเครดิต KTC UNIONPAY ทุกประเภท จะมีผลตั้งแต่วันที่ 1 มกราคม 2566</li><li>(9) ยอดใช้จ่ายผ่านบัตรเครดิต KTC UNIONPAY ในหมวดหน่วยงานราชการ ชำระค่าสาธารณูปโภคและหมวดการบริโภคต่างๆ ดังนี้ <ul><li>MCC 8398 องค์กรการกุศลและบริการสังคม</li><li>MCC 8661 องค์กรศาสนา</li><li>MCC 4899 หมวดเคเบิ้ลดาวเทียม/ค่าบริการรับชมรายการโทรทัศน์และวิทยุ</li><li>MCC 4900 สาธารณูปโภค</li><li>MCC 5411 ร้านขายของชำ, ซุปเปอร์มาร์เก็ต</li><li>MCC 9211 ค่าใช้จ่ายในศาลรวมค่าเลี้ยงดูและการสนับสนุนเด็ก - ห้องกฎหมาย</li><li>MCC 9222 หมวดค่าปรับ</li><li>MCC 9223 หมวดการชำระเงินประกันตัว/กองทุน, พันธบัตร</li><li>MCC 9311 หมวดค่าภาษี</li><li>MCC 9399 หมวดค่าบริการของราชการ</li><li>MCC 9402 หมวดค่าบริการไปรษณีย์ของราชการ</li><li>MCC 9405 หมวดค่าจัดซื้อภายในราชการ</li><li>MCC 1771 คอนกรีตรับเหมางาน</li><li>MCC 5271 นายหน้าขายรถบ้านเคลื่อนที่</li><li>MCC 7013 นายหน้าตัวแทนแสังหาริมทรัพย์</li><li>MCC 5511 ตัวแทนจำหน่ายรถและรถบรรทุก (รถใหม่และมือสอง) บริการ ซ่อม อะไหล่ และลิสซิ่ง</li><li>MCC 5521 ตัวแทนจำหน่ายรถและรถบรรทุก (ใช้แล้ว) บริการ ซ่อม อะไหล่ และลิสซิ่ง</li><li>MCC 5551 ตัวแทนเรือ</li><li>MCC 5561 กิจกรรมค่าย, นันทนาการและจำหน่าย Trailer Utility</li><li>MCC 5571 ร้านค้าและตัวแทนจำหน่ายรถจักรยานยนต์</li><li>MCC 5592 ตัวแทนจำหน่ายมอเตอร์บ้าน</li><li>MCC 5598 ตัวแทนจำหน่ายรถสำหรับเคลื่อนบนหิมะ</li><li>MCC 5599 ตัวแทนจำหน่ายรถยนต์เบ็ดเตล็ด</li><li>MCC 5933 โรงรับจำนำ</li><li>MCC 6012 สถาบันการเงิน</li><li>MCC 4011 รถไฟ</li><li>MCC 4214 ผู้ให้บริการขนส่งและบรรทุก และบริการจัดส่งสินค้าท้องถิ่น</li><li>MCC 4458 ยาสูบ</li><li>MCC 5013 ผู้ผลิตวัสดุยานยนต์และชิ้นส่วน</li><li>MCC 5021 เฟอร์นิเจอร์สำนักงานและพาณิชย์</li><li>MCC 5039 วัสดุก่อสร้าง</li><li>MCC 5044 ภาพถ่าย, สำเนา, อุปกรณ์ฟิล์ม</li><li>MCC 5045 คอมพิวเตอร์อุปกรณ์ต่อพ่วง</li><li>MCC 5046 อุปกรณ์ Commercial</li><li>MCC 5047 แพทย์, ทันตแพทย์, จักษุ, และอุปกรณ์โรงพยาบาล</li><li>MCC 5051 ผลิตภัณฑ์โลหะ</li><li>MCC 5065 ชิ้นส่วนอิเล็กทรอนิกส์</li><li>MCC 5072 อุปกรณ์ท่อประปา, ร้อน, เครื่องปรับอากาศ</li><li>MCC 5074 เครื่องจักรอุตสาหกรรม</li><li>MCC 5085 อุปกรณ์ในอุตสาหกรรม</li><li>MCC 5111 กระดาษและผลิตภัณฑ์ที่เกี่ยวข้อง</li><li>MCC 5131 สิ่งทอผ้า Piece Goods & Notions</li><li>MCC 5137 ผ้าพันคอ, ผ้าเช็ดหน้า</li><li>MCC 5139 เครื่องหนังสินค้า</li><li>MCC 5169 เคมีภัณฑ์</li><li>MCC 5172 ปิโตรเลียมและปิโตรเลียม</li><li>MCC 5193 สีและของใช้ในห้องน้ำ</li><li>MCC 5261 ร้านค้าและร้านขายของชำ</li><li>MCC 5933 โรงรับจำนำ</li><li>MCC 6010 สถาบันการเงิน</li></ul></li></ol><br>ทั้งนี้ เคทีซีขอสงวนสิทธิ์ยกเว้นการให้เครดิตเงินคืน (Cash Back) สำหรับยอดใช้จ่ายบัตรเครดิต KTC CASH BACK VISA / MASTERCARD และบัตรเครดิต KTC SENIOR VISA / MASTERCARD ในหมวดร้านค้าต่างๆ ตามเงื่อนไขที่กำหนดไว้ในข้อ 2 (2) - (11) ข้างต้น",
-                "เคทีซีขอสงวนสิทธิ์ในการเปลี่ยนแปลงรายการสินค้า/บริการ ร้านค้าที่ร่วมรายการ รายละเอียดต่างๆ ของรายการคะแนน KTC และเกณฑ์มูลค่าคะแนน KTC ในการแลกซื้อหรือแลกชำระค่าสินค้า / บริการ ตามระยะเวลาและเงื่อนไขที่เหมาะสม ทั้งนี้รวมถึงการกำหนดอายุการใช้คะแนน KTC ตามเงื่อนไขที่กำหนดด้วย",
-                "คะแนน KTC จะถูกยกเลิกหรือสิ้นสุดลงในกรณีที่ <ul><li>(ก) สมาชิกใช้สิทธิ์นำคะแนน KTC แลกซื้อหรือแลกชำระค่าสินค้า /บริการ</li><li>(ข) เคทีซีใช้สิทธิ์เรียกคืนหรือยกเลิก</li><li>(ค) สมาชิกสิ้นสุดความเป็นสมาชิกภาพ</li><li>(ง) สมาชิกกระทำการฉ้อฉล ปลอมแปลง หรือใช้บัตรในเชิงธุรกิจทางพาณิชย์หรือใช้บัตรผิดวัตถุประสงค์ หรือทุจริต หรือฉ้อฉล เพื่อให้ได้คะแนนมา ไม่ว่าทั้งหมด หรือบางส่วน</li><li>(จ) สมาชิกผิดนัดชำระหนี้ โดยมียอดค้างชำระติดต่อกัน เป็นระยะเวลาตั้งแต่ 90 วันขึ้นไป*</li></ul><br><p>อนึ่ง การยกเลิกคะแนน KTC ตามข้อ (ง) เคทีซีอาจพิจารณาดำเนินการตามกฎหมายเพื่อเรียกคืนหรือยกเลิกคะแนน บัตรกํานัล สินค้า บริการ ประโยชน์ใดๆ อันได้มาจากการนี้ รวมทั้งค่าเสียหายที่เกิดขึ้น และ อาจรวมไปถึงการยกเลิกบัตรหรือบัญชีบัตรเครดิตของสมาชิกด้วย</p>",
-                "สมาชิกที่ยังคงสมาชิกภาพเป็นสมาชิกบัตรเครดิต KTC VISA/ MASTERCARD/ JCB/ UNIONPAY และไม่มีการผิดนัดชำระหนี้/ค่าใช้จ่ายอื่นใดในเวลาที่กำหนด หรือไม่ได้ผิดข้อตกลงกับเคทีซี หรือไม่ได้ถูกระงับการใช้บัตร ไม่ว่ากรณีใดๆ ณ วันที่ขอใช้สิทธิ์เท่านั้น จึงจะมีสิทธิ์นำคะแนนแลกซื้อหรือแลกชำระค่าสินค้า/บริการในรายการคะแนน KTC",
-                "สมาชิกสามารถโอนคะแนน KTC ระหว่างบัตรเครดิต KTC ของสมาชิกรายเดียวกัน หรือภายใต้นามสกุลเดียวกันได้ตามเงื่อนไขที่กำหนด",
-                "การจัดจำหน่าย/ให้บริการ การส่งมอบ การติดตั้ง การซ่อมแซมบำรุงรักษา การรับประกันคุณภาพ การบริการหลังการจำหน่าย รวมถึงความรับผิดในความเสียหาย ความชำรุดบกพร่องของสินค้า/บริการ ในรายการคะแนน KTC เป็นหน้าที่และความรับผิดชอบโดยตรงของผู้จำหน่ายสินค้า/ให้บริการแต่เพียงผู้เดียว ซึ่งสมาชิกสามารถติดต่อกับร้านค้าได้โดยตรง โดยเคทีซี ไม่มีส่วนเกี่ยวข้องกับการจัดจำหน่ายสินค้า/ให้บริการทั้งปวงของร้านค้าที่ร่วมรายการคะแนน KTC แต่อย่างใด"
+                "ยอดใช้จ่ายผ่านบัตรเครดิต KTC VISA/MASTERCARD/JCB/UNIONPAY ทุกประเภท ทุก 25 บาท รับคะแนน 1 คะแนน ยกเว้นยอดใช้จ่ายในรายการตามที่กำหนดไว้ในข้อ 2 โดยทุก 1,000 คะแนน KTC FOREVER แทนมูลค่าเงินสด 100 บาท ทั้งนี้ เว้นแต่จะระบุเป็นอย่างอื่นโดยชัดเจนตามแต่ละโครงการ โปรโมชั่นหรือรายการส่งเสริมการขาย/การตลาดแล้วแต่กรณี",
+                "ยอดใช้จ่ายผ่านบัตรเครดิต KTC ที่ไม่ได้รับคะแนน มีดังนี้<ul style='list-style: none'><li>(1) ยอดใช้จ่ายผ่านบัตรเครดิต KTC CASH BACK, KTC – ศูนย์บริการโลหิตแห่งชาติ สภากาชาติไทย, KTC VISA CORPORATE, KTC – SCG VISA PURCHASING, บัตร KTC เพื่อหน่วยงานรัฐ รวมทั้งบัตรประเภทอื่นใดที่ได้กำหนดยกเว้นโดยชัดแจ้ง</li><li>(2) ยอดใช้จ่ายผ่านบัตรเครดิต KTC MASTERCARD ในหมวดหน่วยงานราชการทุกรายการ ดังนี้<ul><li>MCC 9211 Court Costs & Alimony & Child Support (หมวดค่าใช้จ่ายในศาล)</li><li>MCC 9222 Fines (หมวดค่าปรับ)</li><li>MCC 9311 Tax Payments (หมวดค่าภาษี)</li><li>MCC 9399 Government Services - not elsewhere classified (หมวดค่าบริการของราชการ)</li><li>MCC 9402 Postal Services - Government Only (หมวดค่าบริการไปรษณีย์ของราชการ)</li><li>MCC 9405 Intra-Government Purchases - Government Only (หมวดค่าจัดซื้อภายในราชการ)</li></ul>รวมถึงยอดใช้จ่ายในหมวด MCC ดังนี้<ul><li>MCC 4816 Computer Network/Information Services (หมวดเครือข่ายคอมพิวเตอร์/บริการข้อมูล)</li><li>MCC 4899 Cable, Satellite, and Other Pay Television and Radio Services (หมวดเคเบิ้ลดาวเทียม/ค่าบริการรับชมรายการโทรทัศน์และวิทยุ)</li><li>MCC 5199 Nondurable goods - not elsewhere classified</li><li>MCC 6540 POI Funding Transactions (Excluding MasterCard® MoneySend™)</li><li>MCC 9223 Bail and Bond Payments (หมวดการชำระเงินประกันตัว/กองทุน, พันธบัตร)</li></ul></li><li>(3) ยอดใช้จ่ายบัตรเครดิต KTC VISA/MASTERCARD สำหรับชำระค่าสินค้า/บริการทุกรายการที่ตัวแทนรับชำระทุกช่องทาง เช่น ชำระค่าสมาชิกฟิตเนสผ่านเคาน์เตอร์เซอร์วิส หรือชำระค่าเบี้ยประกันผ่านตัวแทนรับชำระออนไลน์ เป็นต้น</li><li>(4) ยอดใช้จ่ายบัตรเครดิต KTC SENIOR VISA/MASTERCARD สำหรับยอดใช้จ่ายทุกวันพุธที่ได้รับเครดิตเงินคืนจะไม่ได้รับคะแนน</li><li>(5) ยอดใช้จ่ายในรายการเบิกถอนเงินสด ค่าธรรมเนียม รายการชำระค่าสาธารณูปโภค (MCC 4900) ดอกเบี้ย การชำระค่าหน่วยลงทุน และผลิตภัณฑ์ประกันชีวิตควบการลงทุน (UNIT LINK) ทุกประเภท (MCC 6211) รายการเงินคืนที่เกิดจากการ Refund ทุกประเภท รวมทั้ง Tax Refund</li><li>(6) ยอดใช้จ่ายผ่านบัตรเครดิต KTC ทุกประเภท ที่ 7-11 ทุกช่องทางการจำหน่าย ซึ่งรวมถึงการชำระค่าสินค้า/บริการด้วยบัตรเครดิต KTC ผ่านแอปพลิเคชันทรูมันนี่ วอลเล็ท</li><li>(7) ยอดใช้จ่ายผ่านบัตรเครดิต KTC VISA/MASTERCARD/JCB/UNIONPAY ทุกประเภท เป็นสกุลเงินไทย ที่ร้านค้าในต่างประเทศหรือร้านค้าที่จดทะเบียนในต่างประเทศ</li><li>(8) ยอดใช้จ่ายผ่านบัตรเครดิต KTC VISA / MASTER CARD ที่ร้านค้าในทวีปยุโรป (เขตเศรษฐกิจยุโรป EEA) รวม 31 ประเทศ ได้แก่ 1) Austria, 2) Belgium, 3) Bulgaria, 4) Croatia, 5) Czech Republic, 6) Cyprus, 7) Denmark, 8) Estonia, 9) Finland (including Aland Islands), 10) France (including French Guiana, Guadeloupe, Martinique, Reunion, Saint Martin (French Part), and Mayotte), 11) Germany, 12) Greece, 13) Hungary, 14) Ireland, 15) Italy, 16) Latvia, 17) Lithuania, 18) Luxembourg, 19) Malta, 20) Netherlands, 21) Poland, 22) Portugal (including Azores and Madeira), 23) Romania, 24) Slovakia, 25) Slovenia, 26) Spain (including Canary Islands, Ceuta, Melilla), 27) Sweden, 28) United Kingdom (including Gibraltar), 29) Iceland, 30) Liechtenstein, 31) Norway (including Svalbard and Jan Mayen)</li><li>(9) ยอดใช้จ่ายผ่านบัตรเครดิต KTC UNIONPAY ในหมวดหน่วยงานราชการ ชำระค่าสาธารณูปโภคและหมวดการบริโภคต่างๆ ดังนี้<ul><li>MCC 8398 องค์กรการกุศลและบริการสังคม</li><li>MCC 8661 องค์กรศาสนา</li><li>MCC 4899 หมวดเคเบิ้ลดาวเทียม/ค่าบริการรับชมรายการโทรทัศน์และวิทยุ</li><li>MCC 4900 สาธารณูปโภค</li><li>MCC 5411 ร้านขายของชำ, ซุปเปอร์มาร์เก็ต</li><li>MCC 9211 ค่าใช้จ่ายในศาลรวมค่าเลี้ยงดูและการสนับสนุนเด็ก - ห้องกฎหมาย</li><li>MCC 9222 หมวดค่าปรับ</li><li>MCC 9223 หมวดการชำระเงินประกันตัว/กองทุน, พันธบัตร</li><li>MCC 9311 หมวดค่าภาษี</li><li>MCC 9399 หมวดค่าบริการของราชการ</li><li>MCC 9402 หมวดค่าบริการไปรษณีย์ของราชการ</li><li>MCC 9405 หมวดค่าจัดซื้อภายในราชการ</li><li>MCC 1771 คอนกรีตรับเหมางาน</li><li>MCC 5271 นายหน้าขายรถบ้านเคลื่อนที่</li><li>MCC 7013 นายหน้าตัวแทนแสังหาริมทรัพย์</li><li>MCC 5511 ตัวแทนจำหน่ายรถและรถบรรทุก (รถใหม่และมือสอง) บริการ ซ่อม อะไหล่ และลิสซิ่ง</li><li>MCC 5521 ตัวแทนจำหน่ายรถและรถบรรทุก (ใช้แล้ว) บริการ ซ่อม อะไหล่ และลิสซิ่ง</li><li>MCC 5551 ตัวแทนเรือ</li><li>MCC 5561 กิจกรรมค่าย, นันทนาการและจำหน่าย Trailer Utility</li><li>MCC 5571 ร้านค้าและตัวแทนจำหน่ายรถจักรยานยนต์</li><li>MCC 5592 ตัวแทนจำหน่ายมอเตอร์บ้าน</li><li>MCC 5598 ตัวแทนจำหน่ายรถสำหรับเคลื่อนบนหิมะ</li><li>MCC 5599 ตัวแทนจำหน่ายรถยนต์เบ็ดเตล็ด</li><li>MCC 5933 โรงรับจำนำ</li><li>MCC 6012 สถาบันการเงิน</li><li>MCC 4011 รถไฟ</li><li>MCC 4214 ผู้ให้บริการขนส่งและบรรทุก และบริการจัดส่งสินค้าท้องถิ่น</li><li>MCC 4458 ยาสูบ</li><li>MCC 5013 ผู้ผลิตวัสดุยานยนต์และชิ้นส่วน</li><li>MCC 5021 เฟอร์นิเจอร์สำนักงานและพาณิชย์</li><li>MCC 5039 วัสดุก่อสร้าง</li><li>MCC 5044 ภาพถ่าย, สำเนา, อุปกรณ์ฟิล์ม</li><li>MCC 5045 คอมพิวเตอร์อุปกรณ์ต่อพ่วง</li><li>MCC 5046 อุปกรณ์ Commercial</li><li>MCC 5047 แพทย์, ทันตแพทย์, ผู้ผลิตอุปกรณ์</li><li>MCC 5065 โลหะ</li><li>MCC 5072 อุปกรณ์พาณิชย์</li><li>MCC 5074 โรงงาน</li><li>MCC 5075 ร้านผู้รับเหมาวัสดุและบริการ</li><li>MCC 5077 อุปกรณ์วิทยาศาสตร์และการถ่ายภาพ</li><li>MCC 5085 พาณิชย์และผลิตภัณฑ์อุตสาหกรรม</li><li>MCC 5094 เครื่องประดับและของมีค่า</li><li>MCC 5099 วัสดุพาณิชย์</li><li>MCC 5111 กระดาษ</li><li>MCC 5122 ยา</li><li>MCC 5192 ปุ๋ย, การเกษตร</li><li>MCC 5193 สารเคมี</li><li>MCC 5198 เครื่องวัด</li><li>MCC 5200 วัสดุก่อสร้าง</li><li>MCC 5310 คอมพิวเตอร์</li><li>MCC 5399 เบ็ดเตล็ด</li><li>MCC 5451 นม</li><li>MCC 5462 เบเกอรี่</li><li>MCC 5713 หน่วยงานสถานที่</li><li>MCC 5992 น้ำมันและก๊าซ</li><li>MCC 6211 หน่วยงานด้านการลงทุน</li><li>MCC 7012 ร่องรอยของนายหน้า</li></ul></li></ul>"
             ],
             "en": [
-                "Spending with all types of KTC VISA/ MASTERCARD/ JCB/ UNIONPAY gets 1 point from every THB. 25. It excludes all spending mentioned in (2.) of which every 1,000 KTC FOREVER points is equal THB. 100 cash, unless otherwise stated in particular scheme or promotion or marketing, case by case.",
-                "Spending with KTC CREDIT General regulations and conditions<br>CARDS of which cardmembers do not earn/get points are as follows;<br><ul><li>(1) KTC CASH BACK, KTC - THAI RED CROSS NATIONAL BLOOD CENTRE, KTC VISA CORPORATE, KTC GOVERNMENT SERVICES cards</li><li>(2) Spending with KTC MASTERCARD under MCC as follows; <ul><li>MCC 9211 Court Costs & Alimony & Child Support</li><li>MCC 9222 Fines</li><li>MCC 9311 Tax Payments</li><li>MCC 9399 Government Services -not elsewhere classified</li><li>MCC 9402 Postal Services - Government Only</li><li>MCC 9405 Intra-Government Purchases - Government Only</li></ul></li><li>It includes spending under MCC as follows; <ul><li>MCC 4816 Computer Network/Information Services</li><li>MCC 4899 Cable, Satellite, and Other Pay Television and Radio Services</li><li>MCC 5199 Nondurable goods - not elsewhere classified</li><li>MCC 6540 POI Funding Transactions (Excluding MasterCard® MoneySend™)</li><li>MCC 9223 Bail and Bond Payments</li><li>MCC 4900 Utility Bills</li></ul></li><li>(3) Spending with KTC VISA/MASTERCARD on every item of products/services via every channel of payment, ie. fitness membership fee via counter service, or insurance premium via online agent, and etc.</li><li>(4) Spending with KTC SENIOR VISA/MASTERCARD on every Wednesday of which to be calculated for Cash Back.</li><li>(5) Cash withdrawal amount, fee, utilities bills (electricity, water etc.) (MCC 4900), interest, all type of investment unit payment and all type of Unit Linked Insurance Policy payment (MCC 6211), all types of refund, and tax refund.</li><li>(6) Spending with KTC CREDIT CARDS or make a payment for goods/services with KTC CREDIT CARDS via Truemoney Wallet Application at all sales channels of 7-11 in Thailand.</li><li>(7) Overseas spending in Thai Baht currency or at merchant register in foreign countries via KTC credit cards.</li><li>(8) Spending via KTC VISA / MASTERCARD/UNIONPAY credit cards at stores in Europe (The European Economic Area - EEA) including 31 countries: Austria, Belgium, Bulgaria, Croatia, Czech Republic, Cyprus, Denmark, Estonia, Finland (including Aland Islands), France (including French Guiana, Guadeloupe, Martinique, Reunion, Saint Martin (French Part), and Mayotte), Germany, Greece, Hungary, Ireland, Italy, Latvia, Lithuania, Luxembourg, Malta, Netherlands, Poland, Portugal (including Azores and Madeira), Romania, Slovakia, Slovenia, Spain (including Canary Islands, Ceuta, Melilla), Sweden, United Kingdom (including Gibraltar), Iceland, Liechtenstein, Norway (including Svalbard and Jan Mayen)</li><li>(9) Spending with KTC UNIONPAY under MCC as follows; <ul><li>MCC 8398 Charitable and social service organizations</li><li>MCC 8661 Religious organizations</li><li>MCC 4899 Cable and other pay television services</li><li>MCC 4900 Utilities - electric, gas, water, and sanitary</li><li>MCC 5411 Grocery and supermarkets</li><li>MCC 9211 Court Costs & Alimony & Child Support</li><li>MCC 9222 Fines</li><li>MCC 9223 Bail</li><li>MCC 9311 Tax Payments</li><li>MCC 9399 Government Services -not elsewhere classified</li><li>MCC 9402 Postal Services - Government Only</li><li>MCC 9405 Intra-Government Purchases -Government Only</li><li>MCC 1520 General Contractors - Residential and Commercial</li><li>MCC 1771 Concrete Work Contractors</li><li>MCC 5271 Mobile Home Dealers</li><li>MCC 7013 Real Estate Agent-brokers</li><li>MCC 5511 Car and Truck Dealers (New and Used) Sales, Service, Repairs, Parts and Leasing</li><li>MCC 5521 Car and Truck Dealers (Used Only) Sales, Service, Repairs, Parts, and Leasing</li><li>MCC 5551 Boat Dealers</li><li>MCC 5561 Camper, Recreational and Utility Trailer Dealers</li><li>MCC 5571 Motorcycle Shops and Dealers</li><li>MCC 5592 Motor Homes Dealers</li><li>MCC 5598 Snowmobile Dealers</li><li>MCC 5599 Miscellaneous Automotive, Aircraft, and Farm Equipment Dealers</li><li>MCC 5933 Pawn Shops</li><li>MCC 6012 Financial Institutions - Merchandise, Services</li><li>MCC 4011 Railroads</li><li>MCC 4214 Motor Freight Carriers and Trucking - Local and Long Distance, Moving and Storage Companies, and Local Delivery</li><li>MCC 4458 Tobacco logistics</li><li>MCC 5013 Motor Vehicle Supplies and New Parts</li><li>MCC 5021 Office and Commercial Furniture</li><li>MCC 5039 Construction Materials</li><li>MCC 5044 Office, Photographic, Photocopy, Microfilm Equipment</li><li>MCC 5045 Computers, Computer Peripheral</li><li>MCC 5046 Commercial Equipment</li><li>MCC 5047 Dental, Laboratory, Medical, Ophthalmic Hospital Equipment and Supplies</li><li>MCC 5051 Metal Service Centers and Offices</li><li>MCC 5065 Electrical Parts and Equipment</li><li>MCC 5072 Hardware, Equipment and Supplies</li><li>MCC 5074 Plumbing and Heating Equipment and Supplies</li><li>MCC 5111 Stationery, Office Supplies, and Printing and Writing Paper</li><li>MCC 5122 Drugs, Drug Proprietors</li><li>MCC 5131 Piece Goods, Notions, and Other Dry Goods</li><li>MCC 5137 Men’s, Women’s, and Children’s Uniforms and Commercial Clothing</li><li>MCC 5139 Commercial Footwear</li><li>MCC 5172 Petroleum and Petroleum Products</li><li>MCC 5192 Books, Periodicals and Newspapers</li><li>MCC 5193 Florists’ Supplies, Nursery Stock and Flowers</li><li>MCC 5198 Paints, Varnishes and Supplies</li><li>MCC 5398 Corporate wholesale</li><li>MCC 5998 Tent and awning shops</li><li>MCC 6051 Non-Financial Institutions - Foreign Currency, Money Orders (Not wire transfer), Scrip, and travelers’ checks</li><li>MCC 5094 Precious Stones and Metals, Watches and Jewelry</li><li>MCC 9498 Credit card bill payment</li><li>MCC 4121 Taxicabs and Limousines</li><li>MCC 4215 Courier Services</li><li>MCC 4814 Telecommunication Services</li><li>MCC 5399 Miscellaneous General Merchandise</li><li>MCC 5462 Bakeries</li><li>MCC 5499 Miscellaneous Food Shops</li><li>MCC 5814 Fast Food Restaurant</li><li>MCC 7832 Motion Picture Theatres</li><li>MCC 7999 Recreation Services</li><li>MCC 8062 Public Hospitals</li><li>MCC 8211, 8220, 8241, 8244, 8249, 8299 School and Educational Services</li></ul></li><li>(10) Spending with KTC CREDIT CARDS under MCC as follows; <ul><li>MCC 4111 Local and Suburban Commuter Passenger Transportation, Including Ferries</li><li>MCC 4112 Passenger Railways: State Railway of Thailand (SRT) and SRT Electric Train Company (SRTET)</li><li>MCC 4131 Bus Lines: Bangkok Mass Transit Authority (BMTA) and The Transport Co. Ltd.</li><li>MCC 4784 Tolls and Bridge Fees: Expressway Authority of Thailand (EXAT), Department of Highway (DOH), BEM and Don Muang Tollway Public Company, via Easy Pass and M Pass tollway radio-frequency identification (RFID) tags</li></ul></li><li>(11) Spending via KTC VISA / MASTERCARD / UNIONPAY credit cards at stores in People's Republic of China (not include Special Administrative Region ex. Hong Kong, Macao).</li></ul><br>KTC reserves the right not to give cash back credit for the spending via KTC CASH BACK VISA/ MASTERCARD credit card and KTC SENIOR VISA/ MASTERCARD credit card in the category as KTC specify in clause 2 (2) -(11)",
-                "KTC reserve the right to change items of products/services/shops/stores of which participate the scheme, details of KTC points and its value to redeem for and/or to pay for products/services according to appropriate period and conditions, including expiry date of KTC FOREVER points according to conditions defined.",
-                "KTC points will be cancelled or ended with cases as follows;<ul><li>(a) Cardmembers use KTC points to redeem for products/services.</li><li>(b) KTC revoke or cancel the KTC points.</li><li>(c) The membership is ended by cardmembers or KTC.</li><li>(d) Cardmembers use their KTC CREDIT CARDS in their own shop/store, do fraudulent transaction or counterfeit or for commercial trades or against condition stated or with wrong objectives to earn the KTC points, be it some or all.</li><li>(e) Cardmembers default on payment with outstanding balance of 90 days up*</li></ul>",
-                "Cardmembers with active membership of KTC VISA/ MASTERCARD/ JCB/ UNIONPAY and have no default on payment/expense during defined period, have not broken any agreement with KTC, or whose KTC CREDIT CARDS was terminated with any reason at all on the date they request for privilege, are eligible to redeem KTC FOREVER points for and/or to pay for products/services in the KTC points scheme and/or transfer the KTC points between KTC CREDIT CARDS of the same cardmembers or cardmembers with same surname.",
-                "Cardmembers can transfer the KTC points between KTC CREDIT CARDS of the same cardmembers or cardmembers with same surname according to conditions defined, but in the case of cardmembers wish to cancel any KTC CREDIT CARDS of themselves, they have to transfer the KTC points between KTC CREDIT CARDS of the same cardmembers or cardmembers with same surname prior to the cancellation, or else the KTC points in the mentioned credit card account will be automatically terminated once the credit card was cancelled.",
-                "Distribution, service, delivery, installation, maintenance, quality control and guarantee, after-sales service, including responsibility for damage or default of products/services in the KTC points scheme are all under responsibility of the distributors/service providers. Cardmembers can directly contact the shops/stores. KTC is not involved in all mentioned activities with the shops/stores participating the KTC points scheme at all."
+                "Earn a KTC FOREVER point for every transaction made with any KTC VISA/MASTERCARD/JCB/UNIONPAY credit card worth 25 baht with the exception of transactions made as specified under this promotion in point #2 where every 1,000 KTC FOREVER points can be used as substitute for 100 baht cash, unless otherwise clearly stated in each project, promotion or sales/marketing promotion on a case-by-case basis.",
+                "Transactions made with a KTC credit card that will not earn points are as follows:<ul style='list-style: none'><li>(1) Transactions made with KTC CASH BACK, KTC - Thai Red Cross National Blood Center, KTC VISA CORPORATE, KTC - SCG VISA PURCHASING, and KTC GOVERNMENT SERVICES credit cards including other excluded credit cards clearly stated.</li><li>(2) Transactions made with a KTC MASTERCARD credit card under all Government Agencies categories as follows:<ul><li>MCC 9211 Court Costs & Alimony & Child Support</li><li>MCC 9222 Fines</li><li>MCC 9311 Tax Payments</li><li>MCC 9399 Government Services - not elsewhere classified</li><li>MCC 9402 Postal Services - Government Only</li><li>MCC 9405 Intra-Government Purchases - Government Only</li></ul>Including transactions under MCC categories as follows:<ul><li>MCC 4816 Computer Network/Information Services</li><li>MCC 4899 Cable, Satellite, and Other Pay Television and Radio Services</li><li>MCC 5199 Nondurable goods - not elsewhere classified</li><li>MCC 6540 POI Funding Transactions (Excluding MasterCard® MoneySend™)</li><li>MCC 9223 Bail and Bond Payments</li></ul></li><li>(3) All transactions made with a KTC VISA/MASTERCARD credit card for products/services through payment agents such as a payment for a fitness membership via Counter Service or a payment for insurance premium via an online payment agent.</li><li>(4) Transactions made with a KTC SENIOR VISA/MASTERCARD credit card every Wednesday with credit cash back will not earn points.</li><li>(5) Cash withdrawal transactions, fees, utility bill payments (MCC 4900), interest, investment unit payments, all types of life insurance products with investments (UNIT LINK) (MCC 6211), and cash back from all types of refunds, including tax refunds.</li><li>(6) Transactions made with all KTC credit card types at 7-11 via all distribution channels including payments of products/services with a KTC credit card via the TrueMoney Wallet application.</li><li>(7) Transactions made with all KTC VISA/MASTERCARD/JCB/UNIONPAY credit card types in a foreign currency or at merchants registered in foreign countries.</li><li>(8) Transactions made with a KTC VISA/MASTER CARD credit card at merchants in Europe in a total of 31 countries (European Economic Area), including 1) Austria, 2) Belgium, 3) Bulgaria, 4) Croatia, 5) Czech Republic, 6) Cyprus, 7) Denmark, 8) Estonia, 9) Finland (including Aland Islands), 10) France (including French Guiana, Guadeloupe, Martinique, Reunion, Saint Martin (French Part), and Mayotte), 11) Germany, 12) Greece, 13) Hungary, 14) Ireland, 15) Italy, 16) Latvia, 17) Lithuania, 18) Luxembourg, 19) Malta, 20) Netherlands, 21) Poland, 22) Portugal (including Azores and Madeira), 23) Romania, 24) Slovakia, 25) Slovenia, 26) Spain (including Canary Islands, Ceuta, Melilla), 27) Sweden, 28) United Kingdom (including Gibraltar), 29) Iceland, 30) Liechtenstein, and 31) Norway (including Svalbard and Jan Mayen).</li><li>(9) Transactions made with a KTC UNIONPAY credit card under the Government Agencies categories for payments of utility bills and various consumption categories as follows:<ul><li>MCC 8398 Charity and Social Service</li><li>MCC 8661 Religious Organization</li><li>MCC 4899 Cable-satellite Category/Service Fee for TV and Radio Programs</li><li>MCC 4900 Utilities</li><li>MCC 5411 Grocery Store and Supermarket</li><li>MCC 9211 Court Costs Including Alimony and Child Support - Legal Room</li><li>MCC 9222 Fines</li><li>MCC 9223 Bail/Funds and Bonds</li><li>MCC 9311 Taxes</li><li>MCC 9399 Government Service Fees</li><li>MCC 9402 Government Postal Service Charges</li><li>MCC 9405 Government In-house Purchasing Costs</li><li>MCC 1771 Concrete Contractors</li><li>MCC 5271 Mobile Home Car Brokers</li><li>MCC 7013 Real Estate Brokerage Agents</li><li>MCC 5511 Car and Truck Dealers (New and Used Cars) Auto Parts Repair and Leasing</li><li>MCC 5521 Car and Truck Dealers (Used Cars) Auto Parts Repair and Leasing</li><li>MCC 5551 Ship Agent</li><li>MCC 5561 Camp Activities, Recreation and Trailer Utility Distributors</li><li>MCC 5571 Motorcycle Shops and Dealers</li><li>MCC 5592 Motor Home Dealers</li><li>MCC 5598 Snowmobile Dealers</li><li>MCC 5599 Miscellaneous Car Dealers</li><li>MCC 5933 Pawn Shops</li><li>MCC 6012 Financial Institutions</li><li>MCC 4011 Trains</li><li>MCC 4214 Carriers, Loaders and Local Delivery Service</li><li>MCC 4458 Tobacco</li><li>MCC 5013 Automotive Materials and Parts Manufacturers</li><li>MCC 5021 Office and Commercial Furniture</li><li>MCC 5039 Construction Materials</li><li>MCC 5044 Photo, Copy, Film Equipment</li><li>MCC 5045 Computer and Cables</li><li>MCC 5046 Commercial Equipment</li><li>MCC 5047 Doctors, Dentists, Ophthalmologists, and Hospital Equipment and Materials</li><li>MCC 5051 Metal Service Centers</li><li>MCC 5065 Electrical Parts and Accessories</li><li>MCC 5072 Equipment and Materials</li><li>MCC 5074 Plumbing, Heating Equipment and Materials</li><li>MCC 5111 Stationery, Office Materials and Printing Paper</li><li>MCC 5122 Drug Stores</li><li>MCC 5131 Dried Food</li><li>MCC 5137 Ready-made Clothes</li><li>MCC 5139 Ready-made Shoes</li><li>MCC 5172 Petroleum and Petroleum Products</li><li>MCC 5192 Bookstores, Journals, and Newspapers</li><li>MCC 5193 Flower Materials, Cultivation Shops, and Flowers</li><li>MCC 5198 Paint, Varnish, and Material Shops</li><li>MCC 5398 Wholesalers</li><li>MCC 5998 Tent and Awning Shops</li><li>MCC 6051 Other Financial Transactions</li><li>MCC 5094 Jewelry and Metals, Watches and Jewelry</li><li>MCC 9498 Credit Card Payments</li><li>MCC 4121 Public Hire Cars and Limousines</li><li>MCC 4215 Delivery Service</li><li>MCC 4814 Telecommunication Services</li><li>MCC 5399 General Miscellaneous Goods</li><li>MCC 5462 Bakery</li><li>MCC 5499 Miscellaneous Food Shops</li><li>MCC 5814 Fast Food Restaurants</li><li>MCC 7832 Cinemas</li><li>MCC 7999 Other Recreational Services</li><li>MCC 8062 Public Hospitals</li><li>MCC 8211, 8220, 8241, 8244, 8249, 8299 Education Category and Educational Services</li></ul></li></ul>"
             ]
         },
         "note": {
@@ -709,6 +844,1020 @@
         "TermsItems": {
             "th": [],
             "en": []
+        },
+        "note": {
+            "th": [],
+            "en": []
+        }
+    },
+    {
+        "dID": 12,
+        "DialogID": "ASSETUNDERMANAGEMENTPRECIOUS",
+        "DialogTitle": {
+            "th": "สิทธิพิเศษตามเกณฑ์ยอดรวมสินทรัพย์ที่ถือครองกับธนาคาร*",
+            "en": "Exclusive Privileges based on Asset Under Management*"
+        },
+        "descriptionTitle": {
+            "th": "",
+            "en": ""
+        },
+        "description": {
+            "th": [],
+            "en": []
+        },
+        "TableName": "",
+        "TermsTitle": {
+            "th": "",
+            "en": ""
+        },
+        "TermsTabs": [],
+        "listType": "LIST",
+        "TermsItems": {
+            "th": [
+                "<strong>WEALTH MANAGEMENT</strong> บริการที่ปรึกษาด้านการลงทุนส่วนบุคคล",
+                "<strong>PRIORITY SERVICE</strong> บริการธุรกรรมการเงินด่วนพิเศษ",
+                "<strong>BANKING PRIVILEGES</strong> สิทธิประโยชน์ด้านการเงิน รับสิทธิ์ยกเว้นหรือส่วนลดคธรรมเนียมการทำธุรกรรมทางการเงินและค่าบริการต่างๆ",
+                "<strong>THE CORAL EXECUTIVE LOUNGE</strong> บริการห้องรับรองพิเศษในจังหวัดหัวเมืองใหญ่ทั่วประเทศ ที่รองรับทุกการเดินทางภายในประเทศ และระหว่างประเทศ พร้อมบริการอาหารว่างและเครื่องดื่ม ให้คุณได้พักผ่อนก่อนออกเดินทาง",
+                "<strong>KRUNGTHAI WEALTH LOUNGE</strong> บริการห้องรับรองพิเศษเหนือระดับ พร้อมสิ่งอำนวยความสะดวก ตลอดจนมุมรับรองที่เป็นส่วนตัวในการพักผ่อน พร้อมให้บริการของว่างและเครื่องดื่ม",
+                "<strong>KRUNGTHAI BRANCH RESERVED PARKING</strong> บริการสำรองพื้นที่จอดรถ ณ สาขาของธนาคารฯ",
+                "<strong>KRUNGTHAI WEALTH RESERVED PARKING</strong> บริการสำรองพื้นที่จอดรถ ณ ศูนย์การค้าไอคอนสยาม และศูนย์การค้าเซ็นทรัลพลาซ่า 14 แห่งทั่วประเทศ",
+                "<strong>SPA SERVICE</strong> บริการสปา พร้อมดูแลสุขภาพด้วยบริการอย่างมืออาชีพ"
+            ],
+            "en": [
+                "<strong>WEALTH MANAGEMENT</strong> Personal investment advisory service.",
+                "<strong>PRIORITY SERVICE</strong> An express special service for financial transactions.",
+                "<strong>BANKING PRIVILEGES FINANCIA</strong>L BENEFITS: Receive exemptions or discounts on financial transaction fees and service charges.",
+                "<strong>THE CORAL EXECUTIVE LOUNGE</strong>  Service for special lounges in major provinces across the country that supports all domestic and international travel with snacks and beverages for you to enjoy before departure.",
+                "<strong>KRUNGTHAI WEALTH LOUNGE</strong> The service of a superior lounge with facilities as well as a private reception area to relax with complimentary snacks and beverages.",
+                "<strong>KRUNGTHAI BRANCH RESERVED PARKING</strong> Parking space reservation service at Krungthai Bank’s branches.",
+                "<strong>KRUNGTHAI WEALTH RESERVED PARKING</strong> Parking space reservation service at ICONSIAM shopping center, and 14 Central Plaza shopping centers across the country.",
+                "<strong>MONTHLY PRIVILEGES<s/trong> Monthly special privileges that meet every lifestyle.",
+                "<strong>SPA SERVICE</strong> Professional services of SPA for health and wellbeing.",
+                "<strong>MONTHLY PRIVILEGES</strong> Monthly special privileges that meet every lifestyle."
+            ]
+        },
+        "note": {
+            "th": [
+                "*หลักเกณฑ์การเป็นสมาชิก Krungthai Precious+ คือ คงยอดรวมสินทรัพย์ของผลิตภัณฑ์เงินฝาก, หุ้นกู้ ที่ออกโดยธนาคารกรุงไทย จำกัด (มหาชน) และกองทุนรวมกับธนาคารคงเหลือ ณ ปัจจุบัน (ยกเว้นบัญชีเงินฝากออมทรัพย์, บัญชีกระแสรายวันแบบไม่มีวงเงินเบิกเกินบัญชี, กองทุนรวมตลาดเงิน, กองทุนรวม KTPLUS และ KTSTPLUS-A ที่่คำนวณจากค่าเฉลี่ยย้อนหลัง 180 วัน) บวกด้วยยอดรวมของผลิตภัณฑ์ประกันชีวิตที่ชำระในปี ตั้งแต่ 10 ล้านบาท แต่ไม่ถึง 50 ล้านบาท",
+                "<a href=\"https://wealth.krungthai.com/\">ศึกษารายละเอียดเพิ่มเติม คลิก</a>"
+            ],
+            "en": [
+                "*Criteria for membership of Krungthai Precious+ is to maintain the current balance of deposits, debentures issued by Krungthai Bank Public Company Limited and mutual funds with the bank (except for savings accounts, current accounts without an overdraft, money market mutual fund, KTPLUS mutual fund and KTSTPLUS-A calculated from the average in past 180 days) plus the total amount of life insurance products paid within the year at 10 million baht but less than 50 million baht.",
+                "<a href=\"https://wealth.krungthai.com/\">For more information Click here.</a>"
+            ]
+        }
+    },
+    {
+        "dID": 13,
+        "DialogID": "MIRACLELOUNGEPRECIOUS",
+        "DialogTitle": {
+            "th": "สิทธิพิเศษตามเกณฑ์ยอดรวมสินทรัพย์ที่ถือครองกับธนาคาร*",
+            "en": "Exclusive Privileges based on Asset Under Management*"
+        },
+        "descriptionTitle": {
+            "th": "",
+            "en": ""
+        },
+        "description": {
+            "th": [],
+            "en": []
+        },
+        "TableName": "",
+        "TermsTitle": {
+            "th": "",
+            "en": ""
+        },
+        "TermsTabs": [],
+        "listType": "NUMBER",
+        "TermsItems": {
+            "th": [
+                "สงวนสิทธิ์สำหรับสมาชิกบัตรเครดิต KTC - KRUNGTHAI PRECIOUS<sup>+</sup> (เฉพาะบัตรหลักเท่านั้น) ที่มีสถานะบัญชีปกติ และมีการใช้จ่ายอย่างน้อย 1 ครั้งหลังจากเปิดใช้งานบัตร",
+                "สำหรับสมาชิกบัตรฯ ที่เดินทางระหว่างประเทศโดยสายการบินไทยเท่านั้น โดยสามารถใช้สิทธิ์ได้ 2 ครั้งต่อบัตรต่อปี",
+                "แสดงบัตรที่นั่งเที่ยวบินขาออกของสายการบินไทย (Boarding Pass) พร้อมบัตรเครดิต KTC - KRUNGTHAI PRECIOUS<sup>+</sup> ทุกครั้งที่เข้าใช้บริการ (1 บัตรต่อ 1 เที่ยวบินเท่านั้น) กับเจ้าหน้าที่หน้าห้องรับรอง MIRACLE LOUNGE ก่อนเข้าใช้บริการ",
+                "ห้องรับรองพิเศษ MIRACLE LOUNGE ขอสงวนสิทธิ์การใช้บริการไม่เกิน 2 ชั่วโมงต่อครั้ง หากเกินกว่านี้ ต้องเสียค่าใช้บริการเพิ่มเติมตามที่ห้องรับรองฯ กำหนด",
+                "ผู้ถือบัตรฯ สามารถเข้าใช้บริการที่ห้องรับรองพิเศษ MIRACLE LOUNGE อาคารผู้โดยสารขาออกระหว่างประเทศ สนามบินสุวรรณภูมิ ตามเงื่อนไขที่ห้องรับรองกำหนดเท่านั้น โดยสามารถเข้าใช้บริการได้ ดังนี้ <ul class=\"tw-list-disc tw-pl-5\"><li>Concourse A, A1 Block 2, Level 3 First and Business Class Lounge (Shower room, Rest room are available)</li><li>Concourse C, Level 3, First and Business Class Lounge</li><li>Concourse D, Level 3 (Opposite Gate D5/D6) First and Business Class Lounge (Shower room, Rest room are available)</li><li>Concourse F, Level 3, Business Class Lounge</li><li>Concourse G, Level 3, First Class Lounge</li><li>Concourse G, Level 3 (Opposite Gate G2), Business Class Lounge (Shower room, Rest room are available)</li><li>Concourse G, Level 4, First Class Lounge (Shower room, Rest room are available)</li><li>SAT-1 Terminal, First and Business Class Lounge (Shower room, Rest room are available)</li></ul>",
+                "สิทธิเข้าห้องรับรองพิเศษ MIRACLE LOUNGE สามารถใช้บริการได้ภายในระยะเวลา 1 มกราคม 2567 – 31 ธันวาคม 2567"
+            ],
+            "en": [
+                "Lounge access is reserved for KTC - KRUNGTHAI PRECIOUS<sup>+</sup> credit cardholders (primary card only) with normal account status and who have made at least 1 transaction after card activation",
+                "Lounge access is reserved for primary KTC credit cardholders traveling abroad with Thai Airways only and limited to 2 accesses per card per year.",
+                "To enjoy the privilege, present your Thai Airways outbound flight boarding pass along with KTC - KRUNGTHAI PRECIOUS<sup>+</sup> credit card to the staff in front of the MIRACLE LOUNGE before every access  (Limited to 1 card per 1 flight).",
+                "The MIRACLE LOUNGE reserves the right to provide the service for a maximum duration of 2 hours at a time. If this time limit is exceeded, additional service fees must be paid, as determined by the lounge.",
+                "KTC credit cardholders are entitled to use the service at the MIRACLE LOUNGE in the International Departures Building at Suvarnabhumi Airport subject to the conditions stipulated by the lounge. You can access services at all 8 points as follows:<ul class=\"tw-list-disc tw-pl-5\"><li>Concourse A, A1 Block 2, Level 3 First and Business Class Lounge (Shower room, Rest room are available)</li><li>Concourse C, Level 3, First and Business Class Lounge</li><li>Concourse D, Level 3 (Opposite Gate D5/D6) First and Business Class Lounge (Shower room, Rest room are available)</li><li>Concourse F, Level 3, Business Class Lounge</li><li>Concourse G, Level 3, First Class Lounge</li><li>Concourse G, Level 3 (Opposite Gate G2), Business Class Lounge (Shower room, Rest room are available)</li><li>Concourse G, Level 4, First Class Lounge (Shower room, Rest room are available)</li><li>SAT-1 Terminal, First and Business Class Lounge (Shower room, Rest room are available)</li></ul>",
+                "The MIRACLE LOUNGE access privilege can be used from January 1, 2024, to December 31, 2024."
+            ]
+        },
+        "note": {
+            "th": [],
+            "en": []
+        }
+    },
+    {
+        "dID": 14,
+        "DialogID": "KTCFOREVERPOINTX3INFINITE",
+        "DialogTitle": {
+            "th": "เงื่อนไขการรับคะแนน KTC FOREVER สูงสุด x3",
+            "en": "Terms and conditions of up to 3x KTC FOREVER points"
+        },
+        "descriptionTitle": {
+            "th": "",
+            "en": ""
+        },
+        "description": {
+            "th": [],
+            "en": []
+        },
+        "TableName": "",
+        "TermsTitle": {
+            "th": "",
+            "en": ""
+        },
+        "TermsTabs": [],
+        "listType": "NUMBER",
+        "TermsItems": {
+            "th": [
+                "ทุก 25 บาทที่ใช้จ่ายผ่านบัตรเครดิต KTC VISA INFINITE รับ 1 คะแนน KTC FOREVER",
+                "รับคะแนน KTC FOREVER x3 = 1 คะแนนปกติ + 2 คะแนนพิเศษ เมื่อมียอดใช้จ่ายผ่านบัตรฯ ในหมวดที่กำหนด ครบทุก 600,000 บาท โดยคะแนนพิเศษดังกล่าวจะถูกโอนเข้าบัญชีบัตรฯ ของสมาชิก ภายใน 60 วันนับจากวันสุดท้ายของเดือนที่ทำรายการครบ 600,000 บาท",
+                "หมวดรายการใช้จ่ายที่ให้คะแนน KTC FOREVER x3 รายละเอียดดังนี้<ul class=\"tw-list-disc tw-pl-5\"><li>หมวดร้านอาหารในประเทศไทย หมายถึง ร้านค้าที่ระบุใน MCC Code 5462, 5811, 5812, 5813 และ 5814 ในระบบ ของ Visa เท่านั้น</li><li>หมวดช้อปปิ้งในประเทศไทย หมายถึง ร้านค้าที่ระบุใน MCC Code 5094, 5611, 5621, 5631, 5641, 5651, 5655, 5661, 5681, 5691, 5697, 5698, 5699, 5941, 5944, 5948, 5977, 7296, 5111, 5192, 5942, 5943, 5947, 5994, 5310, 5311, 5331, 5964, 5965, 5262 และ 5309 ในระบบของ Visa เท่านั้น</li><li>หมวดท่องเที่ยวในประเทศไทย หมายถึง ร้านค้าที่ระบุใน MCC Code 3000 – 3350, 4511, 3351 - 3441, 7512, 7513, 7519, 7523, 3501 – 3839, 7011, 7996, 7998, 4722, 4723 และ 5962 ในระบบของ Visa เท่านั้น</li><li>หมวดการใช้จ่ายเป็นสกุลเงินต่างประเทศ (ยกเว้น 31 ประเทศในเขตเศรษฐกิจยุโรป และสาธารณรัฐประชาชนจีน)</li></ul>",
+                "ยกเว้นการให้คะแนน KTC FOREVER สำหรับยอดใช้จ่ายผ่านบัตรฯ ที่ร้านค้าในเขตเศรษฐกิจยุโรป 31 ประเทศ สาธารณรัฐประชาชนจีน และหมวดอื่น ๆ ที่กำหนด ดูรายละเอียดเพิ่มเติมที่ <a href=\"http://www.ktc.co.th/rewards\">www.ktc.co.th/rewards</a>",
+                "สิทธิประโยชน์ตามรายการนี้ ไม่สามารถแลกเปลี่ยน หรือทอนเป็นเงินสด หรือโอนสิทธิ์ให้แก่ผู้อื่นได้",
+                "สิทธิประโยชน์ตามรายการนี้ เฉพาะสมาชิกที่มีสถานภาพบัญชีเป็นปกติ จนถึงวันที่เคทีซีทำการมอบสิทธิประโยชน์ โดยยึดข้อมูลของเคทีซีเป็นสำคัญ",
+                "เคทีซีขอสงวนสิทธิ์มอบคะแนน KTC FOREVER ตามรายการนี้ เฉพาะยอดใช้จ่ายที่ซื้อสินค้าเพื่อการบริโภคส่วนบุคคล ไม่รวมถึงรายการซื้อสินค้าเชิงพาณิชย์ เพื่อการค้า เก็งกำไร ทุจริต หรือฉ้อฉล โดยหากตรวจพบเคทีซีขอสงวนสิทธิ์ในการมอบ ยกเลิก เพิกถอน หรือเรียกคืนคะแนน KTC FOREVER ที่มอบให้ ไม่ว่าทั้งหมดหรือบางส่วน รวมทั้งเรียกให้ชดใช้ค่าเสียหายตามแต่ละกรณี",
+                "สงวนสิทธิ์ไม่นำดอกเบี้ย ค่าธรรมเนียมการใช้วงเงิน ค่าปรับ ค่าธรรมเนียมต่างๆ และรายการที่ยกเลิกการซื้อสินค้า/บริการ หรือเงินคืนที่เกิดจากการ Refund ทุกประเภท มาคำนวณเพื่อมอบสิทธิประโยชน์ให้แก่สมาชิกตามรายการนี้",
+                "สิทธิประโยชน์ตั้งแต่วันที่ 1 ม.ค. 67 - 31 ธ.ค. 67"
+            ],
+            "en": [
+                "Earn 1 KTC FOREVER point for every 25 Baht purchase with KTC VISA INFINITE credit card.",
+                "Earn 3x KTC FOREVER points = 1 regular point + 2 special points on every 600,000 Baht purchase with credit card in a specified category. The points will be transferred to your credit card account within 60 days, commencing from the last date of your monthly transactions that accumulated up to 600,000 Baht.",
+                "Expense categories that are eligible for 3x KTC FOREVER points are as following:<ul class=\"tw-list-disc tw-pl-5\"><li>Restaurant category in Thailand refers to a list of restaurants as specified in MCC Code 5462, 5811, 5812, 5813 and 5814 in the Visa system only.</li><li>Shopping category in Thailand refers to shops that are specified in MCC Code 5094, 5611, 5621, 5631, 5641, 5651, 5655, 5661, 5681, 5691, 5697, 5698, 5699, 5941, 5944, 5948, 5977, 7296, 5111, 5192, 5942, 5943, 5947, 5994, 5310, 5311, 5331, 5964, 5965, 5262 and 5309 in the Visa system only.</li><li>Tourism category in Thailand refers to shops that are specified in MCC Code 3000 - 3350, 4511, 3351 - 3441, 7512, 7513, 7519, 7523, 3501 – 3839, 7011, 7996, 7998, 4722, 4723 and 5962 in the Visa system only.</li><li>Foreign currency transactions category (Exclude 31 countries in the European Economic Area and People's Republic of China).</li></ul>",
+                "Exclude granting KTC FOREVER point for any spending from 31 countries in the European Economic Area and People’s Republic of China and other specified categories. For more details, please visit www.ktc.co.th/rewards.",
+                "This privilege cannot be exchanged, changed to cash, or transferred to any other person.",
+                "This privilege is exclusive for cardmember with normal account status until the day on which such privilege is granted to cardmember, based on KTC’s existing record.",
+                "KTC reserves the right that KTC FOREVER point is eligible to only spending for the purchase of goods for personal consumption, and not for business or trading purposes, or earning profits, or frauds in relation to use of his/their KTC credit card. KTC also reserves the right, in its absolute discretion, to cancel, terminate, suspend or revoke partials or KTC FOREVER points and also may claim for damage recovery.",
+                "KTC reserves the right to exclude interest, credit line usage fee, fine, any other fees and charges, cancellation of goods/services purchased or any other refund, from the calculation of privileges offering to cardmembers under this promotion.",
+                "This privilege is valid from 1 Jan 24 – 31 Dec 24."
+            ]
+        },
+        "note": {
+            "th": [],
+            "en": []
+        }
+    },
+    {
+        "dID": 15,
+        "DialogID": "PRIORITYPASS",
+        "DialogTitle": {
+            "th": "เงื่อนไขการใช้ Priority Pass",
+            "en": "Priority Pass Terms & Conditions"
+        },
+        "descriptionTitle": {
+            "th": "เงื่อนไขการใช้",
+            "en": "Terms & Conditions"
+        },
+        "description": {
+            "th": [
+                "สิทธิประโยชน์นี้ สำหรับผู้ถือบัตร Priority Pass และผู้ติดตามที่ร่วมเดินทางด้วยอีก 1 ท่าน/บัตร/ครั้งเท่านั้น<br>ในกรณีที่มีผู้ติดตามเข้าใช้บริการเกินจำนวนที่กำหนด ผู้ถือบัตรจะต้องรับผิดชอบค่าใช้จ่ายเองในอัตราที่ห้องรับรองกำหนดไว้"
+            ],
+            "en": [
+                "This special privilege is for the Priority Pass cardholder and 1 accompanying guest/card/usage.<br>In the event that the number of guests who use the service exceeds the limit, the Priority Pass cardholder is responsible for the fee as per the rates specified by the lounge."
+            ]
+        },
+        "TableName": "",
+        "TermsTitle": {
+            "th": "เงื่อนไขทั่วไป",
+            "en": "General Conditions of Use"
+        },
+        "TermsTabs": [],
+        "listType": "NUMBER",
+        "TermsItems": {
+            "th": [
+                "ในเงื่อนไขการใช้งานฉบับนี้ คำและสำนวนต่อไปนี้จะมีความหมายที่กำหนดไว้ด้านล่าง:<ul class=\"tw-list-disc tw-pl-5\"><li><strong>ลูกค้า</strong> หมายถึง บุคคลใดก็ตามที่เข้าร่วมในโปรแกรม</li><li><strong>บัตรสมาชิกดิจิทัล</strong> หมายถึง บัตร Priority Pass ในรูปแบบดิจิทัล เมื่อเปิดใช้งานจะให้สิทธิ์เข้าถึงห้องรับรองและร้านค้าส่วนใหญ่ในโปรแกรมโดยไม่ต้องใช้บัตร</li><li><strong>ห้องรับรอง</strong> หมายถึง ผู้ให้บริการภายนอกของสนามบิน หรือ ห้องรับรองการเดินทางสำหรับลูกค้าที่เข้าร่วมโปรแกรม</li><li><strong>วิธีการเข้าถึง</strong> หมายถึง บัตร Priority Pass, บัตรสมาชิกดิจิทัล, บัตรชำระเงินที่เข้าร่วม, รหัส QR, บาร์โค้ด หรือรูปแบบการเข้าถึงอื่นๆ ตามรายละเอียดที่ Priority Pass แจ้งเป็นลายลักษณ์อักษรเป็นครั้งคราวตามดุลยพินิจแต่เพียงผู้เดียว</li><li><strong>ร้านค้า</strong> หมายถึง ผู้ให้บริการภายนอกซึ่งรวมถึงแต่ไม่จำกัดเพียง ร้านอาหาร สปาและร้านค้าปลีก สำหรับลูกค้าที่เข้าร่วมในโปรแกรม</li><li><strong>ร้านค้าที่ประมวลผลการชำระเงิน</strong> หมายถึง องค์กรที่รับผิดชอบการประมวลผลการชำระเงินของลูกค้าโดย Priority Pass Limited คือร้านค้าที่ประมวลผลการชำระเงินของการเข้าใช้บริการห้องรับรองในโปรแกรม</li><li><strong>Priority Pass</strong> หมายถึง บริษัท Priority Pass Limited of Cutlers Exchange ที่ตั้ง ถนนเฮานด์สดิตช์ 123 เมืองลอนดอน EC3A 7BU หมายเลขบริษัท 08792537<br>บัตร Priority Pass หมายถึง บัตรสมาชิกแบบปั๊มนูนหรือบัตรสมาชิกดิจิทัลหรือรูปแบบการเข้าถึงอื่นๆ ตามรายละเอียดใน Priority Pass เป็นลายลักษณ์อักษรเป็นครั้งคราวตามดุลยพินิจของตน แต่เพียงผู้เดียว</li><li><strong>โปรแกรม</strong> หมายถึง โปรแกรมสมาชิก Priority Pass ที่จัดทำโดยบริษัท Priority Pass Limited ออกแบบเพื่อให้ลูกค้าสามารถเข้าถึงห้องรับรองและร้านค้าต่างๆ โดยใช้บัตร Priority Pass</li></ul>",
+                "<strong>เงื่อนไขการใช้งาน :</strong> ลูกค้าตกลงและยอมรับเงื่อนไขการใช้งานนี้เมื่อใช้สิทธิพิเศษในโปรแกรม เงื่อนไขการใช้งานเหล่านี้จะมีผลบังคับใช้เหนือกว่าข้อกำหนดและเงื่อนไขอื่นๆ ที่ลูกค้าได้รับจากการซื้อหรือการใช้สิทธิพิเศษในโปรแกรม Priority Pass ขอสงวนสิทธิ์ในการเปลี่ยนแปลงเงื่อนไขการใช้งานนี้ได้ตลอดเวลา ลูกค้ายอมรับว่า Priority Pass อาจทำการแจ้งเตือนผ่านการโพสต์เงื่อนไขการใช้งานบนเว็บไซต์และแอปพลิเคชัน Priority Pass และการใช้สิทธิพิเศษในโปรแกรมของลูกค้าถือเป็นการยอมรับเงื่อนไขการใช้งานฉบับปัจจุบัน โปรดตรวจสอบเงื่อนไขการใช้งานเหล่านี้ก่อนใช้สิทธิพิเศษในโปรแกรม เงื่อนไขการใช้งานมีผลบังคับใช้ในวันที่ 16 ธันวาคม 2563 และจะมีผลกับการใช้สิทธิพิเศษในโปรแกรมนับจากนั้นเป็นต้นไป",
+                "<strong>ข้อกำหนด :</strong> เงื่อนไขการใช้งานนี้กำหนดเงื่อนไขที่เกี่ยวข้องกับโปรแกรมและการเข้าถึงห้องรับรองหรือร้านค้า ห้องรับรองและร้านค้าจะมีข้อกำหนดเฉพาะซึ่งจะระบุไว้ในคำอธิบายของห้องรับรองหรือร้านค้าบนเว็บไซต์หรือแอปฯ ของโปรแกรม เมื่อลูกค้าใช้บริการห้องรับรองหรือร้านค้าถือเป็นการยอมรับข้อกำหนดของห้องรับรองหรือร้านค้า โปรดอ่านข้อกำหนดของห้องรับรองหรือร้านค้าอย่างละเอียดก่อนใช้บริการ",
+                "<strong>ร้านค้าที่ประมวลผลการชำระเงิน :</strong> เมื่อเข้าใช้บริการห้องรับรองและร้านค้าในแต่ละครั้งอาจมีค่าใช้จ่ายที่คิดในอัตราต่อท่าน การเข้าใช้บริการทั้งหมดรวมถึงในกรณีที่มีผู้ติดตามจะมีการเรียกเก็บค่าใช้จ่ายต่อท่านต่อครั้ง (ขึ้นอยู่กับโปรแกรมของสมาชิก) โดย (i) Priority Pass หรือ (ii) ผู้ให้บริการบัตรชำระเงิน จะทำการหักเงินบัตรชำระเงินของลูกค้าตามอัตราและข้อกำหนดที่แจ้งโดย (a) Priority Pass หรือ (b) ผู้ให้บริการบัตรชำระเงินของลูกค้าที่เกี่ยวข้องกับการเป็นสมาชิกโปรแกรม หากลูกค้าเป็นสมาชิกโปรแกรมหลายรายการ ลูกค้าต้องแสดงบัตรหรือรูปแบบการเข้าถึงอื่นๆ ที่ถูกต้องแก่เจ้าหน้าห้องรับรองหรือร้านค้าเพื่อรับสิทธิ์ และสามารถใช้การเป็นสมาชิกโปรแกรมดังกล่าวได้เพียงครั้งเดียวต่อการเข้าใช้บริการ กรณีลูกค้ามีคำถามเกี่ยวกับการชำระเงินกรุณาติดต่อโดยตรงกับ Priority Pass หรือผู้ให้บริการบัตรชำระเงิน ไม่ใช่ห้องรับรองหรือร้านค้า",
+                "<strong>เอกสารประกอบ :</strong> ลูกค้าต้องมีเอกสารดังต่อไปนี้ตามเงื่อนไขอย่างเคร่งครัดเพื่อเข้าใช้ห้องรับรองหรือร้านค้า (i) บัตรหรือรูปแบบการเข้าถึงที่ใช้ได้ (ii) ตั๋วเครื่องบินใช้ได้ และ (iii) เอกสารระบุตัวตนเพิ่มเติมอื่นๆ ที่ห้องรับรองหรือร้านค้าอาจต้องการจากลูกค้าและผู้ติดตาม ซึ่งอาจประกอบด้วย หนังสือเดินทาง บัตรประจำตัวประชาชน หรือ ใบขับขี่ บัตรชำระเงินที่ไม่เข้าร่วม รูปถ่ายของบัตรหรือรูปแบบการเข้าถึงบริการ หรือการแจ้งหมายเลขบัตร Priority Pass / บัตรสมาชิกดิจิทัล / บัตรชำระเงินไม่สามารถใช้แทนบัตร Priority Pass บัตรสมาชิกดิจิทัล หรือ บัตรชำระเงินที่เข้าร่วมได้ ห้องรับรองและร้านค้าบางส่วนในยุโรปตั้งอยู่ภายในพื้นที่เชงเก้นที่กำหนดโดยสนามบิน การเข้าถึงสถานที่ดังกล่าวสามารถทำได้เฉพาะในกรณีที่ลูกค้าเดินทางระหว่างประเทศในกลุ่มเชงเก้นเท่านั้น (http://ec.europa.eu/dgs/home-affairs/what-we-do/policies/borders-and-visas/schengen/index_en.htm)",
+                "<strong>การใช้บริการห้องรับรองหรือร้านค้า :</strong> เมื่อแสดงบัตรหรือรูปแบบการเข้าถึงห้องรับรองหรือร้านค้า เจ้าหน้าที่จะสแกนบัตรหรือรูปแบบการเข้าถึงด้วยระบบอิเล็กทรอนิกส์หรือเก็บข้อมูลในระบบ และอาจออกใบ ‘บันทึกการเข้าใช้บริการ’ ให้กับลูกค้า (ถ้ามี) หรือสร้างรายการบันทึก ในบางกรณีลูกค้าจะต้องลงนามในใบบันทึกการเข้าใช้บริการ หรือยืนยันโดยการลงนามในเครื่องอิเล็กทรอนิกส์ตามที่เกี่ยวข้องเพื่อยืนยันว่าห้องรับรองหรือร้านค้ามีจำนวนผู้เข้าใช้บริการที่แน่นอน (ถ้ามี) เมื่อต้องยืนยันการเข้าใช้งาน แต่ไม่แสดงจำนวนคนต่อค่าใช้จ่ายการเข้าใช้บริการในแต่ละครั้ง การเรียกเก็บค่าใช้จ่ายต่อการเข้าใช้บริการของลูกค้าและสำหรับผู้ติดตามทุกท่าน (ถ้ามี) จะอ้างอิงตามใบ ‘บันทึกการเข้าใช้บริการ’ หรือบันทึกที่ได้รับจากห้องรับรองหรือร้านค้า บันทึกอิเล็กทรอนิกส์ของการเข้าใช้บริการของลูกค้าจะถือเป็นหลักฐานที่ถูกต้องของลูกค้าที่เข้าใช้บริการห้องรับรองหรือร้านค้า ผู้ติดตามต้องลงทะเบียนและเข้าใช้บริการในสถานที่ตั้งของห้องรับรองหรือร้านค้าในเวลาเดียวกับลูกค้า",
+                "<strong>บันทึกการเข้าใช้บริการ :</strong> พนักงานของห้องรับรองหรือร้านค้า (ตามความเหมาะสม) จะเก็บข้อมูลบัตรหรือรูปแบบการเข้าถึงในระบบหรือสร้างรายการบันทึก ลูกค้ามีหน้าที่รับผิดชอบในการตรวจสอบความถูกต้องของบันทึกการใช้บริการ ใบเสร็จรับเงิน หรือ รายการบันทึกการใช้บริการของตนเองและผู้ติดตามทุกท่านเมื่อใช้บริการห้องรับรองหรือร้านค้า ในบางกรณีลูกค้าจะต้องรับผิดชอบในการเก็บรักษาสำเนา ‘บันทึกการใช้บริการ’ ของลูกค้าหรือใบเสร็จรับเงินที่มอบให้กับลูกค้า หากลูกค้าต้องการสำเนาบันทึกการใช้บริการหรือใบเสร็จ ลูกค้าจะต้องดำเนินการขอเอกสารดังกล่าวเมื่อเข้าใช้บริการในสถานที่ตั้งของห้องรับรองหรือร้านค้า เมื่อใช้บริการร่วมกับลูกค้าหลายรายเป็นความรับผิดชอบของลูกค้าแต่ละท่านที่จะต้องตรวจสอบให้แน่ใจว่าไม่มีการเรียกเก็บเงินสำหรับผู้ใช้บริการที่อาจมีโปรแกรมสมาชิกเป็นของตนเอง ทางบริษัทฯ แนะนำให้ลูกค้าแต่ละท่านแสดงบัตรหรือรูปแบบการเข้าถึงถึงแก่พนักงานและลงนามในบันทึกการใช้บริการเป็นรายบุคคล Priority Pass จะไม่รับผิดชอบใดๆ สำหรับการปฏิเสธการเข้าใช้บริการห้องรับรองหรือร้านค้าอันเป็นเหตุจากปัญหาทางเทคนิคเกี่ยวกับอุปกรณ์ลงทะเบียนการใช้บริการ",
+                "<strong>วิธีการเข้าถึง :</strong> ในกรณีที่ใช้บัตรชำระเงินเป็นวิธีการเข้าถึงบริการของโปรแกรมจะไม่มีธุรกรรม ณ จุดขายเกิดขึ้น อาจมีการเรียกเก็บเงินไปยังบัตรหรือรูปแบบการเข้าถึงบริการของลูกค้าในภายหลังตามความเหมาะสม โดยจะเป็นไปตามเงื่อนไขสิทธิประโยชน์ของผู้ให้บริการบัตรชำระเงิน",
+                "<strong>การเข้าถึงผ่านอุปกรณ์อิเล็กทรอนิกส์ :</strong> ในกรณีที่ลูกค้าใช้บัตรสมาชิกดิจิทัลบนสมาร์ทโฟน แท็บเล็ต หรืออุปกรณ์อื่นๆ อาจต้องได้รับการตรวจสอบจากเจ้าหน้าที่ของห้องรับรองหรือร้านค้า รวมถึงอาจมีความจำเป็นในการให้พนักงานใช้อุปกรณ์นั้นๆ Priority Pass จะไม่รับผิดชอบต่อความเสียหายใดๆ ที่เกิดขึ้นกับอุปกรณ์จากการกระทำของเจ้าหน้าที่ห้องรับรองหรือร้านค้า",
+                "<strong>บัตรชำระเงิน :</strong> ห้องรับรองและร้านค้าบางส่วนที่เข้าร่วมในโปรแกรมไม่สามารถรองรับบัตรชำระเงินได้ สำหรับสถานที่ดังกล่าวลูกค้าต้องแสดงบัตร Priority Pass หรือบัตรสมาชิกดิจิทัลเพื่อเข้าใช้บริการ โปรดตรวจสอบเว็บไซต์ของโปรแกรมหรือแอปฯ ก่อนการเดินทางเพื่อยืนยันว่าสถานที่บริการรองรับบัตรชำระเงินหรือไม่ และควรถือบัตร Priority Pass หรือบัตรสมาชิกดิจิทัลไว้ใช้งานเสมอเมื่อเข้าใช้บริการ",
+                "<strong>การจองบริการล่วงหน้า :</strong> ในบางกรณีห้องรับรองอาจเสนอบริการจองล่วงหน้าโดยมีค่าใช้จ่ายเพิ่มเติม บริการดังกล่าวดำเนินการโดยห้องรับรองไม่ใช่บริษัท Priority Pass กรณีลูกค้ามีข้อกังวลและข้อสงสัยใดๆ กรุณาติดต่อโดยตรงกับห้องรับรอง",
+                "<strong>การใช้งานและการหมดอายุ :</strong> บัตรหรือรูปแบบการเข้าถึงบริการไม่สามารถโอนให้บุคคลอื่นได้ ลูกค้าสามารถใช้บัตรหรือรูปแบบการเข้าถึงบริการได้เฉพาะเมื่อลูกค้าลงนามบนบัตร Priority Pass หรือตกลงกับข้อกำหนดและเงื่อนไขของบัตรสมาชิกดิจิทัลจนถึงวันหมดอายุ บุคคลอื่นที่ไม่ใช่ลูกค้าที่มีชื่อระบุไม่สามารถใช้บัตรหรือรูปแบบการเข้าถึงบริการได้ และบัตรหรือรูปแบบการเข้าถึงบริการสามารถใช้ได้เพียงหนึ่งครั้งต่อการเข้าใช้บริการในสถานที่ตั้งของห้องรับรองหรือร้านค้าในแต่ละครั้ง",
+                "<strong>การเรียกเก็บค่าใช้จ่ายจากร้านค้า :</strong> บริษัท Priority Pass จะไม่รับผิดชอบต่อค่าใช้จ่ายใดๆ ที่เกิดขึ้นโดยร้านค้าที่เกี่ยวข้องกับการใช้บริการร้านค้าไม่ว่าจะเรียกเก็บโดยได้รับอนุญาต ไม่ได้รับอนุญาต หรือไม่ถูกต้องก็ตาม",
+                "<strong>เด็ก :</strong> การใช้บริการห้องรับรองสำหรับเด็กเป็นไปตามนโยบายของห้องรับรองแต่ละแห่ง โปรดตรวจสอบรายละเอียดข้อกำหนดของบริการห้องรับรองที่เกี่ยวข้องกับเด็กในลิงก์ Lounge Finder ก่อนใช้บริการห้องรับรอง การเข้าใช้บริการห้องรับรองของเด็กขึ้นอยู่กับดุลยพินิจของห้องรับรองที่เกี่ยวข้อง",
+                "<strong>มาตรฐานการปฏิบัติ :</strong> ลูกค้า ผู้ติดตาม และเด็กต้องประพฤติตัวและแต่งตัวตามข้อกำหนดและเงื่อนไขของห้องรับรองหรือร้านค้าเมื่อเข้าใช้บริการ บุคคลใดที่ไม่ปฏิบัติตามข้อกำหนดและเงื่อนไขดังกล่าวอาจได้รับการเชิญออกจากสถานที่บริการ บริษัทฯ​ Priority Pass จะไม่รับผิดชอบต่อความสูญเสียใดๆ ที่เกิดขึ้นกับลูกค้าหรือผู้ติดตามในกรณีที่ห้องรับรองหรือร้านค้าปฏิเสธการให้บริการอันเป็นเหตุจากการที่ลูกค้าหรือผู้ติดตามไม่ปฏิบัติตามเงื่อนไข บริษัท Priority Pass จะไม่รับผิดชอบต่อความสูญเสียใดๆ ที่เกิดขึ้นกับลูกค้าหรือผู้ติดตามในกรณีที่ห้องรับรองหรือร้านค้าปฏิเสธการเข้าใช้บริการห้องรับรองหรือร้านค้าอันเป็นเหตุจากการที่ลูกค้า หรือผู้ติดตามไม่ได้ปฏิบัติตามข้อกำหนดของโปรแกรม หรือข้อกำหนดและเงื่อนไขของห้องรับรองหรือร้านค้า ลูกค้าสามารถอ่านรายละเอียดเพิ่มเติมที่เว็บไซต์ของห้องรับรองหรือร้านค้า อย่างไรก็ตามโดยทั่วไปห้องรับรองมีข้อกำหนดระเบียบการแต่งกายลำลองสุภาพ และขอสงวนสิทธิ์ในการปฏิเสธไม่ให้เข้าใช้บริการเมื่อลูกค้าหรือผู้ใช้บริการสวมใส่เครื่องแต่งกายที่ไม่เหมาะสม ห้องรับรองไม่อนุญาตให้ลูกค้าหรือผู้ใช้บริการสวมใส่เสื้อผ้าบางชนิด รวมถึงแต่ไม่จำกัดเพียง ชุดกีฬา เสื้อกล้ามสำหรับผู้ชาย เสื้อทีมฟุตบอลหรือรักบี้ ชุดวอร์มกีฬา เสื้อผ้าที่มีสโลแกนหรือลวดลายที่ไม่เหมาะสม หมวกเบสบอล เสื้อทัวร์ ชุดแฟนซี โรลม้วนผม หรือ การใช้โรลม้วนผมบนศีรษะ",
+                "<strong>พนักงานในอุตสาหกรรมการท่องเที่ยว :</strong> บุคคลที่ทำงานในสนามบิน สายการบิน หรือพนักงานในอุตสาหกรรมการท่องเที่ยวอื่นๆ ที่เดินทางโดยใช้ตั๋วลดราคาไม่มีสิทธิ์เข้าใช้บริการโปรแกรม บริษัท Priority Pass มีสิทธิ์ปฏิเสธการสมัครสมาชิกโปรแกรมของบุคคลที่ทำงานหรือมีสัญญากับสายการบินและสนามบิน หรือทำงานให้รัฐบาลด้านความปลอดภัยของสายการบินหรือสนามบิน",
+                "<strong>ค่าใช้จ่ายเครื่องดื่มแอลกอฮอล์ :</strong> การให้บริการเครื่องดื่มแอลกอฮอล์ตามที่กฎหมายท้องถิ่นอนุญาตขึ้นอยู่กับดุลยพินิจของห้องรับรองหรือร้านค้าแต่ละที่ และในบางกรณีอาจมีจำกัดหรือไม่สามารถให้บริการได้ ในกรณีเช่นนี้ลูกค้าต้องรับผิดชอบชำระค่าใช้จ่ายสำหรับการบริโภคเพิ่มเติมหรือค่าเครื่องดื่มแอลกอฮอล์พิเศษโดยชำระโดยตรงกับห้องรับรองหรือร้านค้า (โปรดอ่านรายละเอียดของห้องรับรองหรือร้านค้าแต่ละที่สำหรับข้อมูลเพิ่มเติม)",
+                "<strong>บริการโทรศัพท์และ Wi-Fi :</strong> บริการโทรศัพท์และ Wi-Fi ในแต่ละที่จะให้บริการตามดุลยพินิจของห้องรับรอง โดยทั่วไปบริการโทรศัพท์ฟรีจะจำกัดเฉพาะการโทรในพื้นที่เท่านั้น ค่าใช้จ่ายสำหรับสิ่งอำนวยความสะดวกอื่นๆ ในห้องรับรองขึ้นอยู่กับดุลยพินิจของแต่ละที่ และลูกค้าต้องรับผิดชอบชำระเงินสำหรับบริการเหล่านี้โดยตรงกับห้องรับรอง",
+                "<strong>ประกาศเที่ยวบิน :</strong> ห้องรับรองและร้านค้าไม่มีภาระผูกพันในการประกาศข้อมูลเที่ยวบิน ลูกค้ายอมรับว่าบริษัท Priority Pass จะไม่รับผิดชอบต่อการสูญเสียทั้งทางตรงและทางอ้อมที่เกิดในกรณีที่ลูกค้าและ/หรือผู้ติดตามไม่สามารถขึ้นเครื่องได้ เป็นความรับผิดชอบของลูกค้าในการตรวจสอบข้อกำหนดการเข้าประเทศที่กำลังจะไปเยือนและเตรียมเอกสารการเดินทางที่ถูกต้องสำหรับการเดินทาง",
+                "<strong>การเปลี่ยนแปลงโปรแกรม :</strong> บริษัท Priority Pass มีสิทธิ์แก้ไขค่าใช้จ่ายบริการห้องรับรอง ร้านค้า หรือโปรแกรมได้ตลอดเวลาโดยแจ้งล่วงหน้า 30 วันก่อนการเปลี่ยนแปลง ในกรณีที่ลูกค้าได้รับสิทธิ์เข้าถึงบริการโปรแกรมผ่านผู้ให้บริการบัตรชำระเงินหรือองค์กรอื่นๆ บริษัทฯ จะแจ้งการเปลี่ยนแปลงใดๆ ของค่าใช้จ่ายบริการห้องรับรองหรือร้านค้าไปยังผู้ให้บริการบัตรชำระเงินหรือองค์กรอื่นๆ ซึ่งมีหน้าที่ให้คำปรึกษาแก่ลูกค้า ในกรณีที่ลูกค้าไม่ยอมรับการเปลี่ยนแปลงค่าใช้จ่ายบริการห้องรับรอง ร้านค้า หรือโปรแกรม ลูกค้ามีสิทธิ์ยุติการเป็นสมาชิกโปรแกรมโดยแจ้งเป็นลายลักษณ์อักษร 30 วันโดยตรงไปที่บริษัท Priority Pass ผู้ให้บริการบัตรชำระเงิน หรือองค์กรที่จะรับผิดชอบในการแจ้งบริษัท Priority Pass และรับผิดชอบต่อค่าใช้จ่ายใดๆ ที่ลูกค้าจะได้รับอันเป็นผลมาจากการไม่ได้แจ้งบริษัท Priority Pass เกี่ยวกับการยุติดังกล่าว"
+            ],
+            "en": [
+                "In these Conditions of Use, the following words and expressions shall have the meanings set out against them below:<ul class=\"tw-list-disc tw-pl-5\"><li><strong>Customer</strong> means any person who participates in the Program.</li> <li><strong>Digital Membership Card</strong> means the digital version of the Priority Pass Card which upon activation provides card-free access to the majority of Lounges and Merchants in the Program.</li> <li><strong>Lounge/s</strong> means a third party provider of airport or travel lounges which are available to Customers participating in the Program.</li> <li><strong>Means of Access</strong> means Priority Pass Card, Digital Membership Card, eligible payment card, QR code, barcode or any such other form of access as detailed by Priority Pass in writing from time to time at its sole discretion.</li> <li><strong>Merchant</strong> means a third party provider of services, including but not limited to dining, spa, and retail, which are available to Customers participating in the Program.</li> <li><strong>Merchant of Record</strong> means the organisation responsible for processing Customers payments. Priority Pass Limited is the Merchant of Record for Lounge access through the Program.</li> <li><strong>Priority Pass</strong> means Priority Pass Limited of Cutlers Exchange, 123 Houndsditch, London, EC3A 7BU, Company No. 08792537.</li> <li><strong>Priority Pass Card</strong> means the embossed membership card or Digital Membership Card or any such other form of access as detailed by Priority Pass in writing from time to time at its sole discretion.</li> <li><strong>Program</strong> means the Priority Pass membership program provided by Priority Pass Limited designed to enable Customer access to Lounge and Merchant locations using a Priority Pass Card.</li></ul>",
+                "<strong>Conditions of Use:</strong> Customer agrees that by using Program Customer agrees to and accepts these Conditions of Use. These Conditions of Use will prevail over any other terms and conditions provided to Customer in relation to purchase, or use of, Program. Priority Pass reserves the right at all times to make any changes to these Conditions of Use. Customer agrees that Priority Pass may provide notification by posting the Conditions of Use on the Priority Pass website and app, and that Customer use of Program constitutes agreement to the current Conditions of Use. Customers are advised to review these Conditions of Use prior to use of Program. Conditions of Use are effective as of the 16 December 2020 and will apply to use of Program from that point forward.",
+                "<strong>Terms:</strong> These Conditions of Use set out the terms relating to Program and use of Lounge or Merchant. Each Lounge and Merchant will have its own specific terms which will be outlined in the Lounge or Merchant description on Program website or app. By using the Lounge or Merchant Customer is accepting the Lounge or Merchant terms. Please read the Lounge or Merchant terms carefully before using the Lounge or Merchant.",
+                "<strong>Merchant of Record:</strong> Lounge and Merchant visits are subject to a per person, per visit, charge. Where applicable (dependent upon Program membership plan), all such visits, including those by accompanying guests, will be debited to Customer's payment card by (i) Priority Pass or (ii) the payment card provider as per the rates and terms notified by (a) Priority Pass or (b) Customer’s payment card provider in respect of their Program membership. If Customer has multiple Program memberships, Customer is responsible for presenting the correct Means of Access to the Lounge or Merchant staff for admittance and may only use one such Program membership per visit. Any payment queries should be addressed with Priority Pass or the payment card provider and not the individual Lounge or Merchant.",
+                "<strong>Documentation:</strong> Admittance to a Lounge or Merchant is strictly conditional upon Customers possessing (i) a valid Means of Access, (ii) a valid boarding pass and (iii) any additional identification that the Lounge or Merchant may require from Customers and their guests, which may include passport, national identity card or driving license. Ineligible payment cards, photograph of Means of Access or provision of card number of Priority Pass Card/Digital Membership Card/payment card will not be accepted as substitutes for the Priority Pass Card, Digital Membership Card or eligible payment card. Some Lounges and Merchants in Europe are located within designated Schengen areas of the airport which means that access is only provided to these locations if Customers are traveling between Schengen countries.",
+                "<strong>Use of Lounge or Merchant:</strong> When presenting the Means of Access on entering the Lounge or Merchant, staff will either electronically scan or take an imprint of the Means of Access and may issue a ‘Record of Visit’ voucher to the Customer, where applicable, or make a log entry. If requested, Customer must sign the Record of Visit voucher or confirm by signing the electronic reader, as applicable, that the Lounge or Merchant has reflected the exact number of guests, if any, when confirming access but does not show any per person per visit charge. The charge per visit for Customer, where relevant, and that for any guests will be based on the ‘Record of Visit’ voucher/log submitted by the Lounge or Merchant. The electronic record of Customer’s visit will be considered valid evidence of Customer accessing the Lounge or Merchant. Guests must register and enter the Lounge or Merchant location at the same time as Customer.",
+                "<strong>Record of Visit:</strong> Lounge or Merchant staff will, where appropriate, make a voucher imprint/log entry of the Means of Access and Customer is responsible for ensuring Record of Visit voucher/receipt/the log correctly reflects their own usage and that of any guests at the time of using the Lounge or Merchant. Where applicable, Customer is responsible for retaining Customer's copy of the 'Record of Visit' voucher or receipt presented to them. If a Customer requires a copy of the voucher/receipt Customer must make the request at the time of entering the Lounge or Merchant location. When entering with multiple Customers, it is each Customer’s responsibility to ensure they are not charged for guests who may hold their own Program membership. It is advised that each Customer show the staff their Means of Access and sign their Record of Visit separately. Priority Pass will not be liable whatsoever for refusal of access by Lounge or Merchant due to technical issues with visit registration equipment.",
+                "<strong>Means of Access:</strong> Where a payment card is used as the Means of Access for Program, no point of sale transaction takes place. A charge may be made later to Customer’s Means of Access, if applicable and according to the terms of the benefit offered by a payment card provider.",
+                "<strong>Access via Electronic Device:</strong> Use of the Digital Membership Card on Customer’s smartphone, tablet or other device may require inspection by Lounge or Merchant’s staff, including the need for the member of staff to handle the device. Priority Pass accepts no liability for any damage caused to the device by Lounge or Merchant’s staff.",
+                "<strong>Payment Card:</strong> Not all Lounges and Merchants in Program are able to accept a payment card and for these locations Customer must present the Priority Pass Card or Digital Membership Card to gain access. Prior to travelling Customers are advised to check Program website or app to confirm whether a given location accepts the payment card and should always have a Priority Pass Card or Digital Membership Card available when visiting.",
+                "<strong>Pre-Booking:</strong> Where applicable, Lounges may offer a pre-booking service at an additional charge, which is not managed by Priority Pass but by the Lounge. Any concerns and queries should be addressed to the Lounge directly.",
+                "<strong>Use and Expiry:</strong> Means of Access is non-transferable and Customers may only use the Means of Access upon signature by Customer on Priority Pass Card or agreement with Digital Membership Card terms and conditions and up to and including the expiry date. Means of Access may not be used by any person other than the named Customer and only one Means of Access may be used for each visit to a Lounge or Merchant location.",
+                "<strong>Merchant Charges:</strong> Priority Pass is not responsible for any charges made by the Merchant in relation to any Merchant visit, whether authorised, unauthorised or incorrect.",
+                "<strong>Children:</strong> Applicability of Lounge access for children varies according to each specific Lounge’s policies. Customer is advised to check the Lounge description provided within the Lounge Finder link for specific child-related provisions prior to using the Lounge access. Inclusion of children with regard to eligibility for the Lounge is at the discretion of the Lounge involved.",
+                "<strong>Behavioural Standards:</strong> Use of Lounge and Merchant location is subject to Customers, guests and children behaving and dressing in accordance with the Lounge or Merchant’s terms and conditions, and any person not complying with such terms and conditions may be asked to vacate the facilities. Priority Pass is not liable for any loss suffered by Customer or any guests where a Lounge or Merchant has refused service because Customer or guests have not complied with these conditions. Priority Pass is not liable for any loss suffered by Customer or any guests where a Lounge or Merchant has refused admission or Lounge or Merchant use because Customer or any guests has not complied with the terms of this Program or the Lounge or Merchant’s terms and conditions. Customers are advised to refer to Lounge or Merchant’s website for more details; however, in general, Lounges have a smart-casual dress code and reserve the right to refuse entry based on non-suitable attire. Lounges do not allow certain items of clothing including but not limited to; sportswear, vest tops for men, football/rugby team shirts, sports tracksuits, clothing with offensive slogans or motifs, baseball caps, tour shirts, fancy dress, hair rollers or having hair rollers on show.",
+                "<strong>Travel Industry Employees:</strong> Persons working at airport locations, airline or other travel industry employees traveling on reduced-rate tickets are not eligible for access to Program and Priority Pass has the right to refuse Program membership to people who are employed or contracted to an airline, airport or a Government in respect of airline or airport security.",
+                "<strong>Consumption Charges:</strong> The provision of alcoholic drinks, where local law permits is at the discretion of each Lounge or Merchant and in some cases may be limited or unavailable. In such cases Customer is responsible for paying any charges for additional consumption or for premium alcoholic drinks directly to Lounge or Merchant (see individual Lounge or Merchant descriptions for details).",
+                "<strong>Telephone and Wi-Fi:</strong> Telephone and Wi-Fi availability vary in each Lounge and are provided at the Lounge's discretion. Free usage of telephone facilities is normally limited to local calls only. Charges for any other Lounge facilities are at the discretion of each Lounge and Customer is responsible for paying these direct to the Lounge.",
+                "<strong>Flight Announcements:</strong> Lounge and Merchants have no obligation to announce flight information and Customer accepts that Priority Pass will not be held liable for any direct or indirect loss resulting out of any Customer and/or guests failing to board their flight. It is Customer’s responsibility to check the relevant entry requirements for any country being visited and to have the correct travel documentation for the journey.",
+                "<strong>Changes to Program:</strong> Priority Pass may amend the Lounge or Merchant charges or Program at any time on providing 30 days’ notice in advance of such change. Where Customer receives Program through a payment card provider or other organisation any changes in Lounge or Merchant charges will be notified to the payment card provider or other organisation, who is responsible for advising Customer. In the event that a Customer does not accept a change in the Lounge or Merchant charges or Program, Customer will have the right to terminate their Program membership by providing 30 days’ notice in writing directly to Priority Pass, or to the payment card provider or organisation who will be responsible for informing Priority Pass and liable for any costs Customer incurs as a result of its failure to inform Priority Pass of such termination."
+            ]
+        },
+        "note": {
+            "th": [],
+            "en": []
+        }
+    },
+    {
+        "dID": 15,
+        "DialogID": "BUFFETFOR2",
+        "DialogTitle": {
+            "th": "เงื่อนไขการรับสิทธิพิเศษ",
+            "en": "Privilege Terms & Conditions"
+        },
+        "descriptionTitle": {
+            "th": "เงื่อนไขการใช้",
+            "en": "Terms & Conditions"
+        },
+        "description": {
+            "th": [
+                "<strong>สิทธิพิเศษ 1.</strong>",
+                "อภินันทนาการบุฟเฟต์ หรือเซ็ตเมนู สำหรับ 2 ท่าน",
+                "<strong>สิทธิพิเศษ 2.</strong>",
+                "บุฟเฟต์ หรือเซ็ตเมนู สำหรับ 2 ท่าน ราคาพิเศษ 1,500 บาท<br><br>",
+                "ระยะเวลา",
+                "1 ม.ค. 67 – 31 ธ.ค. 67"
+            ],
+            "en": [
+                "This special privilege is for the Priority Pass cardholder and 1 accompanying guest/card/usage.<br>In the event that the number of guests who use the service exceeds the limit, the Priority Pass cardholder is responsible for the fee as per the rates specified by the lounge."
+            ]
+        },
+        "TableName": "",
+        "TermsTitle": {
+            "th": "ข้อกำหนดและเงื่อนไขการรับสิทธิพิเศษ",
+            "en": "Privilege Terms & Conditions"
+        },
+        "TermsTabs": [
+            "BUFFETFOR2",
+            "SETMENUOUTLET"
+        ],
+        "listType": "NUMBER",
+        "TermsItems": {
+            "th": [
+                "สิทธิพิเศษมีผลตั้งแต่วันที่ 1 มกราคม ถึง 31 ธันวาคม 2567",
+                "สิทธิพิเศษสำหรับผู้ถือบัตรวีซ่า อินฟินิท ที่ออกโดยธนาคารในประเทศไทยเท่านั้น (ยกเว้นบัตรเครดิตเพื่อธุรกิจ หรือบัตรเครดิตนิติบุคคลทุกประเภท)",
+                "สงวนสิทธิ์สำหรับผู้ถือบัตรวีซ่า อินฟินิท ที่เป็นบัตรหลักเท่านั้น",
+                "ผู้ถือบัตรจะต้องมียอดใช้จ่ายผ่านบัตรวีซ่า อินฟินิท รวม 300,000 บาทขึ้นไป (ภายใต้บัตรหมายเลขเดียวกัน) ณ วันที่ทำรายการสำรองการใช้สิทธิ์ ยอดใช้จ่ายที่นำมาคำนวณย้อนหลังได้ไม่เกิน 60 วันจนถึงวันที่ทำรายการสำรองสิทธิ์",
+                "สงวนสิทธิ์ในการรับสิทธิพิเศษ 1 ครั้ง ต่อ 1 หมายเลขบัตร สำหรับการใช้สิทธิพิเศษ 1 “อภินันทนาการ” หรือ สิทธิพิเศษ 2 “ราคาพิเศษ” อย่างใดอย่างหนึ่งตลอดระยะเวลารายการ (รวมการใช้สิทธิ์จากทุกห้องอาหารที่ร่วมรายการ)",
+                "ผู้ถือบัตรสามารถเลือกใช้สิทธิ์สำหรับบุฟเฟต์ หรือเซ็ตเมนู อย่างใดอย่างหนึ่ง จากโรงแรมที่ให้บริการนั้นๆ",
+                "ผู้ถือบัตรจะต้องทำการสำรองการใช้สิทธิ์ผ่านทางเว็ปไซต์ www.vthgservice.com เท่านั้น",
+                "สำรองการใช้สิทธิ์ล่วงหน้าอย่างน้อย 7 วัน (ไม่รวมวันหยุดนักขัตฤกษ์)",
+                "ในกรณีที่มีการขอเอกสารเพิ่มเติมเพื่อตรวจสอบสิทธิ์ตามเงื่อนไขที่กำหนด ผู้ถือบัตรจะต้องนำส่งเอกสารภายใน3 วันนับจากวันที่ได้รับแจ้ง มิฉะนั้น บริษัทฯ ขอสงวนสิทธิ์ในการยกเลิกการสำรองสิทธิ์ครั้งนั้น และผู้ถือบัตรจะต้องทำรายการสำรองสิทธิ์ใหม่ โดยนับตามลำดับก่อน/หลัง",
+                "ผู้ถือบัตรจะได้รับอีเมล์ยืนยันการรับสิทธิ์ภายใน 3 วันทำการนับจากวันที่ทำรายการสำรองสิทธิ์ ทั้งนี้ขึ้นอยู่กับการตรวจสอบสิทธิ์ตามเงื่อนไขจากธนาคารผู้ออกบัตร และจำนวนที่ว่าง",
+                "กรณีการใช้สิทธิ์ “ราคาพิเศษ” ผู้ถือบัตรจะได้รับอีเมล์ยืนยันการรับสิทธิ์ และรายละเอียดการชำระเงินภายใน 3 วันทำการนับจากวันที่ทำรายการสำรองสิทธิ์ และผู้ถือบัตรจะต้องชำระค่าใช้จ่ายให้เสร็จสิ้นตามกำหนด  ** หากผู้ถือบัตรมิได้ชำระค่าใช้จ่ายให้เสร็จสิ้นตามที่กำหนด บริษัทฯ ขอสงวนสิทธิ์ในการยกเลิกการสำรองสิทธิ์ครั้งนั้น และผู้ถือบัตรจะต้องทำรายการสำรองสิทธิ์ใหม่ โดยนับตามลำดับก่อน/หลัง",
+                "สิทธิพิเศษ 1 “อภินันทนาการ” จำนวนจำกัด 100 สิทธิ์ต่อเดือนขึ้นอยู่กับลำดับก่อน/หลัง",
+                "สิทธิพิเศษ 2 “ราคาพิเศษ 1,500 บาท” จำนวนจำกัด 100 สิทธิ์ต่อเดือนขึ้นอยู่กับลำดับก่อน/หลัง",
+                "การยกเลิกหรือเปลี่ยนแปลงการสำรองสิทธิ์ จะต้องแจ้งล่วงหน้า 1 วัน ก่อนวันที่เข้ารับบริการ ที่หมายเลข 02-906-3026กรณีที่ผู้ถือบัตร ไม่เข้าใช้บริการตามวัน/เวลาที่ได้สำรองสิทธิ์ไว้ ถือว่าผู้ถือบัตรได้มีการใช้สิทธิ์นั้นไปแล้ว",
+                "กรุณาแจ้งชื่อพร้อมแสดงบัตรวีซ่าอินฟินิท บัตรประชาชน แก่พนักงานเพื่อรับสิทธิพิเศษตามที่ได้สำรองไว้",
+                "สิทธิพิเศษนี้ สงวนไว้สำหรับผู้ถือบัตรในการเข้ารับบริการด้วยตนเอง และให้บริการเฉพาะภายในสถานที่ที่กำหนดเท่านั้น",
+                "ผู้ถือบัตรสามารถพาแขกเข้าใช้บริการพร้อมผู้ถือบัตรได้ โดยถือบัตรหรือแขกของผู้ถือบัตรจะต้องชำระค่าบริการตามราคาปกติของโรงแรม หรือร้านค้าที่ร่วมรายการ รวมถึงค่าใช้จ่ายเพิ่มเติมที่นอกเหนือจากที่ระบุไว้",
+                "กรุณาแต่งกายสุภาพในการเข้าใช้บริการทุกครั้ง โรงแรมฯขอสงวนสิทธิ์ในการไม่อนุญาตให้เข้าใช้บริการสำหรับผู้ที่ใส่เสื้อกล้าม กางเกงขาสั้น ชุดออกกำลังกาย รองเท้าสำหรับใส่ในบ้าน และรองเท้าแตะ",
+                "สอบถามข้อมูลเพิ่มเติม หรือติดตามการสำรองสิทธิ์ (ในกรณีที่ไม่ได้รับอีเมล์ตอบกลับ) ที่โทร 02 906 3026 วันจันทร์-ศุกร์ เวลา 9.00 – 17.00 น. หรือ อีเมล์ vthgservices@vathanagul.com ",
+                "รายละเอียดที่ระบุไว้ในสื่อประชาสัมพันธ์อาจมีการเปลี่ยนแปลง กรุณาตรวจสอบรายละเอียดเงื่อนไขก่อนการสำรองสิทธิ์ หรือการใช้สิทธิ์ทุกครั้ง",
+                "วีซ่า อินเตอร์เนชั่นแนล (ประเทศไทย) ขอสงวนสิทธิ์ในการยกเลิก เปลี่ยนแปลง หรือเพิ่มเติมรายละเอียดเงื่อนไข โดยมิต้องแจ้งให้ทราบล่วงหน้า",
+                "วีซ่า อินเตอร์เนชั่นแนล (ประเทศไทย) ไม่มีส่วนเกี่ยวข้องหรือรับผิดชอบใด ๆ กับบริการของร้านค้าที่ร่วมรายการกรณีที่มีข้อสงสัยหรือข้อร้องเรียนเกี่ยวกับบริการของร้านค้า ผู้ถือบัตรจะต้องดำเนินการโดยตรงกับร้านค้า",
+                "เมื่อผู้ถือบัตรทำการสำรองสิทธิ์ และใช้สิทธิ์ในรายการแล้ว ถือว่าผู้ถือบัตรได้อ่าน ทำความเข้าใจ และยอมรับรายละเอียดเงื่อนไขตามที่กำหนด วีซ่าฯ จะไม่รับการร้องเรียนใดๆ ที่เกิดขึ้นในภายหลัง"
+            ],
+            "en": [
+                "Privilege is valid from 1 January to 31 December 2024.",
+                "Privileges are applicable for Visa Infinite Cards issued in Thailand only. (except Corporate, Commercial and SME Business card)",
+                "Privileges are valid for the main cardholder only.",
+                "A minimum of THB 300,000 accumulated spending by Visa Infinite card is required (payment on the same card number) at the date of privilege booking. The eligible spending transactions can be combined 60 days prior to the date of booking.",
+                "Privileges can be utilized only once a year per card number, either “Complimentary” or “Special Price” privilege from all participating merchants in the Dining Privilege category",
+                "Cardholder can select either the buffet or the set menu from the hotel which providing that service",
+                "Privilege booking is available via www.vthgservice.com",
+                "Reservations are required at least 7 days in advance (except on Public Holidays)",
+                "In case any supporting documents are requested from the cardholder for verification, the cardholder has to submit within 3 days otherwise, Visa reserves the right to cancel the booking and the cardholder will have to make a new booking on a first come first served basis.",
+                "Cardholder will get an email confirmation for the privilege booking within 3 working days after the booking is made, subject to verification and available seating.",
+                "For “Special Price” privilege, cardholder will get an email confirmation for the privilege booking and details for payment within 3 working days after the booking is made. Cardholder must make a payment within 3 days, otherwise Visa reserves the right to cancel the booking and cardholder will have to make a new booking on a first come first served basis.",
+                "Privilege 1 “Complimentary” is limited to the first 100 persons per month, on a first come first served basis.",
+                "Privilege 2 “Special Price” is limited to the first 100 persons per month, on a first come first served basis.",
+                "Cancellation or booking changes must be done at least 1 day before the intended day at Tel. 02-906-3026. In case of no show, one-time redemption is applied.",
+                "Please present your Visa Infinite card and ID card on arrival to get the privileges at the merchant outlet.",
+                "The privileges will be available for the cardholder at the designated location only.",
+                "Cardholder may bring along their guests for each visit. Any other consumption of food or beverages beyond the complimentary set as well as the use of facilities and services are chargeable at published rates.",
+                "A smart casual dress code is required. No singlet, shorts, fitness attire, room slippers, sandals and flip-flops",
+                "For more information, please contact to Tel. 02 906 3026 on Monday – Friday from 9.00 a.m. to 17.00 p.m. or Email to vthgservices@vathanagul.com",
+                "Information contained in this guide is subject to changes, please carefully check before use.",
+                "Visa reserve the right to amend, delete or add to any terms and conditions, and/or to cancel, terminate the privileges without prior notice.",
+                "Visa shall not be responsible or liable in any manner whatsoever for any deficiency or inadequacy of services under the Visa Premium Card Privileges Program, and eligible cardholders shall look solely to the relevant participating merchants in the case of any queries or complaints for any services. No representation or warranty of any nature is made by Visa as to the quality of any services provided by any merchant",
+                "By utilizing or attempting to utilize the Visa Premium Card Privileges Program, all eligible cardholders are deemed to have read, understood, and irrevocably accepted and agreed to the terms and conditions set out herein."
+            ]
+        },
+        "note": {
+            "th": [],
+            "en": []
+        }
+    },
+    {
+        "dID": 15,
+        "DialogID": "GREENFEEINFINIT",
+        "DialogTitle": {
+            "th": "เงื่อนไขการรับสิทธิพิเศษ",
+            "en": "Privilege Terms & Conditions"
+        },
+        "descriptionTitle": {
+            "th": "",
+            "en": ""
+        },
+        "description": {
+            "th": [
+                "สิทธิพิเศษ   อภินันทนาการค่ากรีนฟี<br>",
+                "ระยะเวลา",
+                "1 ม.ค. 67 – 31 ธ.ค. 67"
+            ],
+            "en": [
+                "Complimentary green fee privilege<br>",
+                "Period",
+                "1 Jan 24 – 31 Dec 24"
+            ]
+        },
+        "TableName": "GREENFEEINFINIT",
+        "TermsTitle": {
+            "th": "ข้อกำหนดและเงื่อนไขการรับสิทธิพิเศษ",
+            "en": "Privilege Terms & Conditions"
+        },
+        "TermsTabs": [],
+        "listType": "NUMBER",
+        "TermsItems": {
+            "th": [
+                "สิทธิพิเศษมีผลตั้งแต่วันที่ 1 มกราคม ถึง 31 ธันวาคม 2567",
+                "สิทธิพิเศษสำหรับผู้ถือบัตรวีซ่า อินฟินิท ที่ออกโดยธนาคารในประเทศไทยเท่านั้น (ยกเว้นบัตรเครดิตเพื่อธุรกิจ หรือบัตรเครดิตนิติบุคคลทุกประเภท)",
+                "สงวนสิทธิ์สำหรับผู้ถือบัตรวีซ่า อินฟินิท ที่เป็นบัตรหลักเท่านั้น",
+                "สามารถใช้สิทธิ์ได้ 1 ครั้ง ต่อ 1 หมายเลขบัตร ต่อเดือน (รวมการใช้สิทธิ์จากทุกสนามที่เข้าร่วมรายการ)",
+                "สิทธิพิเศษมีจำนวนจำกัด 30 สิทธิ์ต่อเดือนขึ้นอยู่กับลำดับก่อน/หลัง",
+                "ผู้ถือบัตรวีซ่า อินฟินิท จะต้องพาเพื่อนสมาชิกร่วมออกรอบ และต้องมีจำนวนนักกอล์ฟอย่างน้อย 3 ท่านต่อกลุ่ม และไม่เกิน 4 ท่านต่อกลุ่ม",
+                "จำกัดการใช้สิทธิ์โดยผู้ถือบัตรวีซ่าอินฟินิท ไม่เกิน 2 ท่านต่อ 1 กลุ่มเท่านั้น",
+                "สิทธิพิเศษเฉพาะค่ากรีนฟี ค่าใช้จ่ายอื่นๆ นอกเหนือจากนี้ผู้ถือบัตรวีซ่าอินฟินิท จะต้องเป็นผู้รับผิดชอบค่าใช้จ่ายด้วยตัวเอง",
+                "สำหรับเพื่อนสมาชิกของผู้ถือบัตรวีซ่าอินฟินิท จะต้องชำระค่ากรีนฟี รถกอล์ฟ แคดดี้ ตามเงื่อนไขของสนามกอล์ฟ ถึงแม้ว่าเพื่อนสมาชิกในกลุ่มจะเป็นผู้ถือบัตรวีซ่า อินฟินิทก็ตาม",
+                "สำรองเวลาในการออกรอบล่วงหน้า 4 วันทำการ ที่หมายเลข 02 919 8423 ทุกวันจันทร์ – ศุกร์ เวลา 9.00–17.00 น. ทั้งนี้การสำรองเวลานัดหมายขึ้นอยู่กับเวลาที่ว่าง",
+                "สงวนสิทธิ์ในการรับสำรองเวลาออกรอบ เฉพาะผู้ที่ไม่มีการสำรองค้างอยู่ (ถ้ามี) ผู้ถือบัตรวีซ่า อินฟินิทจะทำการสำรองเวลาในการออกรอบครั้งใหม่ได้ ต่อเมื่อได้ใช้สิทธิ์การสำรองครั้งก่อนเสร็จสิ้นแล้ว",
+                "ผู้ถือบัตรวีซ่า อินฟินิท ที่ทำการสำรองการออกรอบไว้แล้ว ไม่สามารถโอนการใช้สิทธิ์ไปให้ผู้อื่นได้",
+                "สิทธิพิเศษนี้เป็นการสนับสนุนจากวีซ่าเพื่อมอบให้กับผู้ถือบัตรวีซ่า อินฟินิท มิใช่เป็นสิทธิพิเศษจากทางสนามกอล์ฟ",
+                "ผู้ถือบัตรวีซ่า อินฟินิทไม่มีสิทธิ์ในการเข้าใช้บริการ โดยมิได้มีการสำรองการออกรอบล่วงหน้าผ่านช่องทางที่กำหนดไว้ในสื่อประชาสัมพันธ์",
+                "สนามกอล์ฟสงวนสิทธิ์ที่จะไม่ให้บริการ หรือตอบข้อสงสัยใดๆ เกี่ยวกับสิทธิพิเศษจากวีซ่า รวมถึงการติดต่อสำรองการออกรอบโดยตรงกับทางสนามกอล์ฟ",
+                "การอนุมัติ ยกเลิกหรือการเปลี่ยนแปลงการออกรอบนั้น ขึ้นอยู่กับการพิจารณาตามความเหมาะสมของสนามกอล์ฟ",
+                "ผู้ถือบัตรวีซ่า อินฟินิท ที่ต้องการเปลี่ยนแปลงเวลาหรือยกเลิกการออกรอบ จะต้องแจ้งล่วงหน้าอย่างน้อย 2 วันทำการ มิเช่นนั้น ทางสนามกอล์ฟจะคิดค่าธรรมเนียม สำหรับการยกเลิกการออกรอบ",
+                "กรณีที่ฝนตก ทำให้ไม่สามารถเล่นกอล์ฟต่อได้ ทางสนามกอล์ฟไม่มีนโยบายคืนค่าใช้จ่าย ยกเว้นอัลไพน์กอล์ฟจะคืนค่าใช้จ่ายให้ตามเงื่อนไขที่กำหนด ทั้งนี้ ขึ้นอยู่กับดุลพินิจของทางสนามกอล์ฟ",
+                "สิทธิพิเศษนี้ไม่สามารถใช้สำหรับการออกรอบในเวลากลางคืนได้",
+                "สิทธิพิเศษนี้ในการเข้าใช้บริการสนามกอล์ฟ เป็นไปตามเงื่อนไขที่วีซ่า และสนามกอล์ฟกำหนดไว้ให้กับผู้ถือบัตรวีซ่า อินฟินิทเท่านั้น ไม่สามารถใช้เพื่อการสันทนาการเฉพาะกลุ่ม หรือกิจกรรมอื่นๆ ได้",
+                "สิทธิพิเศษนี้ ไม่เกี่ยวข้องกับการเป็นสมาชิกของสนามกอล์ฟแต่อย่างใด และไม่สามารถใช้ร่วมกับรายการส่งเสริมการขายหรือกิจกรรมสันทนาการอื่นๆ หรือรายการแข่งขันเฉพาะกลุ่มได้",
+                "รายละเอียดที่ระบุไว้ในสื่อประชาสัมพันธ์อาจมีการเปลี่ยนแปลง กรุณาตรวจสอบรายละเอียดเงื่อนไขก่อนการสำรองสิทธิ์ หรือการใช้สิทธิ์ทุกครั้ง",
+                "วีซ่า อินเตอร์เนชั่นแนล (ประเทศไทย) ขอสงวนสิทธิ์ในการยกเลิก เปลี่ยนแปลง หรือเพิ่มเติมรายละเอียดเงื่อนไขโดยมิต้องแจ้งให้ทราบล่วงหน้า",
+                "วีซ่า อินเตอร์เนชั่นแนล (ประเทศไทย) ไม่มีส่วนเกี่ยวข้องหรือรับผิดชอบใด ๆ กับบริการของสนามกอล์ฟที่ร่วมรายการ กรณีที่มีข้อสงสัยหรือข้อร้องเรียนเกี่ยวกับบริการของสนามกอล์ฟ ผู้ถือบัตรจะต้องดำเนินการโดยตรงกับสนามกอล์ฟ",
+                "เมื่อผู้ถือบัตรทำการสำรองสิทธิ์ หรือใช้สิทธิ์ในรายการแล้ว ถือว่าผู้ถือบัตรได้อ่าน ทำความเข้าใจ และยอมรับรายละเอียดเงื่อนไขตามที่กำหนด วีซ่าฯ จะไม่รับการร้องเรียนใดๆ ที่เกิดขึ้นในภายหลัง"
+            ],
+            "en": [
+                "Privilege is valid from 1 January to 31 December 2024.",
+                "Privileges are applicable to Visa Infinite Cards issued in Thailand only. (except Corporate, Commercial and SME Business card).",
+                "Privileges are valid for the main cardholder only and can be utilized once a month per cardholder from all participating golf courses in the Golf Privilege category.",
+                "Privilege is limited to the first 30 persons per month, on a first come first served basis.",
+                "Visa Infinite cardholders must accompany any guest(s). There is limit of a maximum 4 balls per flight and a minimum of 3 balls per flight.",
+                "The use of privilege is limited to a maximum of two Infinite cardholders per flight only.",
+                "Privileges are inclusive of green fees only. Cost of caddy, golf cart are to be borne by the Visa Infinite cardholder.",
+                "His / Her guests have to pay for their green fee, golf cart, and caddie at affiliate rates at the club even if his / her guests are Visa Infinite cardholders.",
+                "Reservations are required at least 4 working days in advance of the intended date of play through Tel. 02 919 8423 on Monday – Friday from 9.00 – 17.00 hrs. and subject to availability.",
+                "Cardholders are not allowed to book the next golf game until the current game has been played.",
+                "Booking cannot be transferred to other person.",
+                "Privileges are subsidized by Visa and not a direct offer from the golf clubs.",
+                "Visa Infinite cardholders will not be granted access rights to the clubs without prior bookings through the relevant booking channel notified in the communication to the Visa Infinite cardholders.",
+                "Golf clubs will not entertain any correspondence/enquires and/or attempts for bookings from Visa Infinite cardholders when they contact the golf clubs directly.",
+                "Any changes and cancellation must be made 2 working days prior to intended tee-off date/time and subject to availability, otherwise the cancellation and amendment fees will be applied.",
+                "There will be rain checks at Alpine Golf Club, but there is no rain check policy at other golf courses.",
+                "Privilege is not applicable to night golf game.",
+                "Privilege is not to be regarded as a golf club membership.",
+                "Privileges are not valid for use in conjunction with other promotions, membership discounts or offers, and cannot be used with other promotion, participation in social games or golf tournament.",
+                "Visa and Golf course reserves the right to change the stipulated club with another club of the same repute.",
+                "The information contained in this guide is subject to changes, please carefully check before use.",
+                "Visa reserves the right to amend, delete or add to any terms and conditions, and/or to cancel, terminate the privileges without prior notice.",
+                "Visa shall not be responsible or liable in any manner whatsoever for any deficiency or inadequacy of services under the Visa Premium Card Privileges Program, and eligible cardholders shall look solely to the relevant participating merchants in the case of any queries or complaints for any services. No representation or warranty of any nature is made by Visa as to the quality of any services provided by any merchant.",
+                "By utilizing or attempting to utilize the Visa Premium Card Privileges Program, all eligible cardholders are deemed to have read, understood and irrevocably accepted and agreed to the terms and conditions set out herein."
+            ]
+        },
+        "note": {
+            "th": [],
+            "en": []
+        }
+    },
+    {
+        "dID": 15,
+        "DialogID": "ENTERTAINMENTINFINITE",
+        "DialogTitle": {
+            "th": "เงื่อนไขการใช้สิทธิพิเศษสำหรับ<br>บัตรชมภาพยนตร์, บริการสปา และ Streaming Platform",
+            "en": "Privilege Terms & Conditions for <br>Movie Tickets, Spa Treatment, and Streaming Platforms"
+        },
+        "descriptionTitle": {
+            "th": "",
+            "en": ""
+        },
+        "description": {
+            "th": [],
+            "en": []
+        },
+        "TableName": "",
+        "TermsTitle": {
+            "th": "",
+            "en": ""
+        },
+        "TermsTabs": [
+            "MOVIETICKETINFINITES",
+            "SPAINFINITE",
+            "STREANINGPLATFORMINFINITE"
+        ],
+        "listType": "",
+        "TermsItems": {
+            "th": [],
+            "en": []
+        },
+        "note": {
+            "th": [],
+            "en": []
+        }
+    },
+    {
+        "dID": 7,
+        "DialogID": "KTCPERSONALASSISTANT55555",
+        "DialogTitle": {
+            "th": "บริการผู้ช่วยส่วนตัว (KTC PERSONAL ASSISTANT)",
+            "en": "KTC PERSONAL ASSISTANT"
+        },
+        "descriptionTitle": {
+            "th": "",
+            "en": ""
+        },
+        "description": {
+            "th": [
+                ""
+            ],
+            "en": [
+                ""
+            ]
+        },
+        "TableName": "",
+        "TermsTitle": {
+            "th": "บริการให้ข้อมูลและคำแนะนำ",
+            "en": "Providing advice and information/assistance on"
+        },
+        "TermsTabs": [],
+        "listType": "NUMBER",
+        "TermsItems": {
+            "th": [
+                "ในการจองตั๋วเครื่องบิน โต๊ะอาหาร บริการจัดส่งของขวัญ และดอกไม้",
+                "ในการแจ้งเตือนล่วงหน้าในโอกาสพิเศษต่าง ๆ",
+                "ในการบริการดูแลเรื่องบ้าน",
+                "การช่วยเหลือฉุกเฉินทางการแพทย์"
+            ],
+            "en": [
+                "Air-ticket, restaurant reservations and gift & flower delivery.",
+                "Special event notification.",
+                "Home maintenance service.",
+                "Medical emergency service."
+            ]
+        },
+        "note": {
+            "th": [
+                "บริการข้างต้นเป็นการให้ข้อมูล คำแนะนำ และประสานงานส่วนบุคคลเท่านั้น การบริการนี้ไม่รวมถึงการบริการเพื่อการพาณิชย์หรือ<br>สิ่งผิดกฎหมาย ค่าใช้จ่ายใดๆ ที่เกิดขึ้นสำหรับสินค้าหรือบริการดังกล่าว สมาชิกบัตรฯ ต้องเป็นผู้รับผิดชอบเอง<br>สมาชิกบัตรฯ สามารถติดต่อเจ้าหน้าที่ได้ทุกวัน ตลอด 24 ชั่วโมง <br>ที่ KTC PERSONAL ASSISTANT 02 123 5555 กด 1",
+                "ดูรายละเอียดเพิ่มเติมอื่นๆ ที่ <a href=\"https://www.ktc.co.th/personal-assistant\">www.ktc.co.th/personal-assistant</a>"
+            ],
+            "en": [
+                "The above services are intended for providing information, recommendation and coordination for personal use only, and not intended for commercial or illegal purposes. The cardmembers shall be held responsible for the expenses incurred from such services. <br>KTC PERSONAL ASSISTANT is available 24 hours every day at 02 123 5555 Press 1.",
+                "For more information, please visit <a href=\"https://www.ktc.co.th/personal-assistant\">www.ktc.co.th/personal-assistant</a>"
+            ]
+        }
+    },
+    {
+        "dID": 10,
+        "DialogID": "CASHWITHDRAWAL400000",
+        "DialogTitle": {
+            "th": "เบิกถอนเงินสดได้ 100%",
+            "en": "100% CASH WITHDRAWAL"
+        },
+        "descriptionTitle": {
+            "th": "",
+            "en": ""
+        },
+        "description": {
+            "th": [
+                "เบิกถอนเงินสดด้วยบัตรเครดิตได้เต็มวงเงินของยอดคงเหลือในขณะนั้น หรือสูงสุดไม่เกิน 400,000 บาท / วัน ผ่านเครื่อง ATM และสูงสุดไม่เกิน 500,000 บาท/วัน ผ่านแอป KTC Mobile"
+            ],
+            "en": [
+                "Cash withdrawal with the amount not exceeding the current outstanding balance or maximum of 400,000 THB/day via ATM and 500,000 THB/day via KTC Mobile app."
+            ]
+        },
+        "TableName": "",
+        "TermsTitle": {
+            "th": "",
+            "en": ""
+        },
+        "TermsTabs": [],
+        "listType": "NUMBER",
+        "TermsItems": {
+            "th": [],
+            "en": []
+        },
+        "note": {
+            "th": [
+                "หมายเหตุ จำนวนเงินที่เบิกถอนในแต่ละครั้งหรือต่อวันขึ้นอยู่กับเงื่อนไขและข้อจำกัดของเครื่อง ATM แต่ละธนาคาร"
+            ],
+            "en": [
+                "Note: The amount of cash withdrawal per time or per day is subject to available credit limit conditions/limitations of each Bank’s ATM."
+            ]
+        }
+    },
+    {
+        "dID": 10,
+        "DialogID": "FICOCORPORATION",
+        "DialogTitle": {
+            "th": "One World Many Destination - HOTEL",
+            "en": "One World Many Destination - HOTEL"
+        },
+        "descriptionTitle": {
+            "th": "",
+            "en": ""
+        },
+        "description": {
+            "th": [
+                "<strong>Special privileges at</strong>",
+                "Novotel Bangkok Ploenchit Sukhumvit",
+                "Novotel Fenix Silom",
+                "Pullman Bangkok Grande Sukhumvit",
+                "Novotel Suite Sukhumvit 39<br><br>",
+                "<strong>» ส่วนลด 10%</strong> ห้องพักในราคา best unrestricted rate สำหรับการจองผ่านโรงแรมโดยตรงเท่านั้น",
+                "<strong>» สิทธิพิเศษ early check-in</strong> เวลาเที่ยง และ ขยายเวลา check-out ได้ถึงเวลา 14.00 น.(กรณีมีห้องว่าง)",
+                "<strong>» รับฟรี เครื่องดื่มต้อนรับ</strong> (Welcome Drink)",
+                "<strong>» ส่วนลด 10%</strong> อาหารและเครื่องดื่ม ไม่รวมเครื่องดื่มแอลกอฮอล์ ณ ห้องอาหารภายในโรงแรม ยกเว้น Room Service",
+                "<strong>» รับฟรีเค้กวันเกิด</strong> สำหรับสมาชิกบัตรที่เกิดในเดือนนั้นๆ เมื่อรับประทานอาหารที่ห้องอาหารภายในโรงแรม (กรุณาสำรองที่นั่งล่วงหน้า) ยกเว้นที่โรงเเรม Novotel Suite Sukhumvit 39 ไม่ร่วมรายการ<br><br>",
+                "<strong>Special privileges at</strong>",
+                "Hotel Muse",
+                "Holiday Inn Bangkok Sukhumvit 22<br><br>",
+                "<strong>» ส่วนลด 10%</strong> ห้องพักในราคา best unrestricted rate ที่ Hotel Muse สำหรับการจองผ่านโรงแรมโดยตรงเท่านั้น",
+                "<strong>» ส่วนลด 15%</strong> ห้องพักในราคา best flexible rate Holiday Inn Bangkok Sukhumvit 22 สำหรับการจองผ่านโรงแรมโดยตรงเท่านั้น",
+                "<strong>» สิทธิพิเศษ</strong> early check-in<strong> และ late check-out (กรณีมีห้องว่าง)",
+                "<strong>» สิทธิพิเศษ</strong> VIP Status, VIP Amenities, VIP Welcome Drink ตลอดระยะเวลาเข้าพัก",
+                "<strong>» ส่วนลด 10%</strong> อาหารและเครื่องดื่ม ไม่รวมเครื่องดื่มแอลกอฮอล์ ณ ห้องอาหารภายในโรงแรม ยกเว้น Room Service ที่ Hotel Muse",
+                "<strong>» ส่วนลด 15%</strong> อาหารและเครื่องดื่ม ไม่รวมเครื่องดื่มแอลกอฮอล์ ณ ห้องอาหารภายในโรงแรม ยกเว้น Room Service ที่ Holiday Inn Sukumvit 22 (Zeta Café and Maya)",
+                "<strong>» รับฟรีเค้กวันเกิด</strong> สำหรับสมาชิกบัตรที่เกิดในเดือนนั้นๆ เมื่อรับประทานอาหารที่ห้องอาหารภายในโรงแรม (กรุณาสำรองที่นั่งล่วงหน้า)",
+                "<strong>» ส่วนลด 10%</strong> ห้องจัดเลี้ยง/จัดเลี้ยงนอกสถานที่/สัมมนา ที่โรงแรม Hotel Muse (มีกำหนดค่าใช้จ่ายขั้นต่ำ และกรุณาแจ้งทางโรงแรมล่วงหน้า)<br><br>",
+                "<strong>Special privileges at</strong>",
+                "Metropole Bangkok, Thonglor<br><br>",
+                "<strong>» ส่วนลด 15%</strong> ห้องพักในราคา best available rate สำหรับการจองผ่านเว็ปไซต์โรงแรมโดยตรงเท่านั้น",
+                "<strong>» สิทธิพิเศษ</strong> early check-in 12:00 น. และ late check-out 14:00 น. (กรณีมีห้องว่าง)",
+                "<strong>» รับฟรีเค้กวันเกิด</strong> สำหรับสมาชิกบัตรที่เกิดในเดือนนั้นๆ เมื่อรับประทานอาหารที่ห้องอาหารภายในโรงแรม (กรุณาสำรองที่นั่งล่วงหน้า)<br><br>",
+                "<strong>เงื่อนไข</strong>",
+                "• กรุณาสำรองห้องพักล่วงหน้าทางเว็บไซต์โรงเเรมเท่านั้น <a href=\"http://www.metropolebangkok.com/\" target=\"_blank\">http://www.metropolebangkok.com/</a>",
+                "• เพื่อรับสิทธิพิเศษนี้ กรุณาใส่รหัส Promotion Code “KTCFICO” ในช่อง Voucher |Promo Code",
+                "• ลูกค้าต้องชำระเงินผ่านบัตรเครดิต KTC – FICO VISA INFINITE เท่านั้น",
+                "• เงื่อนไขเป็นไปตามที่ทางโรงเเรมฯกำหนด",
+                "* สอบถามข้อมูลเพื่มเติม โทร. +66 (0) 2 314 8555 | E-mail:<a href=\"mailto:reservations@metropolebangkok.com\">reservations@metropolebangkok.com</a>*<br><br>",
+                "<strong>Special privileges at</strong>",
+                "Kyochon Thailand",
+                "Kyochon Thailand",
+                "<strong>» ส่วนลด 10%</strong> ค่าอาหาร เฉพาะรับประทานที่ร้านหรือซื้อกลับเท่านั้น",
+                "» สามารถใช้ส่วนลดนี้ที่ร้านเคียวโชน ทุกสาขาในประเทศไทย<br><br>",
+                "<strong>Special privileges at<strong>",
+                "Maggie Choo",
+                "NEST Rooftop",
+                "CHOW Café & Bar",
+                "<strong>» ส่วนลด 15 %</strong> เฉพาะรับประทานที่ร้านเท่านั้น",
+                "<strong>» ฟรี </strong>แชมเปญ G.M. Mumm Cordon Rouge 1 ขวด เมื่อใช้จ่ายตั้งแต่ 10,000 บาท/เซลส์สลิปขึ้นไปในเดือนเกิด (รับสิทธิ์ 1 ครั้ง/ท่าน และกรุณาสำรองที่นั่งล่วงหน้า)",
+                "** สิทธิพิเศษข้างต้นให้สำหรับลูกค้าที่มารับประทานอาหาร",
+                "และเครื่องดื่ม (ไม่รวมเครื่องดื่มแอลกอฮอล์) ภายในร้านอาหารเเละบาร์ ที่เข้าร่วมรายการเท่านั้น<br><br>",
+                "- เงื่อนไขเป็นไปตามที่บริษัทฯกำหนด**"
+            ],
+            "en": [
+                "Special privileges at",
+                "Novotel Bangkok Ploenchit Sukhumvit",
+                "Novotel Fenix Silom",
+                "Pullman Bangkok Grande Sukhumvit",
+                "Novotel Suite Sukhumvit 39<br><br>",
+                "» 10% discount off best unrestricted rate via hotel direct bookings only",
+                "» Early check-in at 12:00 p.m. and late check-out until 14.00 p.m. (subject to availability)",
+                "» Free (Welcome Drink)",
+                "» 10% discount on food and beverages excluding alcoholic beverages at restaurants within the hotel and Room Service.",
+                "» Free birthday cake and welcome drink for cardmembers who dine at restaurants within the hotel during their birth month (advance reservation required) excluding Novotel Suite Sukhumvit 39<br><br>",
+                "Special privileges at",
+                "Hotel Muse",
+                "Holiday Inn Bangkok Sukhumvit 22",
+                "» 10% discount off best unrestricted rate at Hotel Muse via hotel direct bookings only",
+                "» 15% discount off best flexible rate at Holiday Inn Bangkok Sukhumvit 22 via hotel direct bookings only",
+                "» Special Early check-in and late check-out (subject to availability)",
+                "» Special VIP Status, VIP Amenities, and VIP welcome drink will be provided throughout stay",
+                "» 10% discount on food and beverages excluding alcoholic beverages at restaurants within the hotel and Room Service at Hotel Muse",
+                "» 15% discount on food and beverages excluding alcoholic beverages at restaurants within the hotel and Room Service at Holiday Inn Sukhumvit 22 (Zeta Café and Maya)",
+                "» Free birthday cake and welcome drink for cardmembers who dine at restaurants within the hotel during their birth month (advance reservation required) excluding Novotel Suite Sukhumvit 39",
+                "» 10% off on banquet rooms/outside catering events/seminars at Hotel Muse (minimum spend and advance reservation required)<br><br>",
+                "Special privileges at",
+                "Metropole Bangkok, Thonglor",
+                "» 15% discount off best available rate via hotel direct bookings only",
+                "» Special Early check-in at 12:00 p.m. and late check-out until 14.00 p.m. (subject to availability)",
+                "» Free birthday cake and welcome drink for cardmembers who dine at restaurants within the hotel during their birth month (advance reservation required)<br><br>",
+                "Terms & Conditions",
+                "Please make an advance reservation via the hotel website only <a href='http://www.metropolebangkok.com/'>http://www.metropolebangkok.com/</a>",
+                "To receive this privilege, please enter the promotion code “KTCFICO” in the Voucher |Promo Code box",
+                "Cardmembers must pay with a KTC – FICO VISA INFINITE credit card only",
+                "Terms and conditions are as specified by the hotel",
+                "* For more information, contact Tel. +66 (0) 2 314 8555 | E-mail: <a href='mailto:reservations@metropolebangkok.com'>reservations@metropolebangkok.com</a>*<br><br>",
+                "Special privileges at",
+                "Kyochon Thailand",
+                "» 10% discount on food for dine-in or take-out only",
+                "» Discount available at all Kyochon branches in Thailand<br><br>",
+                "Special privileges at",
+                "Maggie Choo",
+                "NEST Rooftop",
+                "CHOW Café & Bar",
+                "» 15% discount on food for dine-in only",
+                "» Free bottle of G.M. Mumm Cordon Rouge champagne upon a minimum spend of 10,000 baht or more/transaction during birth month (1 redemption/member and advance reservation required)<br><br>",
+                "** The above privileges are for customers who dine-in food and beverages (excluding alcoholic beverages) in participating restaurants and bars only.",
+                "Terms and conditions are as specified.**"
+            ]
+        },
+        "TableName": "",
+        "TermsTitle": {
+            "th": "",
+            "en": ""
+        },
+        "TermsTabs": [],
+        "listType": "NUMBER",
+        "TermsItems": {
+            "th": [],
+            "en": []
+        },
+        "note": {
+            "th": [],
+            "en": []
+        }
+    },
+    {
+        "dID": 14,
+        "DialogID": "KTCFOREVERPOINTX3INFINITEPRECIOUS",
+        "DialogTitle": {
+            "th": "เงื่อนไขการรับคะแนน KTC FOREVER สูงสุด x3",
+            "en": "Terms and conditions of up to 3x KTC FOREVER points"
+        },
+        "descriptionTitle": {
+            "th": "",
+            "en": ""
+        },
+        "description": {
+            "th": [],
+            "en": []
+        },
+        "TableName": "",
+        "TermsTitle": {
+            "th": "",
+            "en": ""
+        },
+        "TermsTabs": [],
+        "listType": "NUMBER",
+        "TermsItems": {
+            "th": [
+                "ทุก 25 บาทที่ใช้จ่ายผ่านบัตรเครดิต KTC – KTB PRECIOUS PLUS VISA INFINITE รับ 1 คะแนน KTC FOREVER",
+                "รับคะแนน KTC FOREVER x3 = 1 คะแนนปกติ + 2 คะแนนพิเศษ เมื่อมียอดใช้จ่ายผ่านบัตรฯ ในหมวดที่กำหนด ครบทุก 600,000 บาท โดยคะแนนพิเศษดังกล่าวจะถูกโอนเข้าบัญชีบัตรฯ ของสมาชิก ภายใน 60 วันนับจากวันสุดท้ายของเดือนที่ทำรายการครบ 600,000 บาท",
+                "หมวดรายการใช้จ่ายที่ให้คะแนน KTC FOREVER x3 รายละเอียดดังนี้<ul class=\"tw-list-disc tw-pl-5\"><li>หมวดร้านอาหารในประเทศไทย หมายถึง ร้านค้าที่ระบุใน MCC Code 5462, 5811, 5812, 5813 และ 5814 ในระบบ ของ Visa เท่านั้น</li><li>หมวดช้อปปิ้งในประเทศไทย หมายถึง ร้านค้าที่ระบุใน MCC Code 5094, 5611, 5621, 5631, 5641, 5651, 5655, 5661, 5681, 5691, 5697, 5698, 5699, 5941, 5944, 5948, 5977, 7296, 5111, 5192, 5942, 5943, 5947, 5994, 5310, 5311, 5331, 5964, 5965, 5262 และ 5309 ในระบบของ Visa เท่านั้น</li><li>หมวดท่องเที่ยวในประเทศไทย หมายถึง ร้านค้าที่ระบุใน MCC Code 3000 – 3350, 4511, 3351 - 3441, 7512, 7513, 7519, 7523, 3501 – 3839, 7011, 7996, 7998, 4722, 4723 และ 5962 ในระบบของ Visa เท่านั้น</li><li>หมวดการใช้จ่ายเป็นสกุลเงินต่างประเทศ (ยกเว้น 31 ประเทศในเขตเศรษฐกิจยุโรป และสาธารณรัฐประชาชนจีน)</li></ul>",
+                "ยกเว้นการให้คะแนน KTC FOREVER สำหรับยอดใช้จ่ายผ่านบัตรฯ ที่ร้านค้าในเขตเศรษฐกิจยุโรป 31 ประเทศ สาธารณรัฐประชาชนจีน และหมวดอื่น ๆ ที่กำหนด ดูรายละเอียดเพิ่มเติมที่ <a href=\"http://www.ktc.co.th/rewards\">www.ktc.co.th/rewards</a>",
+                "สิทธิประโยชน์ตามรายการนี้ ไม่สามารถแลกเปลี่ยน หรือทอนเป็นเงินสด หรือโอนสิทธิ์ให้แก่ผู้อื่นได้",
+                "สิทธิประโยชน์ตามรายการนี้ เฉพาะสมาชิกที่มีสถานภาพบัญชีเป็นปกติ จนถึงวันที่เคทีซีทำการมอบสิทธิประโยชน์ โดยยึดข้อมูลของเคทีซีเป็นสำคัญ",
+                "เคทีซีขอสงวนสิทธิ์มอบคะแนน KTC FOREVER ตามรายการนี้ เฉพาะยอดใช้จ่ายที่ซื้อสินค้าเพื่อการบริโภคส่วนบุคคล ไม่รวมถึงรายการซื้อสินค้าเชิงพาณิชย์ เพื่อการค้า เก็งกำไร ทุจริต หรือฉ้อฉล โดยหากตรวจพบเคทีซีขอสงวนสิทธิ์ในการมอบ ยกเลิก เพิกถอน หรือเรียกคืนคะแนน KTC FOREVER ที่มอบให้ ไม่ว่าทั้งหมดหรือบางส่วน รวมทั้งเรียกให้ชดใช้ค่าเสียหายตามแต่ละกรณี",
+                "สงวนสิทธิ์ไม่นำดอกเบี้ย ค่าธรรมเนียมการใช้วงเงิน ค่าปรับ ค่าธรรมเนียมต่างๆ และรายการที่ยกเลิกการซื้อสินค้า/บริการ หรือเงินคืนที่เกิดจากการ Refund ทุกประเภท มาคำนวณเพื่อมอบสิทธิประโยชน์ให้แก่สมาชิกตามรายการนี้",
+                "สิทธิประโยชน์ตั้งแต่วันที่ 1 ม.ค. 67 - 31 ธ.ค. 67"
+            ],
+            "en": [
+                "Earn 1 KTC FOREVER point for every 25 Baht purchase with KTC - KTB PRECIOUS PLUS VISA INFINITE credit card.",
+                "Earn 3x KTC FOREVER points = 1 regular point + 2 special points on every 600,000 Baht purchase with credit card in a specified category. The points will be transferred to your credit card account within 60 days, commencing from the last date of your monthly transactions that accumulated up to 600,000 Baht.",
+                "Expense categories that are eligible for 3x KTC FOREVER points are as following:<ul class=\"tw-list-disc tw-pl-5\"><li>Restaurant category in Thailand refers to a list of restaurants as specified in MCC Code 5462, 5811, 5812, 5813 and 5814 in the Visa system only.</li><li>Shopping category in Thailand refers to shops that are specified in MCC Code 5094, 5611, 5621, 5631, 5641, 5651, 5655, 5661, 5681, 5691, 5697, 5698, 5699, 5941, 5944, 5948, 5977, 7296, 5111, 5192, 5942, 5943, 5947, 5994, 5310, 5311, 5331, 5964, 5965, 5262 and 5309 in the Visa system only.</li><li>Tourism category in Thailand refers to shops that are specified in MCC Code 3000 - 3350, 4511, 3351 - 3441, 7512, 7513, 7519, 7523, 3501 – 3839, 7011, 7996, 7998, 4722, 4723 and 5962 in the Visa system only.</li><li>Foreign currency transactions category (Exclude 31 countries in the European Economic Area and People's Republic of China).</li></ul>",
+                "Exclude granting KTC FOREVER point for any spending from 31 countries in the European Economic Area and People’s Republic of China and other specified categories. For more details, please visit www.ktc.co.th/rewards.",
+                "This privilege cannot be exchanged, changed to cash, or transferred to any other person.",
+                "This privilege is exclusive for cardmember with normal account status until the day on which such privilege is granted to cardmember, based on KTC’s existing record.",
+                "KTC reserves the right that KTC FOREVER point is eligible to only spending for the purchase of goods for personal consumption, and not for business or trading purposes, or earning profits, or frauds in relation to use of his/their KTC credit card. KTC also reserves the right, in its absolute discretion, to cancel, terminate, suspend or revoke partials or KTC FOREVER points and also may claim for damage recovery.",
+                "KTC reserves the right to exclude interest, credit line usage fee, fine, any other fees and charges, cancellation of goods/services purchased or any other refund, from the calculation of privileges offering to cardmembers under this promotion.",
+                "This privilege is valid from 1 Jan 24 – 31 Dec 24."
+            ]
+        },
+        "note": {
+            "th": [],
+            "en": []
+        }
+    },
+    {
+        "dID": 12,
+        "DialogID": "ASSETUNDERMANAGEMENTPRECIOUSINFINITE",
+        "DialogTitle": {
+            "th": "สิทธิพิเศษตามเกณฑ์ยอดรวมสินทรัพย์ที่ถือครองกับธนาคาร*",
+            "en": "Exclusive Privileges based on Asset Under Management*"
+        },
+        "descriptionTitle": {
+            "th": "",
+            "en": ""
+        },
+        "description": {
+            "th": [],
+            "en": []
+        },
+        "TableName": "",
+        "TermsTitle": {
+            "th": "",
+            "en": ""
+        },
+        "TermsTabs": [],
+        "listType": "LIST",
+        "TermsItems": {
+            "th": [
+                "<strong>WEALTH MANAGEMENT</strong> บริการที่ปรึกษาด้านการลงทุนส่วนบุคคล",
+                "<strong>PRIORITY SERVICE</strong> บริการธุรกรรมการเงินด่วนพิเศษ",
+                "<strong>BANKING PRIVILEGES</strong> สิทธิประโยชน์ด้านการเงิน รับสิทธิ์ยกเว้นหรือส่วนลดคธรรมเนียมการทำธุรกรรมทางการเงินและค่าบริการต่างๆ",
+                "<strong>THE CORAL EXECUTIVE LOUNGE</strong> บริการห้องรับรองพิเศษในจังหวัดหัวเมืองใหญ่ทั่วประเทศ ที่รองรับทุกการเดินทางภายในประเทศ และระหว่างประเทศ พร้อมบริการอาหารว่างและเครื่องดื่ม ให้คุณได้พักผ่อนก่อนออกเดินทาง",
+                "<strong>KRUNGTHAI WEALTH LOUNGE</strong> บริการห้องรับรองพิเศษเหนือระดับ พร้อมสิ่งอำนวยความสะดวก ตลอดจนมุมรับรองที่เป็นส่วนตัวในการพักผ่อน พร้อมให้บริการของว่างและเครื่องดื่ม",
+                "<strong>KRUNGTHAI BRANCH RESERVED PARKING</strong> บริการสำรองพื้นที่จอดรถ ณ สาขาของธนาคารฯ",
+                "<strong>KRUNGTHAI WEALTH RESERVED PARKING</strong> บริการสำรองพื้นที่จอดรถ ณ ศูนย์การค้าไอคอนสยาม และศูนย์การค้าเซ็นทรัลพลาซ่า 14 แห่งทั่วประเทศ",
+                "<strong>SPA SERVICE</strong> บริการสปา พร้อมดูแลสุขภาพด้วยบริการอย่างมืออาชีพ"
+            ],
+            "en": [
+                "<strong>WEALTH MANAGEMENT</strong> Personal investment advisory service.",
+                "<strong>PRIORITY SERVICE</strong> An express special service for financial transactions.",
+                "<strong>BANKING PRIVILEGES FINANCIA</strong>L BENEFITS: Receive exemptions or discounts on financial transaction fees and service charges.",
+                "<strong>THE CORAL EXECUTIVE LOUNGE</strong>  Service for special lounges in major provinces across the country that supports all domestic and international travel with snacks and beverages for you to enjoy before departure.",
+                "<strong>KRUNGTHAI WEALTH LOUNGE</strong> The service of a superior lounge with facilities as well as a private reception area to relax with complimentary snacks and beverages.",
+                "<strong>KRUNGTHAI BRANCH RESERVED PARKING</strong> Parking space reservation service at Krungthai Bank’s branches.",
+                "<strong>KRUNGTHAI WEALTH RESERVED PARKING</strong> Parking space reservation service at ICONSIAM shopping center, and 14 Central Plaza shopping centers across the country.",
+                "<strong>MONTHLY PRIVILEGES<s/trong> Monthly special privileges that meet every lifestyle.",
+                "<strong>SPA SERVICE</strong> Professional services of SPA for health and wellbeing.",
+                "<strong>MONTHLY PRIVILEGES</strong> Monthly special privileges that meet every lifestyle."
+            ]
+        },
+        "note": {
+            "th": [
+                "*หลักเกณฑ์การเป็นสมาชิก Krungthai Private Banking คือ คงยอดรวมสินทรัพย์ของผลิตภัณฑ์เงินฝาก, หุ้นกู้ ที่ออกโดยธนาคารกรุงไทย จำกัด (มหาชน) และกองทุนรวมกับธนาคารคงเหลือ ณ ปัจจุบัน (ยกเว้นบัญชีเงินฝากออมทรัพย์, บัญชีกระแสรายวันแบบไม่มีวงเงินเบิกเกินบัญชี, กองทุนรวมตลาดเงิน, กองทุนรวม KTPLUS และ KTSTPLUS-A ที่่คำนวณจากค่าเฉลี่ยย้อนหลัง 180 วัน) บวกด้วยยอดรวมของผลิตภัณฑ์ประกันชีวิตที่ชำระในปี ตั้งแต่ 50 ล้านบาท ขึ้นไป",
+                "<a href=\"https://wealth.krungthai.com/\">ศึกษารายละเอียดเพิ่มเติม คลิก</a>"
+            ],
+            "en": [
+                "*Criteria for membership of Krungthai Private Banking is to maintain the current balance of deposits, debentures issued by Krungthai Bank Public Company Limited and mutual funds with the bank (except for savings accounts, current accounts without an overdraft, money market mutual fund, KTPLUS mutual fund and KTSTPLUS-A calculated from the average in past 180 days) plus the total amount of life insurance products paid within the year at 50 million baht or more",
+                "<a href=\"https://wealth.krungthai.com/\">For more information Click here.</a>"
+            ]
+        }
+    },
+    {
+        "dID": 14,
+        "DialogID": "KTCFOREVERPOINTX3ROYALORCHID",
+        "DialogTitle": {
+            "th": "เงื่อนไขการรับคะแนน KTC FOREVER สูงสุด x3",
+            "en": "Terms and conditions of up to 3x KTC FOREVER points"
+        },
+        "descriptionTitle": {
+            "th": "",
+            "en": ""
+        },
+        "description": {
+            "th": [],
+            "en": []
+        },
+        "TableName": "",
+        "TermsTitle": {
+            "th": "",
+            "en": ""
+        },
+        "TermsTabs": [],
+        "listType": "NUMBER",
+        "TermsItems": {
+            "th": [
+                "ทุก 25 บาทที่ใช้จ่ายผ่านบัตรเครดิต KTC – ROYAL ORCHID PLUS VISA INFINITE  รับ 1 คะแนน KTC FOREVER",
+                "รับคะแนน KTC FOREVER x3 = 1 คะแนนปกติ + 2 คะแนนพิเศษ เมื่อมียอดใช้จ่ายผ่านบัตรฯ ในหมวดที่กำหนด ครบทุก 600,000 บาท โดยคะแนนพิเศษดังกล่าวจะถูกโอนเข้าบัญชีบัตรฯ ของสมาชิก ภายใน 60 วันนับจากวันสุดท้ายของเดือนที่ทำรายการครบ 600,000 บาท",
+                "หมวดรายการใช้จ่ายที่ให้คะแนน KTC FOREVER x3 รายละเอียดดังนี้<ul class=\"tw-list-disc tw-pl-5\"><li>หมวดร้านอาหารในประเทศไทย หมายถึง ร้านค้าที่ระบุใน MCC Code 5462, 5811, 5812, 5813 และ 5814 ในระบบ ของ Visa เท่านั้น</li><li>หมวดช้อปปิ้งในประเทศไทย หมายถึง ร้านค้าที่ระบุใน MCC Code 5094, 5611, 5621, 5631, 5641, 5651, 5655, 5661, 5681, 5691, 5697, 5698, 5699, 5941, 5944, 5948, 5977, 7296, 5111, 5192, 5942, 5943, 5947, 5994, 5310, 5311, 5331, 5964, 5965, 5262 และ 5309 ในระบบของ Visa เท่านั้น</li><li>หมวดท่องเที่ยวในประเทศไทย หมายถึง ร้านค้าที่ระบุใน MCC Code 3000 – 3350, 4511, 3351 - 3441, 7512, 7513, 7519, 7523, 3501 – 3839, 7011, 7996, 7998, 4722, 4723 และ 5962 ในระบบของ Visa เท่านั้น</li><li>หมวดการใช้จ่ายเป็นสกุลเงินต่างประเทศ (ยกเว้น 31 ประเทศในเขตเศรษฐกิจยุโรป และสาธารณรัฐประชาชนจีน)</li></ul>",
+                "ยกเว้นการให้คะแนน KTC FOREVER สำหรับยอดใช้จ่ายผ่านบัตรฯ ที่ร้านค้าในเขตเศรษฐกิจยุโรป 31 ประเทศ สาธารณรัฐประชาชนจีน และหมวดอื่น ๆ ที่กำหนด ดูรายละเอียดเพิ่มเติมที่ <a href=\"http://www.ktc.co.th/rewards\">www.ktc.co.th/rewards</a>",
+                "สิทธิประโยชน์ตามรายการนี้ ไม่สามารถแลกเปลี่ยน หรือทอนเป็นเงินสด หรือโอนสิทธิ์ให้แก่ผู้อื่นได้",
+                "สิทธิประโยชน์ตามรายการนี้ เฉพาะสมาชิกที่มีสถานภาพบัญชีเป็นปกติ จนถึงวันที่เคทีซีทำการมอบสิทธิประโยชน์ โดยยึดข้อมูลของเคทีซีเป็นสำคัญ",
+                "เคทีซีขอสงวนสิทธิ์มอบคะแนน KTC FOREVER ตามรายการนี้ เฉพาะยอดใช้จ่ายที่ซื้อสินค้าเพื่อการบริโภคส่วนบุคคล ไม่รวมถึงรายการซื้อสินค้าเชิงพาณิชย์ เพื่อการค้า เก็งกำไร ทุจริต หรือฉ้อฉล โดยหากตรวจพบเคทีซีขอสงวนสิทธิ์ในการมอบ ยกเลิก เพิกถอน หรือเรียกคืนคะแนน KTC FOREVER ที่มอบให้ ไม่ว่าทั้งหมดหรือบางส่วน รวมทั้งเรียกให้ชดใช้ค่าเสียหายตามแต่ละกรณี",
+                "สงวนสิทธิ์ไม่นำดอกเบี้ย ค่าธรรมเนียมการใช้วงเงิน ค่าปรับ ค่าธรรมเนียมต่างๆ และรายการที่ยกเลิกการซื้อสินค้า/บริการ หรือเงินคืนที่เกิดจากการ Refund ทุกประเภท มาคำนวณเพื่อมอบสิทธิประโยชน์ให้แก่สมาชิกตามรายการนี้",
+                "สิทธิประโยชน์ตั้งแต่วันที่ 1 ม.ค. 67 - 31 ธ.ค. 67"
+            ],
+            "en": [
+                "Earn 1 KTC ROP point for every 25 Baht purchase with KTC – ROYAL ORCHID PLUS VISA INFINITE credit card.",
+                "Earn 3x KTC FOREVER points = 1 regular point + 2 special points on every 600,000 Baht purchase with credit card in a specified category. The points will be transferred to your credit card account within 60 days, commencing from the last date of your monthly transactions that accumulated up to 600,000 Baht.",
+                "Expense categories that are eligible for 3x KTC FOREVER points are as following:<ul class=\"tw-list-disc tw-pl-5\"><li>Restaurant category in Thailand refers to a list of restaurants as specified in MCC Code 5462, 5811, 5812, 5813 and 5814 in the Visa system only.</li><li>Shopping category in Thailand refers to shops that are specified in MCC Code 5094, 5611, 5621, 5631, 5641, 5651, 5655, 5661, 5681, 5691, 5697, 5698, 5699, 5941, 5944, 5948, 5977, 7296, 5111, 5192, 5942, 5943, 5947, 5994, 5310, 5311, 5331, 5964, 5965, 5262 and 5309 in the Visa system only.</li><li>Tourism category in Thailand refers to shops that are specified in MCC Code 3000 - 3350, 4511, 3351 - 3441, 7512, 7513, 7519, 7523, 3501 – 3839, 7011, 7996, 7998, 4722, 4723 and 5962 in the Visa system only.</li><li>Foreign currency transactions category (Exclude 31 countries in the European Economic Area and People's Republic of China).</li></ul>",
+                "Exclude granting KTC FOREVER point for any spending from 31 countries in the European Economic Area and People’s Republic of China and other specified categories. For more details, please visit www.ktc.co.th/rewards.",
+                "This privilege cannot be exchanged, changed to cash, or transferred to any other person.",
+                "This privilege is exclusive for cardmember with normal account status until the day on which such privilege is granted to cardmember, based on KTC’s existing record.",
+                "KTC reserves the right that KTC FOREVER point is eligible to only spending for the purchase of goods for personal consumption, and not for business or trading purposes, or earning profits, or frauds in relation to use of his/their KTC credit card. KTC also reserves the right, in its absolute discretion, to cancel, terminate, suspend or revoke partials or KTC FOREVER points and also may claim for damage recovery.",
+                "KTC reserves the right to exclude interest, credit line usage fee, fine, any other fees and charges, cancellation of goods/services purchased or any other refund, from the calculation of privileges offering to cardmembers under this promotion.",
+                "This privilege is valid from 1 Jan 24 – 31 Dec 24."
+            ]
+        },
+        "note": {
+            "th": [],
+            "en": []
+        }
+    },
+    {
+        "dID": 14,
+        "DialogID": "KTCFOREVERPOINTX3ROYALORCHIDWORLD",
+        "DialogTitle": {
+            "th": "เงื่อนไขการรับคะแนน KTC FOREVER สูงสุด x3",
+            "en": "Terms and conditions of up to 3x KTC FOREVER points"
+        },
+        "descriptionTitle": {
+            "th": "",
+            "en": ""
+        },
+        "description": {
+            "th": [],
+            "en": []
+        },
+        "TableName": "",
+        "TermsTitle": {
+            "th": "",
+            "en": ""
+        },
+        "TermsTabs": [],
+        "listType": "NUMBER",
+        "TermsItems": {
+            "th": [
+                "เมื่อมียอดใช้จ่ายผ่านบัตรเครดิต KTC – ROYAL ORCHID PLUS WORLD MASTERCARD ทุก 25 บาท รับ 1 คะแนน KTC ROP",
+                "รับคะแนน KTC FOREVER x3 = 1 คะแนนปกติ + 2 คะแนนพิเศษ เมื่อมียอดใช้จ่ายผ่านบัตรฯ ในหมวดที่กำหนด ครบทุก 600,000 บาท โดยคะแนนพิเศษดังกล่าวจะถูกโอนเข้าบัญชีบัตรฯ ของสมาชิก ภายใน 60 วันนับจากวันสุดท้ายของเดือนที่ทำรายการครบ 600,000 บาท",
+                "หมวดรายการใช้จ่ายที่ให้คะแนน KTC FOREVER x3 รายละเอียดดังนี้<ul class=\"tw-list-disc tw-pl-5\"><li>หมวดร้านอาหารในประเทศไทย หมายถึง ร้านค้าที่ระบุใน MCC Code 5462, 5811, 5812, 5813 และ 5814 ในระบบ ของ Visa เท่านั้น</li><li>หมวดช้อปปิ้งในประเทศไทย หมายถึง ร้านค้าที่ระบุใน MCC Code 5094, 5611, 5621, 5631, 5641, 5651, 5655, 5661, 5681, 5691, 5697, 5698, 5699, 5941, 5944, 5948, 5977, 7296, 5111, 5192, 5942, 5943, 5947, 5994, 5310, 5311, 5331, 5964, 5965, 5262 และ 5309 ในระบบของ Visa เท่านั้น</li><li>หมวดท่องเที่ยวในประเทศไทย หมายถึง ร้านค้าที่ระบุใน MCC Code 3000 – 3350, 4511, 3351 - 3441, 7512, 7513, 7519, 7523, 3501 – 3839, 7011, 7996, 7998, 4722, 4723 และ 5962 ในระบบของ Visa เท่านั้น</li><li>หมวดการใช้จ่ายเป็นสกุลเงินต่างประเทศ (ยกเว้น 31 ประเทศในเขตเศรษฐกิจยุโรป และสาธารณรัฐประชาชนจีน)</li></ul>",
+                "ยกเว้นการให้คะแนน KTC FOREVER สำหรับยอดใช้จ่ายผ่านบัตรฯ ที่ร้านค้าในเขตเศรษฐกิจยุโรป 31 ประเทศ สาธารณรัฐประชาชนจีน และหมวดอื่น ๆ ที่กำหนด ดูรายละเอียดเพิ่มเติมที่ <a href=\"http://www.ktc.co.th/rewards\">www.ktc.co.th/rewards</a>",
+                "สิทธิประโยชน์ตามรายการนี้ ไม่สามารถแลกเปลี่ยน หรือทอนเป็นเงินสด หรือโอนสิทธิ์ให้แก่ผู้อื่นได้",
+                "สิทธิประโยชน์ตามรายการนี้ เฉพาะสมาชิกที่มีสถานภาพบัญชีเป็นปกติ จนถึงวันที่เคทีซีทำการมอบสิทธิประโยชน์ โดยยึดข้อมูลของเคทีซีเป็นสำคัญ",
+                "เคทีซีขอสงวนสิทธิ์มอบคะแนน KTC FOREVER ตามรายการนี้ เฉพาะยอดใช้จ่ายที่ซื้อสินค้าเพื่อการบริโภคส่วนบุคคล ไม่รวมถึงรายการซื้อสินค้าเชิงพาณิชย์ เพื่อการค้า เก็งกำไร ทุจริต หรือฉ้อฉล โดยหากตรวจพบเคทีซีขอสงวนสิทธิ์ในการมอบ ยกเลิก เพิกถอน หรือเรียกคืนคะแนน KTC FOREVER ที่มอบให้ ไม่ว่าทั้งหมดหรือบางส่วน รวมทั้งเรียกให้ชดใช้ค่าเสียหายตามแต่ละกรณี",
+                "สงวนสิทธิ์ไม่นำดอกเบี้ย ค่าธรรมเนียมการใช้วงเงิน ค่าปรับ ค่าธรรมเนียมต่างๆ และรายการที่ยกเลิกการซื้อสินค้า/บริการ หรือเงินคืนที่เกิดจากการ Refund ทุกประเภท มาคำนวณเพื่อมอบสิทธิประโยชน์ให้แก่สมาชิกตามรายการนี้",
+                "สิทธิประโยชน์ตั้งแต่วันที่ 1 ม.ค. 67 - 31 ธ.ค. 67"
+            ],
+            "en": [
+                "Earn 1 KTC ROP point for every 25 Baht purchase with KTC – ROYAL ORCHID PLUS WORLD MASTERCARD credit card.",
+                "Earn 3x KTC FOREVER points = 1 regular point + 2 special points on every 600,000 Baht purchase with credit card in a specified category. The points will be transferred to your credit card account within 60 days, commencing from the last date of your monthly transactions that accumulated up to 600,000 Baht.",
+                "Expense categories that are eligible for 3x KTC FOREVER points are as following:<ul class=\"tw-list-disc tw-pl-5\"><li>Restaurant category in Thailand refers to a list of restaurants as specified in MCC Code 5462, 5811, 5812, 5813 and 5814 in the Visa system only.</li><li>Shopping category in Thailand refers to shops that are specified in MCC Code 5094, 5611, 5621, 5631, 5641, 5651, 5655, 5661, 5681, 5691, 5697, 5698, 5699, 5941, 5944, 5948, 5977, 7296, 5111, 5192, 5942, 5943, 5947, 5994, 5310, 5311, 5331, 5964, 5965, 5262 and 5309 in the Visa system only.</li><li>Tourism category in Thailand refers to shops that are specified in MCC Code 3000 - 3350, 4511, 3351 - 3441, 7512, 7513, 7519, 7523, 3501 – 3839, 7011, 7996, 7998, 4722, 4723 and 5962 in the Visa system only.</li><li>Foreign currency transactions category (Exclude 31 countries in the European Economic Area and People's Republic of China).</li></ul>",
+                "Exclude granting KTC FOREVER point for any spending from 31 countries in the European Economic Area and People’s Republic of China and other specified categories. For more details, please visit www.ktc.co.th/rewards.",
+                "This privilege cannot be exchanged, changed to cash, or transferred to any other person.",
+                "This privilege is exclusive for cardmember with normal account status until the day on which such privilege is granted to cardmember, based on KTC’s existing record.",
+                "KTC reserves the right that KTC FOREVER point is eligible to only spending for the purchase of goods for personal consumption, and not for business or trading purposes, or earning profits, or frauds in relation to use of his/their KTC credit card. KTC also reserves the right, in its absolute discretion, to cancel, terminate, suspend or revoke partials or KTC FOREVER points and also may claim for damage recovery.",
+                "KTC reserves the right to exclude interest, credit line usage fee, fine, any other fees and charges, cancellation of goods/services purchased or any other refund, from the calculation of privileges offering to cardmembers under this promotion.",
+                "This privilege is valid from 1 Jan 24 – 31 Dec 24."
+            ]
+        },
+        "note": {
+            "th": [],
+            "en": []
+        }
+    },
+    {
+        "dID": 14,
+        "DialogID": "KTCFOREVERPOINTX3WORLD",
+        "DialogTitle": {
+            "th": "เงื่อนไขการรับคะแนน KTC FOREVER สูงสุด x3",
+            "en": "Terms and conditions of up to 3x KTC FOREVER points"
+        },
+        "descriptionTitle": {
+            "th": "",
+            "en": ""
+        },
+        "description": {
+            "th": [],
+            "en": []
+        },
+        "TableName": "",
+        "TermsTitle": {
+            "th": "",
+            "en": ""
+        },
+        "TermsTabs": [],
+        "listType": "NUMBER",
+        "TermsItems": {
+            "th": [
+                "เมื่อมียอดใช้จ่ายผ่านบัตรเครดิต KTC WORLD MASTERCARD ทุก 25 บาท รับ 1 คะแนน KTC FOREVER",
+                "รับคะแนน KTC FOREVER x3 = 1 คะแนนปกติ + 2 คะแนนพิเศษ เมื่อมียอดใช้จ่ายผ่านบัตรฯ ในหมวดที่กำหนด ครบทุก 600,000 บาท โดยคะแนนพิเศษดังกล่าวจะถูกโอนเข้าบัญชีบัตรฯ ของสมาชิก ภายใน 60 วันนับจากวันสุดท้ายของเดือนที่ทำรายการครบ 600,000 บาท",
+                "หมวดรายการใช้จ่ายที่ให้คะแนน KTC FOREVER x3 รายละเอียดดังนี้<ul class=\"tw-list-disc tw-pl-5\"><li>หมวดร้านอาหารในประเทศไทย หมายถึง ร้านค้าที่ระบุใน MCC Code 5462, 5811, 5812, 5813 และ 5814 ในระบบ ของ Visa เท่านั้น</li><li>หมวดช้อปปิ้งในประเทศไทย หมายถึง ร้านค้าที่ระบุใน MCC Code 5094, 5611, 5621, 5631, 5641, 5651, 5655, 5661, 5681, 5691, 5697, 5698, 5699, 5941, 5944, 5948, 5977, 7296, 5111, 5192, 5942, 5943, 5947, 5994, 5310, 5311, 5331, 5964, 5965, 5262 และ 5309 ในระบบของ Visa เท่านั้น</li><li>หมวดท่องเที่ยวในประเทศไทย หมายถึง ร้านค้าที่ระบุใน MCC Code 3000 – 3350, 4511, 3351 - 3441, 7512, 7513, 7519, 7523, 3501 – 3839, 7011, 7996, 7998, 4722, 4723 และ 5962 ในระบบของ Visa เท่านั้น</li><li>หมวดการใช้จ่ายเป็นสกุลเงินต่างประเทศ (ยกเว้น 31 ประเทศในเขตเศรษฐกิจยุโรป และสาธารณรัฐประชาชนจีน)</li></ul>",
+                "ยกเว้นการให้คะแนน KTC FOREVER สำหรับยอดใช้จ่ายผ่านบัตรฯ ที่ร้านค้าในเขตเศรษฐกิจยุโรป 31 ประเทศ สาธารณรัฐประชาชนจีน และหมวดอื่น ๆ ที่กำหนด ดูรายละเอียดเพิ่มเติมที่ <a href=\"http://www.ktc.co.th/rewards\">www.ktc.co.th/rewards</a>",
+                "สิทธิประโยชน์ตามรายการนี้ ไม่สามารถแลกเปลี่ยน หรือทอนเป็นเงินสด หรือโอนสิทธิ์ให้แก่ผู้อื่นได้",
+                "สิทธิประโยชน์ตามรายการนี้ เฉพาะสมาชิกที่มีสถานภาพบัญชีเป็นปกติ จนถึงวันที่เคทีซีทำการมอบสิทธิประโยชน์ โดยยึดข้อมูลของเคทีซีเป็นสำคัญ",
+                "เคทีซีขอสงวนสิทธิ์มอบคะแนน KTC FOREVER ตามรายการนี้ เฉพาะยอดใช้จ่ายที่ซื้อสินค้าเพื่อการบริโภคส่วนบุคคล ไม่รวมถึงรายการซื้อสินค้าเชิงพาณิชย์ เพื่อการค้า เก็งกำไร ทุจริต หรือฉ้อฉล โดยหากตรวจพบเคทีซีขอสงวนสิทธิ์ในการมอบ ยกเลิก เพิกถอน หรือเรียกคืนคะแนน KTC FOREVER ที่มอบให้ ไม่ว่าทั้งหมดหรือบางส่วน รวมทั้งเรียกให้ชดใช้ค่าเสียหายตามแต่ละกรณี",
+                "สงวนสิทธิ์ไม่นำดอกเบี้ย ค่าธรรมเนียมการใช้วงเงิน ค่าปรับ ค่าธรรมเนียมต่างๆ และรายการที่ยกเลิกการซื้อสินค้า/บริการ หรือเงินคืนที่เกิดจากการ Refund ทุกประเภท มาคำนวณเพื่อมอบสิทธิประโยชน์ให้แก่สมาชิกตามรายการนี้",
+                "สิทธิประโยชน์ตั้งแต่วันที่ 1 ม.ค. 67 - 31 ธ.ค. 67"
+            ],
+            "en": [
+                "Earn 1 KTC FOREVER point for every 25 Baht purchase with KTC WORLD MASTERCARD credit card.",
+                "Earn 3x KTC FOREVER points = 1 regular point + 2 special points on every 600,000 Baht purchase with credit card in a specified category. The points will be transferred to your credit card account within 60 days, commencing from the last date of your monthly transactions that accumulated up to 600,000 Baht.",
+                "Expense categories that are eligible for 3x KTC FOREVER points are as following:<ul class=\"tw-list-disc tw-pl-5\"><li>Restaurant category in Thailand refers to a list of restaurants as specified in MCC Code 5462, 5811, 5812, 5813 and 5814 in the Visa system only.</li><li>Shopping category in Thailand refers to shops that are specified in MCC Code 5094, 5611, 5621, 5631, 5641, 5651, 5655, 5661, 5681, 5691, 5697, 5698, 5699, 5941, 5944, 5948, 5977, 7296, 5111, 5192, 5942, 5943, 5947, 5994, 5310, 5311, 5331, 5964, 5965, 5262 and 5309 in the Visa system only.</li><li>Tourism category in Thailand refers to shops that are specified in MCC Code 3000 - 3350, 4511, 3351 - 3441, 7512, 7513, 7519, 7523, 3501 – 3839, 7011, 7996, 7998, 4722, 4723 and 5962 in the Visa system only.</li><li>Foreign currency transactions category (Exclude 31 countries in the European Economic Area and People's Republic of China).</li></ul>",
+                "Exclude granting KTC FOREVER point for any spending from 31 countries in the European Economic Area and People’s Republic of China and other specified categories. For more details, please visit www.ktc.co.th/rewards.",
+                "This privilege cannot be exchanged, changed to cash, or transferred to any other person.",
+                "This privilege is exclusive for cardmember with normal account status until the day on which such privilege is granted to cardmember, based on KTC’s existing record.",
+                "KTC reserves the right that KTC FOREVER point is eligible to only spending for the purchase of goods for personal consumption, and not for business or trading purposes, or earning profits, or frauds in relation to use of his/their KTC credit card. KTC also reserves the right, in its absolute discretion, to cancel, terminate, suspend or revoke partials or KTC FOREVER points and also may claim for damage recovery.",
+                "KTC reserves the right to exclude interest, credit line usage fee, fine, any other fees and charges, cancellation of goods/services purchased or any other refund, from the calculation of privileges offering to cardmembers under this promotion.",
+                "This privilege is valid from 1 Jan 24 – 31 Dec 24."
+            ]
+        },
+        "note": {
+            "th": [],
+            "en": []
+        }
+    },
+    {
+        "dID": 14,
+        "DialogID": "KTCFOREVERPOINTX3UNIONPAY",
+        "DialogTitle": {
+            "th": "เงื่อนไขการรับคะแนน KTC FOREVER สูงสุด x3",
+            "en": "Terms and conditions of up to 3x KTC FOREVER points"
+        },
+        "descriptionTitle": {
+            "th": "",
+            "en": ""
+        },
+        "description": {
+            "th": [],
+            "en": []
+        },
+        "TableName": "",
+        "TermsTitle": {
+            "th": "",
+            "en": ""
+        },
+        "TermsTabs": [],
+        "listType": "NUMBER",
+        "TermsItems": {
+            "th": [
+                "ทุก 25 บาทที่ใช้จ่ายผ่านบัตรเครดิต KTC UNIONPAY ASIA PRESTIGE DIAMOND รับ 1 คะแนน KTC FOREVER",
+                "รับคะแนน KTC FOREVER x3 = 1 คะแนนปกติ + 2 คะแนนพิเศษ เมื่อมียอดใช้จ่ายผ่านบัตรฯ ในหมวดที่กำหนด ครบทุก 600,000 บาท โดยคะแนนพิเศษดังกล่าวจะถูกโอนเข้าบัญชีบัตรฯ ของสมาชิก ภายใน 60 วันนับจากวันสุดท้ายของเดือนที่ทำรายการครบ 600,000 บาท",
+                "หมวดรายการใช้จ่ายที่ให้คะแนน KTC FOREVER x3 รายละเอียดดังนี้<ul class=\"tw-list-disc tw-pl-5\"><li>หมวดร้านอาหารในประเทศไทย หมายถึง ร้านค้าที่ระบุใน MCC Code 5462, 5811, 5812, 5813 และ 5814 ในระบบ ของ Visa เท่านั้น</li><li>หมวดช้อปปิ้งในประเทศไทย หมายถึง ร้านค้าที่ระบุใน MCC Code 5094, 5611, 5621, 5631, 5641, 5651, 5655, 5661, 5681, 5691, 5697, 5698, 5699, 5941, 5944, 5948, 5977, 7296, 5111, 5192, 5942, 5943, 5947, 5994, 5310, 5311, 5331, 5964, 5965, 5262 และ 5309 ในระบบของ Visa เท่านั้น</li><li>หมวดท่องเที่ยวในประเทศไทย หมายถึง ร้านค้าที่ระบุใน MCC Code 3000 – 3350, 4511, 3351 - 3441, 7512, 7513, 7519, 7523, 3501 – 3839, 7011, 7996, 7998, 4722, 4723 และ 5962 ในระบบของ Visa เท่านั้น</li><li>หมวดการใช้จ่ายเป็นสกุลเงินต่างประเทศ (ยกเว้น 31 ประเทศในเขตเศรษฐกิจยุโรป และสาธารณรัฐประชาชนจีน)</li></ul>",
+                "ยกเว้นการให้คะแนน KTC FOREVER สำหรับยอดใช้จ่ายผ่านบัตรฯ ที่ร้านค้าในเขตเศรษฐกิจยุโรป 31 ประเทศ สาธารณรัฐประชาชนจีน และหมวดอื่น ๆ ที่กำหนด ดูรายละเอียดเพิ่มเติมที่ <a href=\"http://www.ktc.co.th/rewards\">www.ktc.co.th/rewards</a>",
+                "สิทธิประโยชน์ตามรายการนี้ ไม่สามารถแลกเปลี่ยน หรือทอนเป็นเงินสด หรือโอนสิทธิ์ให้แก่ผู้อื่นได้",
+                "สิทธิประโยชน์ตามรายการนี้ เฉพาะสมาชิกที่มีสถานภาพบัญชีเป็นปกติ จนถึงวันที่เคทีซีทำการมอบสิทธิประโยชน์ โดยยึดข้อมูลของเคทีซีเป็นสำคัญ",
+                "เคทีซีขอสงวนสิทธิ์มอบคะแนน KTC FOREVER ตามรายการนี้ เฉพาะยอดใช้จ่ายที่ซื้อสินค้าเพื่อการบริโภคส่วนบุคคล ไม่รวมถึงรายการซื้อสินค้าเชิงพาณิชย์ เพื่อการค้า เก็งกำไร ทุจริต หรือฉ้อฉล โดยหากตรวจพบเคทีซีขอสงวนสิทธิ์ในการมอบ ยกเลิก เพิกถอน หรือเรียกคืนคะแนน KTC FOREVER ที่มอบให้ ไม่ว่าทั้งหมดหรือบางส่วน รวมทั้งเรียกให้ชดใช้ค่าเสียหายตามแต่ละกรณี",
+                "สงวนสิทธิ์ไม่นำดอกเบี้ย ค่าธรรมเนียมการใช้วงเงิน ค่าปรับ ค่าธรรมเนียมต่างๆ และรายการที่ยกเลิกการซื้อสินค้า/บริการ หรือเงินคืนที่เกิดจากการ Refund ทุกประเภท มาคำนวณเพื่อมอบสิทธิประโยชน์ให้แก่สมาชิกตามรายการนี้",
+                "สิทธิประโยชน์ตั้งแต่วันที่ 1 ม.ค. 67 - 31 ธ.ค. 67"
+            ],
+            "en": [
+                "Earn 1 KTC FOREVER point for every 25 Baht purchase with KTC UNIONPAY ASIA PRESTIGE DIAMOND credit card.",
+                "Earn 3x KTC FOREVER points = 1 regular point + 2 special points on every 600,000 Baht purchase with credit card in a specified category. The points will be transferred to your credit card account within 60 days, commencing from the last date of your monthly transactions that accumulated up to 600,000 Baht.",
+                "Expense categories that are eligible for 3x KTC FOREVER points are as following:<ul class=\"tw-list-disc tw-pl-5\"><li>Restaurant category in Thailand refers to a list of restaurants as specified in MCC Code 5462, 5811, 5812, 5813 and 5814 in the Visa system only.</li><li>Shopping category in Thailand refers to shops that are specified in MCC Code 5094, 5611, 5621, 5631, 5641, 5651, 5655, 5661, 5681, 5691, 5697, 5698, 5699, 5941, 5944, 5948, 5977, 7296, 5111, 5192, 5942, 5943, 5947, 5994, 5310, 5311, 5331, 5964, 5965, 5262 and 5309 in the Visa system only.</li><li>Tourism category in Thailand refers to shops that are specified in MCC Code 3000 - 3350, 4511, 3351 - 3441, 7512, 7513, 7519, 7523, 3501 – 3839, 7011, 7996, 7998, 4722, 4723 and 5962 in the Visa system only.</li><li>Foreign currency transactions category (Exclude 31 countries in the European Economic Area and People's Republic of China).</li></ul>",
+                "Exclude granting KTC FOREVER point for any spending from 31 countries in the European Economic Area and People’s Republic of China and other specified categories. For more details, please visit www.ktc.co.th/rewards.",
+                "This privilege cannot be exchanged, changed to cash, or transferred to any other person.",
+                "This privilege is exclusive for cardmember with normal account status until the day on which such privilege is granted to cardmember, based on KTC’s existing record.",
+                "KTC reserves the right that KTC FOREVER point is eligible to only spending for the purchase of goods for personal consumption, and not for business or trading purposes, or earning profits, or frauds in relation to use of his/their KTC credit card. KTC also reserves the right, in its absolute discretion, to cancel, terminate, suspend or revoke partials or KTC FOREVER points and also may claim for damage recovery.",
+                "KTC reserves the right to exclude interest, credit line usage fee, fine, any other fees and charges, cancellation of goods/services purchased or any other refund, from the calculation of privileges offering to cardmembers under this promotion.",
+                "This privilege is valid from 1 Jan 24 – 31 Dec 24."
+            ]
+        },
+        "note": {
+            "th": [],
+            "en": []
+        }
+    },
+    {
+        "dID": 14,
+        "DialogID": "DRAGONPASS",
+        "DialogTitle": {
+            "th": "เงื่อนไขการรับคะแนน KTC FOREVER สูงสุด x3",
+            "en": "Terms and conditions of up to 3x KTC FOREVER points"
+        },
+        "descriptionTitle": {
+            "th": "",
+            "en": ""
+        },
+        "description": {
+            "th": [],
+            "en": []
+        },
+        "TableName": "",
+        "TermsTitle": {
+            "th": "",
+            "en": ""
+        },
+        "TermsTabs": [],
+        "listType": "NUMBER",
+        "TermsItems": {
+            "th": [
+                "สิทธิพิเศษนี้สำหรับสมาชิกบัตรเครดิต KTC UNIONPAY ASIA PRESTIGE DIAMOND ทั้งบัตรหลัก และบัตรเสริม",
+                "ในกรณีที่ต้องการใช้กับเพื่อนร่วมทาง จำนวนการใช้จะถูกหักจากบัญชีของสมาชิกบัตรฯ ที่ทำการสมัครไว้ ในกรณีที่ต้องการซื้อสิทธิ์เพิ่มเติมจากที่กำหนดไว้ กรุณาทำการซื้อเพิ่มเติมได้ที่ <a href=\"https://institution.dragonpass.com.cn/unionpay-int/service/Lounge_en\">https://institution.dragonpass.com.cn/unionpay-int/service/Lounge_en</a> ซึ่งจะถูกโอนเช้าบัญชีของสมาชิกบัตรดราก้อนพาสที่ผูกไว้ทันที",
+                "สมาชิกบัตรเครดิต KTC UNIONPAY ASIA PRESTIGE DIAMOND จะต้องทำการชำระค่าเข้าใช้บริการห้องรับรองที่สนามบินผ่านเวปไซต์ที่กำหนดด้วยบัตรเครดิต KTC UNIONPAY ASIA PRESTIGE DIAMOND เท่านั้น การชำระโดยเงินสดหรือโอนเงินไม่สามารถใช้ได้",
+                "บัตรสมาชิก DragonPass จะมีอายุการใช้งาน 1 ปี นับจากวันที่ออกบัตร และจะต่ออายุบัตรโดยอัตโนมัติเท่ากับวันหมดอายุของบัตรเครดิต KTC UNIONPAY ASIA PRESTIGE DIAMOND",
+                "สิทธิพิเศษนี้เป็นไปตามข้อกำหนด และเงื่อนไขของบริษัท ยูเนี่ยนเพย์ อินเตอร์เนชั่นแนล จำกัด และบริษัท ดราก้อนพาส จำกัด และขอสงวนสิทธิ์ในการตีความซึ่งถือเป็นที่สุด"
+            ],
+            "en": [
+                "This special privilege is provided to both principal and supplementary KTC UNIONPAY ASIA PRESTIGE DIAMOND credit cardmembers.",
+                "In case of an accompanying guest, the amount of usage will be deducted from the registered cardmember's account. In case cardmembers want to purchase additional usages from what is specified, please purchase at <a href=\"https://institution.dragonpass.com.cn/unionpay-int/service/Lounge_en\">https://institution.dragonpass.com.cn/unionpay-int/service/Lounge_en</a>. Purchases will be immediately transferred to cardmembers’ linked Dragon Pass account.",
+                "KTC UNIONPAY ASIA PRESTIGE DIAMOND credit cardmembers must pay for airport lounge access via the specified website with a KTC UNIONPAY ASIA PRESTIGE DIAMOND credit card only. Payment by cash or transfer are not accepted.",
+                "The DragonPass membership card is valid for 1 year from the date of issue and renews automatically on the same expiration date as the KTC UNIONPAY ASIA PRESTIGE DIAMOND credit card.",
+                "This privilege is subject to the terms and conditions of UnionPay International Company Limited and Dragon Pass Company Limited. The Companies decisions are deemed final."
+            ]
         },
         "note": {
             "th": [],
