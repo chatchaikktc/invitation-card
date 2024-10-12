@@ -1825,8 +1825,8 @@
         "dID": 14,
         "DialogID": "DRAGONPASS",
         "DialogTitle": {
-            "th": "เงื่อนไขการรับคะแนน KTC FOREVER สูงสุด x3",
-            "en": "Terms and conditions of up to 3x KTC FOREVER points"
+            "th": "DragonPass",
+            "en": "DragonPass"
         },
         "descriptionTitle": {
             "th": "",
